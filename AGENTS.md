@@ -201,6 +201,18 @@ To test: open `.app`, then Safari → Settings → Extensions → enable.
 
 To distribute: copy `.app` to friend's Mac, they run `xattr -cr /path/to/PokemonTcgScanner.app`, double-click, enable in Safari.
 
+### Releases
+
+```bash
+npm run release:package   # build + zip the release artifacts into build/release/
+```
+
+`scripts/package-release.mjs` writes two gitignored zips: the unpacked extension (one zip serves Chrome
+"Load unpacked" and Safari "Add Temporary Extension", because both builds are identical) and the `.app`
+zipped with `ditto` so the bundle layout survives. Build the Safari app first, or the script skips the app
+zip. Attach both files to a GitHub Release; they never enter git history, so the repo stays at source size
+and the committed tree can never drift from the source.
+
 ### Unit Tests
 
 The project uses [Vitest](https://vitest.dev/) for unit testing critical logic. Tests live in `tests/`.

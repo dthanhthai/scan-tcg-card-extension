@@ -39,6 +39,24 @@ For complete technical documentation, see [`docs/APP_DOCUMENTATION.md`](docs/APP
 
 ## Installation
 
+### Use a prebuilt release (no Node.js, no Xcode)
+
+Download the latest zip from
+[Releases](https://github.com/dthanhthai/scan-tcg-card-extension/releases/latest). Each release is built
+from the tagged source, so nothing has to be compiled locally:
+
+- **`pokemon-tcg-scanner-extension-<version>.zip`** — the unpacked extension. Unzip it, then load the
+  resulting folder in **Chrome** (`chrome://extensions` → **Load unpacked**) or in **Safari**
+  (**Develop** → **Add Temporary Extension**, with **Allow Unsigned Extensions** enabled). One folder
+  works in both browsers, because the build output is identical for the two.
+- **`PokemonTcgScanner-<version>.app.zip`** — the packaged macOS app, for Safari without Xcode. Unzip it,
+  move the app to `/Applications`, and clear the quarantine flag first, because the app is ad-hoc signed:
+  ```bash
+  xattr -cr /Applications/PokemonTcgScanner.app
+  ```
+
+Either way, open Settings in the extension and enter a Gemini API key to enable Gemini Vision.
+
 ### Chrome (Developer Mode)
 
 1. Open `chrome://extensions` in Chrome.

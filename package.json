@@ -8,6 +8,7 @@
     "test:watch": "vitest",
     "build:chrome": "node scripts/build-extension.mjs --out build/chrome",
     "build:safari": "./safari/build-safari.sh",
+    "release:package": "node scripts/package-release.mjs",
     "bulbapedia:fixtures": "node scripts/bulbapedia/fetch-fixtures.mjs",
     "bulbapedia:generate": "node scripts/bulbapedia/generate-artifacts.mjs",
     "bulbapedia:bw:crawl": "node scripts/bulbapedia/crawl-bw.mjs",
