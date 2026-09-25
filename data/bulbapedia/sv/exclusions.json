@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "note": "Source keys dropped from the published index. Each entry records why.",
+  "sourceKeys": [
+    {
+      "sourceKey": "ja:SV3:RULER_OF_THE_BLACK_FLAME:141/108",
+      "reason": "Bulbapedia's Basic Fire Energy hub page pairs Ruler of the Black Flame 141/108 (\u57fa\u672c\u708e\u30a8\u30cd\u30eb\u30ae\u30fc) with Paldea Evolved 230/197, but TCGdex sv02-230 is Forretress ex and the sv02 set lists no Basic Fire Energy at all. The pairing is wrong, so the record is dropped. Found by the 2026-09-19 sample review."
+    }
+  ]
+}

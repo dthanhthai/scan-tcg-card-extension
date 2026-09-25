@@ -1,0 +1,152 @@
+Gold pair checklist (chon loc) - SV11B / SV11W
+
+Chi giu chieu JA -> EN (moi cap chi xuat hien 1 lan).
+
+Tong: 348 cap | main: SV11B 161, SV11W 162 | cross: 20 | promo: 5
+
+=== A. CAN SOI KY (bat thuong) ===
+A1. Lech TEN the: 0
+A2. Lech HP: 0
+A3. Cap cross-set (khac set EN): 20
+  Litwick (ヒトモシ)
+    JP  SV11B  Black Bolt   015/086    C  hp:60
+    EN  sv10.5w White Flare  016/086    Common  hp:60
+  Lampent (ランプラー)
+    JP  SV11B  Black Bolt   016/086    C  hp:80
+    EN  sv10.5w White Flare  017/086    Common  hp:80
+  Chandelure (シャンデラ)
+    JP  SV11B  Black Bolt   017/086    R  hp:150
+    EN  sv10.5w White Flare  018/086    Rare  hp:150
+  Vullaby (バルチャイ)
+    JP  SV11B  Black Bolt   063/086    C  hp:70
+    EN  sv10.5w White Flare  063/086    Common  hp:70
+  Mandibuzz (バルジーナ)
+    JP  SV11B  Black Bolt   064/086    U  hp:110
+    EN  sv10.5w White Flare  064/086    Uncommon  hp:110
+  Litwick (ヒトモシ)
+    JP  SV11B  Black Bolt   100/086    AR  hp:60
+    EN  sv10.5w White Flare  101/086    Illustration Rare  hp:60
+  Lampent (ランプラー)
+    JP  SV11B  Black Bolt   101/086    AR  hp:80
+    EN  sv10.5w White Flare  102/086    Illustration Rare  hp:80
+  Chandelure (シャンデラ)
+    JP  SV11B  Black Bolt   102/086    AR  hp:150
+    EN  sv10.5w White Flare  103/086    Illustration Rare  hp:150
+  Vullaby (バルチャイ)
+    JP  SV11B  Black Bolt   144/086    AR  hp:70
+    EN  sv10.5w White Flare  144/086    Illustration Rare  hp:70
+  Mandibuzz (バルジーナ)
+    JP  SV11B  Black Bolt   145/086    AR  hp:110
+    EN  sv10.5w White Flare  145/086    Illustration Rare  hp:110
+  Klink (ギアル)
+    JP  SV11W  White Flare  065/086    C  hp:60
+    EN  sv10.5b Black Bolt   061/086    Common  hp:60
+  Klang (ギギアル)
+    JP  SV11W  White Flare  066/086    C  hp:90
+    EN  sv10.5b Black Bolt   062/086    Common  hp:90
+  Klinklang (ギギギアル)
+    JP  SV11W  White Flare  067/086    R  hp:150
+    EN  sv10.5b Black Bolt   063/086    Rare  hp:150
+  Rufflet (ワシボン)
+    JP  SV11W  White Flare  076/086    C  hp:70
+    EN  sv10.5b Black Bolt   077/086    Common  hp:70
+  Braviary (ウォーグル)
+    JP  SV11W  White Flare  077/086    U  hp:140
+    EN  sv10.5b Black Bolt   078/086    Uncommon  hp:140
+  Klink (ギアル)
+    JP  SV11W  White Flare  146/086    AR  hp:60
+    EN  sv10.5b Black Bolt   139/086    Illustration Rare  hp:60
+  Klang (ギギアル)
+    JP  SV11W  White Flare  147/086    AR  hp:90
+    EN  sv10.5b Black Bolt   140/086    Illustration Rare  hp:90
+  Klinklang (ギギギアル)
+    JP  SV11W  White Flare  148/086    AR  hp:150
+    EN  sv10.5b Black Bolt   141/086    Illustration Rare  hp:150
+  Rufflet (ワシボン)
+    JP  SV11W  White Flare  156/086    AR  hp:70
+    EN  sv10.5b Black Bolt   154/086    Illustration Rare  hp:70
+  Braviary (ウォーグル)
+    JP  SV11W  White Flare  157/086    AR  hp:140
+    EN  sv10.5b Black Bolt   155/086    Illustration Rare  hp:140
+A4. Cap promo (EN la SVP/MEP): 5
+  Victini (ビクティニ)
+    JP  SV11B  Black Bolt   097/086    AR  hp:80
+    EN  svp    SVP Black Star Promos 208        -  hp:80
+  Thundurus (ボルトロス)
+    JP  SV11B  Black Bolt   120/086    AR  hp:120
+    EN  svp    SVP Black Star Promos 209        -  hp:120
+  Reuniclus (ランクルス)
+    JP  SV11B  Black Bolt   125/086    AR  hp:140
+    EN  svp    SVP Black Star Promos 212        -  hp:140
+  Gothitelle (ゴチルゼル)
+    JP  SV11W  White Flare  123/086    AR  hp:150
+    EN  svp    SVP Black Star Promos 211        -  hp:150
+  Tornadus (トルネロス)
+    JP  SV11W  White Flare  158/086    AR  hp:120
+    EN  svp    SVP Black Star Promos 210        -  hp:120
+
+=== B. TIEU BIEU (dau/cuoi moi set) ===
+B. SV11B: 161 cap - 3 dau + 3 cuoi (dai SR/AR so thuong lech)
+  Snivy (ツタージャ)
+    JP  SV11B  Black Bolt   001/086    C  hp:70
+    EN  sv10.5b Black Bolt   001/086    Common  hp:70
+  Servine (ジャノビー)
+    JP  SV11B  Black Bolt   002/086    C  hp:100
+    EN  sv10.5b Black Bolt   002/086    Common  hp:100
+  Serperior ex (ジャローダex)
+    JP  SV11B  Black Bolt   003/086    RR  hp:320
+    EN  sv10.5b Black Bolt   003/086    Double Rare  hp:320
+  Genesect ex (ゲノセクトex)
+    JP  SV11B  Black Bolt   172/086    SAR  hp:220
+    EN  sv10.5b Black Bolt   169/086    Special Illustration Rare  hp:220
+  N's Plan (Nの筋書き)
+    JP  SV11B  Black Bolt   173/086    SAR  hp:-
+    EN  sv10.5b Black Bolt   170/086    Special Illustration Rare  hp:-
+  Zekrom ex (ゼクロムex)
+    JP  SV11B  Black Bolt   174/086    BWR  hp:230
+    EN  sv10.5b Black Bolt   172/086    Black White Rare  hp:230
+B. SV11W: 162 cap - 3 dau + 3 cuoi (dai SR/AR so thuong lech)
+  Sewaddle (クルミル)
+    JP  SV11W  White Flare  001/086    C  hp:50
+    EN  sv10.5w White Flare  001/086    Common  hp:50
+  Swadloon (クルマユ)
+    JP  SV11W  White Flare  002/086    C  hp:80
+    EN  sv10.5w White Flare  002/086    Common  hp:80
+  Leavanny (ハハコモリ)
+    JP  SV11W  White Flare  003/086    U  hp:130
+    EN  sv10.5w White Flare  003/086    Uncommon  hp:130
+  Bouffalant ex (バッフロンex)
+    JP  SV11W  White Flare  172/086    SAR  hp:220
+    EN  sv10.5w White Flare  170/086    Special Illustration Rare  hp:220
+  Hilda (トウコ)
+    JP  SV11W  White Flare  173/086    SAR  hp:-
+    EN  sv10.5w White Flare  171/086    Special Illustration Rare  hp:-
+  Reshiram ex (レシラムex)
+    JP  SV11W  White Flare  174/086    BWR  hp:230
+    EN  sv10.5w White Flare  173/086    Black White Rare  hp:230
+
+=== C. RANDOM 8 cap ===
+  Panpour (ヒヤップ)
+    JP  SV11B  Black Bolt   020/086    C  hp:70
+    EN  sv10.5b Black Bolt   017/086    Common  hp:70
+  Unfezant (ケンホロウ)
+    JP  SV11B  Black Bolt   155/086    AR  hp:150
+    EN  sv10.5b Black Bolt   150/086    Illustration Rare  hp:150
+  Gurdurr (ドテッコツ)
+    JP  SV11B  Black Bolt   051/086    C  hp:100
+    EN  sv10.5b Black Bolt   048/086    Common  hp:100
+  Professor's Research (博士の研究)
+    JP  SV11B  Black Bolt   084/086    U  hp:-
+    EN  sv10.5b Black Bolt   085/086    Uncommon  hp:-
+  Samurott (ダイケンキ)
+    JP  SV11W  White Flare  020/086    R  hp:160
+    EN  sv10.5w White Flare  023/086    Rare  hp:160
+  Galvantula (デンチュラ)
+    JP  SV11W  White Flare  031/086    U  hp:90
+    EN  sv10.5w White Flare  034/086    Uncommon  hp:90
+  Scraggy (ズルッグ)
+    JP  SV11W  White Flare  136/086    AR  hp:70
+    EN  sv10.5w White Flare  138/086    Illustration Rare  hp:70
+  Simisear (バオッキー)
+    JP  SV11W  White Flare  100/086    AR  hp:100
+    EN  sv10.5w White Flare  100/086    Illustration Rare  hp:100

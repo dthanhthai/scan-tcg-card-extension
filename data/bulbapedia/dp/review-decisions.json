@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "decidedAt": "2026-09-23",
+  "decidedBy": "user",
+  "status": "approved-for-phase-4",
+  "goldPairApprovals": {
+    "status": "approved",
+    "approvedRelationships": [
+      "DP-P->dp5",
+      "DP-P->dpp",
+      "DP-P->pl2",
+      "DP6->dp7",
+      "DP6->pl1",
+      "DPT-P->dpp",
+      "DPT-P->pl2",
+      "DPT1->pl1",
+      "DPT2->pl2",
+      "DPT3->pl3",
+      "DPT4->pl4"
+    ],
+    "note": "User confirmed all 11 proposed pairs against artwork. The DP era is the first crawled from English categories: Bulbapedia's DP card pages carry both printings, while TCGdex has no Japanese DP set at all, so every `ja` catalog entry keeps tcgdexSetId null and the EN->JA side is marketplace-only (enToJa). Only 7 of the 13 configured set codes produce exact records: Bulbapedia prints no jpcardno for the six early sets (Space-Time Creation, Secret of the Lakes, Shining Darkness, Dawn Dash, Moonlit Pursuit, Cry from the Mysterious, Temple of Anger), so a ja->en record cannot be keyed for them. Deck products (Entry Pack, Gift Box DPt, the Deck Kits, Arceus LV.X Decks) and English sets outside the era (POP Series, the EX sets, Miscellaneous Promotional cards) are excluded by the catalog, the same way the other eras exclude decks. 2026-09-23 (follow-up after a real scan): those six sets were still reachable from an English scan only through the TCGdex name search, which returned a wrong printing - Great Encounters 3/106 Darkrai came back as Ultra Sun SM5S-031, because TCGdex has no card for any DP set and the search fell through to a name+dexId+rarity match in another era. The generator now also keeps an EN->JA candidate whose JA target has a set but no card number, turning those 561 cases into marketplace-only records (enToJa 513 -> 1,074), and the runtime fails closed on them instead of guessing. The 509 exact records are unchanged, so the artwork approvals still apply."
+  },
+  "conflictReview": {
+    "status": "approved",
+    "conflictCount": 2,
+    "note": "Both conflicts are duplicate Japanese card numbers in Bulbapedia, and both are dropped fail-closed (the generator removes the source key when two pages disagree). Beat of the Frontier 038/100 is claimed by both Drifblim FB (Supreme Victors 3) and Electivire FB (Supreme Victors 4); the Beat of the Frontier set list says 038/100 is Electivire FB, so Drifblim FB's row is wrong. Advent of Arceus 010/090 is claimed by both Burmy (Arceus 58) and Mothim (Arceus 6); the Advent of Arceus set list says 010/090 is Burmy (Trash Cloak) and Mothim is 012/090, so Mothim's row is wrong. Each conflict also costs the correct row, which is accepted: a wrong pairing must never ship."
+  },
+  "ambiguityReview": {
+    "status": "approved",
+    "ambiguousRecordCount": 0
+  },
+  "randomSampleReview": {
+    "status": "approved",
+    "seed": 20260301,
+    "samplesPerRelationship": 2,
+    "totalSamples": 22,
+    "flagged": 3,
+    "note": "Sample cross-check of targets against live TCGdex (seed 20260301, 2 per relationship). All three flags are TCGdex naming artifacts, not wrong pairings: Shellos (dp5-73 Shellos East Sea), and Torterra LV.X / Heatran LV.X (TCGdex drops the LV.X suffix for the DP Black Star Promos)."
+  },
+  "fullValidationReview": {
+    "status": "reviewed",
+    "mode": "all",
+    "checked": 498,
+    "flagged": 24,
+    "rate": 4.82,
+    "note": "Full pass with scripts/bulbapedia/sample-review.mjs dp --all (seed 20260301, live TCGdex; the 11 approved gold-pair source keys are excluded from the pool, hence 498 of 509). No flag is a wrong pairing. 11 are the LV.X suffix that TCGdex omits on some DP sets (Stormfront 96-100 Dusknoir/Machamp/Raichu/Heatran/Regigigas LV.X, Majestic Dawn 100 Porygon-Z LV.X, DP Black Star Promos DP09-DP11/DP31 Torterra/Infernape/Empoleon/Heatran LV.X, Rising Rivals 103 Alakazam 4 LV.X). 10 are the form/cloak suffix TCGdex adds (Shellos East/West Sea, Gastrodon East/West Sea, Burmy Plant/Sandy Cloak, Wormadam Plant/Sandy/Trash Cloak). 2 are the SP '4' vs TCGdex 'E4' (Rising Rivals 38 and 103 Alakazam 4). 1 is a page-level HP disagreement: DP-P 107/DP-P Dialga LV.X records hp 110 while TCGdex dpp-DP37 reports hp 120 (the record is rejected at runtime by the HP check either way). Accepted as-is by user decision 2026-09-23: validateBulbapediaTarget compares names, so these 24 records stay fail-closed at runtime (roughly 4.7% of the era) rather than risking a looser name match for every shipped era. Nothing was added to exclusions.json, because every flag is a naming artifact of the target, not a wrong row."
+  }
+}

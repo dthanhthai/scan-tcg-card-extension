@@ -1,0 +1,26 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 182088,
+        "ns": 0,
+        "title": "EX Battle Boost (TCG)",
+        "revisions": [
+          {
+            "revid": 1956187,
+            "parentid": 0,
+            "timestamp": "2013-08-20T16:10:45Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "#REDIRECT [[Legendary Treasures (TCG)]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

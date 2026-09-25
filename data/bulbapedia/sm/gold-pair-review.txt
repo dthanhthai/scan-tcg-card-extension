@@ -1,0 +1,71 @@
+SM gold-pair review (deduped pairs)
+
+SM-P|sm1                  3  SM-P Promotional cards <-> Sun & Moon   vd: JP SM-P 017/SM-P Decidueye  <->  EN SM1 11/149 Decidueye  hp 140
+SM-P|sm10                 2  SM-P Promotional cards <-> Unbroken Bonds   vd: JP SM-P 244/SM-P Samson Oak  <->  EN SM10 185/214 Samson Oak
+SM-P|sm11                 7  SM-P Promotional cards <-> Unified Minds   vd: JP SM-P 291/SM-P Pikachu  <->  EN SM11 55/236 Pikachu  hp 60
+SM-P|sm115                8  SM-P Promotional cards <-> Hidden Fates   vd: JP SM-P 253/SM-P Slowpoke  <->  EN SM115 12/68 Slowpoke  hp 70
+SM-P|sm12                 4  SM-P Promotional cards <-> Cosmic Eclipse   vd: JP SM-P 300/SM-P Carvanha  <->  EN SM12 132/236 Carvanha  hp 50
+SM-P|sm2                  1  SM-P Promotional cards <-> Guardians Rising   vd: JP SM-P 020/SM-P Hau  <->  EN SM2 144/145 Hau
+SM-P|sm3                  4  SM-P Promotional cards <-> Burning Shadows   vd: JP SM-P 011/SM-P Togedemaru  <->  EN SM3 47/147 Togedemaru  hp 80
+SM-P|sm4                  1  SM-P Promotional cards <-> Crimson Invasion   vd: JP SM-P 053/SM-P Olivia  <->  EN SM4 111/111 Olivia
+SM-P|sm7                  9  SM-P Promotional cards <-> Celestial Storm   vd: JP SM-P 066/SM-P Lunala  <->  EN SM7 70/168 Lunala  hp 160
+SM-P|sm7.5                3  SM-P Promotional cards <-> Dragon Majesty   vd: JP SM-P 050/SM-P Litten  <->  EN SM7.5 12/70 Litten  hp 60
+SM-P|sm8                  5  SM-P Promotional cards <-> Lost Thunder   vd: JP SM-P 051/SM-P Popplio  <->  EN SM8 64/214 Popplio  hp 60
+SM-P|sm9                  5  SM-P Promotional cards <-> Team Up   vd: JP SM-P 226/SM-P Zangoose  <->  EN SM9 132/181 Zangoose  hp 100
+SM-P|smp                112  SM-P Promotional cards <-> SM Black Star Promos   vd: JP SM-P 001/SM-P Snorlax-GX  <->  EN SMP SM05 Snorlax-GX  hp 190
+SM10|sm10               206  Double Blaze <-> Unbroken Bonds   vd: JP SM10 005/095 Venonat  <->  EN SM10 10/214 Venonat  hp 60
+SM10|sm115                4  Double Blaze <-> Hidden Fates   vd: JP SM10 105/095 Giovanni's Exile  <->  EN SM115 67/68 Giovanni's Exile
+SM10|smp                  2  Double Blaze <-> SM Black Star Promos   vd: JP SM10 097/095 Reshiram & Charizard-GX  <->  EN SMP SM201 Reshiram & Charizard-GX  hp 270
+SM10A|sm11              128  GG End <-> Unified Minds   vd: JP SM10A 019/054 Cubone  <->  EN SM11 105/236 Cubone  hp 60
+SM10A|smp                 2  GG End <-> SM Black Star Promos   vd: JP SM10A 060/054 Garchomp & Giratina-GX  <->  EN SMP SM193 Garchomp & Giratina-GX  hp 270
+SM10B|sm11              110  Sky Legend <-> Unified Minds   vd: JP SM10B 001/054 Rowlet & Alolan Exeggutor-GX  <->  EN SM11 1/236 Rowlet & Alolan Exeggutor-GX  hp 270
+SM10B|sm115              18  Sky Legend <-> Hidden Fates   vd: JP SM10B 025/054 Ekans  <->  EN SM115 26/68 Ekans  hp 60
+SM10B|smp                 2  Sky Legend <-> SM Black Star Promos   vd: JP SM10B 060/054 Moltres & Zapdos & Articuno-GX  <->  EN SMP SM210 Moltres & Zapdos & Articuno-GX  hp 300
+SM11|sm11               220  Miracle Twin <-> Unified Minds   vd: JP SM11 042/094 Necrozma  <->  EN SM11 101/236 Necrozma  hp 130
+SM11|smp                  2  Miracle Twin <-> SM Black Star Promos   vd: JP SM11 098/094 Mewtwo & Mew-GX  <->  EN SMP SM191 Mewtwo & Mew-GX  hp 270
+SM11A|sm12              134  Remix Bout <-> Cosmic Eclipse   vd: JP SM11A 001/064 Venusaur & Snivy-GX  <->  EN SM12 1/236 Venusaur & Snivy-GX  hp 270
+SM11A|smp                 4  Remix Bout <-> SM Black Star Promos   vd: JP SM11A 066/064 Venusaur & Snivy-GX  <->  EN SMP SM229 Venusaur & Snivy-GX  hp 270
+SM11B|sm12              150  Dream League <-> Cosmic Eclipse   vd: JP SM11B 029/049 Onix  <->  EN SM12 105/236 Onix  hp 110
+SM12|sm12               226  Alter Genesis <-> Cosmic Eclipse   vd: JP SM12 003/095 Lileep  <->  EN SM12 10/236 Lileep  hp 90
+SM12A|sm12               22  Tag All Stars <-> Cosmic Eclipse   vd: JP SM12A 094/173 Togepi & Cleffa & Igglybuff-GX  <->  EN SM12 143/236 Togepi & Cleffa & Igglybuff-GX  hp 240
+SM12A|smp                26  Tag All Stars <-> SM Black Star Promos   vd: JP SM12A 044/173 Raikou  <->  EN SMP SM150 Raikou  hp 120
+SM1M|sm1                140  Collection Moon <-> Sun & Moon   vd: JP SM1M 047/060 Tauros-GX  <->  EN SM1 100/149 Tauros-GX  hp 180
+SM1S|sm1                144  Collection Sun <-> Sun & Moon   vd: JP SM1S 001/060 Caterpie  <->  EN SM1 1/149 Caterpie  hp 50
+SM2K|sm2                124  Islands Await You <-> Guardians Rising   vd: JP SM2K 001/050 Bellsprout  <->  EN SM2 1/145 Bellsprout  hp 60
+SM2L|sm2                118  Alolan Moonlight <-> Guardians Rising   vd: JP SM2L 041/050 Castform  <->  EN SM2 105/145 Castform  hp 70
+SM3+|smp                  8  Shining Legends <-> SM Black Star Promos   vd: JP SM3+ 004/072 Shining Celebi  <->  EN SMP SM79 Shining Celebi  hp 70
+SM3H|sm3                124  To Have Seen the Battle Rainbow <-> Burning Shadows   vd: JP SM3H 041/051 Meowth  <->  EN SM3 101/147 Meowth  hp 60
+SM3H|smp                  4  To Have Seen the Battle Rainbow <-> SM Black Star Promos   vd: JP SM3H 052/051 Charizard-GX  <->  EN SMP SM60 Charizard-GX  hp 250
+SM3N|sm3                128  Darkness that Consumes Light <-> Burning Shadows   vd: JP SM3N 001/051 Caterpie  <->  EN SM3 1/147 Caterpie  hp 50
+SM4+|sm5                 58  GX Battle Boost <-> Ultra Prism   vd: JP SM4+ 001/114 Exeggcute  <->  EN SM5 1/156 Exeggcute  hp 50
+SM4+|smp                 12  GX Battle Boost <-> SM Black Star Promos   vd: JP SM4+ 070/114 Solgaleo-GX  <->  EN SMP SM16 Solgaleo-GX  hp 250
+SM4A|sm4                124  Ultradimensional Beasts <-> Crimson Invasion   vd: JP SM4A 001/050 Weedle  <->  EN SM4 1/111 Weedle  hp 50
+SM4S|sm4                122  Awakened Heroes <-> Crimson Invasion   vd: JP SM4S 004/050 Skiddo  <->  EN SM4 10/111 Skiddo  hp 70
+SM5+|smp                  6  Ultra Force <-> SM Black Star Promos   vd: JP SM5+ 030/050 Lucario-GX  <->  EN SMP SM100 Lucario-GX  hp 210
+SM5M|sm5                142  Ultra Moon <-> Ultra Prism   vd: JP SM5M 045/066 Palkia-GX  <->  EN SM5 101/156 Palkia-GX  hp 180
+SM5S|sm5                146  Ultra Sun <-> Ultra Prism   vd: JP SM5S 009/066 Cherubi  <->  EN SM5 10/156 Cherubi  hp 50
+SM6|sm115                 2  Forbidden Light <-> Hidden Fates   vd: JP SM6 100/094 Lady  <->  EN SM115 SV86/SV94 Lady
+SM6A|sm7.5              118  Dragon Storm <-> Dragon Majesty   vd: JP SM6A 001/053 Charmander  <->  EN SM7.5 1/70 Charmander  hp 70
+SM6A|smp                  6  Dragon Storm <-> SM Black Star Promos   vd: JP SM6A 057/053 White Kyurem-GX  <->  EN SMP SM141 White Kyurem-GX  hp 190
+SM6B|sm7                146  Champion Road <-> Celestial Storm   vd: JP SM6B 001/066 Bellsprout  <->  EN SM7 1/168 Bellsprout  hp 60
+SM6B|sm7.5               22  Champion Road <-> Dragon Majesty   vd: JP SM6B 015/066 Totodile  <->  EN SM7.5 22/70 Totodile  hp 60
+SM6B|sm8                  2  Champion Road <-> Lost Thunder   vd: JP SM6B 048/066 Ho-Oh  <->  EN SM8 160/214 Ho-Oh  hp 130
+SM6B|smp                  2  Champion Road <-> SM Black Star Promos   vd: JP SM6B 072/066 Salamence-GX  <->  EN SMP SM139 Salamence-GX  hp 250
+SM7|sm7                 202  Sky-Splitting Charisma <-> Celestial Storm   vd: JP SM7 004/096 Sceptile  <->  EN SM7 10/168 Sceptile  hp 140
+SM7|sm7.5                 8  Sky-Splitting Charisma <-> Dragon Majesty   vd: JP SM7 061/096 Altaria-GX  <->  EN SM7.5 41/70 Altaria-GX  hp 200
+SM7A|sm8                128  Thunderclap Spark <-> Lost Thunder   vd: JP SM7A 034/060 Onix  <->  EN SM8 109/214 Onix  hp 120
+SM7B|sm8                126  Fairy Rise <-> Lost Thunder   vd: JP SM7B 001/050 Tangela  <->  EN SM8 1/214 Tangela  hp 80
+SM8|sm8                 206  Super-Burst Impact <-> Lost Thunder   vd: JP SM8 007/095 Ariados  <->  EN SM8 10/214 Ariados  hp 110
+SM8A|sm9                128  Dark Order <-> Team Up   vd: JP SM8A 035/052 Bronzor  <->  EN SM9 100/181 Bronzor  hp 50
+SM8B|sm115              178  GX Ultra Shiny <-> Hidden Fates   vd: JP SM8B 161/150 Scyther  <->  EN SM115 SV1/SV94 Scyther  hp 70
+SM8B|sm7.5                2  GX Ultra Shiny <-> Dragon Majesty   vd: JP SM8B 250/150 Ultra Necrozma-GX  <->  EN SM7.5 78/70 Ultra Necrozma-GX  hp 190
+SM8B|sm9                 44  GX Ultra Shiny <-> Team Up   vd: JP SM8B 006/150 Shaymin ♢  <->  EN SM9 10/181 Shaymin ♢  hp 80
+SM8B|smp                 24  GX Ultra Shiny <-> SM Black Star Promos   vd: JP SM8B 049/150 Dawn Wings Necrozma-GX  <->  EN SMP SM101 Dawn Wings Necrozma-GX  hp 180
+SM9|sm115                 2  Tag Bolt <-> Hidden Fates   vd: JP SM9 118/095 Brooklet Hill  <->  EN SM115 SV88/SV94 Brooklet Hill
+SM9|sm9                 208  Tag Bolt <-> Team Up   vd: JP SM9 001/095 Celebi & Venusaur-GX  <->  EN SM9 1/181 Celebi & Venusaur-GX  hp 270
+SM9|smp                   6  Tag Bolt <-> SM Black Star Promos   vd: JP SM9 019/095 Magikarp & Wailord-GX  <->  EN SMP SM166 Magikarp & Wailord-GX  hp 300
+SM9A|sm10               130  Night Unison <-> Unbroken Bonds   vd: JP SM9A 025/055 Greninja & Zoroark-GX  <->  EN SM10 107/214 Greninja & Zoroark-GX  hp 250
+SM9A|sm115                2  Night Unison <-> Hidden Fates   vd: JP SM9A 070/055 Aether Paradise Conservation Area  <->  EN SM115 SV87/SV94 Aether Paradise Conservation Area
+SM9B|sm10               124  Full Metal Wall <-> Unbroken Bonds   vd: JP SM9B 001/054 Pheromosa & Buzzwole-GX  <->  EN SM10 1/214 Pheromosa & Buzzwole-GX  hp 260
+SM9B|sm115                2  Full Metal Wall <-> Hidden Fates   vd: JP SM9B 069/066 Mt. Coronet  <->  EN SM115 SV89/SV94 Mt. Coronet
+SM9B|smp                  4  Full Metal Wall <-> SM Black Star Promos   vd: JP SM9B 057/054 Blastoise-GX  <->  EN SMP SM189 Blastoise-GX  hp 240

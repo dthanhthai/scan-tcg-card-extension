@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "jpSetCode": "L-P",
+      "enSetId": "col1",
+      "cardCount": 17,
+      "sourceSetNames": [
+        "L-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L-P",
+      "enSetId": "hgss1",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "L-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L-P",
+      "enSetId": "hgss3",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "L-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L-P",
+      "enSetId": "hgssp",
+      "cardCount": 15,
+      "sourceSetNames": [
+        "L-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L1A",
+      "enSetId": "hgss1",
+      "cardCount": 56,
+      "sourceSetNames": [
+        "HeartGold Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L1A",
+      "enSetId": "hgss2",
+      "cardCount": 11,
+      "sourceSetNames": [
+        "HeartGold Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L1B",
+      "enSetId": "hgss1",
+      "cardCount": 53,
+      "sourceSetNames": [
+        "SoulSilver Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L1B",
+      "enSetId": "hgss2",
+      "cardCount": 16,
+      "sourceSetNames": [
+        "SoulSilver Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L2",
+      "enSetId": "hgss2",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "Reviving Legends"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L2",
+      "enSetId": "hgss3",
+      "cardCount": 57,
+      "sourceSetNames": [
+        "Reviving Legends"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "L3",
+      "enSetId": "hgss4",
+      "cardCount": 72,
+      "sourceSetNames": [
+        "Clash at the Summit"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "LL",
+      "enSetId": "col1",
+      "cardCount": 14,
+      "sourceSetNames": [
+        "Lost Link"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "LL",
+      "enSetId": "hgss4",
+      "cardCount": 24,
+      "sourceSetNames": [
+        "Lost Link"
+      ],
+      "expectedByRuntimeMap": false
+    }
+  ],
+  "setCodes": [
+    {
+      "jpSetCode": "L-P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "col1",
+        "hgss1",
+        "hgss3",
+        "hgssp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "col1",
+        "hgss1",
+        "hgss3",
+        "hgssp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "L1A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "hgss1",
+        "hgss2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "hgss1",
+        "hgss2"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "L1B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "hgss1",
+        "hgss2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "hgss1",
+        "hgss2"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "L2",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "hgss2",
+        "hgss3"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "hgss2",
+        "hgss3"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "L3",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "hgss4"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "hgss4"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "LL",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "col1",
+        "hgss4"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "col1",
+        "hgss4"
+      ],
+      "status": "expanded"
+    }
+  ]
+}

@@ -1,0 +1,2488 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "jpSetCode": "ASR:TG",
+      "enSetId": "S8b",
+      "cardCount": 24,
+      "sourceSetNames": [
+        "Astral Radiance"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ASR:TG",
+      "enSetId": "S9a",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Astral Radiance"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "BATTLE-STRENGTH-DECKS",
+      "enSetId": "bw1",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Battle Strength Decks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "BLASTOISE-VMAX",
+      "enSetId": "swsh4.5",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "Blastoise VMAX Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "BRS:TG",
+      "enSetId": "S8b",
+      "cardCount": 30,
+      "sourceSetNames": [
+        "Brilliant Stars"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "CHARIZARD-VMAX",
+      "enSetId": "swsh3",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Charizard VMAX Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "CHARIZARD-VMAX",
+      "enSetId": "swsh3.5",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Charizard VMAX Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "CRZ:GG",
+      "enSetId": "S12a",
+      "cardCount": 70,
+      "sourceSetNames": [
+        "Crown Zenith"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DARKRAI-VSTAR",
+      "enSetId": "swsh10",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "Darkrai VSTAR Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DARKRAI-VSTAR",
+      "enSetId": "swsh11",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "Darkrai VSTAR Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GENGAR-VMAX",
+      "enSetId": "swsh8",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "Gengar VMAX High-Class Deck"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GENGAR-VMAX",
+      "enSetId": "swshp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Gengar VMAX High-Class Deck"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GRIMMSNARL-VMAX",
+      "enSetId": "swsh3",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Grimmsnarl VMAX Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GRIMMSNARL-VMAX",
+      "enSetId": "swsh3.5",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Grimmsnarl VMAX Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "INTELEON-VMAX",
+      "enSetId": "swsh8",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "Inteleon VMAX High-Class Deck"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "INTELEON-VMAX",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Inteleon VMAX High-Class Deck"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "LOR:TG",
+      "enSetId": "S10a",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "Lost Origin"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "LOR:TG",
+      "enSetId": "S8b",
+      "cardCount": 20,
+      "sourceSetNames": [
+        "Lost Origin"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "LOR:TG",
+      "enSetId": "S9a",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Lost Origin"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "LUCARIO-VSTAR",
+      "enSetId": "swsh10",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Lucario VSTAR Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "LUCARIO-VSTAR",
+      "enSetId": "swsh11",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "Lucario VSTAR Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "LUCARIO-VSTAR",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Lucario VSTAR Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "smp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh1",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh10",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh11",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh12",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh12.5",
+      "cardCount": 30,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh2",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh3",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh3.5",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh4",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh4.5",
+      "cardCount": 13,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh5",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh6",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh8",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swsh9",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S-P",
+      "enSetId": "swshp",
+      "cardCount": 107,
+      "sourceSetNames": [
+        "S-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10A",
+      "enSetId": "swsh11",
+      "cardCount": 76,
+      "sourceSetNames": [
+        "Dark Phantasma"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10A",
+      "enSetId": "swsh11tg",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "Dark Phantasma"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10A",
+      "enSetId": "swsh12",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "Dark Phantasma"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10A",
+      "enSetId": "swshp",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Dark Phantasma"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10B",
+      "enSetId": "swshp",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "Pokémon GO"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10D",
+      "enSetId": "swsh10",
+      "cardCount": 70,
+      "sourceSetNames": [
+        "Time Gazer"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S10D",
+      "enSetId": "swsh11",
+      "cardCount": 16,
+      "sourceSetNames": [
+        "Time Gazer"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10D",
+      "enSetId": "swshp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Time Gazer"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10P",
+      "enSetId": "swsh10",
+      "cardCount": 66,
+      "sourceSetNames": [
+        "Space Juggler"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S10P",
+      "enSetId": "swsh11",
+      "cardCount": 17,
+      "sourceSetNames": [
+        "Space Juggler"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S10P",
+      "enSetId": "swshp",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Space Juggler"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S11",
+      "enSetId": "swsh11",
+      "cardCount": 82,
+      "sourceSetNames": [
+        "Lost Abyss"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S11",
+      "enSetId": "swsh12",
+      "cardCount": 45,
+      "sourceSetNames": [
+        "Lost Abyss"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S11A",
+      "enSetId": "swsh12",
+      "cardCount": 58,
+      "sourceSetNames": [
+        "Incandescent Arcana"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S11A",
+      "enSetId": "swsh12.5",
+      "cardCount": 24,
+      "sourceSetNames": [
+        "Incandescent Arcana"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S11A",
+      "enSetId": "swsh12tg",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "Incandescent Arcana"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S12",
+      "enSetId": "swsh12",
+      "cardCount": 95,
+      "sourceSetNames": [
+        "Paradigm Trigger"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S12",
+      "enSetId": "swsh12.5",
+      "cardCount": 30,
+      "sourceSetNames": [
+        "Paradigm Trigger"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S12A",
+      "enSetId": "swsh12.5",
+      "cardCount": 30,
+      "sourceSetNames": [
+        "VSTAR Universe"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S12A",
+      "enSetId": "swsh12.5gg",
+      "cardCount": 70,
+      "sourceSetNames": [
+        "VSTAR Universe"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S12A",
+      "enSetId": "swshp",
+      "cardCount": 25,
+      "sourceSetNames": [
+        "VSTAR Universe"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S1A",
+      "enSetId": "swsh2",
+      "cardCount": 86,
+      "sourceSetNames": [
+        "VMAX Rising"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S1H",
+      "enSetId": "swsh1",
+      "cardCount": 75,
+      "sourceSetNames": [
+        "Shield"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S1W",
+      "enSetId": "swsh1",
+      "cardCount": 75,
+      "sourceSetNames": [
+        "Sword"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S2",
+      "enSetId": "swsh2",
+      "cardCount": 115,
+      "sourceSetNames": [
+        "Rebellion Crash"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S2A",
+      "enSetId": "swsh3",
+      "cardCount": 77,
+      "sourceSetNames": [
+        "Explosive Walker"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S2A",
+      "enSetId": "swsh3.5",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "Explosive Walker"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S3",
+      "enSetId": "swsh3",
+      "cardCount": 104,
+      "sourceSetNames": [
+        "Infinity Zone"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S3",
+      "enSetId": "swsh3.5",
+      "cardCount": 14,
+      "sourceSetNames": [
+        "Infinity Zone"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S3",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Infinity Zone"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S3A",
+      "enSetId": "swsh3.5",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Legendary Heartbeat"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S3A",
+      "enSetId": "swsh4",
+      "cardCount": 85,
+      "sourceSetNames": [
+        "Legendary Heartbeat"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S3A",
+      "enSetId": "swsh4.5",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Legendary Heartbeat"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S4",
+      "enSetId": "swsh3.5",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Amazing Volt Tackle"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S4",
+      "enSetId": "swsh4",
+      "cardCount": 116,
+      "sourceSetNames": [
+        "Amazing Volt Tackle"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S4",
+      "enSetId": "swshp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Amazing Volt Tackle"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S4A",
+      "enSetId": "swsh2",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Shiny Star V"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S4A",
+      "enSetId": "swsh3",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Shiny Star V"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S4A",
+      "enSetId": "swsh3.5",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Shiny Star V"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S4A",
+      "enSetId": "swsh4.5",
+      "cardCount": 28,
+      "sourceSetNames": [
+        "Shiny Star V"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S4A",
+      "enSetId": "swsh4.5sv",
+      "cardCount": 122,
+      "sourceSetNames": [
+        "Shiny Star V"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S4A",
+      "enSetId": "swshp",
+      "cardCount": 29,
+      "sourceSetNames": [
+        "Shiny Star V"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S5A",
+      "enSetId": "swsh6",
+      "cardCount": 72,
+      "sourceSetNames": [
+        "Peerless Fighters"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S5A",
+      "enSetId": "swsh7",
+      "cardCount": 24,
+      "sourceSetNames": [
+        "Peerless Fighters"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S5I",
+      "enSetId": "swsh5",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Single Strike Master"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S5R",
+      "enSetId": "swsh5",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Rapid Strike Master"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S6A",
+      "enSetId": "swsh7",
+      "cardCount": 63,
+      "sourceSetNames": [
+        "Eevee Heroes"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S6A",
+      "enSetId": "swsh8",
+      "cardCount": 31,
+      "sourceSetNames": [
+        "Eevee Heroes"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S6A",
+      "enSetId": "swshp",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Eevee Heroes"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S6H",
+      "enSetId": "swsh6",
+      "cardCount": 81,
+      "sourceSetNames": [
+        "Silver Lance"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S6H",
+      "enSetId": "swsh7",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "Silver Lance"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S6H",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Silver Lance"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S6K",
+      "enSetId": "swsh6",
+      "cardCount": 76,
+      "sourceSetNames": [
+        "Jet-Black Spirit"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S6K",
+      "enSetId": "swsh7",
+      "cardCount": 18,
+      "sourceSetNames": [
+        "Jet-Black Spirit"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S7D",
+      "enSetId": "swsh7",
+      "cardCount": 61,
+      "sourceSetNames": [
+        "Skyscraping Perfection"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S7D",
+      "enSetId": "swsh8",
+      "cardCount": 25,
+      "sourceSetNames": [
+        "Skyscraping Perfection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S7R",
+      "enSetId": "swsh7",
+      "cardCount": 53,
+      "sourceSetNames": [
+        "Blue Sky Stream"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S7R",
+      "enSetId": "swsh8",
+      "cardCount": 33,
+      "sourceSetNames": [
+        "Blue Sky Stream"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S7R",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Blue Sky Stream"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8",
+      "enSetId": "swsh8",
+      "cardCount": 126,
+      "sourceSetNames": [
+        "Fusion Arts"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S8",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Fusion Arts"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8A",
+      "enSetId": "cel25",
+      "cardCount": 25,
+      "sourceSetNames": [
+        "25th Anniversary Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8A",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "25th Anniversary Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8B",
+      "enSetId": "swsh10tg",
+      "cardCount": 24,
+      "sourceSetNames": [
+        "VMAX Climax"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8B",
+      "enSetId": "swsh11tg",
+      "cardCount": 20,
+      "sourceSetNames": [
+        "VMAX Climax"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8B",
+      "enSetId": "swsh12.5",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "VMAX Climax"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8B",
+      "enSetId": "swsh12tg",
+      "cardCount": 22,
+      "sourceSetNames": [
+        "VMAX Climax"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8B",
+      "enSetId": "swsh9",
+      "cardCount": 15,
+      "sourceSetNames": [
+        "VMAX Climax"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8B",
+      "enSetId": "swsh9tg",
+      "cardCount": 30,
+      "sourceSetNames": [
+        "VMAX Climax"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S8B",
+      "enSetId": "swshp",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "VMAX Climax"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S9",
+      "enSetId": "swsh9",
+      "cardCount": 126,
+      "sourceSetNames": [
+        "Star Birth"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "S9A",
+      "enSetId": "swsh10",
+      "cardCount": 69,
+      "sourceSetNames": [
+        "Battle Region"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S9A",
+      "enSetId": "swsh10tg",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Battle Region"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S9A",
+      "enSetId": "swsh11",
+      "cardCount": 15,
+      "sourceSetNames": [
+        "Battle Region"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S9A",
+      "enSetId": "swsh11tg",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Battle Region"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "S9A",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Battle Region"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SD100-COROCORO",
+      "enSetId": "swsh12.5",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Start Deck 100 CoroCoro Comic Version"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SIT:TG",
+      "enSetId": "S11a",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "Silver Tempest"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SIT:TG",
+      "enSetId": "S8b",
+      "cardCount": 22,
+      "sourceSetNames": [
+        "Silver Tempest"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH-FAMILY",
+      "enSetId": "swsh8",
+      "cardCount": 42,
+      "sourceSetNames": [
+        "Sword & Shield Family Pokémon Card Game"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH10",
+      "enSetId": "S10P",
+      "cardCount": 66,
+      "sourceSetNames": [
+        "Astral Radiance"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH10",
+      "enSetId": "S9a",
+      "cardCount": 69,
+      "sourceSetNames": [
+        "Astral Radiance"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH11",
+      "enSetId": "S10a",
+      "cardCount": 76,
+      "sourceSetNames": [
+        "Lost Origin"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH11",
+      "enSetId": "S10P",
+      "cardCount": 17,
+      "sourceSetNames": [
+        "Lost Origin"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH11",
+      "enSetId": "S11",
+      "cardCount": 82,
+      "sourceSetNames": [
+        "Lost Origin"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH11",
+      "enSetId": "S9a",
+      "cardCount": 15,
+      "sourceSetNames": [
+        "Lost Origin"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH12",
+      "enSetId": "S10a",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "Silver Tempest"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH12",
+      "enSetId": "S11",
+      "cardCount": 45,
+      "sourceSetNames": [
+        "Silver Tempest"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH12",
+      "enSetId": "S11a",
+      "cardCount": 58,
+      "sourceSetNames": [
+        "Silver Tempest"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH12",
+      "enSetId": "S12",
+      "cardCount": 95,
+      "sourceSetNames": [
+        "Silver Tempest"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH12.5",
+      "enSetId": "S11a",
+      "cardCount": 24,
+      "sourceSetNames": [
+        "Crown Zenith"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH12.5",
+      "enSetId": "S12",
+      "cardCount": 30,
+      "sourceSetNames": [
+        "Crown Zenith"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH12.5",
+      "enSetId": "S12a",
+      "cardCount": 30,
+      "sourceSetNames": [
+        "Crown Zenith"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH12.5",
+      "enSetId": "S8b",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Crown Zenith"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH5",
+      "enSetId": "S5I",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Battle Styles"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH6",
+      "enSetId": "S6H",
+      "cardCount": 81,
+      "sourceSetNames": [
+        "Chilling Reign"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH6",
+      "enSetId": "S6K",
+      "cardCount": 76,
+      "sourceSetNames": [
+        "Chilling Reign"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH7",
+      "enSetId": "S6H",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "Evolving Skies"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH7",
+      "enSetId": "S6K",
+      "cardCount": 18,
+      "sourceSetNames": [
+        "Evolving Skies"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH7",
+      "enSetId": "S7D",
+      "cardCount": 61,
+      "sourceSetNames": [
+        "Evolving Skies"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH8",
+      "enSetId": "S7D",
+      "cardCount": 25,
+      "sourceSetNames": [
+        "Fusion Strike"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH8",
+      "enSetId": "S8",
+      "cardCount": 124,
+      "sourceSetNames": [
+        "Fusion Strike"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH9",
+      "enSetId": "S8b",
+      "cardCount": 15,
+      "sourceSetNames": [
+        "Brilliant Stars"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSH9",
+      "enSetId": "S9",
+      "cardCount": 126,
+      "sourceSetNames": [
+        "Brilliant Stars"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSHP",
+      "enSetId": "S10a",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SWSH Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSHP",
+      "enSetId": "S10P",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SWSH Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSHP",
+      "enSetId": "S12a",
+      "cardCount": 25,
+      "sourceSetNames": [
+        "SWSH Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSHP",
+      "enSetId": "S6H",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SWSH Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSHP",
+      "enSetId": "S8",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SWSH Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSHP",
+      "enSetId": "S8b",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "SWSH Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SWSHP",
+      "enSetId": "S9a",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SWSH Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "V-STARTER-DECKS",
+      "enSetId": "swsh3",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "V Starter Decks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "V-STARTER-DECKS",
+      "enSetId": "swsh3.5",
+      "cardCount": 22,
+      "sourceSetNames": [
+        "V Starter Decks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "V-STARTER-DECKS",
+      "enSetId": "swshp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "V Starter Decks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "V-STARTER-SETS",
+      "enSetId": "swsh1",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "V Starter Sets"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "VENUSAUR-VMAX",
+      "enSetId": "swsh4.5",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "Venusaur VMAX Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-BEGINNING",
+      "enSetId": "xy0",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "XY Beginning Set"
+      ],
+      "expectedByRuntimeMap": false
+    }
+  ],
+  "setCodes": [
+    {
+      "jpSetCode": "ASR:TG",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S8b",
+        "S9a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S8b",
+        "S9a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "BATTLE-STRENGTH-DECKS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "bw1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "bw1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "BLASTOISE-VMAX",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh4.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh4.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "BRS:TG",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S8b"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S8b"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "CHARIZARD-VMAX",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh3",
+        "swsh3.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh3",
+        "swsh3.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "CRZ:GG",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S12a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S12a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "DARKRAI-VSTAR",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh10",
+        "swsh11"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh10",
+        "swsh11"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GENGAR-VMAX",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh8",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh8",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GRIMMSNARL-VMAX",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh3",
+        "swsh3.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh3",
+        "swsh3.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "INTELEON-VMAX",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh8",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh8",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "LOR:TG",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S10a",
+        "S8b",
+        "S9a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S10a",
+        "S8b",
+        "S9a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "LUCARIO-VSTAR",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh10",
+        "swsh11",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh10",
+        "swsh11",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S-P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "smp",
+        "swsh1",
+        "swsh10",
+        "swsh11",
+        "swsh12",
+        "swsh12.5",
+        "swsh2",
+        "swsh3",
+        "swsh3.5",
+        "swsh4",
+        "swsh4.5",
+        "swsh5",
+        "swsh6",
+        "swsh8",
+        "swsh9",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "smp",
+        "swsh1",
+        "swsh10",
+        "swsh11",
+        "swsh12",
+        "swsh12.5",
+        "swsh2",
+        "swsh3",
+        "swsh3.5",
+        "swsh4",
+        "swsh4.5",
+        "swsh5",
+        "swsh6",
+        "swsh8",
+        "swsh9",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S10A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh11",
+        "swsh11tg",
+        "swsh12",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh11",
+        "swsh11tg",
+        "swsh12",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S10B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S10D",
+      "expectedEnSetIds": [
+        "swsh10"
+      ],
+      "observedEnSetIds": [
+        "swsh10",
+        "swsh11",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh11",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S10P",
+      "expectedEnSetIds": [
+        "swsh10"
+      ],
+      "observedEnSetIds": [
+        "swsh10",
+        "swsh11",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh11",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S10a",
+      "expectedEnSetIds": [
+        "swsh11tg"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh11tg"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S10b",
+      "expectedEnSetIds": [
+        "swsh10.5"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh10.5"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S11",
+      "expectedEnSetIds": [
+        "swsh11"
+      ],
+      "observedEnSetIds": [
+        "swsh11",
+        "swsh12"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh12"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S11A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh12",
+        "swsh12.5",
+        "swsh12tg"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh12",
+        "swsh12.5",
+        "swsh12tg"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S11a",
+      "expectedEnSetIds": [
+        "swsh12",
+        "swsh12tg"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh12",
+        "swsh12tg"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S12",
+      "expectedEnSetIds": [
+        "swsh12",
+        "swsh12.5"
+      ],
+      "observedEnSetIds": [
+        "swsh12",
+        "swsh12.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "S12A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh12.5",
+        "swsh12.5gg",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh12.5",
+        "swsh12.5gg",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S12a",
+      "expectedEnSetIds": [
+        "swsh12.5gg"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh12.5gg"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S1A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh2"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S1H",
+      "expectedEnSetIds": [
+        "swsh1"
+      ],
+      "observedEnSetIds": [
+        "swsh1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "S1W",
+      "expectedEnSetIds": [
+        "swsh1"
+      ],
+      "observedEnSetIds": [
+        "swsh1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "S1a",
+      "expectedEnSetIds": [
+        "swsh2"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh2"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S2",
+      "expectedEnSetIds": [
+        "swsh2"
+      ],
+      "observedEnSetIds": [
+        "swsh2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "S2A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh3",
+        "swsh3.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh3",
+        "swsh3.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S2a",
+      "expectedEnSetIds": [
+        "swsh3"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh3"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S3",
+      "expectedEnSetIds": [
+        "swsh3"
+      ],
+      "observedEnSetIds": [
+        "swsh3",
+        "swsh3.5",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh3.5",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S3A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh3.5",
+        "swsh4",
+        "swsh4.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh3.5",
+        "swsh4",
+        "swsh4.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S3a",
+      "expectedEnSetIds": [
+        "swsh4"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh4"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S4",
+      "expectedEnSetIds": [
+        "swsh4"
+      ],
+      "observedEnSetIds": [
+        "swsh3.5",
+        "swsh4",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh3.5",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S4A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh2",
+        "swsh3",
+        "swsh3.5",
+        "swsh4.5",
+        "swsh4.5sv",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh2",
+        "swsh3",
+        "swsh3.5",
+        "swsh4.5",
+        "swsh4.5sv",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S4a",
+      "expectedEnSetIds": [
+        "swsh4.5",
+        "swsh4.5sv"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh4.5",
+        "swsh4.5sv"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S5A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh6",
+        "swsh7"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh6",
+        "swsh7"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S5I",
+      "expectedEnSetIds": [
+        "swsh5"
+      ],
+      "observedEnSetIds": [
+        "swsh5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "S5R",
+      "expectedEnSetIds": [
+        "swsh5"
+      ],
+      "observedEnSetIds": [
+        "swsh5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "S5a",
+      "expectedEnSetIds": [
+        "swsh6"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh6"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S6A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh7",
+        "swsh8",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh7",
+        "swsh8",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S6H",
+      "expectedEnSetIds": [
+        "swsh6"
+      ],
+      "observedEnSetIds": [
+        "swsh6",
+        "swsh7",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh7",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S6K",
+      "expectedEnSetIds": [
+        "swsh6"
+      ],
+      "observedEnSetIds": [
+        "swsh6",
+        "swsh7"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh7"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S6a",
+      "expectedEnSetIds": [
+        "swsh7"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh7"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S7D",
+      "expectedEnSetIds": [
+        "swsh7"
+      ],
+      "observedEnSetIds": [
+        "swsh7",
+        "swsh8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S7R",
+      "expectedEnSetIds": [
+        "swsh7"
+      ],
+      "observedEnSetIds": [
+        "swsh7",
+        "swsh8",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh8",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S8",
+      "expectedEnSetIds": [
+        "swsh8"
+      ],
+      "observedEnSetIds": [
+        "swsh8",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S8A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "cel25",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "cel25",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S8B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh10tg",
+        "swsh11tg",
+        "swsh12.5",
+        "swsh12tg",
+        "swsh9",
+        "swsh9tg",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh10tg",
+        "swsh11tg",
+        "swsh12.5",
+        "swsh12tg",
+        "swsh9",
+        "swsh9tg",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S8a",
+      "expectedEnSetIds": [
+        "cel25",
+        "cel25cc"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "cel25",
+        "cel25cc"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S8b",
+      "expectedEnSetIds": [
+        "swsh11tg",
+        "swsh9tg"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh11tg",
+        "swsh9tg"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "S9",
+      "expectedEnSetIds": [
+        "swsh9"
+      ],
+      "observedEnSetIds": [
+        "swsh9"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "S9A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh10",
+        "swsh10tg",
+        "swsh11",
+        "swsh11tg",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh10",
+        "swsh10tg",
+        "swsh11",
+        "swsh11tg",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "S9a",
+      "expectedEnSetIds": [
+        "swsh10",
+        "swsh10tg"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "swsh10",
+        "swsh10tg"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SD100-COROCORO",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh12.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh12.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SIT:TG",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S11a",
+        "S8b"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S11a",
+        "S8b"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH-FAMILY",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH10",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S10P",
+        "S9a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S10P",
+        "S9a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH11",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S10P",
+        "S10a",
+        "S11",
+        "S9a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S10P",
+        "S10a",
+        "S11",
+        "S9a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH12",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S10a",
+        "S11",
+        "S11a",
+        "S12"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S10a",
+        "S11",
+        "S11a",
+        "S12"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH12.5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S11a",
+        "S12",
+        "S12a",
+        "S8b"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S11a",
+        "S12",
+        "S12a",
+        "S8b"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S5I"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S5I"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH6",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S6H",
+        "S6K"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S6H",
+        "S6K"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH7",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S6H",
+        "S6K",
+        "S7D"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S6H",
+        "S6K",
+        "S7D"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH8",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S7D",
+        "S8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S7D",
+        "S8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSH9",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S8b",
+        "S9"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S8b",
+        "S9"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SWSHP",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "S10P",
+        "S10a",
+        "S12a",
+        "S6H",
+        "S8",
+        "S8b",
+        "S9a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "S10P",
+        "S10a",
+        "S12a",
+        "S6H",
+        "S8",
+        "S8b",
+        "S9a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "V-STARTER-DECKS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh3",
+        "swsh3.5",
+        "swshp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh3",
+        "swsh3.5",
+        "swshp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "V-STARTER-SETS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "VENUSAUR-VMAX",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh4.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh4.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY-BEGINNING",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy0"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy0"
+      ],
+      "status": "expanded"
+    }
+  ]
+}

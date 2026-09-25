@@ -1,0 +1,181 @@
+==================== XY (30 relationships)
+1. CP2->xy8  (14 cards)
+   JP: CP2 003/027  Legendary Shine Collection  - Fennekin / フォッコ  hp 50
+   EN: BKT 25/162  BREAKthrough (xy8)  - Fennekin  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/xy8/xy8/25/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Fennekin_(BREAKthrough_25)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Fennekin%20Legendary%20Shine%20Collection%20003%2F027
+2. CP2->xyp  (13 cards)
+   JP: CP2 001/027  Legendary Shine Collection  - Chespin / ハリマロン  hp 60
+   EN: XYP XY88  XY Black Star Promos (xyp)  - Chespin  hp 60
+   art EN (exact printing): https://assets.tcgdex.net/en/xyp/xyp/XY88/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Chespin_(XY_Promo_88)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Chespin%20Legendary%20Shine%20Collection%20001%2F027
+3. CP3->g1  (32 cards)
+   JP: CP3 001/032  PokéKyun Collection  - Chikorita / チコリータ  hp 50
+   EN: GEN RC1/RC32  Generations (g1)  - Chikorita  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/g1/g1/RC1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Chikorita_(Generations_RC1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Chikorita%20Pok%C3%A9Kyun%20Collection%20001%2F032
+4. CP6->xy12  (99 cards)
+   JP: CP6 001/087  Expansion Pack 20th Anniversary  - Venusaur-EX / フシギバナEX  hp 180
+   EN: EVO 1/108  Evolutions (xy12)  - Venusaur-EX  hp 180
+   art EN (exact printing): https://assets.tcgdex.net/en/xy12/xy12/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Venusaur-EX_(XY_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Venusaur-EX%20Expansion%20Pack%2020th%20Anniversary%20001%2F087
+5. XY-P->g1  (9 cards)
+   JP: XY-P 192/XY-P  XY-P Promotional cards  - Leafeon-EX / リーフィアEX  hp 170
+   EN: GEN 10/83  Generations (g1)  - Leafeon-EX  hp 170
+   art EN (exact printing): https://assets.tcgdex.net/en/g1/g1/10/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Leafeon-EX_(Generations_10)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Leafeon-EX%20XY-P%20Promotional%20cards%20192%2FXY-P
+6. XY-P->xy10  (2 cards)
+   JP: XY-P 169/XY-P  XY-P Promotional cards  - Marowak / ガラガラ  hp 100
+   EN: FCO 37/124  Fates Collide (xy10)  - Marowak  hp 100
+   art EN (exact printing): https://assets.tcgdex.net/en/xy10/xy10/37/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Marowak_(Fates_Collide_37)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Marowak%20XY-P%20Promotional%20cards%20169%2FXY-P
+7. XY-P->xy11  (3 cards)
+   JP: XY-P 238/XY-P  XY-P Promotional cards  - Talonflame BREAK / ファイアローBREAK  hp 170
+   EN: STS 21/114  Steam Siege (xy11)  - Talonflame BREAK  hp 170
+   art EN (exact printing): https://assets.tcgdex.net/en/xy11/xy11/21/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Talonflame_BREAK_(Steam_Siege_21)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Talonflame%20BREAK%20XY-P%20Promotional%20cards%20238%2FXY-P
+8. XY-P->xy12  (5 cards)
+   JP: XY-P 262/XY-P  XY-P Promotional cards  - Slowbro-EX / ヤドランEX  hp 180
+   EN: EVO 26/108  Evolutions (xy12)  - Slowbro-EX  hp 180
+   art EN (exact printing): https://assets.tcgdex.net/en/xy12/xy12/26/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Slowbro-EX_(Evolutions_26)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Slowbro-EX%20XY-P%20Promotional%20cards%20262%2FXY-P
+9. XY-P->xy3  (8 cards)
+   JP: XY-P 001/XY-P  XY-P Promotional cards  - Pikachu / ピカチュウ  hp 60
+   EN: FFI 27/111  Furious Fists (xy3)  - Pikachu  hp 60
+   art EN (exact printing): https://assets.tcgdex.net/en/xy3/xy3/27/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Furious_Fists_27)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Pikachu%20XY-P%20Promotional%20cards%20001%2FXY-P
+10. XY-P->xy4  (10 cards)
+   JP: XY-P 013/XY-P  XY-P Promotional cards  - Dedenne / デデンネ  hp 70
+   EN: PHF 70/119  Phantom Forces (xy4)  - Dedenne  hp 70
+   art EN (exact printing): https://assets.tcgdex.net/en/xy4/xy4/70/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Dedenne_(Phantom_Forces_70)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Dedenne%20XY-P%20Promotional%20cards%20013%2FXY-P
+11. XY-P->xy5  (4 cards)
+   JP: XY-P 040/XY-P  XY-P Promotional cards  - Spheal / タマザラシ  hp 70
+   EN: PRC 46/160  Primal Clash (xy5)  - Spheal  hp 70
+   art EN (exact printing): https://assets.tcgdex.net/en/xy5/xy5/46/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Spheal_(Flashfire_24)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Spheal%20XY-P%20Promotional%20cards%20040%2FXY-P
+12. XY-P->xy6  (8 cards)
+   JP: XY-P 049/XY-P  XY-P Promotional cards  - Binacle / カメテテ  hp 60
+   EN: ROS 38/108  Roaring Skies (xy6)  - Binacle  hp 60
+   art EN (exact printing): https://assets.tcgdex.net/en/xy6/xy6/38/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Binacle_(Roaring_Skies_38)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Binacle%20XY-P%20Promotional%20cards%20049%2FXY-P
+13. XY-P->xy7  (2 cards)
+   JP: XY-P 117/XY-P  XY-P Promotional cards  - Energy Recycler / エネルギーリサイクル  hp -
+   EN: AOR 72/98  Ancient Origins (xy7)  - Energy Recycler  hp -
+   art EN (exact printing): https://assets.tcgdex.net/en/xy7/xy7/72/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Energy_Recycler_(Ancient_Origins_72)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Energy%20Recycler%20XY-P%20Promotional%20cards%20117%2FXY-P
+14. XY-P->xy8  (5 cards)
+   JP: XY-P 116/XY-P  XY-P Promotional cards  - Swablu / チルット  hp 40
+   EN: BKT 124/162  BREAKthrough (xy8)  - Swablu  hp 40
+   art EN (exact printing): https://assets.tcgdex.net/en/xy8/xy8/124/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Swablu_(Roaring_Skies_73)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Swablu%20XY-P%20Promotional%20cards%20116%2FXY-P
+15. XY-P->xy9  (6 cards)
+   JP: XY-P 178/XY-P  XY-P Promotional cards  - Shinx / コリンク  hp 60
+   EN: BKP 44/122  BREAKpoint (xy9)  - Shinx  hp 60
+   art EN (exact printing): https://assets.tcgdex.net/en/xy9/xy9/44/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Shinx_(BREAKpoint_44)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Shinx%20XY-P%20Promotional%20cards%20178%2FXY-P
+16. XY-P->xyp  (111 cards)
+   JP: XY-P 010/XY-P  XY-P Promotional cards  - Garchomp-EX / ガブリアスEX  hp 170
+   EN: XYP XY09  XY Black Star Promos (xyp)  - Garchomp-EX  hp 170
+   art EN (exact printing): https://assets.tcgdex.net/en/xyp/xyp/XY09/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Garchomp-EX_(XY_Promo_9)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Garchomp-EX%20XY-P%20Promotional%20cards%20010%2FXY-P
+17. XY10->xy10  (88 cards)
+   JP: XY10 001/078  Awakening Psychic King  - Shuckle / ツボツボ  hp 80
+   EN: FCO 1/124  Fates Collide (xy10)  - Shuckle  hp 80
+   art EN (exact printing): https://assets.tcgdex.net/en/xy10/xy10/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Fates_Collide_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Shuckle%20Awakening%20Psychic%20King%20001%2F078
+18. XY11B->xy11  (54 cards)
+   JP: XY11B 001/054  Cruel Traitor  - Tangela / モンジャラ  hp 80
+   EN: STS 1/114  Steam Siege (xy11)  - Tangela  hp 80
+   art EN (exact printing): https://assets.tcgdex.net/en/xy11/xy11/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Tangela_(Steam_Siege_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Tangela%20Cruel%20Traitor%20001%2F054
+19. XY1A->xy1  (63 cards)
+   JP: XY1A 001/060  Collection X  - Venusaur-EX / フシギバナEX  hp 180
+   EN: XY 1/146  XY (xy1)  - Venusaur-EX  hp 180
+   art EN (exact printing): https://assets.tcgdex.net/en/xy1/xy1/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Venusaur-EX_(XY_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Venusaur-EX%20Collection%20X%20001%2F060
+20. XY1B->xy1  (62 cards)
+   JP: XY1B 001/060  Collection Y  - Weedle / ビードル  hp 50
+   EN: XY 3/146  XY (xy1)  - Weedle  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/xy1/xy1/3/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Weedle_(XY_3)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Weedle%20Collection%20Y%20001%2F060
+21. XY2->xy2  (90 cards)
+   JP: XY2 001/080  Wild Blaze  - Caterpie / キャタピー  hp 40
+   EN: FLF 1/106  Flashfire (xy2)  - Caterpie  hp 40
+   art EN (exact printing): https://assets.tcgdex.net/en/xy2/xy2/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Flashfire_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Caterpie%20Wild%20Blaze%20001%2F080
+22. XY3->xy3  (105 cards)
+   JP: XY3 001/096  Rising Fist  - Bellsprout / マダツボミ  hp 50
+   EN: FFI 1/111  Furious Fists (xy3)  - Bellsprout  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/xy3/xy3/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Bellsprout_(Furious_Fists_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Bellsprout%20Rising%20Fist%20001%2F096
+23. XY4->xy4  (97 cards)
+   JP: XY4 001/088  Phantom Gate  - Venonat / コンパン  hp 60
+   EN: PHF 1/119  Phantom Forces (xy4)  - Venonat  hp 60
+   art EN (exact printing): https://assets.tcgdex.net/en/xy4/xy4/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Venonat_(Phantom_Forces_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Venonat%20Phantom%20Gate%20001%2F088
+24. XY5A->xy5  (77 cards)
+   JP: XY5A 001/070  Gaia Volcano  - Tangela / モンジャラ  hp 80
+   EN: PRC 4/160  Primal Clash (xy5)  - Tangela  hp 80
+   art EN (exact printing): https://assets.tcgdex.net/en/xy5/xy5/4/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Tangela_(Primal_Clash_4)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Tangela%20Gaia%20Volcano%20001%2F070
+25. XY5B->xy5  (79 cards)
+   JP: XY5B 001/070  Tidal Storm  - Weedle / ビードル  hp 50
+   EN: PRC 1/160  Primal Clash (xy5)  - Weedle  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/xy5/xy5/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Weedle_(Primal_Clash_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Weedle%20Tidal%20Storm%20001%2F070
+26. XY6->xy6  (91 cards)
+   JP: XY6 001/078  Emerald Break  - Exeggcute / タマタマ  hp 40
+   EN: ROS 1/108  Roaring Skies (xy6)  - Exeggcute  hp 40
+   art EN (exact printing): https://assets.tcgdex.net/en/xy6/xy6/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Roaring_Skies_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Exeggcute%20Emerald%20Break%20001%2F078
+27. XY7->xy7  (97 cards)
+   JP: XY7 001/081  Bandit Ring  - Oddish / ナゾノクサ  hp 50
+   EN: AOR 1/98  Ancient Origins (xy7)  - Oddish  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/xy7/xy7/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Oddish_(Ancient_Origins_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Oddish%20Bandit%20Ring%20001%2F081
+28. XY8A->xy8  (65 cards)
+   JP: XY8A 001/059  Blue Shock  - Pinsir / カイロス  hp 100
+   EN: BKT 3/162  BREAKthrough (xy8)  - Pinsir  hp 100
+   art EN (exact printing): https://assets.tcgdex.net/en/xy8/xy8/3/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Pinsir_(BREAKthrough_3)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Pinsir%20Blue%20Shock%20001%2F059
+29. XY8B->xy8  (64 cards)
+   JP: XY8B 001/059  Red Flash  - Paras / パラス  hp 60
+   EN: BKT 1/162  BREAKthrough (xy8)  - Paras  hp 60
+   art EN (exact printing): https://assets.tcgdex.net/en/xy8/xy8/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Paras_(BREAKthrough_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Paras%20Red%20Flash%20001%2F059
+30. XY9->xy9  (89 cards)
+   JP: XY9 001/080  Rage of the Broken Heavens  - Chikorita / チコリータ  hp 60
+   EN: BKP 1/122  BREAKpoint (xy9)  - Chikorita  hp 60
+   art EN (exact printing): https://assets.tcgdex.net/en/xy9/xy9/1/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Chikorita_(BREAKpoint_1)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Chikorita%20Rage%20of%20the%20Broken%20Heavens%20001%2F080

@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "jpSetCode": "DP-P",
+      "enSetId": "dp5",
+      "cardCount": 14,
+      "sourceSetNames": [
+        "DP-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DP-P",
+      "enSetId": "dpp",
+      "cardCount": 24,
+      "sourceSetNames": [
+        "DP-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DP-P",
+      "enSetId": "pl2",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "DP-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DP6",
+      "enSetId": "dp7",
+      "cardCount": 88,
+      "sourceSetNames": [
+        "Intense Fight in the Destroyed Sky"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DP6",
+      "enSetId": "pl1",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Intense Fight in the Destroyed Sky"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DPT-P",
+      "enSetId": "dpp",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "DPt-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DPT-P",
+      "enSetId": "pl2",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "DPt-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DPT1",
+      "enSetId": "pl1",
+      "cardCount": 96,
+      "sourceSetNames": [
+        "Galactic's Conquest"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DPT2",
+      "enSetId": "pl2",
+      "cardCount": 90,
+      "sourceSetNames": [
+        "Bonds to the End of Time"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DPT3",
+      "enSetId": "pl3",
+      "cardCount": 95,
+      "sourceSetNames": [
+        "Beat of the Frontier"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "DPT4",
+      "enSetId": "pl4",
+      "cardCount": 85,
+      "sourceSetNames": [
+        "Advent of Arceus"
+      ],
+      "expectedByRuntimeMap": false
+    }
+  ],
+  "setCodes": [
+    {
+      "jpSetCode": "DP-P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "dp5",
+        "dpp",
+        "pl2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "dp5",
+        "dpp",
+        "pl2"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "DP6",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "dp7",
+        "pl1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "dp7",
+        "pl1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "DPT-P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "dpp",
+        "pl2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "dpp",
+        "pl2"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "DPT1",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "pl1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "pl1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "DPT2",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "pl2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "pl2"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "DPT3",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "pl3"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "pl3"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "DPT4",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "pl4"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "pl4"
+      ],
+      "status": "expanded"
+    }
+  ]
+}

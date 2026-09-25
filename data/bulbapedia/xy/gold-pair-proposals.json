@@ -1,0 +1,1464 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "selectionPolicy": "after-audit",
+  "approvalStatus": "pending-user-review",
+  "proposals": [
+    {
+      "relationship": "BREAK->g1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BREAK:BREAK_STARTER_PACK:001/072",
+        "language": "ja",
+        "setCode": "BREAK",
+        "tcgdexSetId": null,
+        "setName": "BREAK Starter Pack",
+        "cardNumber": "001/072",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Venusaur-EX",
+        "japaneseName": "フシギバナEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "en",
+        "setCode": "GEN",
+        "tcgdexSetId": "g1",
+        "setName": "Generations",
+        "cardNumber": "1/83",
+        "localId": "1",
+        "rarity": "Rare Holo ex",
+        "cardName": "Venusaur-EX",
+        "japaneseName": "フシギバナEX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Venusaur-EX (Generations 1)",
+            "pageId": 209315,
+            "revisionId": 4573713,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "CP2->xy8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:CP2:LEGENDARY_SHINE_COLLECTION:003/027",
+        "language": "ja",
+        "setCode": "CP2",
+        "tcgdexSetId": null,
+        "setName": "Legendary Shine Collection",
+        "cardNumber": "003/027",
+        "localId": "003",
+        "rarity": "C",
+        "cardName": "Fennekin",
+        "japaneseName": "フォッコ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BKT",
+        "tcgdexSetId": "xy8",
+        "setName": "BREAKthrough",
+        "cardNumber": "25/162",
+        "localId": "25",
+        "rarity": "Common",
+        "cardName": "Fennekin",
+        "japaneseName": "フォッコ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Fennekin (BREAKthrough 25)",
+            "pageId": 205748,
+            "revisionId": 3707548,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "CP2->xyp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:CP2:LEGENDARY_SHINE_COLLECTION:001/027",
+        "language": "ja",
+        "setCode": "CP2",
+        "tcgdexSetId": null,
+        "setName": "Legendary Shine Collection",
+        "cardNumber": "001/027",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Chespin",
+        "japaneseName": "ハリマロン",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "XYP",
+        "tcgdexSetId": "xyp",
+        "setName": "XY Black Star Promos",
+        "cardNumber": "XY88",
+        "localId": "XY88",
+        "rarity": null,
+        "cardName": "Chespin",
+        "japaneseName": "ハリマロン",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Chespin (XY Promo 88)",
+            "pageId": 205746,
+            "revisionId": 3396503,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "CP3->g1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:CP3:POKEKYUN_COLLECTION:001/032",
+        "language": "ja",
+        "setCode": "CP3",
+        "tcgdexSetId": null,
+        "setName": "PokéKyun Collection",
+        "cardNumber": "001/032",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Chikorita",
+        "japaneseName": "チコリータ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "GEN",
+        "tcgdexSetId": "g1",
+        "setName": "Generations",
+        "cardNumber": "RC1/RC32",
+        "localId": "RC1",
+        "rarity": "Common",
+        "cardName": "Chikorita",
+        "japaneseName": "チコリータ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Chikorita (Generations RC1)",
+            "pageId": 209835,
+            "revisionId": 4113131,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "CP6->xy12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:CP6:EXPANSION_PACK_20TH_ANNIVERSARY:001/087",
+        "language": "ja",
+        "setCode": "CP6",
+        "tcgdexSetId": null,
+        "setName": "Expansion Pack 20th Anniversary",
+        "cardNumber": "001/087",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Venusaur-EX",
+        "japaneseName": "フシギバナEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "en",
+        "setCode": "EVO",
+        "tcgdexSetId": "xy12",
+        "setName": "Evolutions",
+        "cardNumber": "1/108",
+        "localId": "1",
+        "rarity": "Rare Holo ex",
+        "cardName": "Venusaur-EX",
+        "japaneseName": "フシギバナEX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Venusaur-EX (XY 1)",
+            "pageId": 184446,
+            "revisionId": 4573714,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->g1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:192/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "192/XY-P",
+        "localId": "192",
+        "rarity": null,
+        "cardName": "Leafeon-EX",
+        "japaneseName": "リーフィアEX",
+        "cardKind": "pokemon",
+        "hp": 170
+      },
+      "target": {
+        "language": "en",
+        "setCode": "GEN",
+        "tcgdexSetId": "g1",
+        "setName": "Generations",
+        "cardNumber": "10/83",
+        "localId": "10",
+        "rarity": "Rare Holo ex",
+        "cardName": "Leafeon-EX",
+        "japaneseName": "リーフィアEX",
+        "cardKind": "pokemon",
+        "hp": 170,
+        "evidence": [
+          {
+            "pageTitle": "Leafeon-EX (Generations 10)",
+            "pageId": 208249,
+            "revisionId": 4573735,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:169/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "169/XY-P",
+        "localId": "169",
+        "rarity": null,
+        "cardName": "Marowak",
+        "japaneseName": "ガラガラ",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "en",
+        "setCode": "FCO",
+        "tcgdexSetId": "xy10",
+        "setName": "Fates Collide",
+        "cardNumber": "37/124",
+        "localId": "37",
+        "rarity": "Rare",
+        "cardName": "Marowak",
+        "japaneseName": "ガラガラ",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Marowak (Fates Collide 37)",
+            "pageId": 207735,
+            "revisionId": 3395136,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:238/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "238/XY-P",
+        "localId": "238",
+        "rarity": null,
+        "cardName": "Talonflame BREAK",
+        "japaneseName": "ファイアローBREAK",
+        "cardKind": "pokemon",
+        "hp": 170
+      },
+      "target": {
+        "language": "en",
+        "setCode": "STS",
+        "tcgdexSetId": "xy11",
+        "setName": "Steam Siege",
+        "cardNumber": "21/114",
+        "localId": "21",
+        "rarity": "Rare BREAK",
+        "cardName": "Talonflame BREAK",
+        "japaneseName": "ファイアローBREAK",
+        "cardKind": "pokemon",
+        "hp": 170,
+        "evidence": [
+          {
+            "pageTitle": "Talonflame BREAK (Steam Siege 21)",
+            "pageId": 213397,
+            "revisionId": 3700084,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:262/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "262/XY-P",
+        "localId": "262",
+        "rarity": null,
+        "cardName": "Slowbro-EX",
+        "japaneseName": "ヤドランEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "en",
+        "setCode": "EVO",
+        "tcgdexSetId": "xy12",
+        "setName": "Evolutions",
+        "cardNumber": "26/108",
+        "localId": "26",
+        "rarity": "Rare Holo ex",
+        "cardName": "Slowbro-EX",
+        "japaneseName": "ヤドランEX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Slowbro-EX (Evolutions 26)",
+            "pageId": 215819,
+            "revisionId": 3700103,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:001/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "001/XY-P",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Pikachu",
+        "japaneseName": "ピカチュウ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "FFI",
+        "tcgdexSetId": "xy3",
+        "setName": "Furious Fists",
+        "cardNumber": "27/111",
+        "localId": "27",
+        "rarity": "Common",
+        "cardName": "Pikachu",
+        "japaneseName": "ピカチュウ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Pikachu (Furious Fists 27)",
+            "pageId": 186611,
+            "revisionId": 3213644,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:013/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "013/XY-P",
+        "localId": "013",
+        "rarity": null,
+        "cardName": "Dedenne",
+        "japaneseName": "デデンネ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PHF",
+        "tcgdexSetId": "xy4",
+        "setName": "Phantom Forces",
+        "cardNumber": "70/119",
+        "localId": "70",
+        "rarity": "Common",
+        "cardName": "Dedenne",
+        "japaneseName": "デデンネ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Dedenne (Phantom Forces 70)",
+            "pageId": 186805,
+            "revisionId": 4452082,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:040/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "040/XY-P",
+        "localId": "040",
+        "rarity": null,
+        "cardName": "Spheal",
+        "japaneseName": "タマザラシ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PRC",
+        "tcgdexSetId": "xy5",
+        "setName": "Primal Clash",
+        "cardNumber": "46/160",
+        "localId": "46",
+        "rarity": "Common",
+        "cardName": "Spheal",
+        "japaneseName": "タマザラシ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Spheal (Flashfire 24)",
+            "pageId": 191010,
+            "revisionId": 3213726,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy6",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:049/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "049/XY-P",
+        "localId": "049",
+        "rarity": null,
+        "cardName": "Binacle",
+        "japaneseName": "カメテテ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ROS",
+        "tcgdexSetId": "xy6",
+        "setName": "Roaring Skies",
+        "cardNumber": "38/108",
+        "localId": "38",
+        "rarity": "Common",
+        "cardName": "Binacle",
+        "japaneseName": "カメテテ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Binacle (Roaring Skies 38)",
+            "pageId": 191196,
+            "revisionId": 4115801,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 1,
+      "selectionReasons": [
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:117/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "117/XY-P",
+        "localId": "117",
+        "rarity": null,
+        "cardName": "Energy Recycler",
+        "japaneseName": "エネルギーリサイクル",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "AOR",
+        "tcgdexSetId": "xy7",
+        "setName": "Ancient Origins",
+        "cardNumber": "72/98",
+        "localId": "72",
+        "rarity": "Uncommon",
+        "cardName": "Energy Recycler",
+        "japaneseName": "エネルギーリサイクル",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Energy Recycler (Ancient Origins 72)",
+            "pageId": 202342,
+            "revisionId": 4594001,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:116/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "116/XY-P",
+        "localId": "116",
+        "rarity": null,
+        "cardName": "Swablu",
+        "japaneseName": "チルット",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BKT",
+        "tcgdexSetId": "xy8",
+        "setName": "BREAKthrough",
+        "cardNumber": "124/162",
+        "localId": "124",
+        "rarity": "Common",
+        "cardName": "Swablu",
+        "japaneseName": "チルット",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Swablu (Roaring Skies 73)",
+            "pageId": 202372,
+            "revisionId": 4124492,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xy9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:178/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "178/XY-P",
+        "localId": "178",
+        "rarity": null,
+        "cardName": "Shinx",
+        "japaneseName": "コリンク",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BKP",
+        "tcgdexSetId": "xy9",
+        "setName": "BREAKpoint",
+        "cardNumber": "44/122",
+        "localId": "44",
+        "rarity": "Common",
+        "cardName": "Shinx",
+        "japaneseName": "コリンク",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Shinx (BREAKpoint 44)",
+            "pageId": 207748,
+            "revisionId": 4215779,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-P->xyp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-P:XY_P_PROMOTIONAL_CARDS:010/XY-P",
+        "language": "ja",
+        "setCode": "XY-P",
+        "tcgdexSetId": null,
+        "setName": "XY-P Promotional cards",
+        "cardNumber": "010/XY-P",
+        "localId": "010",
+        "rarity": null,
+        "cardName": "Garchomp-EX",
+        "japaneseName": "ガブリアスEX",
+        "cardKind": "pokemon",
+        "hp": 170
+      },
+      "target": {
+        "language": "en",
+        "setCode": "XYP",
+        "tcgdexSetId": "xyp",
+        "setName": "XY Black Star Promos",
+        "cardNumber": "XY09",
+        "localId": "XY09",
+        "rarity": null,
+        "cardName": "Garchomp-EX",
+        "japaneseName": "ガブリアスEX",
+        "cardKind": "pokemon",
+        "hp": 170,
+        "evidence": [
+          {
+            "pageTitle": "Garchomp-EX (XY Promo 9)",
+            "pageId": 186804,
+            "revisionId": 4370579,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY10->xy10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY10:AWAKENING_PSYCHIC_KING:001/078",
+        "language": "ja",
+        "setCode": "XY10",
+        "tcgdexSetId": null,
+        "setName": "Awakening Psychic King",
+        "cardNumber": "001/078",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Shuckle",
+        "japaneseName": "ツボツボ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "FCO",
+        "tcgdexSetId": "xy10",
+        "setName": "Fates Collide",
+        "cardNumber": "1/124",
+        "localId": "1",
+        "rarity": "Uncommon",
+        "cardName": "Shuckle",
+        "japaneseName": "ツボツボ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Shuckle (Fates Collide 1)",
+            "pageId": 211757,
+            "revisionId": 4352127,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY11A->xy11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY11A:FEVER_BURST_FIGHTER:001/054",
+        "language": "ja",
+        "setCode": "XY11A",
+        "tcgdexSetId": null,
+        "setName": "Fever-Burst Fighter",
+        "cardNumber": "001/054",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Seedot",
+        "japaneseName": "タネボー",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "STS",
+        "tcgdexSetId": "xy11",
+        "setName": "Steam Siege",
+        "cardNumber": "9/114",
+        "localId": "9",
+        "rarity": "Common",
+        "cardName": "Seedot",
+        "japaneseName": "タネボー",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Seedot (Steam Siege 9)",
+            "pageId": 213623,
+            "revisionId": 3186420,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY11B->xy11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY11B:CRUEL_TRAITOR:001/054",
+        "language": "ja",
+        "setCode": "XY11B",
+        "tcgdexSetId": null,
+        "setName": "Cruel Traitor",
+        "cardNumber": "001/054",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "STS",
+        "tcgdexSetId": "xy11",
+        "setName": "Steam Siege",
+        "cardNumber": "1/114",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Steam Siege 1)",
+            "pageId": 213708,
+            "revisionId": 3185281,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY1A->xy1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY1A:COLLECTION_X:001/060",
+        "language": "ja",
+        "setCode": "XY1A",
+        "tcgdexSetId": null,
+        "setName": "Collection X",
+        "cardNumber": "001/060",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Venusaur-EX",
+        "japaneseName": "フシギバナEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "en",
+        "setCode": "XY",
+        "tcgdexSetId": "xy1",
+        "setName": "XY",
+        "cardNumber": "1/146",
+        "localId": "1",
+        "rarity": "Rare Holo ex",
+        "cardName": "Venusaur-EX",
+        "japaneseName": "フシギバナEX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Venusaur-EX (XY 1)",
+            "pageId": 184446,
+            "revisionId": 4573714,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY1B->xy1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY1B:COLLECTION_Y:001/060",
+        "language": "ja",
+        "setCode": "XY1B",
+        "tcgdexSetId": null,
+        "setName": "Collection Y",
+        "cardNumber": "001/060",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "XY",
+        "tcgdexSetId": "xy1",
+        "setName": "XY",
+        "cardNumber": "3/146",
+        "localId": "3",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Weedle (XY 3)",
+            "pageId": 188038,
+            "revisionId": 2793391,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY2->xy2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY2:WILD_BLAZE:001/080",
+        "language": "ja",
+        "setCode": "XY2",
+        "tcgdexSetId": null,
+        "setName": "Wild Blaze",
+        "cardNumber": "001/080",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "FLF",
+        "tcgdexSetId": "xy2",
+        "setName": "Flashfire",
+        "cardNumber": "1/106",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Caterpie (Flashfire 1)",
+            "pageId": 190980,
+            "revisionId": 3421901,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY3->xy3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY3:RISING_FIST:001/096",
+        "language": "ja",
+        "setCode": "XY3",
+        "tcgdexSetId": null,
+        "setName": "Rising Fist",
+        "cardNumber": "001/096",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "FFI",
+        "tcgdexSetId": "xy3",
+        "setName": "Furious Fists",
+        "cardNumber": "1/111",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Bellsprout (Furious Fists 1)",
+            "pageId": 193253,
+            "revisionId": 3217697,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY4->xy4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY4:PHANTOM_GATE:001/088",
+        "language": "ja",
+        "setCode": "XY4",
+        "tcgdexSetId": null,
+        "setName": "Phantom Gate",
+        "cardNumber": "001/088",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Venonat",
+        "japaneseName": "コンパン",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PHF",
+        "tcgdexSetId": "xy4",
+        "setName": "Phantom Forces",
+        "cardNumber": "1/119",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Venonat",
+        "japaneseName": "コンパン",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Venonat (Phantom Forces 1)",
+            "pageId": 196207,
+            "revisionId": 2855697,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY5A->xy5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY5A:GAIA_VOLCANO:001/070",
+        "language": "ja",
+        "setCode": "XY5A",
+        "tcgdexSetId": null,
+        "setName": "Gaia Volcano",
+        "cardNumber": "001/070",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PRC",
+        "tcgdexSetId": "xy5",
+        "setName": "Primal Clash",
+        "cardNumber": "4/160",
+        "localId": "4",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Primal Clash 4)",
+            "pageId": 200808,
+            "revisionId": 3748890,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY5B->xy5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY5B:TIDAL_STORM:001/070",
+        "language": "ja",
+        "setCode": "XY5B",
+        "tcgdexSetId": null,
+        "setName": "Tidal Storm",
+        "cardNumber": "001/070",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PRC",
+        "tcgdexSetId": "xy5",
+        "setName": "Primal Clash",
+        "cardNumber": "1/160",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Weedle (Primal Clash 1)",
+            "pageId": 200815,
+            "revisionId": 4595719,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY6->xy6",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY6:EMERALD_BREAK:001/078",
+        "language": "ja",
+        "setCode": "XY6",
+        "tcgdexSetId": null,
+        "setName": "Emerald Break",
+        "cardNumber": "001/078",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Exeggcute",
+        "japaneseName": "タマタマ",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ROS",
+        "tcgdexSetId": "xy6",
+        "setName": "Roaring Skies",
+        "cardNumber": "1/108",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Exeggcute",
+        "japaneseName": "タマタマ",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Exeggcute (Roaring Skies 1)",
+            "pageId": 203081,
+            "revisionId": 4111771,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY7->xy7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY7:BANDIT_RING:001/081",
+        "language": "ja",
+        "setCode": "XY7",
+        "tcgdexSetId": null,
+        "setName": "Bandit Ring",
+        "cardNumber": "001/081",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "AOR",
+        "tcgdexSetId": "xy7",
+        "setName": "Ancient Origins",
+        "cardNumber": "1/98",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Oddish (Ancient Origins 1)",
+            "pageId": 204930,
+            "revisionId": 4091658,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY8A->xy8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY8A:BLUE_SHOCK:001/059",
+        "language": "ja",
+        "setCode": "XY8A",
+        "tcgdexSetId": null,
+        "setName": "Blue Shock",
+        "cardNumber": "001/059",
+        "localId": "001",
+        "rarity": "U",
+        "cardName": "Pinsir",
+        "japaneseName": "カイロス",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BKT",
+        "tcgdexSetId": "xy8",
+        "setName": "BREAKthrough",
+        "cardNumber": "3/162",
+        "localId": "3",
+        "rarity": "Uncommon",
+        "cardName": "Pinsir",
+        "japaneseName": "カイロス",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Pinsir (BREAKthrough 3)",
+            "pageId": 207141,
+            "revisionId": 3467316,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY8B->xy8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY8B:RED_FLASH:001/059",
+        "language": "ja",
+        "setCode": "XY8B",
+        "tcgdexSetId": null,
+        "setName": "Red Flash",
+        "cardNumber": "001/059",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Paras",
+        "japaneseName": "パラス",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BKT",
+        "tcgdexSetId": "xy8",
+        "setName": "BREAKthrough",
+        "cardNumber": "1/162",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Paras",
+        "japaneseName": "パラス",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Paras (BREAKthrough 1)",
+            "pageId": 207289,
+            "revisionId": 4215663,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY9->xy9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY9:RAGE_OF_THE_BROKEN_HEAVENS:001/080",
+        "language": "ja",
+        "setCode": "XY9",
+        "tcgdexSetId": null,
+        "setName": "Rage of the Broken Heavens",
+        "cardNumber": "001/080",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Chikorita",
+        "japaneseName": "チコリータ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BKP",
+        "tcgdexSetId": "xy9",
+        "setName": "BREAKpoint",
+        "cardNumber": "1/122",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Chikorita",
+        "japaneseName": "チコリータ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Chikorita (BREAKpoint 1)",
+            "pageId": 208761,
+            "revisionId": 4385955,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    }
+  ]
+}

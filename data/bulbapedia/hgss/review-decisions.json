@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "decidedAt": "2026-09-22",
+  "decidedBy": "user",
+  "status": "approved-for-phase-4",
+  "goldPairApprovals": {
+    "status": "approved",
+    "approvedRelationships": [
+      "L-P->col1",
+      "L-P->hgss1",
+      "L-P->hgss3",
+      "L-P->hgssp",
+      "L1A->hgss1",
+      "L1A->hgss2",
+      "L1B->hgss1",
+      "L1B->hgss2",
+      "L2->hgss2",
+      "L2->hgss3",
+      "L3->hgss4",
+      "LL->col1",
+      "LL->hgss4"
+    ],
+    "note": "User confirmed all 13 proposed pairs match artwork. All 25 random samples matched live TCGdex. 2026-09-23: 1 marketplace-only record was added for an English card whose Japanese printing has a set but no card number (HGSS Black Star Promos HGSS18 -> L-P Promotional cards). No exact record changed, so the artwork approval still applies. The runtime fails closed on such a record instead of letting TCGdex guess a printing from another era (see AGENTS.md)."
+  },
+  "conflictReview": {
+    "status": "approved",
+    "conflictCount": 1
+  },
+  "ambiguityReview": {
+    "status": "approved",
+    "ambiguousRecordCount": 0
+  },
+  "randomSampleReview": {
+    "status": "approved",
+    "seed": 20260301,
+    "samplesPerRelationship": 2,
+    "totalSamples": 25,
+    "flagged": 0,
+    "note": "All samples matched live TCGdex after the page-title name fix (Mega/Primal/BREAK prefixes)."
+  },
+  "fullValidationReview": {
+    "status": "reviewed",
+    "mode": "all",
+    "checked": 340,
+    "flagged": 1,
+    "rate": 0.29,
+    "effectiveFlagged": 1,
+    "note": "Full pass with scripts/bulbapedia/sample-review.mjs hgss --all (seed 20260301, live TCGdex). The single flag is a value difference on a correct pairing: Ho-Oh (HGSS Promo 1) carries hp 100 on Bulbapedia (page-level value) while TCGdex records hp 80 for hgssp-HGSS01. Card name and number match, so the record stays."
+  }
+}

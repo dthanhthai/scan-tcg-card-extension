@@ -1,0 +1,750 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "jpSetCode": "BATTLE-STRENGTH-DECKS",
+      "enSetId": "bw1",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Battle Strength Decks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M-P",
+      "enSetId": "me03",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "M-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M-P",
+      "enSetId": "me04",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "M-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M-P",
+      "enSetId": "me05",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "M-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M-P",
+      "enSetId": "mep",
+      "cardCount": 48,
+      "sourceSetNames": [
+        "M-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M-P",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "M-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M1L",
+      "enSetId": "me01",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Mega Brave"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "M1L",
+      "enSetId": "mep",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Mega Brave"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M1S",
+      "enSetId": "me01",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Mega Symphonia"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "M1S",
+      "enSetId": "mep",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Mega Symphonia"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M2",
+      "enSetId": "me02",
+      "cardCount": 110,
+      "sourceSetNames": [
+        "Inferno X"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "M2",
+      "enSetId": "mep",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Inferno X"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M2A",
+      "enSetId": "me02.5",
+      "cardCount": 182,
+      "sourceSetNames": [
+        "MEGA Dream ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M2A",
+      "enSetId": "mep",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "MEGA Dream ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M2A",
+      "enSetId": "svp",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "MEGA Dream ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M3",
+      "enSetId": "me03",
+      "cardCount": 114,
+      "sourceSetNames": [
+        "Nihil Zero"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "M3",
+      "enSetId": "mep",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Nihil Zero"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M4",
+      "enSetId": "me04",
+      "cardCount": 119,
+      "sourceSetNames": [
+        "Ninja Spinner"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "M4",
+      "enSetId": "mep",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Ninja Spinner"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M5",
+      "enSetId": "me05",
+      "cardCount": 117,
+      "sourceSetNames": [
+        "Abyss Eye"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "M5",
+      "enSetId": "mep",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Abyss Eye"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "M6",
+      "enSetId": "mep",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Storm Emeralda"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME01",
+      "enSetId": "M1L",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Mega Evolution"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME01",
+      "enSetId": "M1S",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Mega Evolution"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME02",
+      "enSetId": "M2",
+      "cardCount": 110,
+      "sourceSetNames": [
+        "Phantasmal Flames"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME02.5",
+      "enSetId": "M2a",
+      "cardCount": 182,
+      "sourceSetNames": [
+        "Ascended Heroes"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME03",
+      "enSetId": "M3",
+      "cardCount": 115,
+      "sourceSetNames": [
+        "Perfect Order"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME04",
+      "enSetId": "M4",
+      "cardCount": 119,
+      "sourceSetNames": [
+        "Chaos Rising"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME05",
+      "enSetId": "M5",
+      "cardCount": 117,
+      "sourceSetNames": [
+        "Pitch Black"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEGA-DIANCIE",
+      "enSetId": "me02",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "MEGA Starter Set Mega Diancie ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEGA-DIANCIE",
+      "enSetId": "mep",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "MEGA Starter Set Mega Diancie ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEGA-GENGAR",
+      "enSetId": "me02",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "MEGA Starter Set Mega Gengar ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEGA-GENGAR",
+      "enSetId": "mep",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "MEGA Starter Set Mega Gengar ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEP",
+      "enSetId": "M1L",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "MEP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEP",
+      "enSetId": "M1S",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "MEP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEP",
+      "enSetId": "M2",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "MEP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEP",
+      "enSetId": "M2a",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "MEP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEP",
+      "enSetId": "M3",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "MEP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEP",
+      "enSetId": "M4",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "MEP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEP",
+      "enSetId": "M5",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "MEP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MEP",
+      "enSetId": "M6",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "MEP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "NATIONAL-BEGINNING",
+      "enSetId": "bw7",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "National Beginning Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "M2a",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "V-STARTER-SETS",
+      "enSetId": "swsh1",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "V Starter Sets"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-BEGINNING",
+      "enSetId": "xy0",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "XY Beginning Set"
+      ],
+      "expectedByRuntimeMap": false
+    }
+  ],
+  "setCodes": [
+    {
+      "jpSetCode": "BATTLE-STRENGTH-DECKS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "bw1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "bw1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M-P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "me03",
+        "me04",
+        "me05",
+        "mep",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "me03",
+        "me04",
+        "me05",
+        "mep",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M1L",
+      "expectedEnSetIds": [
+        "me01"
+      ],
+      "observedEnSetIds": [
+        "me01",
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M1S",
+      "expectedEnSetIds": [
+        "me01"
+      ],
+      "observedEnSetIds": [
+        "me01",
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M2",
+      "expectedEnSetIds": [
+        "me02"
+      ],
+      "observedEnSetIds": [
+        "me02",
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M2A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "me02.5",
+        "mep",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "me02.5",
+        "mep",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M2a",
+      "expectedEnSetIds": [
+        "me02.5"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "me02.5"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "M3",
+      "expectedEnSetIds": [
+        "me03"
+      ],
+      "observedEnSetIds": [
+        "me03",
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M4",
+      "expectedEnSetIds": [
+        "me04"
+      ],
+      "observedEnSetIds": [
+        "me04",
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M5",
+      "expectedEnSetIds": [
+        "me05"
+      ],
+      "observedEnSetIds": [
+        "me05",
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "M6",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "ME01",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "M1L",
+        "M1S"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "M1L",
+        "M1S"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "ME02",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "M2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "M2"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "ME02.5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "M2a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "M2a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "ME03",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "M3"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "M3"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "ME04",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "M4"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "M4"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "ME05",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "M5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "M5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "MEGA-DIANCIE",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "me02",
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "me02",
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "MEGA-GENGAR",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "me02",
+        "mep"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "me02",
+        "mep"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "MEP",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "M1L",
+        "M1S",
+        "M2",
+        "M2a",
+        "M3",
+        "M4",
+        "M5",
+        "M6"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "M1L",
+        "M1S",
+        "M2",
+        "M2a",
+        "M3",
+        "M4",
+        "M5",
+        "M6"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "NATIONAL-BEGINNING",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "bw7"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "bw7"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SVP",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "M2a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "M2a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "V-STARTER-SETS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY-BEGINNING",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy0"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy0"
+      ],
+      "status": "expanded"
+    }
+  ]
+}

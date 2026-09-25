@@ -1,0 +1,271 @@
+/* Popup-specific layout. Shared button/result/status styles live in
+   assets/shared.css (loaded before this file in popup.html). */
+
+body {
+  width: 400px;
+}
+
+.preload-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--bg-elevated);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.preload-overlay.hidden {
+  display: none;
+}
+
+.preload-content {
+  text-align: center;
+  padding: 20px;
+}
+
+.preload-spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin: 0 auto 12px;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+#preloadText {
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+}
+
+.app-title {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.app-title-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 64px;
+  padding: 0;
+  justify-content: space-between;
+}
+
+.app-title-name {
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 22px;
+}
+
+.gemini-status {
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--text-dim);
+}
+
+.gemini-status.active {
+  color: var(--success);
+}
+
+.gemini-status.inactive {
+  color: var(--danger);
+}
+
+.gemini-status.testing {
+  color: var(--text-dim);
+}
+
+.gemini-status-row {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.gemini-test-btn {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+}
+
+.gemini-test-btn:hover {
+  color: var(--text);
+}
+
+.gemini-test-btn:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
+
+.app-logo {
+  width: 64px;
+  height: 64px;
+  border-radius: 8px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.icon-btn {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 22px;
+  cursor: pointer;
+  padding: 6px 10px;
+  border-radius: 6px;
+}
+
+.icon-btn:hover {
+  background: var(--bg-elevated);
+  color: var(--text);
+}
+
+main {
+  padding: 14px;
+}
+
+.search-section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+#searchForm {
+  display: flex;
+  gap: 6px;
+}
+
+#searchInput {
+  flex: 1;
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text);
+  font-size: 13px;
+}
+
+#searchInput:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+#searchBtn {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text);
+  cursor: pointer;
+}
+
+#uploadBtn {
+  width: 100%;
+}
+
+#fileInput {
+  display: none;
+}
+
+.history-section h2 {
+  font-size: 13px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 8px;
+}
+
+.history-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 220px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.history-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.history-item:hover {
+  background: var(--bg-elevated);
+}
+
+/* Styled for both the anchor (product page) and the button (re-run lookup). */
+.history-item .history-link {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  gap: 8px;
+  padding: 0;
+  border: none;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.history-item img {
+  width: 32px;
+  border-radius: 4px;
+  flex-shrink: 0;
+  background: #000;
+}
+
+.history-item .history-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 12px;
+}
+
+.history-item .history-price {
+  font-size: 12px;
+  color: var(--success);
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.empty-message {
+  color: var(--text-dim);
+  font-size: 12px;
+  text-align: center;
+  padding: 12px 0;
+}

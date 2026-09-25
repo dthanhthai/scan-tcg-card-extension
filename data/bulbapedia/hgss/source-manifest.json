@@ -1,0 +1,3081 @@
+{
+  "schemaVersion": 2,
+  "sources": [
+    {
+      "fileName": "batch-001.json#101164",
+      "kind": "card",
+      "pageTitle": "Banette (Triumphant 14)",
+      "pageId": 101164,
+      "revisionId": 4555712,
+      "revisionTimestamp": "2026-05-22T14:05:03Z"
+    },
+    {
+      "fileName": "batch-001.json#101170",
+      "kind": "card",
+      "pageTitle": "Absol (Triumphant 91)",
+      "pageId": 101170,
+      "revisionId": 4555713,
+      "revisionTimestamp": "2026-05-22T14:05:37Z"
+    },
+    {
+      "fileName": "batch-001.json#101178",
+      "kind": "card",
+      "pageTitle": "Altaria (Triumphant 2)",
+      "pageId": 101178,
+      "revisionId": 4523148,
+      "revisionTimestamp": "2026-04-04T11:29:51Z"
+    },
+    {
+      "fileName": "batch-001.json#106962",
+      "kind": "card",
+      "pageTitle": "Aipom (Triumphant 55)",
+      "pageId": 106962,
+      "revisionId": 3421558,
+      "revisionTimestamp": "2021-11-09T10:13:57Z"
+    },
+    {
+      "fileName": "batch-001.json#108246",
+      "kind": "card",
+      "pageTitle": "Alph Lithograph (Triumphant FOUR)",
+      "pageId": 108246,
+      "revisionId": 4592325,
+      "revisionTimestamp": "2026-07-18T18:46:26Z"
+    },
+    {
+      "fileName": "batch-001.json#108514",
+      "kind": "card",
+      "pageTitle": "Ambipom (Triumphant 13)",
+      "pageId": 108514,
+      "revisionId": 3216161,
+      "revisionTimestamp": "2020-07-26T06:32:44Z"
+    },
+    {
+      "fileName": "batch-001.json#108571",
+      "kind": "card",
+      "pageTitle": "Aron (Triumphant 56)",
+      "pageId": 108571,
+      "revisionId": 3585308,
+      "revisionTimestamp": "2022-10-15T16:24:06Z"
+    },
+    {
+      "fileName": "batch-001.json#108575",
+      "kind": "card",
+      "pageTitle": "Aggron (Triumphant 1)",
+      "pageId": 108575,
+      "revisionId": 4552207,
+      "revisionTimestamp": "2026-05-15T13:33:27Z"
+    },
+    {
+      "fileName": "batch-001.json#84617",
+      "kind": "card",
+      "pageTitle": "Bayleef (HeartGold & SoulSilver 35)",
+      "pageId": 84617,
+      "revisionId": 4277098,
+      "revisionTimestamp": "2025-04-06T19:36:38Z"
+    },
+    {
+      "fileName": "batch-001.json#85088",
+      "kind": "card",
+      "pageTitle": "Ampharos (HeartGold & SoulSilver 105)",
+      "pageId": 85088,
+      "revisionId": 4277973,
+      "revisionTimestamp": "2025-04-07T19:28:11Z"
+    },
+    {
+      "fileName": "batch-001.json#86957",
+      "kind": "card",
+      "pageTitle": "Beedrill (Unleashed 12)",
+      "pageId": 86957,
+      "revisionId": 3217664,
+      "revisionTimestamp": "2020-07-28T23:49:54Z"
+    },
+    {
+      "fileName": "batch-001.json#86959",
+      "kind": "card",
+      "pageTitle": "Ariados (HeartGold & SoulSilver 15)",
+      "pageId": 86959,
+      "revisionId": 4277128,
+      "revisionTimestamp": "2025-04-06T19:40:34Z"
+    },
+    {
+      "fileName": "batch-001.json#86997",
+      "kind": "card",
+      "pageTitle": "Arcanine (HeartGold & SoulSilver 1)",
+      "pageId": 86997,
+      "revisionId": 4277144,
+      "revisionTimestamp": "2025-04-06T19:43:01Z"
+    },
+    {
+      "fileName": "batch-001.json#87189",
+      "kind": "card",
+      "pageTitle": "Azumarill (HeartGold & SoulSilver 2)",
+      "pageId": 87189,
+      "revisionId": 4277146,
+      "revisionTimestamp": "2025-04-06T19:43:17Z"
+    },
+    {
+      "fileName": "batch-001.json#87217",
+      "kind": "card",
+      "pageTitle": "Ampharos (HeartGold & SoulSilver 14)",
+      "pageId": 87217,
+      "revisionId": 4510490,
+      "revisionTimestamp": "2026-03-16T22:54:28Z"
+    },
+    {
+      "fileName": "batch-001.json#87383",
+      "kind": "card",
+      "pageTitle": "Aipom (Unleashed 43)",
+      "pageId": 87383,
+      "revisionId": 3525778,
+      "revisionTimestamp": "2022-05-24T22:56:44Z"
+    },
+    {
+      "fileName": "batch-001.json#87395",
+      "kind": "card",
+      "pageTitle": "Alph Lithograph (Unleashed TWO)",
+      "pageId": 87395,
+      "revisionId": 4592471,
+      "revisionTimestamp": "2026-07-18T21:32:27Z"
+    },
+    {
+      "fileName": "batch-001.json#87396",
+      "kind": "card",
+      "pageTitle": "Alph Lithograph (HeartGold & SoulSilver ONE)",
+      "pageId": 87396,
+      "revisionId": 4461549,
+      "revisionTimestamp": "2026-01-03T14:17:00Z"
+    },
+    {
+      "fileName": "batch-001.json#95674",
+      "kind": "card",
+      "pageTitle": "Beldum (Undaunted 43)",
+      "pageId": 95674,
+      "revisionId": 3418896,
+      "revisionTimestamp": "2021-11-04T18:00:34Z"
+    },
+    {
+      "fileName": "batch-001.json#96320",
+      "kind": "card",
+      "pageTitle": "Alph Lithograph (Undaunted THREE)",
+      "pageId": 96320,
+      "revisionId": 4592441,
+      "revisionTimestamp": "2026-07-18T19:18:29Z"
+    },
+    {
+      "fileName": "batch-002.json#101125",
+      "kind": "card",
+      "pageTitle": "Carnivine (Triumphant 16)",
+      "pageId": 101125,
+      "revisionId": 3877120,
+      "revisionTimestamp": "2023-12-12T11:55:04Z"
+    },
+    {
+      "fileName": "batch-002.json#106953",
+      "kind": "card",
+      "pageTitle": "Celebi (Triumphant 92)",
+      "pageId": 106953,
+      "revisionId": 4191913,
+      "revisionTimestamp": "2024-11-24T20:06:27Z"
+    },
+    {
+      "fileName": "batch-002.json#107476",
+      "kind": "card",
+      "pageTitle": "Black Belt (Triumphant 85)",
+      "pageId": 107476,
+      "revisionId": 4592397,
+      "revisionTimestamp": "2026-07-18T19:15:01Z"
+    },
+    {
+      "fileName": "batch-002.json#108286",
+      "kind": "card",
+      "pageTitle": "Carvanha (Triumphant 59)",
+      "pageId": 108286,
+      "revisionId": 3011750,
+      "revisionTimestamp": "2019-08-16T19:02:15Z"
+    },
+    {
+      "fileName": "batch-002.json#108322",
+      "kind": "card",
+      "pageTitle": "Bronzor (Triumphant 58)",
+      "pageId": 108322,
+      "revisionId": 3011745,
+      "revisionTimestamp": "2019-08-16T19:01:52Z"
+    },
+    {
+      "fileName": "batch-002.json#108505",
+      "kind": "card",
+      "pageTitle": "Bellsprout (Triumphant 57)",
+      "pageId": 108505,
+      "revisionId": 4032879,
+      "revisionTimestamp": "2024-06-17T15:02:19Z"
+    },
+    {
+      "fileName": "batch-002.json#108550",
+      "kind": "card",
+      "pageTitle": "Celebi (Triumphant 3)",
+      "pageId": 108550,
+      "revisionId": 4191914,
+      "revisionTimestamp": "2024-11-24T20:06:47Z"
+    },
+    {
+      "fileName": "batch-002.json#108576",
+      "kind": "card",
+      "pageTitle": "Bronzong (Triumphant 15)",
+      "pageId": 108576,
+      "revisionId": 4110382,
+      "revisionTimestamp": "2024-09-13T07:29:24Z"
+    },
+    {
+      "fileName": "batch-002.json#12097",
+      "kind": "card",
+      "pageTitle": "Bill (Base Set 91)",
+      "pageId": 12097,
+      "revisionId": 4516781,
+      "revisionTimestamp": "2026-03-26T18:42:45Z"
+    },
+    {
+      "fileName": "batch-002.json#84580",
+      "kind": "card",
+      "pageTitle": "Chikorita (Call of Legends 53)",
+      "pageId": 84580,
+      "revisionId": 4594947,
+      "revisionTimestamp": "2026-07-24T02:23:38Z"
+    },
+    {
+      "fileName": "batch-002.json#84613",
+      "kind": "card",
+      "pageTitle": "Chikorita (HeartGold & SoulSilver 59)",
+      "pageId": 84613,
+      "revisionId": 4277169,
+      "revisionTimestamp": "2025-04-06T19:46:08Z"
+    },
+    {
+      "fileName": "batch-002.json#86966",
+      "kind": "card",
+      "pageTitle": "Caterpie (HeartGold & SoulSilver 57)",
+      "pageId": 86966,
+      "revisionId": 4277152,
+      "revisionTimestamp": "2025-04-06T19:43:56Z"
+    },
+    {
+      "fileName": "batch-002.json#86968",
+      "kind": "card",
+      "pageTitle": "Butterfree (HeartGold & SoulSilver 16)",
+      "pageId": 86968,
+      "revisionId": 4277105,
+      "revisionTimestamp": "2025-04-06T19:37:31Z"
+    },
+    {
+      "fileName": "batch-002.json#87198",
+      "kind": "card",
+      "pageTitle": "Clefable (HeartGold & SoulSilver 3)",
+      "pageId": 87198,
+      "revisionId": 4277977,
+      "revisionTimestamp": "2025-04-07T19:28:42Z"
+    },
+    {
+      "fileName": "batch-002.json#87199",
+      "kind": "card",
+      "pageTitle": "Chansey (HeartGold & SoulSilver 58)",
+      "pageId": 87199,
+      "revisionId": 4277095,
+      "revisionTimestamp": "2025-04-06T19:36:15Z"
+    },
+    {
+      "fileName": "batch-002.json#87201",
+      "kind": "card",
+      "pageTitle": "Blissey (HeartGold & SoulSilver 36)",
+      "pageId": 87201,
+      "revisionId": 4277094,
+      "revisionTimestamp": "2025-04-06T19:36:08Z"
+    },
+    {
+      "fileName": "batch-002.json#87209",
+      "kind": "card",
+      "pageTitle": "Blissey (HeartGold & SoulSilver 106)",
+      "pageId": 87209,
+      "revisionId": 4277093,
+      "revisionTimestamp": "2025-04-06T19:36:00Z"
+    },
+    {
+      "fileName": "batch-002.json#95245",
+      "kind": "card",
+      "pageTitle": "Burned Tower (Undaunted 71)",
+      "pageId": 95245,
+      "revisionId": 4592469,
+      "revisionTimestamp": "2026-07-18T21:29:22Z"
+    },
+    {
+      "fileName": "batch-002.json#95636",
+      "kind": "card",
+      "pageTitle": "Bellossom (Undaunted 1)",
+      "pageId": 95636,
+      "revisionId": 4557990,
+      "revisionTimestamp": "2026-05-25T13:31:15Z"
+    },
+    {
+      "fileName": "batch-002.json#95782",
+      "kind": "card",
+      "pageTitle": "Chinchou (Unleashed 48)",
+      "pageId": 95782,
+      "revisionId": 4045463,
+      "revisionTimestamp": "2024-06-30T15:43:21Z"
+    },
+    {
+      "fileName": "batch-003.json#101167",
+      "kind": "card",
+      "pageTitle": "Diglett (Triumphant 61)",
+      "pageId": 101167,
+      "revisionId": 4296343,
+      "revisionTimestamp": "2025-05-08T14:21:24Z"
+    },
+    {
+      "fileName": "batch-003.json#108562",
+      "kind": "card",
+      "pageTitle": "Cubone (Triumphant 60)",
+      "pageId": 108562,
+      "revisionId": 3011746,
+      "revisionTimestamp": "2019-08-16T19:01:57Z"
+    },
+    {
+      "fileName": "batch-003.json#108597",
+      "kind": "card",
+      "pageTitle": "Dialga (Call of Legends 3)",
+      "pageId": 108597,
+      "revisionId": 4210108,
+      "revisionTimestamp": "2024-12-25T04:52:44Z"
+    },
+    {
+      "fileName": "batch-003.json#108599",
+      "kind": "card",
+      "pageTitle": "Deoxys (Call of Legends 2)",
+      "pageId": 108599,
+      "revisionId": 3679639,
+      "revisionTimestamp": "2023-03-08T23:15:32Z"
+    },
+    {
+      "fileName": "batch-003.json#11393",
+      "kind": "card",
+      "pageTitle": "Darkness Energy (Neo Genesis 104)",
+      "pageId": 11393,
+      "revisionId": 4520068,
+      "revisionTimestamp": "2026-03-30T19:44:51Z"
+    },
+    {
+      "fileName": "batch-003.json#15386",
+      "kind": "card",
+      "pageTitle": "Defender (Base Set 80)",
+      "pageId": 15386,
+      "revisionId": 4528915,
+      "revisionTimestamp": "2026-04-09T18:44:23Z"
+    },
+    {
+      "fileName": "batch-003.json#60696",
+      "kind": "card",
+      "pageTitle": "Copycat (Expedition 138)",
+      "pageId": 60696,
+      "revisionId": 4591846,
+      "revisionTimestamp": "2026-07-18T00:56:23Z"
+    },
+    {
+      "fileName": "batch-003.json#79758",
+      "kind": "card",
+      "pageTitle": "Cresselia (DP Promo 51)",
+      "pageId": 79758,
+      "revisionId": 4544579,
+      "revisionTimestamp": "2026-05-04T19:13:19Z"
+    },
+    {
+      "fileName": "batch-003.json#79759",
+      "kind": "card",
+      "pageTitle": "Darkrai (DP Promo 52)",
+      "pageId": 79759,
+      "revisionId": 4544601,
+      "revisionTimestamp": "2026-05-04T19:14:44Z"
+    },
+    {
+      "fileName": "batch-003.json#84579",
+      "kind": "card",
+      "pageTitle": "Cyndaquil (Call of Legends 55)",
+      "pageId": 84579,
+      "revisionId": 4087001,
+      "revisionTimestamp": "2024-08-23T12:08:45Z"
+    },
+    {
+      "fileName": "batch-003.json#84599",
+      "kind": "card",
+      "pageTitle": "Croconaw (HeartGold & SoulSilver 38)",
+      "pageId": 84599,
+      "revisionId": 4277157,
+      "revisionTimestamp": "2025-04-06T19:44:35Z"
+    },
+    {
+      "fileName": "batch-003.json#84618",
+      "kind": "card",
+      "pageTitle": "Cyndaquil (HeartGold & SoulSilver 61)",
+      "pageId": 84618,
+      "revisionId": 4277135,
+      "revisionTimestamp": "2025-04-06T19:41:44Z"
+    },
+    {
+      "fileName": "batch-003.json#87079",
+      "kind": "card",
+      "pageTitle": "Cleffa (HeartGold & SoulSilver 17)",
+      "pageId": 87079,
+      "revisionId": 3421703,
+      "revisionTimestamp": "2021-11-09T11:22:47Z"
+    },
+    {
+      "fileName": "batch-003.json#87089",
+      "kind": "card",
+      "pageTitle": "Corsola (HeartGold & SoulSilver 37)",
+      "pageId": 87089,
+      "revisionId": 4277985,
+      "revisionTimestamp": "2025-04-07T19:29:13Z"
+    },
+    {
+      "fileName": "batch-003.json#87192",
+      "kind": "card",
+      "pageTitle": "Delibird (HeartGold & SoulSilver 39)",
+      "pageId": 87192,
+      "revisionId": 4277147,
+      "revisionTimestamp": "2025-04-06T19:43:24Z"
+    },
+    {
+      "fileName": "batch-003.json#87197",
+      "kind": "card",
+      "pageTitle": "Clefairy (HeartGold & SoulSilver 60)",
+      "pageId": 87197,
+      "revisionId": 4277978,
+      "revisionTimestamp": "2025-04-07T19:28:50Z"
+    },
+    {
+      "fileName": "batch-003.json#87352",
+      "kind": "card",
+      "pageTitle": "Crobat (Unleashed 14)",
+      "pageId": 87352,
+      "revisionId": 3410079,
+      "revisionTimestamp": "2021-10-12T19:01:26Z"
+    },
+    {
+      "fileName": "batch-003.json#87353",
+      "kind": "card",
+      "pageTitle": "Crobat (Unleashed 84)",
+      "pageId": 87353,
+      "revisionId": 3452480,
+      "revisionTimestamp": "2022-01-06T00:00:33Z"
+    },
+    {
+      "fileName": "batch-003.json#95641",
+      "kind": "card",
+      "pageTitle": "Combee (Undaunted 44)",
+      "pageId": 95641,
+      "revisionId": 3572900,
+      "revisionTimestamp": "2022-09-20T01:13:26Z"
+    },
+    {
+      "fileName": "batch-003.json#98384",
+      "kind": "card",
+      "pageTitle": "Darkrai & Cresselia LEGEND (Triumphant 99)",
+      "pageId": 98384,
+      "revisionId": 4627788,
+      "revisionTimestamp": "2026-09-11T06:50:44Z"
+    },
+    {
+      "fileName": "batch-004.json#101168",
+      "kind": "card",
+      "pageTitle": "Dugtrio (Triumphant 19)",
+      "pageId": 101168,
+      "revisionId": 3877045,
+      "revisionTimestamp": "2023-12-12T11:51:46Z"
+    },
+    {
+      "fileName": "batch-004.json#101173",
+      "kind": "card",
+      "pageTitle": "Dratini (Triumphant 62)",
+      "pageId": 101173,
+      "revisionId": 3540620,
+      "revisionTimestamp": "2022-07-01T23:00:43Z"
+    },
+    {
+      "fileName": "batch-004.json#101175",
+      "kind": "card",
+      "pageTitle": "Dragonair (Triumphant 32)",
+      "pageId": 101175,
+      "revisionId": 3012221,
+      "revisionTimestamp": "2019-08-17T19:01:52Z"
+    },
+    {
+      "fileName": "batch-004.json#101176",
+      "kind": "card",
+      "pageTitle": "Dragonite (Triumphant 18)",
+      "pageId": 101176,
+      "revisionId": 4105236,
+      "revisionTimestamp": "2024-09-05T12:10:30Z"
+    },
+    {
+      "fileName": "batch-004.json#107071",
+      "kind": "card",
+      "pageTitle": "Electabuzz (Triumphant 33)",
+      "pageId": 107071,
+      "revisionId": 4075858,
+      "revisionTimestamp": "2024-08-07T11:25:04Z"
+    },
+    {
+      "fileName": "batch-004.json#108529",
+      "kind": "card",
+      "pageTitle": "Ditto (Triumphant 17)",
+      "pageId": 108529,
+      "revisionId": 4181853,
+      "revisionTimestamp": "2024-11-17T00:33:44Z"
+    },
+    {
+      "fileName": "batch-004.json#108539",
+      "kind": "card",
+      "pageTitle": "Electrode (Triumphant 34)",
+      "pageId": 108539,
+      "revisionId": 3011757,
+      "revisionTimestamp": "2019-08-16T19:02:51Z"
+    },
+    {
+      "fileName": "batch-004.json#108540",
+      "kind": "card",
+      "pageTitle": "Electrode (Triumphant 93)",
+      "pageId": 108540,
+      "revisionId": 4105299,
+      "revisionTimestamp": "2024-09-05T12:28:15Z"
+    },
+    {
+      "fileName": "batch-004.json#108542",
+      "kind": "card",
+      "pageTitle": "Electivire (Triumphant 20)",
+      "pageId": 108542,
+      "revisionId": 3718911,
+      "revisionTimestamp": "2023-05-30T16:16:58Z"
+    },
+    {
+      "fileName": "batch-004.json#108569",
+      "kind": "card",
+      "pageTitle": "Drapion (Triumphant 4)",
+      "pageId": 108569,
+      "revisionId": 3876909,
+      "revisionTimestamp": "2023-12-12T11:46:24Z"
+    },
+    {
+      "fileName": "batch-004.json#11408",
+      "kind": "card",
+      "pageTitle": "Double Colorless Energy (Base Set 96)",
+      "pageId": 11408,
+      "revisionId": 4488127,
+      "revisionTimestamp": "2026-02-18T02:00:22Z"
+    },
+    {
+      "fileName": "batch-004.json#84597",
+      "kind": "card",
+      "pageTitle": "Dunsparce (HeartGold & SoulSilver 41)",
+      "pageId": 84597,
+      "revisionId": 4597127,
+      "revisionTimestamp": "2026-07-28T11:24:08Z"
+    },
+    {
+      "fileName": "batch-004.json#85135",
+      "kind": "card",
+      "pageTitle": "Donphan (HeartGold & SoulSilver 107)",
+      "pageId": 85135,
+      "revisionId": 4277160,
+      "revisionTimestamp": "2025-04-06T19:44:58Z"
+    },
+    {
+      "fileName": "batch-004.json#87354",
+      "kind": "card",
+      "pageTitle": "Drowzee (HeartGold & SoulSilver 62)",
+      "pageId": 87354,
+      "revisionId": 4277115,
+      "revisionTimestamp": "2025-04-06T19:38:46Z"
+    },
+    {
+      "fileName": "batch-004.json#87366",
+      "kind": "card",
+      "pageTitle": "Donphan (HeartGold & SoulSilver 40)",
+      "pageId": 87366,
+      "revisionId": 4277161,
+      "revisionTimestamp": "2025-04-06T19:45:06Z"
+    },
+    {
+      "fileName": "batch-004.json#95586",
+      "kind": "card",
+      "pageTitle": "Eevee (Undaunted 47)",
+      "pageId": 95586,
+      "revisionId": 4141840,
+      "revisionTimestamp": "2024-10-10T00:26:58Z"
+    },
+    {
+      "fileName": "batch-004.json#95649",
+      "kind": "card",
+      "pageTitle": "Doduo (Undaunted 45)",
+      "pageId": 95649,
+      "revisionId": 3006930,
+      "revisionTimestamp": "2019-08-03T07:02:29Z"
+    },
+    {
+      "fileName": "batch-004.json#95651",
+      "kind": "card",
+      "pageTitle": "Dodrio (Undaunted 11)",
+      "pageId": 95651,
+      "revisionId": 3776681,
+      "revisionTimestamp": "2023-08-20T16:17:46Z"
+    },
+    {
+      "fileName": "batch-004.json#95962",
+      "kind": "card",
+      "pageTitle": "Drifloon (Undaunted 46)",
+      "pageId": 95962,
+      "revisionId": 3312075,
+      "revisionTimestamp": "2021-01-15T21:40:29Z"
+    },
+    {
+      "fileName": "batch-004.json#96039",
+      "kind": "card",
+      "pageTitle": "Drifblim (Undaunted 12)",
+      "pageId": 96039,
+      "revisionId": 3877042,
+      "revisionTimestamp": "2023-12-12T11:51:35Z"
+    },
+    {
+      "fileName": "batch-005.json#108021",
+      "kind": "card",
+      "pageTitle": "Entei (HGSS Promo 20)",
+      "pageId": 108021,
+      "revisionId": 4334921,
+      "revisionTimestamp": "2025-07-11T20:30:28Z"
+    },
+    {
+      "fileName": "batch-005.json#108124",
+      "kind": "card",
+      "pageTitle": "Entei (Call of Legends SL3)",
+      "pageId": 108124,
+      "revisionId": 4191917,
+      "revisionTimestamp": "2024-11-24T20:07:55Z"
+    },
+    {
+      "fileName": "batch-005.json#108541",
+      "kind": "card",
+      "pageTitle": "Elekid (Triumphant 21)",
+      "pageId": 108541,
+      "revisionId": 4072397,
+      "revisionTimestamp": "2024-07-31T00:03:34Z"
+    },
+    {
+      "fileName": "batch-005.json#15387",
+      "kind": "card",
+      "pageTitle": "Full Heal (Base Set 82)",
+      "pageId": 15387,
+      "revisionId": 4467077,
+      "revisionTimestamp": "2026-01-14T09:29:27Z"
+    },
+    {
+      "fileName": "batch-005.json#24748",
+      "kind": "card",
+      "pageTitle": "Energy Switch (Aquapolis 120)",
+      "pageId": 24748,
+      "revisionId": 4589237,
+      "revisionTimestamp": "2026-07-11T23:22:08Z"
+    },
+    {
+      "fileName": "batch-005.json#43681",
+      "kind": "card",
+      "pageTitle": "Fisherman (Skyridge 125)",
+      "pageId": 43681,
+      "revisionId": 4593850,
+      "revisionTimestamp": "2026-07-22T06:03:08Z"
+    },
+    {
+      "fileName": "batch-005.json#84586",
+      "kind": "card",
+      "pageTitle": "Feraligatr (HeartGold & SoulSilver 20)",
+      "pageId": 84586,
+      "revisionId": 4280230,
+      "revisionTimestamp": "2025-04-12T17:17:47Z"
+    },
+    {
+      "fileName": "batch-005.json#84634",
+      "kind": "card",
+      "pageTitle": "Feraligatr (HeartGold & SoulSilver 108)",
+      "pageId": 84634,
+      "revisionId": 4277142,
+      "revisionTimestamp": "2025-04-06T19:42:45Z"
+    },
+    {
+      "fileName": "batch-005.json#87077",
+      "kind": "card",
+      "pageTitle": "Fearow (Unleashed 15)",
+      "pageId": 87077,
+      "revisionId": 4523054,
+      "revisionTimestamp": "2026-04-04T11:24:10Z"
+    },
+    {
+      "fileName": "batch-005.json#87215",
+      "kind": "card",
+      "pageTitle": "Flaaffy (HeartGold & SoulSilver 42)",
+      "pageId": 87215,
+      "revisionId": 3852572,
+      "revisionTimestamp": "2023-11-13T01:10:25Z"
+    },
+    {
+      "fileName": "batch-005.json#87356",
+      "kind": "card",
+      "pageTitle": "Exeggcute (HeartGold & SoulSilver 63)",
+      "pageId": 87356,
+      "revisionId": 4277103,
+      "revisionTimestamp": "2025-04-06T19:37:16Z"
+    },
+    {
+      "fileName": "batch-005.json#87357",
+      "kind": "card",
+      "pageTitle": "Exeggutor (HeartGold & SoulSilver 18)",
+      "pageId": 87357,
+      "revisionId": 4277101,
+      "revisionTimestamp": "2025-04-06T19:37:01Z"
+    },
+    {
+      "fileName": "batch-005.json#87379",
+      "kind": "card",
+      "pageTitle": "Farfetch'd (HeartGold & SoulSilver 19)",
+      "pageId": 87379,
+      "revisionId": 4349801,
+      "revisionTimestamp": "2025-08-01T19:12:21Z"
+    },
+    {
+      "fileName": "batch-005.json#93921",
+      "kind": "card",
+      "pageTitle": "Entei & Raikou LEGEND (Unleashed 90)",
+      "pageId": 93921,
+      "revisionId": 4240787,
+      "revisionTimestamp": "2025-02-16T04:15:29Z"
+    },
+    {
+      "fileName": "batch-005.json#95381",
+      "kind": "card",
+      "pageTitle": "Flower Shop Lady (Undaunted 74)",
+      "pageId": 95381,
+      "revisionId": 4592467,
+      "revisionTimestamp": "2026-07-18T21:24:49Z"
+    },
+    {
+      "fileName": "batch-005.json#95669",
+      "kind": "card",
+      "pageTitle": "Forretress (Undaunted 3)",
+      "pageId": 95669,
+      "revisionId": 3521603,
+      "revisionTimestamp": "2022-05-16T19:52:23Z"
+    },
+    {
+      "fileName": "batch-005.json#95680",
+      "kind": "card",
+      "pageTitle": "Flareon (Undaunted 26)",
+      "pageId": 95680,
+      "revisionId": 4215689,
+      "revisionTimestamp": "2025-01-05T13:37:09Z"
+    },
+    {
+      "fileName": "batch-005.json#95918",
+      "kind": "card",
+      "pageTitle": "Espeon (Undaunted 2)",
+      "pageId": 95918,
+      "revisionId": 2843168,
+      "revisionTimestamp": "2018-09-03T01:35:25Z"
+    },
+    {
+      "fileName": "batch-005.json#96205",
+      "kind": "card",
+      "pageTitle": "Energy Exchanger (Undaunted 73)",
+      "pageId": 96205,
+      "revisionId": 4592468,
+      "revisionTimestamp": "2026-07-18T21:27:15Z"
+    },
+    {
+      "fileName": "batch-005.json#98369",
+      "kind": "card",
+      "pageTitle": "Espeon (Undaunted 81)",
+      "pageId": 98369,
+      "revisionId": 3531676,
+      "revisionTimestamp": "2022-06-10T04:33:23Z"
+    },
+    {
+      "fileName": "batch-006.json#101156",
+      "kind": "card",
+      "pageTitle": "Gastly (Triumphant 63)",
+      "pageId": 101156,
+      "revisionId": 3016905,
+      "revisionTimestamp": "2019-08-27T07:39:17Z"
+    },
+    {
+      "fileName": "batch-006.json#101157",
+      "kind": "card",
+      "pageTitle": "Haunter (Triumphant 35)",
+      "pageId": 101157,
+      "revisionId": 3016906,
+      "revisionTimestamp": "2019-08-27T07:39:30Z"
+    },
+    {
+      "fileName": "batch-006.json#101158",
+      "kind": "card",
+      "pageTitle": "Gengar (Triumphant 94)",
+      "pageId": 101158,
+      "revisionId": 4627774,
+      "revisionTimestamp": "2026-09-11T06:36:18Z"
+    },
+    {
+      "fileName": "batch-006.json#108288",
+      "kind": "card",
+      "pageTitle": "Grumpig (Triumphant 23)",
+      "pageId": 108288,
+      "revisionId": 4523006,
+      "revisionTimestamp": "2026-04-04T11:22:46Z"
+    },
+    {
+      "fileName": "batch-006.json#108523",
+      "kind": "card",
+      "pageTitle": "Golduck (Triumphant 22)",
+      "pageId": 108523,
+      "revisionId": 3011368,
+      "revisionTimestamp": "2019-08-15T19:02:05Z"
+    },
+    {
+      "fileName": "batch-006.json#108573",
+      "kind": "card",
+      "pageTitle": "Groudon (Call of Legends 6)",
+      "pageId": 108573,
+      "revisionId": 3953567,
+      "revisionTimestamp": "2024-03-12T02:11:19Z"
+    },
+    {
+      "fileName": "batch-006.json#84583",
+      "kind": "card",
+      "pageTitle": "Gyarados (HeartGold & SoulSilver 123)",
+      "pageId": 84583,
+      "revisionId": 4277122,
+      "revisionTimestamp": "2025-04-06T19:39:37Z"
+    },
+    {
+      "fileName": "batch-006.json#86965",
+      "kind": "card",
+      "pageTitle": "Heracross (HeartGold & SoulSilver 43)",
+      "pageId": 86965,
+      "revisionId": 4277969,
+      "revisionTimestamp": "2025-04-07T19:26:13Z"
+    },
+    {
+      "fileName": "batch-006.json#86996",
+      "kind": "card",
+      "pageTitle": "Growlithe (HeartGold & SoulSilver 65)",
+      "pageId": 86996,
+      "revisionId": 4277150,
+      "revisionTimestamp": "2025-04-06T19:43:40Z"
+    },
+    {
+      "fileName": "batch-006.json#87187",
+      "kind": "card",
+      "pageTitle": "Gyarados (HeartGold & SoulSilver 4)",
+      "pageId": 87187,
+      "revisionId": 4277123,
+      "revisionTimestamp": "2025-04-06T19:39:46Z"
+    },
+    {
+      "fileName": "batch-006.json#87211",
+      "kind": "card",
+      "pageTitle": "Furret (HeartGold & SoulSilver 21)",
+      "pageId": 87211,
+      "revisionId": 4277167,
+      "revisionTimestamp": "2025-04-06T19:45:53Z"
+    },
+    {
+      "fileName": "batch-006.json#87216",
+      "kind": "card",
+      "pageTitle": "Girafarig (HeartGold & SoulSilver 64)",
+      "pageId": 87216,
+      "revisionId": 4277170,
+      "revisionTimestamp": "2025-04-06T19:46:16Z"
+    },
+    {
+      "fileName": "batch-006.json#87351",
+      "kind": "card",
+      "pageTitle": "Golbat (Unleashed 30)",
+      "pageId": 87351,
+      "revisionId": 3410077,
+      "revisionTimestamp": "2021-10-12T19:01:14Z"
+    },
+    {
+      "fileName": "batch-006.json#87371",
+      "kind": "card",
+      "pageTitle": "Hitmontop (HeartGold & SoulSilver 5)",
+      "pageId": 87371,
+      "revisionId": 4277975,
+      "revisionTimestamp": "2025-04-07T19:28:27Z"
+    },
+    {
+      "fileName": "batch-006.json#87385",
+      "kind": "card",
+      "pageTitle": "Granbull (HeartGold & SoulSilver 22)",
+      "pageId": 87385,
+      "revisionId": 3447952,
+      "revisionTimestamp": "2021-12-25T16:58:35Z"
+    },
+    {
+      "fileName": "batch-006.json#95619",
+      "kind": "card",
+      "pageTitle": "Gloom (Undaunted 27)",
+      "pageId": 95619,
+      "revisionId": 4280412,
+      "revisionTimestamp": "2025-04-13T01:49:55Z"
+    },
+    {
+      "fileName": "batch-006.json#95877",
+      "kind": "card",
+      "pageTitle": "Grimer (Undaunted 50)",
+      "pageId": 95877,
+      "revisionId": 3241870,
+      "revisionTimestamp": "2020-09-11T18:40:34Z"
+    },
+    {
+      "fileName": "batch-006.json#95936",
+      "kind": "card",
+      "pageTitle": "Gligar (Undaunted 49)",
+      "pageId": 95936,
+      "revisionId": 4415512,
+      "revisionTimestamp": "2025-11-05T11:51:13Z"
+    },
+    {
+      "fileName": "batch-006.json#95937",
+      "kind": "card",
+      "pageTitle": "Gliscor (Undaunted 4)",
+      "pageId": 95937,
+      "revisionId": 3008148,
+      "revisionTimestamp": "2019-08-05T19:02:18Z"
+    },
+    {
+      "fileName": "batch-006.json#96013",
+      "kind": "card",
+      "pageTitle": "Hariyama (Undaunted 14)",
+      "pageId": 96013,
+      "revisionId": 4235701,
+      "revisionTimestamp": "2025-02-07T03:45:02Z"
+    },
+    {
+      "fileName": "batch-007.json#101124",
+      "kind": "card",
+      "pageTitle": "Illumise (Triumphant 64)",
+      "pageId": 101124,
+      "revisionId": 3009731,
+      "revisionTimestamp": "2019-08-10T07:38:06Z"
+    },
+    {
+      "fileName": "batch-007.json#107074",
+      "kind": "card",
+      "pageTitle": "Indigo Plateau (Triumphant 86)",
+      "pageId": 107074,
+      "revisionId": 4592348,
+      "revisionTimestamp": "2026-07-18T19:11:28Z"
+    },
+    {
+      "fileName": "batch-007.json#108502",
+      "kind": "card",
+      "pageTitle": "Ho-Oh (Call of Legends 9)",
+      "pageId": 108502,
+      "revisionId": 3679642,
+      "revisionTimestamp": "2023-03-08T23:15:59Z"
+    },
+    {
+      "fileName": "batch-007.json#108513",
+      "kind": "card",
+      "pageTitle": "Junk Arm (Triumphant 87)",
+      "pageId": 108513,
+      "revisionId": 4592341,
+      "revisionTimestamp": "2026-07-18T19:08:41Z"
+    },
+    {
+      "fileName": "batch-007.json#113654",
+      "kind": "card",
+      "pageTitle": "Illusion's Zorua (L-P Promo)",
+      "pageId": 113654,
+      "revisionId": 4191907,
+      "revisionTimestamp": "2024-11-24T20:05:12Z"
+    },
+    {
+      "fileName": "batch-007.json#113680",
+      "kind": "card",
+      "pageTitle": "Illusion's Zoroark (L-P Promo)",
+      "pageId": 113680,
+      "revisionId": 4191906,
+      "revisionTimestamp": "2024-11-24T20:04:49Z"
+    },
+    {
+      "fileName": "batch-007.json#84611",
+      "kind": "card",
+      "pageTitle": "Ho-Oh LEGEND (HeartGold & SoulSilver 111)",
+      "pageId": 84611,
+      "revisionId": 4277136,
+      "revisionTimestamp": "2025-04-06T19:41:52Z"
+    },
+    {
+      "fileName": "batch-007.json#85037",
+      "kind": "card",
+      "pageTitle": "Hoothoot (HGSS Promo 5)",
+      "pageId": 85037,
+      "revisionId": 4549927,
+      "revisionTimestamp": "2026-05-11T19:10:04Z"
+    },
+    {
+      "fileName": "batch-007.json#86960",
+      "kind": "card",
+      "pageTitle": "Hoppip (HeartGold & SoulSilver 67)",
+      "pageId": 86960,
+      "revisionId": 4277980,
+      "revisionTimestamp": "2025-04-07T19:28:57Z"
+    },
+    {
+      "fileName": "batch-007.json#86962",
+      "kind": "card",
+      "pageTitle": "Jumpluff (HeartGold & SoulSilver 6)",
+      "pageId": 86962,
+      "revisionId": 4277986,
+      "revisionTimestamp": "2025-04-07T19:29:21Z"
+    },
+    {
+      "fileName": "batch-007.json#87074",
+      "kind": "card",
+      "pageTitle": "Ho-Oh (HGSS Promo 1)",
+      "pageId": 87074,
+      "revisionId": 4549939,
+      "revisionTimestamp": "2026-05-11T19:12:18Z"
+    },
+    {
+      "fileName": "batch-007.json#87212",
+      "kind": "card",
+      "pageTitle": "Hoothoot (HeartGold & SoulSilver 66)",
+      "pageId": 87212,
+      "revisionId": 4277137,
+      "revisionTimestamp": "2025-04-06T19:42:00Z"
+    },
+    {
+      "fileName": "batch-007.json#87235",
+      "kind": "card",
+      "pageTitle": "Igglybuff (HeartGold & SoulSilver 44)",
+      "pageId": 87235,
+      "revisionId": 4558045,
+      "revisionTimestamp": "2026-05-25T16:09:37Z"
+    },
+    {
+      "fileName": "batch-007.json#87236",
+      "kind": "card",
+      "pageTitle": "Jigglypuff (HeartGold & SoulSilver 68)",
+      "pageId": 87236,
+      "revisionId": 4277111,
+      "revisionTimestamp": "2025-04-06T19:38:16Z"
+    },
+    {
+      "fileName": "batch-007.json#87355",
+      "kind": "card",
+      "pageTitle": "Hypno (HeartGold & SoulSilver 23)",
+      "pageId": 87355,
+      "revisionId": 4277138,
+      "revisionTimestamp": "2025-04-06T19:42:07Z"
+    },
+    {
+      "fileName": "batch-007.json#95240",
+      "kind": "card",
+      "pageTitle": "Houndour (Undaunted 54)",
+      "pageId": 95240,
+      "revisionId": 3682587,
+      "revisionTimestamp": "2023-03-14T05:14:28Z"
+    },
+    {
+      "fileName": "batch-007.json#95353",
+      "kind": "card",
+      "pageTitle": "Houndoom (Undaunted 5)",
+      "pageId": 95353,
+      "revisionId": 3876965,
+      "revisionTimestamp": "2023-12-12T11:48:36Z"
+    },
+    {
+      "fileName": "batch-007.json#95752",
+      "kind": "card",
+      "pageTitle": "Horsea (Unleashed 49)",
+      "pageId": 95752,
+      "revisionId": 4045436,
+      "revisionTimestamp": "2024-06-30T15:36:37Z"
+    },
+    {
+      "fileName": "batch-007.json#95774",
+      "kind": "card",
+      "pageTitle": "Jolteon (Undaunted 28)",
+      "pageId": 95774,
+      "revisionId": 3855722,
+      "revisionTimestamp": "2023-11-17T01:22:11Z"
+    },
+    {
+      "fileName": "batch-007.json#95781",
+      "kind": "card",
+      "pageTitle": "Honchkrow (Undaunted 16)",
+      "pageId": 95781,
+      "revisionId": 4516300,
+      "revisionTimestamp": "2026-03-25T21:13:15Z"
+    },
+    {
+      "fileName": "batch-008.json#104596",
+      "kind": "card",
+      "pageTitle": "Lapras (HGSS Promo 14)",
+      "pageId": 104596,
+      "revisionId": 4549932,
+      "revisionTimestamp": "2026-05-11T19:10:57Z"
+    },
+    {
+      "fileName": "batch-008.json#107176",
+      "kind": "card",
+      "pageTitle": "Kyogre & Groudon LEGEND (Undaunted 87)",
+      "pageId": 107176,
+      "revisionId": 4240809,
+      "revisionTimestamp": "2025-02-16T04:45:23Z"
+    },
+    {
+      "fileName": "batch-008.json#108247",
+      "kind": "card",
+      "pageTitle": "Kricketot (Triumphant 65)",
+      "pageId": 108247,
+      "revisionId": 3022684,
+      "revisionTimestamp": "2019-09-12T00:49:10Z"
+    },
+    {
+      "fileName": "batch-008.json#108319",
+      "kind": "card",
+      "pageTitle": "Lairon (Triumphant 37)",
+      "pageId": 108319,
+      "revisionId": 3009551,
+      "revisionTimestamp": "2019-08-09T19:02:05Z"
+    },
+    {
+      "fileName": "batch-008.json#108321",
+      "kind": "card",
+      "pageTitle": "Kangaskhan (Triumphant 36)",
+      "pageId": 108321,
+      "revisionId": 3876977,
+      "revisionTimestamp": "2023-12-12T11:48:59Z"
+    },
+    {
+      "fileName": "batch-008.json#108553",
+      "kind": "card",
+      "pageTitle": "Kricketune (Triumphant 24)",
+      "pageId": 108553,
+      "revisionId": 3011752,
+      "revisionTimestamp": "2019-08-16T19:02:26Z"
+    },
+    {
+      "fileName": "batch-008.json#108572",
+      "kind": "card",
+      "pageTitle": "Kyogre (Call of Legends 12)",
+      "pageId": 108572,
+      "revisionId": 4569100,
+      "revisionTimestamp": "2026-06-08T14:36:19Z"
+    },
+    {
+      "fileName": "batch-008.json#86956",
+      "kind": "card",
+      "pageTitle": "Kakuna (Unleashed 32)",
+      "pageId": 86956,
+      "revisionId": 3236370,
+      "revisionTimestamp": "2020-09-01T19:02:30Z"
+    },
+    {
+      "fileName": "batch-008.json#86971",
+      "kind": "card",
+      "pageTitle": "Ledyba (HeartGold & SoulSilver 71)",
+      "pageId": 86971,
+      "revisionId": 4277987,
+      "revisionTimestamp": "2025-04-07T19:29:28Z"
+    },
+    {
+      "fileName": "batch-008.json#86972",
+      "kind": "card",
+      "pageTitle": "Ledian (HeartGold & SoulSilver 25)",
+      "pageId": 86972,
+      "revisionId": 4277156,
+      "revisionTimestamp": "2025-04-06T19:44:28Z"
+    },
+    {
+      "fileName": "batch-008.json#87084",
+      "kind": "card",
+      "pageTitle": "Lapras (HeartGold & SoulSilver 24)",
+      "pageId": 87084,
+      "revisionId": 4277976,
+      "revisionTimestamp": "2025-04-07T19:28:34Z"
+    },
+    {
+      "fileName": "batch-008.json#87326",
+      "kind": "card",
+      "pageTitle": "Koffing (HeartGold & SoulSilver 70)",
+      "pageId": 87326,
+      "revisionId": 4277112,
+      "revisionTimestamp": "2025-04-06T19:38:23Z"
+    },
+    {
+      "fileName": "batch-008.json#87329",
+      "kind": "card",
+      "pageTitle": "Jynx (HeartGold & SoulSilver 69)",
+      "pageId": 87329,
+      "revisionId": 4277097,
+      "revisionTimestamp": "2025-04-06T19:36:30Z"
+    },
+    {
+      "fileName": "batch-008.json#91792",
+      "kind": "card",
+      "pageTitle": "Latias (HGSS Promo 10)",
+      "pageId": 91792,
+      "revisionId": 4549930,
+      "revisionTimestamp": "2026-05-11T19:10:34Z"
+    },
+    {
+      "fileName": "batch-008.json#91795",
+      "kind": "card",
+      "pageTitle": "Latios (HGSS Promo 11)",
+      "pageId": 91795,
+      "revisionId": 4549931,
+      "revisionTimestamp": "2026-05-11T19:10:44Z"
+    },
+    {
+      "fileName": "batch-008.json#93912",
+      "kind": "card",
+      "pageTitle": "Kingdra (Unleashed 17)",
+      "pageId": 93912,
+      "revisionId": 4045457,
+      "revisionTimestamp": "2024-06-30T15:41:35Z"
+    },
+    {
+      "fileName": "batch-008.json#93914",
+      "kind": "card",
+      "pageTitle": "Kingdra (Unleashed 85)",
+      "pageId": 93914,
+      "revisionId": 3452474,
+      "revisionTimestamp": "2022-01-06T00:00:10Z"
+    },
+    {
+      "fileName": "batch-008.json#93915",
+      "kind": "card",
+      "pageTitle": "Lanturn (Unleashed 86)",
+      "pageId": 93915,
+      "revisionId": 3452476,
+      "revisionTimestamp": "2022-01-06T00:00:11Z"
+    },
+    {
+      "fileName": "batch-008.json#95787",
+      "kind": "card",
+      "pageTitle": "Lanturn (Unleashed 18)",
+      "pageId": 95787,
+      "revisionId": 4045469,
+      "revisionTimestamp": "2024-06-30T15:45:07Z"
+    },
+    {
+      "fileName": "batch-008.json#95938",
+      "kind": "card",
+      "pageTitle": "Larvitar (Unleashed 50)",
+      "pageId": 95938,
+      "revisionId": 4045483,
+      "revisionTimestamp": "2024-06-30T15:49:42Z"
+    },
+    {
+      "fileName": "batch-009.json#106954",
+      "kind": "card",
+      "pageTitle": "Machamp (Triumphant 95)",
+      "pageId": 106954,
+      "revisionId": 3452478,
+      "revisionTimestamp": "2022-01-06T00:00:20Z"
+    },
+    {
+      "fileName": "batch-009.json#106960",
+      "kind": "card",
+      "pageTitle": "Machop (Triumphant 67)",
+      "pageId": 106960,
+      "revisionId": 3526301,
+      "revisionTimestamp": "2022-05-26T23:01:57Z"
+    },
+    {
+      "fileName": "batch-009.json#106964",
+      "kind": "card",
+      "pageTitle": "Machoke (Triumphant 40)",
+      "pageId": 106964,
+      "revisionId": 3028558,
+      "revisionTimestamp": "2019-09-23T19:02:19Z"
+    },
+    {
+      "fileName": "batch-009.json#106965",
+      "kind": "card",
+      "pageTitle": "Machamp (Triumphant 26)",
+      "pageId": 106965,
+      "revisionId": 3028559,
+      "revisionTimestamp": "2019-09-23T19:02:23Z"
+    },
+    {
+      "fileName": "batch-009.json#108504",
+      "kind": "card",
+      "pageTitle": "Lugia (Call of Legends 15)",
+      "pageId": 108504,
+      "revisionId": 3804292,
+      "revisionTimestamp": "2023-09-15T07:13:00Z"
+    },
+    {
+      "fileName": "batch-009.json#108515",
+      "kind": "card",
+      "pageTitle": "Magby (Triumphant 41)",
+      "pageId": 108515,
+      "revisionId": 3437947,
+      "revisionTimestamp": "2021-12-10T05:09:49Z"
+    },
+    {
+      "fileName": "batch-009.json#108517",
+      "kind": "card",
+      "pageTitle": "Magmar (Triumphant 42)",
+      "pageId": 108517,
+      "revisionId": 3010778,
+      "revisionTimestamp": "2019-08-13T19:21:38Z"
+    },
+    {
+      "fileName": "batch-009.json#108518",
+      "kind": "card",
+      "pageTitle": "Magmortar (Triumphant 27)",
+      "pageId": 108518,
+      "revisionId": 3876942,
+      "revisionTimestamp": "2023-12-12T11:47:32Z"
+    },
+    {
+      "fileName": "batch-009.json#108528",
+      "kind": "card",
+      "pageTitle": "Luvdisc (Triumphant 39)",
+      "pageId": 108528,
+      "revisionId": 3421543,
+      "revisionTimestamp": "2021-11-09T10:07:12Z"
+    },
+    {
+      "fileName": "batch-009.json#108564",
+      "kind": "card",
+      "pageTitle": "Lunatone (Triumphant 25)",
+      "pageId": 108564,
+      "revisionId": 3938007,
+      "revisionTimestamp": "2024-03-03T12:13:01Z"
+    },
+    {
+      "fileName": "batch-009.json#108590",
+      "kind": "card",
+      "pageTitle": "Lickitung (Triumphant 66)",
+      "pageId": 108590,
+      "revisionId": 3011754,
+      "revisionTimestamp": "2019-08-16T19:02:35Z"
+    },
+    {
+      "fileName": "batch-009.json#108591",
+      "kind": "card",
+      "pageTitle": "Lickilicky (Triumphant 38)",
+      "pageId": 108591,
+      "revisionId": 3876959,
+      "revisionTimestamp": "2023-12-12T11:48:19Z"
+    },
+    {
+      "fileName": "batch-009.json#236342",
+      "kind": "card",
+      "pageTitle": "Magikarp (HeartGold & SoulSilver 72)",
+      "pageId": 236342,
+      "revisionId": 4326853,
+      "revisionTimestamp": "2025-06-29T10:08:33Z"
+    },
+    {
+      "fileName": "batch-009.json#84609",
+      "kind": "card",
+      "pageTitle": "Lugia LEGEND (HeartGold & SoulSilver 113)",
+      "pageId": 84609,
+      "revisionId": 4615602,
+      "revisionTimestamp": "2026-08-19T15:12:11Z"
+    },
+    {
+      "fileName": "batch-009.json#86984",
+      "kind": "card",
+      "pageTitle": "Lugia (HGSS Promo 2)",
+      "pageId": 86984,
+      "revisionId": 4316529,
+      "revisionTimestamp": "2025-06-06T07:04:20Z"
+    },
+    {
+      "fileName": "batch-009.json#95243",
+      "kind": "card",
+      "pageTitle": "Legend Box (Undaunted 75)",
+      "pageId": 95243,
+      "revisionId": 4592464,
+      "revisionTimestamp": "2026-07-18T21:15:14Z"
+    },
+    {
+      "fileName": "batch-009.json#95750",
+      "kind": "card",
+      "pageTitle": "Magcargo (Undaunted 6)",
+      "pageId": 95750,
+      "revisionId": 4235611,
+      "revisionTimestamp": "2025-02-07T03:37:01Z"
+    },
+    {
+      "fileName": "batch-009.json#98379",
+      "kind": "card",
+      "pageTitle": "Lost Remover (Call of Legends 80)",
+      "pageId": 98379,
+      "revisionId": 4592320,
+      "revisionTimestamp": "2026-07-18T18:25:11Z"
+    },
+    {
+      "fileName": "batch-009.json#98382",
+      "kind": "card",
+      "pageTitle": "Lucario (Call of Legends 14)",
+      "pageId": 98382,
+      "revisionId": 4555730,
+      "revisionTimestamp": "2026-05-22T14:15:03Z"
+    },
+    {
+      "fileName": "batch-009.json#98383",
+      "kind": "card",
+      "pageTitle": "Lost World (Call of Legends 81)",
+      "pageId": 98383,
+      "revisionId": 4592319,
+      "revisionTimestamp": "2026-07-18T18:19:04Z"
+    },
+    {
+      "fileName": "batch-010.json#101144",
+      "kind": "card",
+      "pageTitle": "Magnemite (Triumphant 68)",
+      "pageId": 101144,
+      "revisionId": 3852550,
+      "revisionTimestamp": "2023-11-13T01:09:41Z"
+    },
+    {
+      "fileName": "batch-010.json#101145",
+      "kind": "card",
+      "pageTitle": "Magneton (Triumphant 43)",
+      "pageId": 101145,
+      "revisionId": 4113079,
+      "revisionTimestamp": "2024-09-15T12:48:36Z"
+    },
+    {
+      "fileName": "batch-010.json#101146",
+      "kind": "card",
+      "pageTitle": "Magnezone (Triumphant 96)",
+      "pageId": 101146,
+      "revisionId": 4555715,
+      "revisionTimestamp": "2026-05-22T14:06:55Z"
+    },
+    {
+      "fileName": "batch-010.json#107042",
+      "kind": "card",
+      "pageTitle": "Master's Scroll (L-P Promo 55)",
+      "pageId": 107042,
+      "revisionId": 4549937,
+      "revisionTimestamp": "2026-05-11T19:11:56Z"
+    },
+    {
+      "fileName": "batch-010.json#107043",
+      "kind": "card",
+      "pageTitle": "Master's Key (L-P Promo 68)",
+      "pageId": 107043,
+      "revisionId": 4549923,
+      "revisionTimestamp": "2026-05-11T19:09:28Z"
+    },
+    {
+      "fileName": "batch-010.json#108291",
+      "kind": "card",
+      "pageTitle": "Marowak (Triumphant 44)",
+      "pageId": 108291,
+      "revisionId": 4553276,
+      "revisionTimestamp": "2026-05-17T07:17:40Z"
+    },
+    {
+      "fileName": "batch-010.json#108526",
+      "kind": "card",
+      "pageTitle": "Mamoswine (Triumphant 5)",
+      "pageId": 108526,
+      "revisionId": 3026960,
+      "revisionTimestamp": "2019-09-20T19:02:26Z"
+    },
+    {
+      "fileName": "batch-010.json#11392",
+      "kind": "card",
+      "pageTitle": "Metal Energy (Neo Genesis 19)",
+      "pageId": 11392,
+      "revisionId": 4520069,
+      "revisionTimestamp": "2026-03-30T19:45:34Z"
+    },
+    {
+      "fileName": "batch-010.json#84574",
+      "kind": "card",
+      "pageTitle": "Mareep (Call of Legends 63)",
+      "pageId": 84574,
+      "revisionId": 3540482,
+      "revisionTimestamp": "2022-07-01T22:39:58Z"
+    },
+    {
+      "fileName": "batch-010.json#84587",
+      "kind": "card",
+      "pageTitle": "Meganium (HeartGold & SoulSilver 26)",
+      "pageId": 84587,
+      "revisionId": 3213469,
+      "revisionTimestamp": "2020-07-21T22:59:51Z"
+    },
+    {
+      "fileName": "batch-010.json#84631",
+      "kind": "card",
+      "pageTitle": "Meganium (HeartGold & SoulSilver 109)",
+      "pageId": 84631,
+      "revisionId": 4277099,
+      "revisionTimestamp": "2025-04-06T19:36:46Z"
+    },
+    {
+      "fileName": "batch-010.json#87092",
+      "kind": "card",
+      "pageTitle": "Mantine (HeartGold & SoulSilver 45)",
+      "pageId": 87092,
+      "revisionId": 4277159,
+      "revisionTimestamp": "2025-04-06T19:44:50Z"
+    },
+    {
+      "fileName": "batch-010.json#87188",
+      "kind": "card",
+      "pageTitle": "Marill (HeartGold & SoulSilver 74)",
+      "pageId": 87188,
+      "revisionId": 4028919,
+      "revisionTimestamp": "2024-06-13T09:19:55Z"
+    },
+    {
+      "fileName": "batch-010.json#87214",
+      "kind": "card",
+      "pageTitle": "Mareep (HeartGold & SoulSilver 73)",
+      "pageId": 87214,
+      "revisionId": 4277966,
+      "revisionTimestamp": "2025-04-07T19:25:35Z"
+    },
+    {
+      "fileName": "batch-010.json#87270",
+      "kind": "card",
+      "pageTitle": "Meowth (HeartGold & SoulSilver 75)",
+      "pageId": 87270,
+      "revisionId": 4277100,
+      "revisionTimestamp": "2025-04-06T19:36:54Z"
+    },
+    {
+      "fileName": "batch-010.json#87363",
+      "kind": "card",
+      "pageTitle": "Mankey (Unleashed 53)",
+      "pageId": 87363,
+      "revisionId": 3983302,
+      "revisionTimestamp": "2024-04-05T19:01:54Z"
+    },
+    {
+      "fileName": "batch-010.json#95673",
+      "kind": "card",
+      "pageTitle": "Mawile (Undaunted 56)",
+      "pageId": 95673,
+      "revisionId": 2867555,
+      "revisionTimestamp": "2018-10-22T16:15:18Z"
+    },
+    {
+      "fileName": "batch-010.json#95675",
+      "kind": "card",
+      "pageTitle": "Metang (Undaunted 30)",
+      "pageId": 95675,
+      "revisionId": 4235642,
+      "revisionTimestamp": "2025-02-07T03:44:43Z"
+    },
+    {
+      "fileName": "batch-010.json#95676",
+      "kind": "card",
+      "pageTitle": "Metagross (Undaunted 18)",
+      "pageId": 95676,
+      "revisionId": 3002434,
+      "revisionTimestamp": "2019-07-21T19:01:55Z"
+    },
+    {
+      "fileName": "batch-010.json#96012",
+      "kind": "card",
+      "pageTitle": "Makuhita (Undaunted 55)",
+      "pageId": 96012,
+      "revisionId": 3304560,
+      "revisionTimestamp": "2020-12-27T16:25:49Z"
+    },
+    {
+      "fileName": "batch-011.json#101159",
+      "kind": "card",
+      "pageTitle": "Mime Jr. (Call of Legends 47)",
+      "pageId": 101159,
+      "revisionId": 4555724,
+      "revisionTimestamp": "2026-05-22T14:10:31Z"
+    },
+    {
+      "fileName": "batch-011.json#101160",
+      "kind": "card",
+      "pageTitle": "Mr. Mime (Call of Legends 29)",
+      "pageId": 101160,
+      "revisionId": 4105349,
+      "revisionTimestamp": "2024-09-05T12:29:43Z"
+    },
+    {
+      "fileName": "batch-011.json#108543",
+      "kind": "card",
+      "pageTitle": "Nidoran♀ (Triumphant 69)",
+      "pageId": 108543,
+      "revisionId": 3028444,
+      "revisionTimestamp": "2019-09-23T07:04:24Z"
+    },
+    {
+      "fileName": "batch-011.json#108544",
+      "kind": "card",
+      "pageTitle": "Nidorina (Triumphant 45)",
+      "pageId": 108544,
+      "revisionId": 4028926,
+      "revisionTimestamp": "2024-06-13T09:24:14Z"
+    },
+    {
+      "fileName": "batch-011.json#108545",
+      "kind": "card",
+      "pageTitle": "Nidoqueen (Triumphant 28)",
+      "pageId": 108545,
+      "revisionId": 4322360,
+      "revisionTimestamp": "2025-06-22T03:16:31Z"
+    },
+    {
+      "fileName": "batch-011.json#108546",
+      "kind": "card",
+      "pageTitle": "Nidoran♂ (Triumphant 70)",
+      "pageId": 108546,
+      "revisionId": 3028441,
+      "revisionTimestamp": "2019-09-23T07:03:47Z"
+    },
+    {
+      "fileName": "batch-011.json#108547",
+      "kind": "card",
+      "pageTitle": "Nidorino (Triumphant 46)",
+      "pageId": 108547,
+      "revisionId": 3533620,
+      "revisionTimestamp": "2022-06-14T17:16:51Z"
+    },
+    {
+      "fileName": "batch-011.json#108554",
+      "kind": "card",
+      "pageTitle": "Nidoking (Triumphant 6)",
+      "pageId": 108554,
+      "revisionId": 3467323,
+      "revisionTimestamp": "2022-01-31T14:37:21Z"
+    },
+    {
+      "fileName": "batch-011.json#151544",
+      "kind": "card",
+      "pageTitle": "Moo-Moo Milk (Neo Genesis 101)",
+      "pageId": 151544,
+      "revisionId": 4487985,
+      "revisionTimestamp": "2026-02-17T18:58:02Z"
+    },
+    {
+      "fileName": "batch-011.json#85046",
+      "kind": "card",
+      "pageTitle": "Noctowl (HGSS Promo 6)",
+      "pageId": 85046,
+      "revisionId": 4549928,
+      "revisionTimestamp": "2026-05-11T19:10:14Z"
+    },
+    {
+      "fileName": "batch-011.json#86967",
+      "kind": "card",
+      "pageTitle": "Metapod (HeartGold & SoulSilver 46)",
+      "pageId": 86967,
+      "revisionId": 4277153,
+      "revisionTimestamp": "2025-04-06T19:44:03Z"
+    },
+    {
+      "fileName": "batch-011.json#87001",
+      "kind": "card",
+      "pageTitle": "Ninetales (HeartGold & SoulSilver 7)",
+      "pageId": 87001,
+      "revisionId": 4277164,
+      "revisionTimestamp": "2025-04-06T19:45:31Z"
+    },
+    {
+      "fileName": "batch-011.json#87213",
+      "kind": "card",
+      "pageTitle": "Noctowl (HeartGold & SoulSilver 8)",
+      "pageId": 87213,
+      "revisionId": 4277102,
+      "revisionTimestamp": "2025-04-06T19:37:09Z"
+    },
+    {
+      "fileName": "batch-011.json#87358",
+      "kind": "card",
+      "pageTitle": "Natu (Unleashed 55)",
+      "pageId": 87358,
+      "revisionId": 2799953,
+      "revisionTimestamp": "2018-05-28T22:40:26Z"
+    },
+    {
+      "fileName": "batch-011.json#87390",
+      "kind": "card",
+      "pageTitle": "Miltank (HeartGold & SoulSilver 47)",
+      "pageId": 87390,
+      "revisionId": 4277162,
+      "revisionTimestamp": "2025-04-06T19:45:14Z"
+    },
+    {
+      "fileName": "batch-011.json#95780",
+      "kind": "card",
+      "pageTitle": "Murkrow (Undaunted 59)",
+      "pageId": 95780,
+      "revisionId": 4280413,
+      "revisionTimestamp": "2025-04-13T01:50:11Z"
+    },
+    {
+      "fileName": "batch-011.json#95878",
+      "kind": "card",
+      "pageTitle": "Muk (Undaunted 31)",
+      "pageId": 95878,
+      "revisionId": 3528257,
+      "revisionTimestamp": "2022-06-01T12:21:14Z"
+    },
+    {
+      "fileName": "batch-011.json#95926",
+      "kind": "card",
+      "pageTitle": "Misdreavus (Undaunted 57)",
+      "pageId": 95926,
+      "revisionId": 4476977,
+      "revisionTimestamp": "2026-01-29T15:58:34Z"
+    },
+    {
+      "fileName": "batch-011.json#95927",
+      "kind": "card",
+      "pageTitle": "Mismagius (Undaunted 19)",
+      "pageId": 95927,
+      "revisionId": 3393679,
+      "revisionTimestamp": "2021-08-28T14:18:54Z"
+    },
+    {
+      "fileName": "batch-011.json#98381",
+      "kind": "card",
+      "pageTitle": "Mew (Triumphant 97)",
+      "pageId": 98381,
+      "revisionId": 4555718,
+      "revisionTimestamp": "2026-05-22T14:08:37Z"
+    },
+    {
+      "fileName": "batch-012.json#101147",
+      "kind": "card",
+      "pageTitle": "Pachirisu (Call of Legends 18)",
+      "pageId": 101147,
+      "revisionId": 4555720,
+      "revisionTimestamp": "2026-05-22T14:09:22Z"
+    },
+    {
+      "fileName": "batch-012.json#106961",
+      "kind": "card",
+      "pageTitle": "Palkia & Dialga LEGEND (Triumphant 101)",
+      "pageId": 106961,
+      "revisionId": 4266062,
+      "revisionTimestamp": "2025-03-25T03:49:57Z"
+    },
+    {
+      "fileName": "batch-012.json#108287",
+      "kind": "card",
+      "pageTitle": "Piloswine (Triumphant 48)",
+      "pageId": 108287,
+      "revisionId": 4235700,
+      "revisionTimestamp": "2025-02-07T03:45:01Z"
+    },
+    {
+      "fileName": "batch-012.json#108586",
+      "kind": "card",
+      "pageTitle": "Palkia (Call of Legends 19)",
+      "pageId": 108586,
+      "revisionId": 4210105,
+      "revisionTimestamp": "2024-12-25T04:52:16Z"
+    },
+    {
+      "fileName": "batch-012.json#108587",
+      "kind": "card",
+      "pageTitle": "Pidgey (Triumphant 71)",
+      "pageId": 108587,
+      "revisionId": 3964647,
+      "revisionTimestamp": "2024-03-25T13:07:52Z"
+    },
+    {
+      "fileName": "batch-012.json#108588",
+      "kind": "card",
+      "pageTitle": "Pidgeotto (Triumphant 47)",
+      "pageId": 108588,
+      "revisionId": 3027476,
+      "revisionTimestamp": "2019-09-21T19:02:32Z"
+    },
+    {
+      "fileName": "batch-012.json#108589",
+      "kind": "card",
+      "pageTitle": "Pidgeot (Triumphant 29)",
+      "pageId": 108589,
+      "revisionId": 3027481,
+      "revisionTimestamp": "2019-09-21T19:20:34Z"
+    },
+    {
+      "fileName": "batch-012.json#15388",
+      "kind": "card",
+      "pageTitle": "PlusPower (Base Set 84)",
+      "pageId": 15388,
+      "revisionId": 4592474,
+      "revisionTimestamp": "2026-07-18T21:39:48Z"
+    },
+    {
+      "fileName": "batch-012.json#71621",
+      "kind": "card",
+      "pageTitle": "Pikachu (HGSS Promo 3)",
+      "pageId": 71621,
+      "revisionId": 4544599,
+      "revisionTimestamp": "2026-05-04T19:14:30Z"
+    },
+    {
+      "fileName": "batch-012.json#84572",
+      "kind": "card",
+      "pageTitle": "Phanpy (Call of Legends 66)",
+      "pageId": 84572,
+      "revisionId": 4210085,
+      "revisionTimestamp": "2024-12-25T04:40:23Z"
+    },
+    {
+      "fileName": "batch-012.json#86969",
+      "kind": "card",
+      "pageTitle": "Paras (HeartGold & SoulSilver 76)",
+      "pageId": 86969,
+      "revisionId": 4277106,
+      "revisionTimestamp": "2025-04-06T19:37:38Z"
+    },
+    {
+      "fileName": "batch-012.json#86970",
+      "kind": "card",
+      "pageTitle": "Parasect (HeartGold & SoulSilver 48)",
+      "pageId": 86970,
+      "revisionId": 4277107,
+      "revisionTimestamp": "2025-04-06T19:37:45Z"
+    },
+    {
+      "fileName": "batch-012.json#87091",
+      "kind": "card",
+      "pageTitle": "Octillery (Unleashed 6)",
+      "pageId": 87091,
+      "revisionId": 2990247,
+      "revisionTimestamp": "2019-06-26T08:04:02Z"
+    },
+    {
+      "fileName": "batch-012.json#87218",
+      "kind": "card",
+      "pageTitle": "Pichu (HeartGold & SoulSilver 28)",
+      "pageId": 87218,
+      "revisionId": 4277131,
+      "revisionTimestamp": "2025-04-06T19:41:00Z"
+    },
+    {
+      "fileName": "batch-012.json#87219",
+      "kind": "card",
+      "pageTitle": "Pikachu (HeartGold & SoulSilver 78)",
+      "pageId": 87219,
+      "revisionId": 4356661,
+      "revisionTimestamp": "2025-08-11T16:12:02Z"
+    },
+    {
+      "fileName": "batch-012.json#87365",
+      "kind": "card",
+      "pageTitle": "Phanpy (HeartGold & SoulSilver 77)",
+      "pageId": 87365,
+      "revisionId": 4277972,
+      "revisionTimestamp": "2025-04-07T19:28:02Z"
+    },
+    {
+      "fileName": "batch-012.json#87378",
+      "kind": "card",
+      "pageTitle": "Persian (HeartGold & SoulSilver 27)",
+      "pageId": 87378,
+      "revisionId": 4277971,
+      "revisionTimestamp": "2025-04-07T19:27:54Z"
+    },
+    {
+      "fileName": "batch-012.json#95618",
+      "kind": "card",
+      "pageTitle": "Oddish (Undaunted 60)",
+      "pageId": 95618,
+      "revisionId": 4280257,
+      "revisionTimestamp": "2025-04-12T18:47:39Z"
+    },
+    {
+      "fileName": "batch-012.json#95637",
+      "kind": "card",
+      "pageTitle": "Pineco (Undaunted 63)",
+      "pageId": 95637,
+      "revisionId": 4296412,
+      "revisionTimestamp": "2025-05-08T14:42:03Z"
+    },
+    {
+      "fileName": "batch-012.json#95935",
+      "kind": "card",
+      "pageTitle": "Onix (Unleashed 56)",
+      "pageId": 95935,
+      "revisionId": 4528914,
+      "revisionTimestamp": "2026-04-09T18:41:58Z"
+    },
+    {
+      "fileName": "batch-013.json#106959",
+      "kind": "card",
+      "pageTitle": "Ponyta (Triumphant 72)",
+      "pageId": 106959,
+      "revisionId": 4027385,
+      "revisionTimestamp": "2024-06-10T15:55:11Z"
+    },
+    {
+      "fileName": "batch-013.json#108516",
+      "kind": "card",
+      "pageTitle": "Porygon-Z (Triumphant 7)",
+      "pageId": 108516,
+      "revisionId": 3550036,
+      "revisionTimestamp": "2022-07-28T20:51:10Z"
+    },
+    {
+      "fileName": "batch-013.json#108520",
+      "kind": "card",
+      "pageTitle": "Porygon2 (Triumphant 49)",
+      "pageId": 108520,
+      "revisionId": 3107893,
+      "revisionTimestamp": "2020-02-03T19:02:36Z"
+    },
+    {
+      "fileName": "batch-013.json#108521",
+      "kind": "card",
+      "pageTitle": "Porygon (Triumphant 73)",
+      "pageId": 108521,
+      "revisionId": 3016332,
+      "revisionTimestamp": "2019-08-25T19:02:06Z"
+    },
+    {
+      "fileName": "batch-013.json#108522",
+      "kind": "card",
+      "pageTitle": "Psyduck (Triumphant 74)",
+      "pageId": 108522,
+      "revisionId": 4280256,
+      "revisionTimestamp": "2025-04-12T18:47:21Z"
+    },
+    {
+      "fileName": "batch-013.json#110330",
+      "kind": "card",
+      "pageTitle": "Porygon (HGSS Promo 22)",
+      "pageId": 110330,
+      "revisionId": 4549940,
+      "revisionTimestamp": "2026-05-11T19:12:31Z"
+    },
+    {
+      "fileName": "batch-013.json#110331",
+      "kind": "card",
+      "pageTitle": "Porygon2 (HGSS Promo 23)",
+      "pageId": 110331,
+      "revisionId": 4549934,
+      "revisionTimestamp": "2026-05-11T19:11:19Z"
+    },
+    {
+      "fileName": "batch-013.json#17965",
+      "kind": "card",
+      "pageTitle": "Poké Ball (Jungle 64)",
+      "pageId": 17965,
+      "revisionId": 4516931,
+      "revisionTimestamp": "2026-03-26T23:46:10Z"
+    },
+    {
+      "fileName": "batch-013.json#29839",
+      "kind": "card",
+      "pageTitle": "Pokémon Reversal (Expedition 146)",
+      "pageId": 29839,
+      "revisionId": 4522676,
+      "revisionTimestamp": "2026-04-03T19:16:03Z"
+    },
+    {
+      "fileName": "batch-013.json#29854",
+      "kind": "card",
+      "pageTitle": "Professor Elm's Training Method (Expedition 148)",
+      "pageId": 29854,
+      "revisionId": 4592318,
+      "revisionTimestamp": "2026-07-18T18:15:47Z"
+    },
+    {
+      "fileName": "batch-013.json#87182",
+      "kind": "card",
+      "pageTitle": "Poliwag (Unleashed 58)",
+      "pageId": 87182,
+      "revisionId": 3533489,
+      "revisionTimestamp": "2022-06-14T14:31:50Z"
+    },
+    {
+      "fileName": "batch-013.json#87183",
+      "kind": "card",
+      "pageTitle": "Poliwhirl (Unleashed 37)",
+      "pageId": 87183,
+      "revisionId": 3789795,
+      "revisionTimestamp": "2023-09-01T06:48:49Z"
+    },
+    {
+      "fileName": "batch-013.json#87184",
+      "kind": "card",
+      "pageTitle": "Poliwrath (Unleashed 21)",
+      "pageId": 87184,
+      "revisionId": 3540947,
+      "revisionTimestamp": "2022-07-02T02:40:28Z"
+    },
+    {
+      "fileName": "batch-013.json#87185",
+      "kind": "card",
+      "pageTitle": "Politoed (Unleashed 7)",
+      "pageId": 87185,
+      "revisionId": 2799992,
+      "revisionTimestamp": "2018-05-28T23:20:29Z"
+    },
+    {
+      "fileName": "batch-013.json#87364",
+      "kind": "card",
+      "pageTitle": "Primeape (Unleashed 22)",
+      "pageId": 87364,
+      "revisionId": 3983293,
+      "revisionTimestamp": "2024-04-05T19:01:46Z"
+    },
+    {
+      "fileName": "batch-013.json#87393",
+      "kind": "card",
+      "pageTitle": "Professor Oak's New Theory (HeartGold & SoulSilver 101)",
+      "pageId": 87393,
+      "revisionId": 4592313,
+      "revisionTimestamp": "2026-07-18T17:04:28Z"
+    },
+    {
+      "fileName": "batch-013.json#87404",
+      "kind": "card",
+      "pageTitle": "Pokégear 3.0 (HeartGold & SoulSilver 96)",
+      "pageId": 87404,
+      "revisionId": 4447322,
+      "revisionTimestamp": "2025-12-16T12:36:35Z"
+    },
+    {
+      "fileName": "batch-013.json#87405",
+      "kind": "card",
+      "pageTitle": "Pokémon Communication (HeartGold & SoulSilver 98)",
+      "pageId": 87405,
+      "revisionId": 4473687,
+      "revisionTimestamp": "2026-01-24T01:05:58Z"
+    },
+    {
+      "fileName": "batch-013.json#87406",
+      "kind": "card",
+      "pageTitle": "Pokémon Collector (HeartGold & SoulSilver 97)",
+      "pageId": 87406,
+      "revisionId": 4277154,
+      "revisionTimestamp": "2025-04-06T19:44:11Z"
+    },
+    {
+      "fileName": "batch-013.json#95939",
+      "kind": "card",
+      "pageTitle": "Pupitar (Unleashed 38)",
+      "pageId": 95939,
+      "revisionId": 4045489,
+      "revisionTimestamp": "2024-06-30T15:51:52Z"
+    },
+    {
+      "fileName": "batch-014.json#101126",
+      "kind": "card",
+      "pageTitle": "Relicanth (Call of Legends 69)",
+      "pageId": 101126,
+      "revisionId": 4555725,
+      "revisionTimestamp": "2026-05-22T14:10:48Z"
+    },
+    {
+      "fileName": "batch-014.json#101169",
+      "kind": "card",
+      "pageTitle": "Riolu (Call of Legends 50)",
+      "pageId": 101169,
+      "revisionId": 2849484,
+      "revisionTimestamp": "2018-09-16T07:21:56Z"
+    },
+    {
+      "fileName": "batch-014.json#101180",
+      "kind": "card",
+      "pageTitle": "Research Record (Call of Legends 84)",
+      "pageId": 101180,
+      "revisionId": 4592308,
+      "revisionTimestamp": "2026-07-18T16:58:34Z"
+    },
+    {
+      "fileName": "batch-014.json#106963",
+      "kind": "card",
+      "pageTitle": "Rapidash (Triumphant 8)",
+      "pageId": 106963,
+      "revisionId": 3876933,
+      "revisionTimestamp": "2023-12-12T11:47:05Z"
+    },
+    {
+      "fileName": "batch-014.json#108134",
+      "kind": "card",
+      "pageTitle": "Raikou (Call of Legends SL9)",
+      "pageId": 108134,
+      "revisionId": 4191921,
+      "revisionTimestamp": "2024-11-24T20:08:35Z"
+    },
+    {
+      "fileName": "batch-014.json#108323",
+      "kind": "card",
+      "pageTitle": "Rayquaza & Deoxys LEGEND (Undaunted 89)",
+      "pageId": 108323,
+      "revisionId": 4240862,
+      "revisionTimestamp": "2025-02-16T05:39:10Z"
+    },
+    {
+      "fileName": "batch-014.json#108498",
+      "kind": "card",
+      "pageTitle": "Raikou (HGSS Promo 19)",
+      "pageId": 108498,
+      "revisionId": 4334941,
+      "revisionTimestamp": "2025-07-11T21:41:17Z"
+    },
+    {
+      "fileName": "batch-014.json#108511",
+      "kind": "card",
+      "pageTitle": "Rescue Energy (Triumphant 90)",
+      "pageId": 108511,
+      "revisionId": 4467901,
+      "revisionTimestamp": "2026-01-15T14:43:21Z"
+    },
+    {
+      "fileName": "batch-014.json#108598",
+      "kind": "card",
+      "pageTitle": "Rayquaza (Call of Legends 20)",
+      "pageId": 108598,
+      "revisionId": 3679647,
+      "revisionTimestamp": "2023-03-08T23:16:27Z"
+    },
+    {
+      "fileName": "batch-014.json#25165",
+      "kind": "card",
+      "pageTitle": "Rare Candy (EX Sandstorm 88)",
+      "pageId": 25165,
+      "revisionId": 4589239,
+      "revisionTimestamp": "2026-07-11T23:23:23Z"
+    },
+    {
+      "fileName": "batch-014.json#60335",
+      "kind": "card",
+      "pageTitle": "Rainbow Energy (Team Rocket 17)",
+      "pageId": 60335,
+      "revisionId": 4480144,
+      "revisionTimestamp": "2026-02-01T21:00:37Z"
+    },
+    {
+      "fileName": "batch-014.json#84619",
+      "kind": "card",
+      "pageTitle": "Quilava (HeartGold & SoulSilver 49)",
+      "pageId": 84619,
+      "revisionId": 4277983,
+      "revisionTimestamp": "2025-04-07T19:29:06Z"
+    },
+    {
+      "fileName": "batch-014.json#87088",
+      "kind": "card",
+      "pageTitle": "Qwilfish (HeartGold & SoulSilver 50)",
+      "pageId": 87088,
+      "revisionId": 4277109,
+      "revisionTimestamp": "2025-04-06T19:38:00Z"
+    },
+    {
+      "fileName": "batch-014.json#87090",
+      "kind": "card",
+      "pageTitle": "Remoraid (Unleashed 59)",
+      "pageId": 87090,
+      "revisionId": 3985696,
+      "revisionTimestamp": "2024-04-10T09:13:06Z"
+    },
+    {
+      "fileName": "batch-014.json#87191",
+      "kind": "card",
+      "pageTitle": "Quagsire (HeartGold & SoulSilver 9)",
+      "pageId": 87191,
+      "revisionId": 4277127,
+      "revisionTimestamp": "2025-04-06T19:40:19Z"
+    },
+    {
+      "fileName": "batch-014.json#87220",
+      "kind": "card",
+      "pageTitle": "Raichu (HeartGold & SoulSilver 10)",
+      "pageId": 87220,
+      "revisionId": 2922725,
+      "revisionTimestamp": "2019-02-04T16:04:28Z"
+    },
+    {
+      "fileName": "batch-014.json#90515",
+      "kind": "card",
+      "pageTitle": "Raichu (Undaunted 83)",
+      "pageId": 90515,
+      "revisionId": 3525841,
+      "revisionTimestamp": "2022-05-25T03:53:00Z"
+    },
+    {
+      "fileName": "batch-014.json#93929",
+      "kind": "card",
+      "pageTitle": "Raikou & Suicune LEGEND (Unleashed 92)",
+      "pageId": 93929,
+      "revisionId": 4286931,
+      "revisionTimestamp": "2025-04-25T07:17:07Z"
+    },
+    {
+      "fileName": "batch-014.json#95355",
+      "kind": "card",
+      "pageTitle": "Rattata (Undaunted 64)",
+      "pageId": 95355,
+      "revisionId": 4330728,
+      "revisionTimestamp": "2025-07-05T10:21:08Z"
+    },
+    {
+      "fileName": "batch-014.json#95379",
+      "kind": "card",
+      "pageTitle": "Raticate (Undaunted 34)",
+      "pageId": 95379,
+      "revisionId": 2843176,
+      "revisionTimestamp": "2018-09-03T01:36:20Z"
+    },
+    {
+      "fileName": "batch-015.json#101161",
+      "kind": "card",
+      "pageTitle": "Seviper (Call of Legends 51)",
+      "pageId": 101161,
+      "revisionId": 2849485,
+      "revisionTimestamp": "2018-09-16T07:22:05Z"
+    },
+    {
+      "fileName": "batch-015.json#101162",
+      "kind": "card",
+      "pageTitle": "Shuppet (Triumphant 75)",
+      "pageId": 101162,
+      "revisionId": 3011365,
+      "revisionTimestamp": "2019-08-15T19:01:40Z"
+    },
+    {
+      "fileName": "batch-015.json#101181",
+      "kind": "card",
+      "pageTitle": "Seeker (Triumphant 88)",
+      "pageId": 101181,
+      "revisionId": 4592332,
+      "revisionTimestamp": "2026-07-18T19:02:46Z"
+    },
+    {
+      "fileName": "batch-015.json#105992",
+      "kind": "card",
+      "pageTitle": "Shuckle (HGSS Promo 15)",
+      "pageId": 105992,
+      "revisionId": 4549933,
+      "revisionTimestamp": "2026-05-11T19:11:08Z"
+    },
+    {
+      "fileName": "batch-015.json#108551",
+      "kind": "card",
+      "pageTitle": "Skorupi (Triumphant 76)",
+      "pageId": 108551,
+      "revisionId": 3251143,
+      "revisionTimestamp": "2020-09-27T15:25:27Z"
+    },
+    {
+      "fileName": "batch-015.json#108568",
+      "kind": "card",
+      "pageTitle": "Sharpedo (Triumphant 30)",
+      "pageId": 108568,
+      "revisionId": 3011751,
+      "revisionTimestamp": "2019-08-16T19:02:18Z"
+    },
+    {
+      "fileName": "batch-015.json#109472",
+      "kind": "card",
+      "pageTitle": "Shopping Pikachu (L-P Promo 79)",
+      "pageId": 109472,
+      "revisionId": 4549938,
+      "revisionTimestamp": "2026-05-11T19:12:05Z"
+    },
+    {
+      "fileName": "batch-015.json#85038",
+      "kind": "card",
+      "pageTitle": "Sentret (HeartGold & SoulSilver 80)",
+      "pageId": 85038,
+      "revisionId": 4277168,
+      "revisionTimestamp": "2025-04-06T19:46:01Z"
+    },
+    {
+      "fileName": "batch-015.json#85085",
+      "kind": "card",
+      "pageTitle": "Shuckle (HeartGold & SoulSilver 11)",
+      "pageId": 85085,
+      "revisionId": 4277151,
+      "revisionTimestamp": "2025-04-06T19:43:49Z"
+    },
+    {
+      "fileName": "batch-015.json#86961",
+      "kind": "card",
+      "pageTitle": "Skiploom (HeartGold & SoulSilver 51)",
+      "pageId": 86961,
+      "revisionId": 4588625,
+      "revisionTimestamp": "2026-07-10T08:21:37Z"
+    },
+    {
+      "fileName": "batch-015.json#87367",
+      "kind": "card",
+      "pageTitle": "Sandshrew (HeartGold & SoulSilver 79)",
+      "pageId": 87367,
+      "revisionId": 4277967,
+      "revisionTimestamp": "2025-04-07T19:25:57Z"
+    },
+    {
+      "fileName": "batch-015.json#87368",
+      "kind": "card",
+      "pageTitle": "Sandslash (HeartGold & SoulSilver 29)",
+      "pageId": 87368,
+      "revisionId": 4277968,
+      "revisionTimestamp": "2025-04-07T19:26:05Z"
+    },
+    {
+      "fileName": "batch-015.json#91263",
+      "kind": "card",
+      "pageTitle": "Scyther (Undaunted 36)",
+      "pageId": 91263,
+      "revisionId": 4465326,
+      "revisionTimestamp": "2026-01-10T17:25:23Z"
+    },
+    {
+      "fileName": "batch-015.json#95671",
+      "kind": "card",
+      "pageTitle": "Scizor (Undaunted 7)",
+      "pageId": 95671,
+      "revisionId": 4517705,
+      "revisionTimestamp": "2026-03-27T15:51:30Z"
+    },
+    {
+      "fileName": "batch-015.json#95672",
+      "kind": "card",
+      "pageTitle": "Skarmory (Undaunted 21)",
+      "pageId": 95672,
+      "revisionId": 3707312,
+      "revisionTimestamp": "2023-05-07T15:29:52Z"
+    },
+    {
+      "fileName": "batch-015.json#95753",
+      "kind": "card",
+      "pageTitle": "Seadra (Unleashed 40)",
+      "pageId": 95753,
+      "revisionId": 4045445,
+      "revisionTimestamp": "2024-06-30T15:38:34Z"
+    },
+    {
+      "fileName": "batch-015.json#95785",
+      "kind": "card",
+      "pageTitle": "Sableye (Undaunted 35)",
+      "pageId": 95785,
+      "revisionId": 3876923,
+      "revisionTimestamp": "2023-12-12T11:46:40Z"
+    },
+    {
+      "fileName": "batch-015.json#95860",
+      "kind": "card",
+      "pageTitle": "Rotom (Undaunted 20)",
+      "pageId": 95860,
+      "revisionId": 3006048,
+      "revisionTimestamp": "2019-07-31T19:18:11Z"
+    },
+    {
+      "fileName": "batch-015.json#96246",
+      "kind": "card",
+      "pageTitle": "Sage's Training (Undaunted 77)",
+      "pageId": 96246,
+      "revisionId": 4592306,
+      "revisionTimestamp": "2026-07-18T16:50:16Z"
+    },
+    {
+      "fileName": "batch-015.json#96264",
+      "kind": "card",
+      "pageTitle": "Ruins of Alph (Undaunted 76)",
+      "pageId": 96264,
+      "revisionId": 4592446,
+      "revisionTimestamp": "2026-07-18T19:20:38Z"
+    },
+    {
+      "fileName": "batch-016.json#101165",
+      "kind": "card",
+      "pageTitle": "Spiritomb (Triumphant 10)",
+      "pageId": 101165,
+      "revisionId": 4387221,
+      "revisionTimestamp": "2025-09-23T10:48:45Z"
+    },
+    {
+      "fileName": "batch-016.json#101172",
+      "kind": "card",
+      "pageTitle": "Snorlax (Call of Legends 33)",
+      "pageId": 101172,
+      "revisionId": 4555721,
+      "revisionTimestamp": "2026-05-22T14:09:37Z"
+    },
+    {
+      "fileName": "batch-016.json#108317",
+      "kind": "card",
+      "pageTitle": "Spoink (Triumphant 77)",
+      "pageId": 108317,
+      "revisionId": 3251142,
+      "revisionTimestamp": "2020-09-27T15:24:49Z"
+    },
+    {
+      "fileName": "batch-016.json#108565",
+      "kind": "card",
+      "pageTitle": "Solrock (Triumphant 9)",
+      "pageId": 108565,
+      "revisionId": 3877101,
+      "revisionTimestamp": "2023-12-12T11:54:20Z"
+    },
+    {
+      "fileName": "batch-016.json#86958",
+      "kind": "card",
+      "pageTitle": "Spinarak (HeartGold & SoulSilver 83)",
+      "pageId": 86958,
+      "revisionId": 4277129,
+      "revisionTimestamp": "2025-04-06T19:40:43Z"
+    },
+    {
+      "fileName": "batch-016.json#87076",
+      "kind": "card",
+      "pageTitle": "Spearow (Unleashed 62)",
+      "pageId": 87076,
+      "revisionId": 4608469,
+      "revisionTimestamp": "2026-08-08T10:49:13Z"
+    },
+    {
+      "fileName": "batch-016.json#87080",
+      "kind": "card",
+      "pageTitle": "Slowpoke (HeartGold & SoulSilver 81)",
+      "pageId": 87080,
+      "revisionId": 4277110,
+      "revisionTimestamp": "2025-04-06T19:38:08Z"
+    },
+    {
+      "fileName": "batch-016.json#87081",
+      "kind": "card",
+      "pageTitle": "Slowbro (HeartGold & SoulSilver 52)",
+      "pageId": 87081,
+      "revisionId": 4277165,
+      "revisionTimestamp": "2025-04-06T19:45:39Z"
+    },
+    {
+      "fileName": "batch-016.json#87082",
+      "kind": "card",
+      "pageTitle": "Staryu (HeartGold & SoulSilver 84)",
+      "pageId": 87082,
+      "revisionId": 4277116,
+      "revisionTimestamp": "2025-04-06T19:38:53Z"
+    },
+    {
+      "fileName": "batch-016.json#87083",
+      "kind": "card",
+      "pageTitle": "Starmie (HeartGold & SoulSilver 53)",
+      "pageId": 87083,
+      "revisionId": 4277117,
+      "revisionTimestamp": "2025-04-06T19:39:01Z"
+    },
+    {
+      "fileName": "batch-016.json#87221",
+      "kind": "card",
+      "pageTitle": "Stantler (Unleashed 64)",
+      "pageId": 87221,
+      "revisionId": 3147360,
+      "revisionTimestamp": "2020-04-12T19:08:57Z"
+    },
+    {
+      "fileName": "batch-016.json#87328",
+      "kind": "card",
+      "pageTitle": "Smoochum (HeartGold & SoulSilver 30)",
+      "pageId": 87328,
+      "revisionId": 4277096,
+      "revisionTimestamp": "2025-04-06T19:36:23Z"
+    },
+    {
+      "fileName": "batch-016.json#87330",
+      "kind": "card",
+      "pageTitle": "Slowking (HeartGold & SoulSilver 12)",
+      "pageId": 87330,
+      "revisionId": 4557294,
+      "revisionTimestamp": "2026-05-25T02:57:31Z"
+    },
+    {
+      "fileName": "batch-016.json#87384",
+      "kind": "card",
+      "pageTitle": "Snubbull (HeartGold & SoulSilver 82)",
+      "pageId": 87384,
+      "revisionId": 4277114,
+      "revisionTimestamp": "2025-04-06T19:38:38Z"
+    },
+    {
+      "fileName": "batch-016.json#87410",
+      "kind": "card",
+      "pageTitle": "Slowpoke (Undaunted 66)",
+      "pageId": 87410,
+      "revisionId": 3984130,
+      "revisionTimestamp": "2024-04-07T04:31:45Z"
+    },
+    {
+      "fileName": "batch-016.json#87411",
+      "kind": "card",
+      "pageTitle": "Slowbro (Undaunted 38)",
+      "pageId": 87411,
+      "revisionId": 4105109,
+      "revisionTimestamp": "2024-09-05T12:05:42Z"
+    },
+    {
+      "fileName": "batch-016.json#87413",
+      "kind": "card",
+      "pageTitle": "Slowking (Undaunted 85)",
+      "pageId": 87413,
+      "revisionId": 4215984,
+      "revisionTimestamp": "2025-01-05T15:07:17Z"
+    },
+    {
+      "fileName": "batch-016.json#95349",
+      "kind": "card",
+      "pageTitle": "Sneasel (Undaunted 68)",
+      "pageId": 95349,
+      "revisionId": 3851805,
+      "revisionTimestamp": "2023-11-11T20:51:09Z"
+    },
+    {
+      "fileName": "batch-016.json#95656",
+      "kind": "card",
+      "pageTitle": "Smeargle (Undaunted 8)",
+      "pageId": 95656,
+      "revisionId": 3524069,
+      "revisionTimestamp": "2022-05-21T01:52:00Z"
+    },
+    {
+      "fileName": "batch-016.json#95684",
+      "kind": "card",
+      "pageTitle": "Slugma (Undaunted 67)",
+      "pageId": 95684,
+      "revisionId": 3007152,
+      "revisionTimestamp": "2019-08-03T19:02:18Z"
+    },
+    {
+      "fileName": "batch-017.json#101122",
+      "kind": "card",
+      "pageTitle": "Tangela (Call of Legends 72)",
+      "pageId": 101122,
+      "revisionId": 3851486,
+      "revisionTimestamp": "2023-11-11T11:58:46Z"
+    },
+    {
+      "fileName": "batch-017.json#101177",
+      "kind": "card",
+      "pageTitle": "Swablu (Triumphant 78)",
+      "pageId": 101177,
+      "revisionId": 3009554,
+      "revisionTimestamp": "2019-08-09T19:02:17Z"
+    },
+    {
+      "fileName": "batch-017.json#108024",
+      "kind": "card",
+      "pageTitle": "Suicune (HGSS Promo 21)",
+      "pageId": 108024,
+      "revisionId": 4334891,
+      "revisionTimestamp": "2025-07-11T19:26:44Z"
+    },
+    {
+      "fileName": "batch-017.json#108133",
+      "kind": "card",
+      "pageTitle": "Suicune (Call of Legends SL11)",
+      "pageId": 108133,
+      "revisionId": 4191915,
+      "revisionTimestamp": "2024-11-24T20:07:14Z"
+    },
+    {
+      "fileName": "batch-017.json#108271",
+      "kind": "card",
+      "pageTitle": "Swinub (Triumphant 79)",
+      "pageId": 108271,
+      "revisionId": 3026958,
+      "revisionTimestamp": "2019-09-20T19:02:17Z"
+    },
+    {
+      "fileName": "batch-017.json#108524",
+      "kind": "card",
+      "pageTitle": "Tentacool (Triumphant 80)",
+      "pageId": 108524,
+      "revisionId": 3010765,
+      "revisionTimestamp": "2019-08-13T19:02:11Z"
+    },
+    {
+      "fileName": "batch-017.json#108525",
+      "kind": "card",
+      "pageTitle": "Tentacruel (Triumphant 50)",
+      "pageId": 108525,
+      "revisionId": 3010766,
+      "revisionTimestamp": "2019-08-13T19:02:15Z"
+    },
+    {
+      "fileName": "batch-017.json#15381",
+      "kind": "card",
+      "pageTitle": "Switch (Base Set 95)",
+      "pageId": 15381,
+      "revisionId": 4626735,
+      "revisionTimestamp": "2026-09-10T06:24:17Z"
+    },
+    {
+      "fileName": "batch-017.json#84564",
+      "kind": "card",
+      "pageTitle": "Teddiursa (Call of Legends 73)",
+      "pageId": 84564,
+      "revisionId": 4631116,
+      "revisionTimestamp": "2026-09-16T00:25:20Z"
+    },
+    {
+      "fileName": "batch-017.json#86963",
+      "kind": "card",
+      "pageTitle": "Sunkern (HeartGold & SoulSilver 85)",
+      "pageId": 86963,
+      "revisionId": 4277119,
+      "revisionTimestamp": "2025-04-06T19:39:15Z"
+    },
+    {
+      "fileName": "batch-017.json#86964",
+      "kind": "card",
+      "pageTitle": "Sunflora (HeartGold & SoulSilver 31)",
+      "pageId": 86964,
+      "revisionId": 4277134,
+      "revisionTimestamp": "2025-04-06T19:41:32Z"
+    },
+    {
+      "fileName": "batch-017.json#87210",
+      "kind": "card",
+      "pageTitle": "Tauros (Unleashed 41)",
+      "pageId": 87210,
+      "revisionId": 4279877,
+      "revisionTimestamp": "2025-04-12T00:06:16Z"
+    },
+    {
+      "fileName": "batch-017.json#87369",
+      "kind": "card",
+      "pageTitle": "Sudowoodo (Unleashed 9)",
+      "pageId": 87369,
+      "revisionId": 4371976,
+      "revisionTimestamp": "2025-09-03T19:12:33Z"
+    },
+    {
+      "fileName": "batch-017.json#87386",
+      "kind": "card",
+      "pageTitle": "Teddiursa (Unleashed 65)",
+      "pageId": 87386,
+      "revisionId": 3143240,
+      "revisionTimestamp": "2020-04-04T19:09:52Z"
+    },
+    {
+      "fileName": "batch-017.json#93926",
+      "kind": "card",
+      "pageTitle": "Suicune & Entei LEGEND (Unleashed 94)",
+      "pageId": 93926,
+      "revisionId": 4240887,
+      "revisionTimestamp": "2025-02-16T05:55:26Z"
+    },
+    {
+      "fileName": "batch-017.json#95382",
+      "kind": "card",
+      "pageTitle": "Team Rocket's Trickery (Undaunted 78)",
+      "pageId": 95382,
+      "revisionId": 4065029,
+      "revisionTimestamp": "2024-07-19T19:27:39Z"
+    },
+    {
+      "fileName": "batch-017.json#95652",
+      "kind": "card",
+      "pageTitle": "Togepi (Undaunted 70)",
+      "pageId": 95652,
+      "revisionId": 3421599,
+      "revisionTimestamp": "2021-11-09T10:24:44Z"
+    },
+    {
+      "fileName": "batch-017.json#95654",
+      "kind": "card",
+      "pageTitle": "Togekiss (Undaunted 9)",
+      "pageId": 95654,
+      "revisionId": 3521304,
+      "revisionTimestamp": "2022-05-16T01:02:40Z"
+    },
+    {
+      "fileName": "batch-017.json#95670",
+      "kind": "card",
+      "pageTitle": "Steelix (Unleashed 87)",
+      "pageId": 95670,
+      "revisionId": 4589821,
+      "revisionTimestamp": "2026-07-13T12:42:49Z"
+    },
+    {
+      "fileName": "batch-017.json#98979",
+      "kind": "card",
+      "pageTitle": "Tangrowth (Call of Legends 34)",
+      "pageId": 98979,
+      "revisionId": 4555722,
+      "revisionTimestamp": "2026-05-22T14:09:58Z"
+    },
+    {
+      "fileName": "batch-018.json#101120",
+      "kind": "card",
+      "pageTitle": "Venonat (Triumphant 81)",
+      "pageId": 101120,
+      "revisionId": 3010763,
+      "revisionTimestamp": "2019-08-13T19:02:01Z"
+    },
+    {
+      "fileName": "batch-018.json#101121",
+      "kind": "card",
+      "pageTitle": "Venomoth (Triumphant 11)",
+      "pageId": 101121,
+      "revisionId": 3010764,
+      "revisionTimestamp": "2019-08-13T19:02:07Z"
+    },
+    {
+      "fileName": "batch-018.json#108512",
+      "kind": "card",
+      "pageTitle": "Twins (Triumphant 89)",
+      "pageId": 108512,
+      "revisionId": 4620782,
+      "revisionTimestamp": "2026-08-30T11:01:44Z"
+    },
+    {
+      "fileName": "batch-018.json#108549",
+      "kind": "card",
+      "pageTitle": "Unown (Triumphant 51)",
+      "pageId": 108549,
+      "revisionId": 4528917,
+      "revisionTimestamp": "2026-04-09T18:46:24Z"
+    },
+    {
+      "fileName": "batch-018.json#26280",
+      "kind": "card",
+      "pageTitle": "Tropical Tidal Wave (Nintendo Promo 27)",
+      "pageId": 26280,
+      "revisionId": 4592470,
+      "revisionTimestamp": "2026-07-18T21:31:42Z"
+    },
+    {
+      "fileName": "batch-018.json#84577",
+      "kind": "card",
+      "pageTitle": "Totodile (Call of Legends 74)",
+      "pageId": 84577,
+      "revisionId": 4210095,
+      "revisionTimestamp": "2024-12-25T04:46:53Z"
+    },
+    {
+      "fileName": "batch-018.json#84584",
+      "kind": "card",
+      "pageTitle": "Typhlosion (HeartGold & SoulSilver 32)",
+      "pageId": 84584,
+      "revisionId": 3213739,
+      "revisionTimestamp": "2020-07-21T23:34:48Z"
+    },
+    {
+      "fileName": "batch-018.json#84598",
+      "kind": "card",
+      "pageTitle": "Totodile (HeartGold & SoulSilver 86)",
+      "pageId": 84598,
+      "revisionId": 4277974,
+      "revisionTimestamp": "2025-04-07T19:28:19Z"
+    },
+    {
+      "fileName": "batch-018.json#84630",
+      "kind": "card",
+      "pageTitle": "Typhlosion (HeartGold & SoulSilver 110)",
+      "pageId": 84630,
+      "revisionId": 4277964,
+      "revisionTimestamp": "2025-04-07T19:25:27Z"
+    },
+    {
+      "fileName": "batch-018.json#87331",
+      "kind": "card",
+      "pageTitle": "Unown (HeartGold & SoulSilver 54)",
+      "pageId": 87331,
+      "revisionId": 4277120,
+      "revisionTimestamp": "2025-04-06T19:39:23Z"
+    },
+    {
+      "fileName": "batch-018.json#87360",
+      "kind": "card",
+      "pageTitle": "Unown (HeartGold & SoulSilver 55)",
+      "pageId": 87360,
+      "revisionId": 4277121,
+      "revisionTimestamp": "2025-04-06T19:39:30Z"
+    },
+    {
+      "fileName": "batch-018.json#87370",
+      "kind": "card",
+      "pageTitle": "Tyrogue (HeartGold & SoulSilver 33)",
+      "pageId": 87370,
+      "revisionId": 4342566,
+      "revisionTimestamp": "2025-07-25T12:33:45Z"
+    },
+    {
+      "fileName": "batch-018.json#87387",
+      "kind": "card",
+      "pageTitle": "Ursaring (Unleashed 27)",
+      "pageId": 87387,
+      "revisionId": 3585306,
+      "revisionTimestamp": "2022-10-15T16:24:03Z"
+    },
+    {
+      "fileName": "batch-018.json#87389",
+      "kind": "card",
+      "pageTitle": "Ursaring (Unleashed 89)",
+      "pageId": 87389,
+      "revisionId": 3953616,
+      "revisionTimestamp": "2024-03-12T02:27:23Z"
+    },
+    {
+      "fileName": "batch-018.json#95653",
+      "kind": "card",
+      "pageTitle": "Togetic (Undaunted 39)",
+      "pageId": 95653,
+      "revisionId": 2843172,
+      "revisionTimestamp": "2018-09-03T01:35:50Z"
+    },
+    {
+      "fileName": "batch-018.json#95773",
+      "kind": "card",
+      "pageTitle": "Vaporeon (Undaunted 41)",
+      "pageId": 95773,
+      "revisionId": 3855721,
+      "revisionTimestamp": "2023-11-17T01:21:54Z"
+    },
+    {
+      "fileName": "batch-018.json#95779",
+      "kind": "card",
+      "pageTitle": "Umbreon (Undaunted 10)",
+      "pageId": 95779,
+      "revisionId": 3826336,
+      "revisionTimestamp": "2023-10-13T15:35:16Z"
+    },
+    {
+      "fileName": "batch-018.json#95784",
+      "kind": "card",
+      "pageTitle": "Tyranitar (Unleashed 88)",
+      "pageId": 95784,
+      "revisionId": 3521597,
+      "revisionTimestamp": "2022-05-16T19:47:22Z"
+    },
+    {
+      "fileName": "batch-018.json#95961",
+      "kind": "card",
+      "pageTitle": "Unown (Undaunted 40)",
+      "pageId": 95961,
+      "revisionId": 4550453,
+      "revisionTimestamp": "2026-05-12T07:17:55Z"
+    },
+    {
+      "fileName": "batch-018.json#98378",
+      "kind": "card",
+      "pageTitle": "Umbreon (Undaunted 86)",
+      "pageId": 98378,
+      "revisionId": 4309729,
+      "revisionTimestamp": "2025-05-25T04:15:47Z"
+    },
+    {
+      "fileName": "batch-019.json#101123",
+      "kind": "card",
+      "pageTitle": "Volbeat (Triumphant 82)",
+      "pageId": 101123,
+      "revisionId": 3437945,
+      "revisionTimestamp": "2021-12-10T05:08:46Z"
+    },
+    {
+      "fileName": "batch-019.json#108289",
+      "kind": "card",
+      "pageTitle": "Wailmer (Triumphant 52)",
+      "pageId": 108289,
+      "revisionId": 3010325,
+      "revisionTimestamp": "2019-08-12T07:04:07Z"
+    },
+    {
+      "fileName": "batch-019.json#108506",
+      "kind": "card",
+      "pageTitle": "Weepinbell (Triumphant 53)",
+      "pageId": 108506,
+      "revisionId": 3894763,
+      "revisionTimestamp": "2023-12-29T04:19:45Z"
+    },
+    {
+      "fileName": "batch-019.json#108527",
+      "kind": "card",
+      "pageTitle": "Wailord (Triumphant 31)",
+      "pageId": 108527,
+      "revisionId": 3010326,
+      "revisionTimestamp": "2019-08-12T07:04:11Z"
+    },
+    {
+      "fileName": "batch-019.json#108530",
+      "kind": "card",
+      "pageTitle": "Victreebel (Triumphant 12)",
+      "pageId": 108530,
+      "revisionId": 3728449,
+      "revisionTimestamp": "2023-06-14T12:05:27Z"
+    },
+    {
+      "fileName": "batch-019.json#108534",
+      "kind": "card",
+      "pageTitle": "Yanma (Triumphant 84)",
+      "pageId": 108534,
+      "revisionId": 4042912,
+      "revisionTimestamp": "2024-06-27T10:47:21Z"
+    },
+    {
+      "fileName": "batch-019.json#108537",
+      "kind": "card",
+      "pageTitle": "Yanmega (Triumphant 54)",
+      "pageId": 108537,
+      "revisionId": 3876957,
+      "revisionTimestamp": "2023-12-12T11:48:15Z"
+    },
+    {
+      "fileName": "batch-019.json#108538",
+      "kind": "card",
+      "pageTitle": "Voltorb (Triumphant 83)",
+      "pageId": 108538,
+      "revisionId": 4515398,
+      "revisionTimestamp": "2026-03-23T23:47:00Z"
+    },
+    {
+      "fileName": "batch-019.json#53251",
+      "kind": "card",
+      "pageTitle": "Victory Medal (Battle Road promo)",
+      "pageId": 53251,
+      "revisionId": 4553353,
+      "revisionTimestamp": "2026-05-17T07:47:30Z"
+    },
+    {
+      "fileName": "batch-019.json#86955",
+      "kind": "card",
+      "pageTitle": "Weedle (Unleashed 69)",
+      "pageId": 86955,
+      "revisionId": 4215635,
+      "revisionTimestamp": "2025-01-05T13:17:50Z"
+    },
+    {
+      "fileName": "batch-019.json#87000",
+      "kind": "card",
+      "pageTitle": "Vulpix (HeartGold & SoulSilver 87)",
+      "pageId": 87000,
+      "revisionId": 4277171,
+      "revisionTimestamp": "2025-04-06T19:46:24Z"
+    },
+    {
+      "fileName": "batch-019.json#87190",
+      "kind": "card",
+      "pageTitle": "Wooper (HeartGold & SoulSilver 88)",
+      "pageId": 87190,
+      "revisionId": 4277145,
+      "revisionTimestamp": "2025-04-06T19:43:09Z"
+    },
+    {
+      "fileName": "batch-019.json#87238",
+      "kind": "card",
+      "pageTitle": "Wigglytuff (HeartGold & SoulSilver 56)",
+      "pageId": 87238,
+      "revisionId": 4277140,
+      "revisionTimestamp": "2025-04-06T19:42:21Z"
+    },
+    {
+      "fileName": "batch-019.json#87327",
+      "kind": "card",
+      "pageTitle": "Weezing (HeartGold & SoulSilver 34)",
+      "pageId": 87327,
+      "revisionId": 4277113,
+      "revisionTimestamp": "2025-04-06T19:38:31Z"
+    },
+    {
+      "fileName": "batch-019.json#87332",
+      "kind": "card",
+      "pageTitle": "Wobbuffet (HeartGold & SoulSilver 13)",
+      "pageId": 87332,
+      "revisionId": 4277108,
+      "revisionTimestamp": "2025-04-06T19:37:53Z"
+    },
+    {
+      "fileName": "batch-019.json#87359",
+      "kind": "card",
+      "pageTitle": "Xatu (Unleashed 11)",
+      "pageId": 87359,
+      "revisionId": 2990387,
+      "revisionTimestamp": "2019-06-26T19:08:51Z"
+    },
+    {
+      "fileName": "batch-019.json#88566",
+      "kind": "card",
+      "pageTitle": "Wobbuffet (HGSS Promo 4)",
+      "pageId": 88566,
+      "revisionId": 4549929,
+      "revisionTimestamp": "2026-05-11T19:10:24Z"
+    },
+    {
+      "fileName": "batch-019.json#95351",
+      "kind": "card",
+      "pageTitle": "Weavile (Undaunted 25)",
+      "pageId": 95351,
+      "revisionId": 3521305,
+      "revisionTimestamp": "2022-05-16T01:04:42Z"
+    },
+    {
+      "fileName": "batch-019.json#95629",
+      "kind": "card",
+      "pageTitle": "Vileplume (Undaunted 24)",
+      "pageId": 95629,
+      "revisionId": 3135004,
+      "revisionTimestamp": "2020-03-19T16:14:14Z"
+    },
+    {
+      "fileName": "batch-019.json#95643",
+      "kind": "card",
+      "pageTitle": "Vespiquen (Undaunted 23)",
+      "pageId": 95643,
+      "revisionId": 3008307,
+      "revisionTimestamp": "2019-08-06T07:04:29Z"
+    },
+    {
+      "fileName": "batch-020.json#108548",
+      "kind": "card",
+      "pageTitle": "Yanmega (Triumphant 98)",
+      "pageId": 108548,
+      "revisionId": 4451552,
+      "revisionTimestamp": "2025-12-20T23:58:20Z"
+    },
+    {
+      "fileName": "batch-020.json#87350",
+      "kind": "card",
+      "pageTitle": "Zubat (Unleashed 70)",
+      "pageId": 87350,
+      "revisionId": 3983307,
+      "revisionTimestamp": "2024-04-05T19:01:59Z"
+    },
+    {
+      "fileName": "batch-020.json#98368",
+      "kind": "card",
+      "pageTitle": "Zangoose (Call of Legends 39)",
+      "pageId": 98368,
+      "revisionId": 4555723,
+      "revisionTimestamp": "2026-05-22T14:10:10Z"
+    }
+  ],
+  "sourceApi": "https://bulbapedia.bulbagarden.net/w/api.php",
+  "targetSetCatalog": {
+    "languages": [
+      "en",
+      "ja"
+    ],
+    "sourceUrls": [
+      "https://api.tcgdex.net/v2/en/sets",
+      "https://api.tcgdex.net/v2/ja/sets"
+    ],
+    "setCount": 400
+  }
+}

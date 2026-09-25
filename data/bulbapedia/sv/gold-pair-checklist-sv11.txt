@@ -1,0 +1,2840 @@
+Gold pair checklist - SV11B / SV11W (Black Bolt / White Flare)
+Nguon: data/bulbapedia/sv/counterpart-index.json
+
+Cach doc: moi cap gom 1 dong JP va 1 dong EN cua CUNG MOT the (khac ban in).
+  [JA -> EN] dung khi scan the tieng Nhat;  [EN -> JA] dung khi scan the tieng Anh (badge Verified).
+Can kiem: ten the hai phia phai la cung mot the; so the co the lech o dai SR/AR.
+Link "anh EN" mo duoc trong trinh duyet de doi chieu anh (TCGdex khong co anh cho ban JA cua set nay).
+Tong: 696 cap.
+
+############################################################################################
+## SV11B->SV11B   [EN -> JA]   161 cap
+############################################################################################
+#  1  Snivy / Snivy
+      JP  set SV11B   Black Bolt   cardno 001/086    name Snivy (ツタージャ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 001/086    name Snivy  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/001/high.webp
+#  2  Servine / Servine
+      JP  set SV11B   Black Bolt   cardno 002/086    name Servine (ジャノビー)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 002/086    name Servine  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/002/high.webp
+#  3  Serperior ex / Serperior ex
+      JP  set SV11B   Black Bolt   cardno 003/086    name Serperior ex (ジャローダex)  RR  hp:320
+      EN  set sv10.5b Black Bolt   cardno 003/086    name Serperior ex  Double Rare  hp:320
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/003/high.webp
+#  4  Pansage / Pansage
+      JP  set SV11B   Black Bolt   cardno 004/086    name Pansage (ヤナップ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 004/086    name Pansage  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/004/high.webp
+#  5  Simisage / Simisage
+      JP  set SV11B   Black Bolt   cardno 005/086    name Simisage (ヤナッキー)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 005/086    name Simisage  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/005/high.webp
+#  6  Petilil / Petilil
+      JP  set SV11B   Black Bolt   cardno 006/086    name Petilil (チュリネ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 006/086    name Petilil  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/006/high.webp
+#  7  Lilligant / Lilligant
+      JP  set SV11B   Black Bolt   cardno 007/086    name Lilligant (ドレディア)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 007/086    name Lilligant  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/007/high.webp
+#  8  Maractus / Maractus
+      JP  set SV11B   Black Bolt   cardno 008/086    name Maractus (マラカッチ)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 008/086    name Maractus  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/008/high.webp
+#  9  Karrablast / Karrablast
+      JP  set SV11B   Black Bolt   cardno 009/086    name Karrablast (カブルモ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 009/086    name Karrablast  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/009/high.webp
+# 10  Foongus / Foongus
+      JP  set SV11B   Black Bolt   cardno 010/086    name Foongus (タマゲタケ)  C  hp:50
+      EN  set sv10.5b Black Bolt   cardno 010/086    name Foongus  Common  hp:50
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/010/high.webp
+# 11  Amoonguss / Amoonguss
+      JP  set SV11B   Black Bolt   cardno 011/086    name Amoonguss (モロバレル)  U  hp:120
+      EN  set sv10.5b Black Bolt   cardno 011/086    name Amoonguss  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/011/high.webp
+# 12  Victini / Victini
+      JP  set SV11B   Black Bolt   cardno 012/086    name Victini (ビクティニ)  R  hp:80
+      EN  set sv10.5b Black Bolt   cardno 012/086    name Victini  Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/012/high.webp
+# 13  Darumaka / Darumaka
+      JP  set SV11B   Black Bolt   cardno 013/086    name Darumaka (ダルマッカ)  C  hp:80
+      EN  set sv10.5b Black Bolt   cardno 013/086    name Darumaka  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/013/high.webp
+# 14  Darmanitan / Darmanitan
+      JP  set SV11B   Black Bolt   cardno 014/086    name Darmanitan (ヒヒダルマ)  U  hp:140
+      EN  set sv10.5b Black Bolt   cardno 014/086    name Darmanitan  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/014/high.webp
+# 15  Larvesta / Larvesta
+      JP  set SV11B   Black Bolt   cardno 018/086    name Larvesta (メラルバ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 015/086    name Larvesta  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/015/high.webp
+# 16  Volcarona / Volcarona
+      JP  set SV11B   Black Bolt   cardno 019/086    name Volcarona (ウルガモス)  R  hp:120
+      EN  set sv10.5b Black Bolt   cardno 016/086    name Volcarona  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/016/high.webp
+# 17  Panpour / Panpour
+      JP  set SV11B   Black Bolt   cardno 020/086    name Panpour (ヒヤップ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 017/086    name Panpour  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/017/high.webp
+# 18  Simipour / Simipour
+      JP  set SV11B   Black Bolt   cardno 021/086    name Simipour (ヒヤッキー)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 018/086    name Simipour  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/018/high.webp
+# 19  Tympole / Tympole
+      JP  set SV11B   Black Bolt   cardno 022/086    name Tympole (オタマロ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 019/086    name Tympole  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/019/high.webp
+# 20  Palpitoad / Palpitoad
+      JP  set SV11B   Black Bolt   cardno 023/086    name Palpitoad (ガマガル)  C  hp:90
+      EN  set sv10.5b Black Bolt   cardno 020/086    name Palpitoad  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/020/high.webp
+# 21  Seismitoad / Seismitoad
+      JP  set SV11B   Black Bolt   cardno 024/086    name Seismitoad (ガマゲロゲ)  U  hp:170
+      EN  set sv10.5b Black Bolt   cardno 021/086    name Seismitoad  Uncommon  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/021/high.webp
+# 22  Tirtouga / Tirtouga
+      JP  set SV11B   Black Bolt   cardno 025/086    name Tirtouga (プロトーガ)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 022/086    name Tirtouga  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/022/high.webp
+# 23  Carracosta / Carracosta
+      JP  set SV11B   Black Bolt   cardno 026/086    name Carracosta (アバゴーラ)  R  hp:180
+      EN  set sv10.5b Black Bolt   cardno 023/086    name Carracosta  Rare  hp:180
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/023/high.webp
+# 24  Alomomola / Alomomola
+      JP  set SV11B   Black Bolt   cardno 027/086    name Alomomola (ママンボウ)  U  hp:110
+      EN  set sv10.5b Black Bolt   cardno 024/086    name Alomomola  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/024/high.webp
+# 25  Cubchoo / Cubchoo
+      JP  set SV11B   Black Bolt   cardno 028/086    name Cubchoo (クマシュン)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 025/086    name Cubchoo  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/025/high.webp
+# 26  Beartic / Beartic
+      JP  set SV11B   Black Bolt   cardno 029/086    name Beartic (ツンベアー)  R  hp:150
+      EN  set sv10.5b Black Bolt   cardno 026/086    name Beartic  Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/026/high.webp
+# 27  Cryogonal / Cryogonal
+      JP  set SV11B   Black Bolt   cardno 030/086    name Cryogonal (フリージオ)  U  hp:90
+      EN  set sv10.5b Black Bolt   cardno 027/086    name Cryogonal  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/027/high.webp
+# 28  Kyurem ex / Kyurem ex
+      JP  set SV11B   Black Bolt   cardno 031/086    name Kyurem ex (キュレムex)  RR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 028/086    name Kyurem ex  Double Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/028/high.webp
+# 29  Emolga / Emolga
+      JP  set SV11B   Black Bolt   cardno 032/086    name Emolga (エモンガ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 029/086    name Emolga  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/029/high.webp
+# 30  Tynamo / Tynamo
+      JP  set SV11B   Black Bolt   cardno 033/086    name Tynamo (シビシラス)  C  hp:40
+      EN  set sv10.5b Black Bolt   cardno 030/086    name Tynamo  Common  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/030/high.webp
+# 31  Eelektrik / Eelektrik
+      JP  set SV11B   Black Bolt   cardno 034/086    name Eelektrik (シビビール)  U  hp:90
+      EN  set sv10.5b Black Bolt   cardno 031/086    name Eelektrik  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/031/high.webp
+# 32  Eelektross / Eelektross
+      JP  set SV11B   Black Bolt   cardno 035/086    name Eelektross (シビルドン)  U  hp:160
+      EN  set sv10.5b Black Bolt   cardno 032/086    name Eelektross  Uncommon  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/032/high.webp
+# 33  Thundurus / Thundurus
+      JP  set SV11B   Black Bolt   cardno 036/086    name Thundurus (ボルトロス)  R  hp:120
+      EN  set sv10.5b Black Bolt   cardno 033/086    name Thundurus  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/033/high.webp
+# 34  Zekrom ex / Zekrom ex
+      JP  set SV11B   Black Bolt   cardno 037/086    name Zekrom ex (ゼクロムex)  RR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 034/086    name Zekrom ex  Double Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/034/high.webp
+# 35  Munna / Munna
+      JP  set SV11B   Black Bolt   cardno 038/086    name Munna (ムンナ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 035/086    name Munna  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/035/high.webp
+# 36  Musharna / Musharna
+      JP  set SV11B   Black Bolt   cardno 039/086    name Musharna (ムシャーナ)  U  hp:120
+      EN  set sv10.5b Black Bolt   cardno 036/086    name Musharna  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/036/high.webp
+# 37  Solosis / Solosis
+      JP  set SV11B   Black Bolt   cardno 040/086    name Solosis (ユニラン)  C  hp:40
+      EN  set sv10.5b Black Bolt   cardno 037/086    name Solosis  Common  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/037/high.webp
+# 38  Duosion / Duosion
+      JP  set SV11B   Black Bolt   cardno 041/086    name Duosion (ダブラン)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 038/086    name Duosion  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/038/high.webp
+# 39  Reuniclus / Reuniclus
+      JP  set SV11B   Black Bolt   cardno 042/086    name Reuniclus (ランクルス)  U  hp:140
+      EN  set sv10.5b Black Bolt   cardno 039/086    name Reuniclus  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/039/high.webp
+# 40  Elgyem / Elgyem
+      JP  set SV11B   Black Bolt   cardno 043/086    name Elgyem (リグレー)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 040/086    name Elgyem  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/040/high.webp
+# 41  Beheeyem / Beheeyem
+      JP  set SV11B   Black Bolt   cardno 044/086    name Beheeyem (オーベム)  U  hp:90
+      EN  set sv10.5b Black Bolt   cardno 041/086    name Beheeyem  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/041/high.webp
+# 42  Golett / Golett
+      JP  set SV11B   Black Bolt   cardno 045/086    name Golett (ゴビット)  C  hp:90
+      EN  set sv10.5b Black Bolt   cardno 042/086    name Golett  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/042/high.webp
+# 43  Golurk / Golurk
+      JP  set SV11B   Black Bolt   cardno 046/086    name Golurk (ゴルーグ)  U  hp:160
+      EN  set sv10.5b Black Bolt   cardno 043/086    name Golurk  Uncommon  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/043/high.webp
+# 44  Meloetta ex / Meloetta ex
+      JP  set SV11B   Black Bolt   cardno 047/086    name Meloetta ex (メロエッタex)  RR  hp:200
+      EN  set sv10.5b Black Bolt   cardno 044/086    name Meloetta ex  Double Rare  hp:200
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/044/high.webp
+# 45  Drilbur / Drilbur
+      JP  set SV11B   Black Bolt   cardno 048/086    name Drilbur (モグリュー)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 045/086    name Drilbur  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/045/high.webp
+# 46  Excadrill ex / Excadrill ex
+      JP  set SV11B   Black Bolt   cardno 049/086    name Excadrill ex (ドリュウズex)  RR  hp:270
+      EN  set sv10.5b Black Bolt   cardno 046/086    name Excadrill ex  Double Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/046/high.webp
+# 47  Timburr / Timburr
+      JP  set SV11B   Black Bolt   cardno 050/086    name Timburr (ドッコラー)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 047/086    name Timburr  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/047/high.webp
+# 48  Gurdurr / Gurdurr
+      JP  set SV11B   Black Bolt   cardno 051/086    name Gurdurr (ドテッコツ)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 048/086    name Gurdurr  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/048/high.webp
+# 49  Conkeldurr / Conkeldurr
+      JP  set SV11B   Black Bolt   cardno 052/086    name Conkeldurr (ローブシン)  R  hp:140
+      EN  set sv10.5b Black Bolt   cardno 049/086    name Conkeldurr  Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/049/high.webp
+# 50  Throh / Throh
+      JP  set SV11B   Black Bolt   cardno 053/086    name Throh (ナゲキ)  U  hp:130
+      EN  set sv10.5b Black Bolt   cardno 050/086    name Throh  Uncommon  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/050/high.webp
+# 51  Dwebble / Dwebble
+      JP  set SV11B   Black Bolt   cardno 054/086    name Dwebble (イシズマイ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 051/086    name Dwebble  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/051/high.webp
+# 52  Crustle / Crustle
+      JP  set SV11B   Black Bolt   cardno 055/086    name Crustle (イワパレス)  U  hp:150
+      EN  set sv10.5b Black Bolt   cardno 052/086    name Crustle  Uncommon  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/052/high.webp
+# 53  Landorus / Landorus
+      JP  set SV11B   Black Bolt   cardno 056/086    name Landorus (ランドロス)  R  hp:130
+      EN  set sv10.5b Black Bolt   cardno 053/086    name Landorus  Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/053/high.webp
+# 54  Venipede / Venipede
+      JP  set SV11B   Black Bolt   cardno 057/086    name Venipede (フシデ)  C  hp:80
+      EN  set sv10.5b Black Bolt   cardno 054/086    name Venipede  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/054/high.webp
+# 55  Whirlipede / Whirlipede
+      JP  set SV11B   Black Bolt   cardno 058/086    name Whirlipede (ホイーガ)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 055/086    name Whirlipede  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/055/high.webp
+# 56  Scolipede / Scolipede
+      JP  set SV11B   Black Bolt   cardno 059/086    name Scolipede (ペンドラー)  U  hp:160
+      EN  set sv10.5b Black Bolt   cardno 056/086    name Scolipede  Uncommon  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/056/high.webp
+# 57  Sandile / Sandile
+      JP  set SV11B   Black Bolt   cardno 060/086    name Sandile (メグロコ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 057/086    name Sandile  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/057/high.webp
+# 58  Krokorok / Krokorok
+      JP  set SV11B   Black Bolt   cardno 061/086    name Krokorok (ワルビル)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 058/086    name Krokorok  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/058/high.webp
+# 59  Krookodile / Krookodile
+      JP  set SV11B   Black Bolt   cardno 062/086    name Krookodile (ワルビアル)  U  hp:170
+      EN  set sv10.5b Black Bolt   cardno 059/086    name Krookodile  Uncommon  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/059/high.webp
+# 60  Escavalier / Escavalier
+      JP  set SV11B   Black Bolt   cardno 065/086    name Escavalier (シュバルゴ)  C  hp:130
+      EN  set sv10.5b Black Bolt   cardno 060/086    name Escavalier  Uncommon  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/060/high.webp
+# 61  Pawniard / Pawniard
+      JP  set SV11B   Black Bolt   cardno 066/086    name Pawniard (コマタナ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 064/086    name Pawniard  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/064/high.webp
+# 62  Bisharp / Bisharp
+      JP  set SV11B   Black Bolt   cardno 067/086    name Bisharp (キリキザン)  U  hp:120
+      EN  set sv10.5b Black Bolt   cardno 065/086    name Bisharp  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/065/high.webp
+# 63  Cobalion / Cobalion
+      JP  set SV11B   Black Bolt   cardno 068/086    name Cobalion (コバルオン)  R  hp:120
+      EN  set sv10.5b Black Bolt   cardno 066/086    name Cobalion  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/066/high.webp
+# 64  Genesect ex / Genesect ex
+      JP  set SV11B   Black Bolt   cardno 069/086    name Genesect ex (ゲノセクトex)  RR  hp:220
+      EN  set sv10.5b Black Bolt   cardno 067/086    name Genesect ex  Double Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/067/high.webp
+# 65  Axew / Axew
+      JP  set SV11B   Black Bolt   cardno 070/086    name Axew (キバゴ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 068/086    name Axew  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/068/high.webp
+# 66  Fraxure / Fraxure
+      JP  set SV11B   Black Bolt   cardno 071/086    name Fraxure (オノンド)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 069/086    name Fraxure  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/069/high.webp
+# 67  Haxorus / Haxorus
+      JP  set SV11B   Black Bolt   cardno 072/086    name Haxorus (オノノクス)  R  hp:170
+      EN  set sv10.5b Black Bolt   cardno 070/086    name Haxorus  Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/070/high.webp
+# 68  Pidove / Pidove
+      JP  set SV11B   Black Bolt   cardno 073/086    name Pidove (マメパト)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 071/086    name Pidove  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/071/high.webp
+# 69  Tranquill / Tranquill
+      JP  set SV11B   Black Bolt   cardno 074/086    name Tranquill (ハトーボー)  C  hp:80
+      EN  set sv10.5b Black Bolt   cardno 072/086    name Tranquill  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/072/high.webp
+# 70  Unfezant / Unfezant
+      JP  set SV11B   Black Bolt   cardno 075/086    name Unfezant (ケンホロウ)  U  hp:150
+      EN  set sv10.5b Black Bolt   cardno 073/086    name Unfezant  Uncommon  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/073/high.webp
+# 71  Audino / Audino
+      JP  set SV11B   Black Bolt   cardno 076/086    name Audino (タブンネ)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 074/086    name Audino  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/074/high.webp
+# 72  Minccino / Minccino
+      JP  set SV11B   Black Bolt   cardno 077/086    name Minccino (チラーミィ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 075/086    name Minccino  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/075/high.webp
+# 73  Cinccino / Cinccino
+      JP  set SV11B   Black Bolt   cardno 078/086    name Cinccino (チラチーノ)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 076/086    name Cinccino  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/076/high.webp
+# 74  Air Balloon / Air Balloon
+      JP  set SV11B   Black Bolt   cardno 082/086    name Air Balloon (ふうせん)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 079/086    name Air Balloon  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/079/high.webp
+# 75  Antique Cover Fossil / Antique Cover Fossil
+      JP  set SV11B   Black Bolt   cardno 080/086    name Antique Cover Fossil (古びたふたの化石)  C  hp:-
+      EN  set sv10.5b Black Bolt   cardno 080/086    name Antique Cover Fossil  Common  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/080/high.webp
+# 76  Energy Coin / Energy Coin
+      JP  set SV11B   Black Bolt   cardno 079/086    name Energy Coin (エネルギーコイン)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 081/086    name Energy Coin  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/081/high.webp
+# 77  Fennel / Fennel
+      JP  set SV11B   Black Bolt   cardno 085/086    name Fennel (マコモ)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 082/086    name Fennel  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/082/high.webp
+# 78  N's Plan / N's Plan
+      JP  set SV11B   Black Bolt   cardno 083/086    name N's Plan (Nの筋書き)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 083/086    name N's Plan  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/083/high.webp
+# 79  Pokégear 3.0 / Pokégear 3.0
+      JP  set SV11B   Black Bolt   cardno 081/086    name Pokégear 3.0 (ポケギア3.0)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 084/086    name Pokégear 3.0  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/084/high.webp
+# 80  Professor's Research / Professor's Research
+      JP  set SV11B   Black Bolt   cardno 084/086    name Professor's Research (博士の研究)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 085/086    name Professor's Research  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/085/high.webp
+# 81  Prism Energy / Prism Energy
+      JP  set SV11B   Black Bolt   cardno 086/086    name Prism Energy (プリズムエネルギー)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 086/086    name Prism Energy  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/086/high.webp
+# 82  Snivy / Snivy
+      JP  set SV11B   Black Bolt   cardno 087/086    name Snivy (ツタージャ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 087/086    name Snivy  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/087/high.webp
+# 83  Servine / Servine
+      JP  set SV11B   Black Bolt   cardno 088/086    name Servine (ジャノビー)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 088/086    name Servine  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/088/high.webp
+# 84  Pansage / Pansage
+      JP  set SV11B   Black Bolt   cardno 089/086    name Pansage (ヤナップ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 089/086    name Pansage  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/089/high.webp
+# 85  Simisage / Simisage
+      JP  set SV11B   Black Bolt   cardno 090/086    name Simisage (ヤナッキー)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 090/086    name Simisage  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/090/high.webp
+# 86  Petilil / Petilil
+      JP  set SV11B   Black Bolt   cardno 091/086    name Petilil (チュリネ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 091/086    name Petilil  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/091/high.webp
+# 87  Lilligant / Lilligant
+      JP  set SV11B   Black Bolt   cardno 092/086    name Lilligant (ドレディア)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 092/086    name Lilligant  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/092/high.webp
+# 88  Maractus / Maractus
+      JP  set SV11B   Black Bolt   cardno 093/086    name Maractus (マラカッチ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 093/086    name Maractus  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/093/high.webp
+# 89  Karrablast / Karrablast
+      JP  set SV11B   Black Bolt   cardno 094/086    name Karrablast (カブルモ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 094/086    name Karrablast  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/094/high.webp
+# 90  Foongus / Foongus
+      JP  set SV11B   Black Bolt   cardno 095/086    name Foongus (タマゲタケ)  AR  hp:50
+      EN  set sv10.5b Black Bolt   cardno 095/086    name Foongus  Illustration Rare  hp:50
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/095/high.webp
+# 91  Amoonguss / Amoonguss
+      JP  set SV11B   Black Bolt   cardno 096/086    name Amoonguss (モロバレル)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 096/086    name Amoonguss  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/096/high.webp
+# 92  Darumaka / Darumaka
+      JP  set SV11B   Black Bolt   cardno 098/086    name Darumaka (ダルマッカ)  AR  hp:80
+      EN  set sv10.5b Black Bolt   cardno 097/086    name Darumaka  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/097/high.webp
+# 93  Darmanitan / Darmanitan
+      JP  set SV11B   Black Bolt   cardno 099/086    name Darmanitan (ヒヒダルマ)  AR  hp:140
+      EN  set sv10.5b Black Bolt   cardno 098/086    name Darmanitan  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/098/high.webp
+# 94  Larvesta / Larvesta
+      JP  set SV11B   Black Bolt   cardno 103/086    name Larvesta (メラルバ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 099/086    name Larvesta  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/099/high.webp
+# 95  Volcarona / Volcarona
+      JP  set SV11B   Black Bolt   cardno 104/086    name Volcarona (ウルガモス)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 100/086    name Volcarona  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/100/high.webp
+# 96  Panpour / Panpour
+      JP  set SV11B   Black Bolt   cardno 105/086    name Panpour (ヒヤップ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 101/086    name Panpour  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/101/high.webp
+# 97  Simipour / Simipour
+      JP  set SV11B   Black Bolt   cardno 106/086    name Simipour (ヒヤッキー)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 102/086    name Simipour  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/102/high.webp
+# 98  Tympole / Tympole
+      JP  set SV11B   Black Bolt   cardno 107/086    name Tympole (オタマロ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 103/086    name Tympole  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/103/high.webp
+# 99  Palpitoad / Palpitoad
+      JP  set SV11B   Black Bolt   cardno 108/086    name Palpitoad (ガマガル)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 104/086    name Palpitoad  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/104/high.webp
+#100  Seismitoad / Seismitoad
+      JP  set SV11B   Black Bolt   cardno 109/086    name Seismitoad (ガマゲロゲ)  AR  hp:170
+      EN  set sv10.5b Black Bolt   cardno 105/086    name Seismitoad  Illustration Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/105/high.webp
+#101  Tirtouga / Tirtouga
+      JP  set SV11B   Black Bolt   cardno 110/086    name Tirtouga (プロトーガ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 106/086    name Tirtouga  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/106/high.webp
+#102  Carracosta / Carracosta
+      JP  set SV11B   Black Bolt   cardno 111/086    name Carracosta (アバゴーラ)  AR  hp:180
+      EN  set sv10.5b Black Bolt   cardno 107/086    name Carracosta  Illustration Rare  hp:180
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/107/high.webp
+#103  Alomomola / Alomomola
+      JP  set SV11B   Black Bolt   cardno 112/086    name Alomomola (ママンボウ)  AR  hp:110
+      EN  set sv10.5b Black Bolt   cardno 108/086    name Alomomola  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/108/high.webp
+#104  Cubchoo / Cubchoo
+      JP  set SV11B   Black Bolt   cardno 113/086    name Cubchoo (クマシュン)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 109/086    name Cubchoo  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/109/high.webp
+#105  Beartic / Beartic
+      JP  set SV11B   Black Bolt   cardno 114/086    name Beartic (ツンベアー)  AR  hp:150
+      EN  set sv10.5b Black Bolt   cardno 110/086    name Beartic  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/110/high.webp
+#106  Cryogonal / Cryogonal
+      JP  set SV11B   Black Bolt   cardno 115/086    name Cryogonal (フリージオ)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 111/086    name Cryogonal  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/111/high.webp
+#107  Emolga / Emolga
+      JP  set SV11B   Black Bolt   cardno 116/086    name Emolga (エモンガ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 112/086    name Emolga  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/112/high.webp
+#108  Tynamo / Tynamo
+      JP  set SV11B   Black Bolt   cardno 117/086    name Tynamo (シビシラス)  AR  hp:40
+      EN  set sv10.5b Black Bolt   cardno 113/086    name Tynamo  Illustration Rare  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/113/high.webp
+#109  Eelektrik / Eelektrik
+      JP  set SV11B   Black Bolt   cardno 118/086    name Eelektrik (シビビール)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 114/086    name Eelektrik  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/114/high.webp
+#110  Eelektross / Eelektross
+      JP  set SV11B   Black Bolt   cardno 119/086    name Eelektross (シビルドン)  AR  hp:160
+      EN  set sv10.5b Black Bolt   cardno 115/086    name Eelektross  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/115/high.webp
+#111  Munna / Munna
+      JP  set SV11B   Black Bolt   cardno 121/086    name Munna (ムンナ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 116/086    name Munna  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/116/high.webp
+#112  Musharna / Musharna
+      JP  set SV11B   Black Bolt   cardno 122/086    name Musharna (ムシャーナ)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 117/086    name Musharna  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/117/high.webp
+#113  Solosis / Solosis
+      JP  set SV11B   Black Bolt   cardno 123/086    name Solosis (ユニラン)  AR  hp:40
+      EN  set sv10.5b Black Bolt   cardno 118/086    name Solosis  Illustration Rare  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/118/high.webp
+#114  Duosion / Duosion
+      JP  set SV11B   Black Bolt   cardno 124/086    name Duosion (ダブラン)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 119/086    name Duosion  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/119/high.webp
+#115  Elgyem / Elgyem
+      JP  set SV11B   Black Bolt   cardno 126/086    name Elgyem (リグレー)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 120/086    name Elgyem  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/120/high.webp
+#116  Beheeyem / Beheeyem
+      JP  set SV11B   Black Bolt   cardno 127/086    name Beheeyem (オーベム)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 121/086    name Beheeyem  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/121/high.webp
+#117  Golett / Golett
+      JP  set SV11B   Black Bolt   cardno 128/086    name Golett (ゴビット)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 122/086    name Golett  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/122/high.webp
+#118  Golurk / Golurk
+      JP  set SV11B   Black Bolt   cardno 129/086    name Golurk (ゴルーグ)  AR  hp:160
+      EN  set sv10.5b Black Bolt   cardno 123/086    name Golurk  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/123/high.webp
+#119  Drilbur / Drilbur
+      JP  set SV11B   Black Bolt   cardno 130/086    name Drilbur (モグリュー)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 124/086    name Drilbur  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/124/high.webp
+#120  Timburr / Timburr
+      JP  set SV11B   Black Bolt   cardno 131/086    name Timburr (ドッコラー)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 125/086    name Timburr  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/125/high.webp
+#121  Gurdurr / Gurdurr
+      JP  set SV11B   Black Bolt   cardno 132/086    name Gurdurr (ドテッコツ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 126/086    name Gurdurr  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/126/high.webp
+#122  Conkeldurr / Conkeldurr
+      JP  set SV11B   Black Bolt   cardno 133/086    name Conkeldurr (ローブシン)  AR  hp:140
+      EN  set sv10.5b Black Bolt   cardno 127/086    name Conkeldurr  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/127/high.webp
+#123  Throh / Throh
+      JP  set SV11B   Black Bolt   cardno 134/086    name Throh (ナゲキ)  AR  hp:130
+      EN  set sv10.5b Black Bolt   cardno 128/086    name Throh  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/128/high.webp
+#124  Dwebble / Dwebble
+      JP  set SV11B   Black Bolt   cardno 135/086    name Dwebble (イシズマイ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 129/086    name Dwebble  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/129/high.webp
+#125  Crustle / Crustle
+      JP  set SV11B   Black Bolt   cardno 136/086    name Crustle (イワパレス)  AR  hp:150
+      EN  set sv10.5b Black Bolt   cardno 130/086    name Crustle  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/130/high.webp
+#126  Landorus / Landorus
+      JP  set SV11B   Black Bolt   cardno 137/086    name Landorus (ランドロス)  AR  hp:130
+      EN  set sv10.5b Black Bolt   cardno 131/086    name Landorus  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/131/high.webp
+#127  Venipede / Venipede
+      JP  set SV11B   Black Bolt   cardno 138/086    name Venipede (フシデ)  AR  hp:80
+      EN  set sv10.5b Black Bolt   cardno 132/086    name Venipede  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/132/high.webp
+#128  Whirlipede / Whirlipede
+      JP  set SV11B   Black Bolt   cardno 139/086    name Whirlipede (ホイーガ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 133/086    name Whirlipede  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/133/high.webp
+#129  Scolipede / Scolipede
+      JP  set SV11B   Black Bolt   cardno 140/086    name Scolipede (ペンドラー)  AR  hp:160
+      EN  set sv10.5b Black Bolt   cardno 134/086    name Scolipede  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/134/high.webp
+#130  Sandile / Sandile
+      JP  set SV11B   Black Bolt   cardno 141/086    name Sandile (メグロコ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 135/086    name Sandile  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/135/high.webp
+#131  Krokorok / Krokorok
+      JP  set SV11B   Black Bolt   cardno 142/086    name Krokorok (ワルビル)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 136/086    name Krokorok  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/136/high.webp
+#132  Krookodile / Krookodile
+      JP  set SV11B   Black Bolt   cardno 143/086    name Krookodile (ワルビアル)  AR  hp:170
+      EN  set sv10.5b Black Bolt   cardno 137/086    name Krookodile  Illustration Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/137/high.webp
+#133  Escavalier / Escavalier
+      JP  set SV11B   Black Bolt   cardno 146/086    name Escavalier (シュバルゴ)  AR  hp:130
+      EN  set sv10.5b Black Bolt   cardno 138/086    name Escavalier  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/138/high.webp
+#134  Pawniard / Pawniard
+      JP  set SV11B   Black Bolt   cardno 147/086    name Pawniard (コマタナ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 142/086    name Pawniard  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/142/high.webp
+#135  Bisharp / Bisharp
+      JP  set SV11B   Black Bolt   cardno 148/086    name Bisharp (キリキザン)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 143/086    name Bisharp  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/143/high.webp
+#136  Cobalion / Cobalion
+      JP  set SV11B   Black Bolt   cardno 149/086    name Cobalion (コバルオン)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 144/086    name Cobalion  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/144/high.webp
+#137  Axew / Axew
+      JP  set SV11B   Black Bolt   cardno 150/086    name Axew (キバゴ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 145/086    name Axew  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/145/high.webp
+#138  Fraxure / Fraxure
+      JP  set SV11B   Black Bolt   cardno 151/086    name Fraxure (オノンド)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 146/086    name Fraxure  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/146/high.webp
+#139  Haxorus / Haxorus
+      JP  set SV11B   Black Bolt   cardno 152/086    name Haxorus (オノノクス)  AR  hp:170
+      EN  set sv10.5b Black Bolt   cardno 147/086    name Haxorus  Illustration Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/147/high.webp
+#140  Pidove / Pidove
+      JP  set SV11B   Black Bolt   cardno 153/086    name Pidove (マメパト)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 148/086    name Pidove  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/148/high.webp
+#141  Tranquill / Tranquill
+      JP  set SV11B   Black Bolt   cardno 154/086    name Tranquill (ハトーボー)  AR  hp:80
+      EN  set sv10.5b Black Bolt   cardno 149/086    name Tranquill  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/149/high.webp
+#142  Unfezant / Unfezant
+      JP  set SV11B   Black Bolt   cardno 155/086    name Unfezant (ケンホロウ)  AR  hp:150
+      EN  set sv10.5b Black Bolt   cardno 150/086    name Unfezant  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/150/high.webp
+#143  Audino / Audino
+      JP  set SV11B   Black Bolt   cardno 156/086    name Audino (タブンネ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 151/086    name Audino  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/151/high.webp
+#144  Minccino / Minccino
+      JP  set SV11B   Black Bolt   cardno 157/086    name Minccino (チラーミィ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 152/086    name Minccino  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/152/high.webp
+#145  Cinccino / Cinccino
+      JP  set SV11B   Black Bolt   cardno 158/086    name Cinccino (チラチーノ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 153/086    name Cinccino  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/153/high.webp
+#146  Serperior ex / Serperior ex
+      JP  set SV11B   Black Bolt   cardno 159/086    name Serperior ex (ジャローダex)  SR  hp:320
+      EN  set sv10.5b Black Bolt   cardno 156/086    name Serperior ex  Ultra Rare  hp:320
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/156/high.webp
+#147  Kyurem ex / Kyurem ex
+      JP  set SV11B   Black Bolt   cardno 160/086    name Kyurem ex (キュレムex)  SR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 157/086    name Kyurem ex  Ultra Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/157/high.webp
+#148  Zekrom ex / Zekrom ex
+      JP  set SV11B   Black Bolt   cardno 161/086    name Zekrom ex (ゼクロムex)  SR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 158/086    name Zekrom ex  Ultra Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/158/high.webp
+#149  Meloetta ex / Meloetta ex
+      JP  set SV11B   Black Bolt   cardno 162/086    name Meloetta ex (メロエッタex)  SR  hp:200
+      EN  set sv10.5b Black Bolt   cardno 159/086    name Meloetta ex  Ultra Rare  hp:200
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/159/high.webp
+#150  Excadrill ex / Excadrill ex
+      JP  set SV11B   Black Bolt   cardno 163/086    name Excadrill ex (ドリュウズex)  SR  hp:270
+      EN  set sv10.5b Black Bolt   cardno 160/086    name Excadrill ex  Ultra Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/160/high.webp
+#151  Genesect ex / Genesect ex
+      JP  set SV11B   Black Bolt   cardno 164/086    name Genesect ex (ゲノセクトex)  SR  hp:220
+      EN  set sv10.5b Black Bolt   cardno 161/086    name Genesect ex  Ultra Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/161/high.webp
+#152  Fennel / Fennel
+      JP  set SV11B   Black Bolt   cardno 166/086    name Fennel (マコモ)  SR  hp:-
+      EN  set sv10.5b Black Bolt   cardno 162/086    name Fennel  Ultra Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/162/high.webp
+#153  N's Plan / N's Plan
+      JP  set SV11B   Black Bolt   cardno 165/086    name N's Plan (Nの筋書き)  SR  hp:-
+      EN  set sv10.5b Black Bolt   cardno 163/086    name N's Plan  Ultra Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/163/high.webp
+#154  Serperior ex / Serperior ex
+      JP  set SV11B   Black Bolt   cardno 167/086    name Serperior ex (ジャローダex)  SAR  hp:320
+      EN  set sv10.5b Black Bolt   cardno 164/086    name Serperior ex  Special Illustration Rare  hp:320
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/164/high.webp
+#155  Kyurem ex / Kyurem ex
+      JP  set SV11B   Black Bolt   cardno 168/086    name Kyurem ex (キュレムex)  SAR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 165/086    name Kyurem ex  Special Illustration Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/165/high.webp
+#156  Zekrom ex / Zekrom ex
+      JP  set SV11B   Black Bolt   cardno 169/086    name Zekrom ex (ゼクロムex)  SAR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 166/086    name Zekrom ex  Special Illustration Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/166/high.webp
+#157  Meloetta ex / Meloetta ex
+      JP  set SV11B   Black Bolt   cardno 170/086    name Meloetta ex (メロエッタex)  SAR  hp:200
+      EN  set sv10.5b Black Bolt   cardno 167/086    name Meloetta ex  Special Illustration Rare  hp:200
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/167/high.webp
+#158  Excadrill ex / Excadrill ex
+      JP  set SV11B   Black Bolt   cardno 171/086    name Excadrill ex (ドリュウズex)  SAR  hp:270
+      EN  set sv10.5b Black Bolt   cardno 168/086    name Excadrill ex  Special Illustration Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/168/high.webp
+#159  Genesect ex / Genesect ex
+      JP  set SV11B   Black Bolt   cardno 172/086    name Genesect ex (ゲノセクトex)  SAR  hp:220
+      EN  set sv10.5b Black Bolt   cardno 169/086    name Genesect ex  Special Illustration Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/169/high.webp
+#160  N's Plan / N's Plan
+      JP  set SV11B   Black Bolt   cardno 173/086    name N's Plan (Nの筋書き)  SAR  hp:-
+      EN  set sv10.5b Black Bolt   cardno 170/086    name N's Plan  Special Illustration Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/170/high.webp
+#161  Zekrom ex / Zekrom ex
+      JP  set SV11B   Black Bolt   cardno 174/086    name Zekrom ex (ゼクロムex)  BWR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 172/086    name Zekrom ex  Black White Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/172/high.webp
+
+############################################################################################
+## SV11B->SV11W   [EN -> JA]   10 cap
+############################################################################################
+#162  Klink / Klink
+      JP  set SV11W   White Flare  cardno 065/086    name Klink (ギアル)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 061/086    name Klink  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/061/high.webp
+#163  Klang / Klang
+      JP  set SV11W   White Flare  cardno 066/086    name Klang (ギギアル)  C  hp:90
+      EN  set sv10.5b Black Bolt   cardno 062/086    name Klang  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/062/high.webp
+#164  Klinklang / Klinklang
+      JP  set SV11W   White Flare  cardno 067/086    name Klinklang (ギギギアル)  R  hp:150
+      EN  set sv10.5b Black Bolt   cardno 063/086    name Klinklang  Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/063/high.webp
+#165  Rufflet / Rufflet
+      JP  set SV11W   White Flare  cardno 076/086    name Rufflet (ワシボン)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 077/086    name Rufflet  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/077/high.webp
+#166  Braviary / Braviary
+      JP  set SV11W   White Flare  cardno 077/086    name Braviary (ウォーグル)  U  hp:140
+      EN  set sv10.5b Black Bolt   cardno 078/086    name Braviary  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/078/high.webp
+#167  Klink / Klink
+      JP  set SV11W   White Flare  cardno 146/086    name Klink (ギアル)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 139/086    name Klink  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/139/high.webp
+#168  Klang / Klang
+      JP  set SV11W   White Flare  cardno 147/086    name Klang (ギギアル)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 140/086    name Klang  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/140/high.webp
+#169  Klinklang / Klinklang
+      JP  set SV11W   White Flare  cardno 148/086    name Klinklang (ギギギアル)  AR  hp:150
+      EN  set sv10.5b Black Bolt   cardno 141/086    name Klinklang  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/141/high.webp
+#170  Rufflet / Rufflet
+      JP  set SV11W   White Flare  cardno 156/086    name Rufflet (ワシボン)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 154/086    name Rufflet  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/154/high.webp
+#171  Braviary / Braviary
+      JP  set SV11W   White Flare  cardno 157/086    name Braviary (ウォーグル)  AR  hp:140
+      EN  set sv10.5b Black Bolt   cardno 155/086    name Braviary  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/155/high.webp
+
+############################################################################################
+## SV11B->sv10.5b   [JA -> EN]   161 cap
+############################################################################################
+#172  Snivy / Snivy
+      JP  set SV11B   Black Bolt   cardno 001/086    name Snivy (ツタージャ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 001/086    name Snivy  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/001/high.webp
+#173  Servine / Servine
+      JP  set SV11B   Black Bolt   cardno 002/086    name Servine (ジャノビー)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 002/086    name Servine  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/002/high.webp
+#174  Serperior ex / Serperior ex
+      JP  set SV11B   Black Bolt   cardno 003/086    name Serperior ex (ジャローダex)  RR  hp:320
+      EN  set sv10.5b Black Bolt   cardno 003/086    name Serperior ex  Double Rare  hp:320
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/003/high.webp
+#175  Pansage / Pansage
+      JP  set SV11B   Black Bolt   cardno 004/086    name Pansage (ヤナップ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 004/086    name Pansage  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/004/high.webp
+#176  Simisage / Simisage
+      JP  set SV11B   Black Bolt   cardno 005/086    name Simisage (ヤナッキー)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 005/086    name Simisage  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/005/high.webp
+#177  Petilil / Petilil
+      JP  set SV11B   Black Bolt   cardno 006/086    name Petilil (チュリネ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 006/086    name Petilil  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/006/high.webp
+#178  Lilligant / Lilligant
+      JP  set SV11B   Black Bolt   cardno 007/086    name Lilligant (ドレディア)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 007/086    name Lilligant  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/007/high.webp
+#179  Maractus / Maractus
+      JP  set SV11B   Black Bolt   cardno 008/086    name Maractus (マラカッチ)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 008/086    name Maractus  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/008/high.webp
+#180  Karrablast / Karrablast
+      JP  set SV11B   Black Bolt   cardno 009/086    name Karrablast (カブルモ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 009/086    name Karrablast  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/009/high.webp
+#181  Foongus / Foongus
+      JP  set SV11B   Black Bolt   cardno 010/086    name Foongus (タマゲタケ)  C  hp:50
+      EN  set sv10.5b Black Bolt   cardno 010/086    name Foongus  Common  hp:50
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/010/high.webp
+#182  Amoonguss / Amoonguss
+      JP  set SV11B   Black Bolt   cardno 011/086    name Amoonguss (モロバレル)  U  hp:120
+      EN  set sv10.5b Black Bolt   cardno 011/086    name Amoonguss  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/011/high.webp
+#183  Victini / Victini
+      JP  set SV11B   Black Bolt   cardno 012/086    name Victini (ビクティニ)  R  hp:80
+      EN  set sv10.5b Black Bolt   cardno 012/086    name Victini  Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/012/high.webp
+#184  Darumaka / Darumaka
+      JP  set SV11B   Black Bolt   cardno 013/086    name Darumaka (ダルマッカ)  C  hp:80
+      EN  set sv10.5b Black Bolt   cardno 013/086    name Darumaka  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/013/high.webp
+#185  Darmanitan / Darmanitan
+      JP  set SV11B   Black Bolt   cardno 014/086    name Darmanitan (ヒヒダルマ)  U  hp:140
+      EN  set sv10.5b Black Bolt   cardno 014/086    name Darmanitan  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/014/high.webp
+#186  Larvesta / Larvesta
+      JP  set SV11B   Black Bolt   cardno 018/086    name Larvesta (メラルバ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 015/086    name Larvesta  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/015/high.webp
+#187  Volcarona / Volcarona
+      JP  set SV11B   Black Bolt   cardno 019/086    name Volcarona (ウルガモス)  R  hp:120
+      EN  set sv10.5b Black Bolt   cardno 016/086    name Volcarona  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/016/high.webp
+#188  Panpour / Panpour
+      JP  set SV11B   Black Bolt   cardno 020/086    name Panpour (ヒヤップ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 017/086    name Panpour  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/017/high.webp
+#189  Simipour / Simipour
+      JP  set SV11B   Black Bolt   cardno 021/086    name Simipour (ヒヤッキー)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 018/086    name Simipour  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/018/high.webp
+#190  Tympole / Tympole
+      JP  set SV11B   Black Bolt   cardno 022/086    name Tympole (オタマロ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 019/086    name Tympole  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/019/high.webp
+#191  Palpitoad / Palpitoad
+      JP  set SV11B   Black Bolt   cardno 023/086    name Palpitoad (ガマガル)  C  hp:90
+      EN  set sv10.5b Black Bolt   cardno 020/086    name Palpitoad  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/020/high.webp
+#192  Seismitoad / Seismitoad
+      JP  set SV11B   Black Bolt   cardno 024/086    name Seismitoad (ガマゲロゲ)  U  hp:170
+      EN  set sv10.5b Black Bolt   cardno 021/086    name Seismitoad  Uncommon  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/021/high.webp
+#193  Tirtouga / Tirtouga
+      JP  set SV11B   Black Bolt   cardno 025/086    name Tirtouga (プロトーガ)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 022/086    name Tirtouga  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/022/high.webp
+#194  Carracosta / Carracosta
+      JP  set SV11B   Black Bolt   cardno 026/086    name Carracosta (アバゴーラ)  R  hp:180
+      EN  set sv10.5b Black Bolt   cardno 023/086    name Carracosta  Rare  hp:180
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/023/high.webp
+#195  Alomomola / Alomomola
+      JP  set SV11B   Black Bolt   cardno 027/086    name Alomomola (ママンボウ)  U  hp:110
+      EN  set sv10.5b Black Bolt   cardno 024/086    name Alomomola  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/024/high.webp
+#196  Cubchoo / Cubchoo
+      JP  set SV11B   Black Bolt   cardno 028/086    name Cubchoo (クマシュン)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 025/086    name Cubchoo  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/025/high.webp
+#197  Beartic / Beartic
+      JP  set SV11B   Black Bolt   cardno 029/086    name Beartic (ツンベアー)  R  hp:150
+      EN  set sv10.5b Black Bolt   cardno 026/086    name Beartic  Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/026/high.webp
+#198  Cryogonal / Cryogonal
+      JP  set SV11B   Black Bolt   cardno 030/086    name Cryogonal (フリージオ)  U  hp:90
+      EN  set sv10.5b Black Bolt   cardno 027/086    name Cryogonal  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/027/high.webp
+#199  Kyurem ex / Kyurem ex
+      JP  set SV11B   Black Bolt   cardno 031/086    name Kyurem ex (キュレムex)  RR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 028/086    name Kyurem ex  Double Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/028/high.webp
+#200  Emolga / Emolga
+      JP  set SV11B   Black Bolt   cardno 032/086    name Emolga (エモンガ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 029/086    name Emolga  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/029/high.webp
+#201  Tynamo / Tynamo
+      JP  set SV11B   Black Bolt   cardno 033/086    name Tynamo (シビシラス)  C  hp:40
+      EN  set sv10.5b Black Bolt   cardno 030/086    name Tynamo  Common  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/030/high.webp
+#202  Eelektrik / Eelektrik
+      JP  set SV11B   Black Bolt   cardno 034/086    name Eelektrik (シビビール)  U  hp:90
+      EN  set sv10.5b Black Bolt   cardno 031/086    name Eelektrik  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/031/high.webp
+#203  Eelektross / Eelektross
+      JP  set SV11B   Black Bolt   cardno 035/086    name Eelektross (シビルドン)  U  hp:160
+      EN  set sv10.5b Black Bolt   cardno 032/086    name Eelektross  Uncommon  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/032/high.webp
+#204  Thundurus / Thundurus
+      JP  set SV11B   Black Bolt   cardno 036/086    name Thundurus (ボルトロス)  R  hp:120
+      EN  set sv10.5b Black Bolt   cardno 033/086    name Thundurus  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/033/high.webp
+#205  Zekrom ex / Zekrom ex
+      JP  set SV11B   Black Bolt   cardno 037/086    name Zekrom ex (ゼクロムex)  RR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 034/086    name Zekrom ex  Double Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/034/high.webp
+#206  Munna / Munna
+      JP  set SV11B   Black Bolt   cardno 038/086    name Munna (ムンナ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 035/086    name Munna  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/035/high.webp
+#207  Musharna / Musharna
+      JP  set SV11B   Black Bolt   cardno 039/086    name Musharna (ムシャーナ)  U  hp:120
+      EN  set sv10.5b Black Bolt   cardno 036/086    name Musharna  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/036/high.webp
+#208  Solosis / Solosis
+      JP  set SV11B   Black Bolt   cardno 040/086    name Solosis (ユニラン)  C  hp:40
+      EN  set sv10.5b Black Bolt   cardno 037/086    name Solosis  Common  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/037/high.webp
+#209  Duosion / Duosion
+      JP  set SV11B   Black Bolt   cardno 041/086    name Duosion (ダブラン)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 038/086    name Duosion  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/038/high.webp
+#210  Reuniclus / Reuniclus
+      JP  set SV11B   Black Bolt   cardno 042/086    name Reuniclus (ランクルス)  U  hp:140
+      EN  set sv10.5b Black Bolt   cardno 039/086    name Reuniclus  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/039/high.webp
+#211  Elgyem / Elgyem
+      JP  set SV11B   Black Bolt   cardno 043/086    name Elgyem (リグレー)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 040/086    name Elgyem  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/040/high.webp
+#212  Beheeyem / Beheeyem
+      JP  set SV11B   Black Bolt   cardno 044/086    name Beheeyem (オーベム)  U  hp:90
+      EN  set sv10.5b Black Bolt   cardno 041/086    name Beheeyem  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/041/high.webp
+#213  Golett / Golett
+      JP  set SV11B   Black Bolt   cardno 045/086    name Golett (ゴビット)  C  hp:90
+      EN  set sv10.5b Black Bolt   cardno 042/086    name Golett  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/042/high.webp
+#214  Golurk / Golurk
+      JP  set SV11B   Black Bolt   cardno 046/086    name Golurk (ゴルーグ)  U  hp:160
+      EN  set sv10.5b Black Bolt   cardno 043/086    name Golurk  Uncommon  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/043/high.webp
+#215  Meloetta ex / Meloetta ex
+      JP  set SV11B   Black Bolt   cardno 047/086    name Meloetta ex (メロエッタex)  RR  hp:200
+      EN  set sv10.5b Black Bolt   cardno 044/086    name Meloetta ex  Double Rare  hp:200
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/044/high.webp
+#216  Drilbur / Drilbur
+      JP  set SV11B   Black Bolt   cardno 048/086    name Drilbur (モグリュー)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 045/086    name Drilbur  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/045/high.webp
+#217  Excadrill ex / Excadrill ex
+      JP  set SV11B   Black Bolt   cardno 049/086    name Excadrill ex (ドリュウズex)  RR  hp:270
+      EN  set sv10.5b Black Bolt   cardno 046/086    name Excadrill ex  Double Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/046/high.webp
+#218  Timburr / Timburr
+      JP  set SV11B   Black Bolt   cardno 050/086    name Timburr (ドッコラー)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 047/086    name Timburr  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/047/high.webp
+#219  Gurdurr / Gurdurr
+      JP  set SV11B   Black Bolt   cardno 051/086    name Gurdurr (ドテッコツ)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 048/086    name Gurdurr  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/048/high.webp
+#220  Conkeldurr / Conkeldurr
+      JP  set SV11B   Black Bolt   cardno 052/086    name Conkeldurr (ローブシン)  R  hp:140
+      EN  set sv10.5b Black Bolt   cardno 049/086    name Conkeldurr  Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/049/high.webp
+#221  Throh / Throh
+      JP  set SV11B   Black Bolt   cardno 053/086    name Throh (ナゲキ)  U  hp:130
+      EN  set sv10.5b Black Bolt   cardno 050/086    name Throh  Uncommon  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/050/high.webp
+#222  Dwebble / Dwebble
+      JP  set SV11B   Black Bolt   cardno 054/086    name Dwebble (イシズマイ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 051/086    name Dwebble  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/051/high.webp
+#223  Crustle / Crustle
+      JP  set SV11B   Black Bolt   cardno 055/086    name Crustle (イワパレス)  U  hp:150
+      EN  set sv10.5b Black Bolt   cardno 052/086    name Crustle  Uncommon  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/052/high.webp
+#224  Landorus / Landorus
+      JP  set SV11B   Black Bolt   cardno 056/086    name Landorus (ランドロス)  R  hp:130
+      EN  set sv10.5b Black Bolt   cardno 053/086    name Landorus  Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/053/high.webp
+#225  Venipede / Venipede
+      JP  set SV11B   Black Bolt   cardno 057/086    name Venipede (フシデ)  C  hp:80
+      EN  set sv10.5b Black Bolt   cardno 054/086    name Venipede  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/054/high.webp
+#226  Whirlipede / Whirlipede
+      JP  set SV11B   Black Bolt   cardno 058/086    name Whirlipede (ホイーガ)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 055/086    name Whirlipede  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/055/high.webp
+#227  Scolipede / Scolipede
+      JP  set SV11B   Black Bolt   cardno 059/086    name Scolipede (ペンドラー)  U  hp:160
+      EN  set sv10.5b Black Bolt   cardno 056/086    name Scolipede  Uncommon  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/056/high.webp
+#228  Sandile / Sandile
+      JP  set SV11B   Black Bolt   cardno 060/086    name Sandile (メグロコ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 057/086    name Sandile  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/057/high.webp
+#229  Krokorok / Krokorok
+      JP  set SV11B   Black Bolt   cardno 061/086    name Krokorok (ワルビル)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 058/086    name Krokorok  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/058/high.webp
+#230  Krookodile / Krookodile
+      JP  set SV11B   Black Bolt   cardno 062/086    name Krookodile (ワルビアル)  U  hp:170
+      EN  set sv10.5b Black Bolt   cardno 059/086    name Krookodile  Uncommon  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/059/high.webp
+#231  Escavalier / Escavalier
+      JP  set SV11B   Black Bolt   cardno 065/086    name Escavalier (シュバルゴ)  C  hp:130
+      EN  set sv10.5b Black Bolt   cardno 060/086    name Escavalier  Uncommon  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/060/high.webp
+#232  Pawniard / Pawniard
+      JP  set SV11B   Black Bolt   cardno 066/086    name Pawniard (コマタナ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 064/086    name Pawniard  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/064/high.webp
+#233  Bisharp / Bisharp
+      JP  set SV11B   Black Bolt   cardno 067/086    name Bisharp (キリキザン)  U  hp:120
+      EN  set sv10.5b Black Bolt   cardno 065/086    name Bisharp  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/065/high.webp
+#234  Cobalion / Cobalion
+      JP  set SV11B   Black Bolt   cardno 068/086    name Cobalion (コバルオン)  R  hp:120
+      EN  set sv10.5b Black Bolt   cardno 066/086    name Cobalion  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/066/high.webp
+#235  Genesect ex / Genesect ex
+      JP  set SV11B   Black Bolt   cardno 069/086    name Genesect ex (ゲノセクトex)  RR  hp:220
+      EN  set sv10.5b Black Bolt   cardno 067/086    name Genesect ex  Double Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/067/high.webp
+#236  Axew / Axew
+      JP  set SV11B   Black Bolt   cardno 070/086    name Axew (キバゴ)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 068/086    name Axew  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/068/high.webp
+#237  Fraxure / Fraxure
+      JP  set SV11B   Black Bolt   cardno 071/086    name Fraxure (オノンド)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 069/086    name Fraxure  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/069/high.webp
+#238  Haxorus / Haxorus
+      JP  set SV11B   Black Bolt   cardno 072/086    name Haxorus (オノノクス)  R  hp:170
+      EN  set sv10.5b Black Bolt   cardno 070/086    name Haxorus  Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/070/high.webp
+#239  Pidove / Pidove
+      JP  set SV11B   Black Bolt   cardno 073/086    name Pidove (マメパト)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 071/086    name Pidove  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/071/high.webp
+#240  Tranquill / Tranquill
+      JP  set SV11B   Black Bolt   cardno 074/086    name Tranquill (ハトーボー)  C  hp:80
+      EN  set sv10.5b Black Bolt   cardno 072/086    name Tranquill  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/072/high.webp
+#241  Unfezant / Unfezant
+      JP  set SV11B   Black Bolt   cardno 075/086    name Unfezant (ケンホロウ)  U  hp:150
+      EN  set sv10.5b Black Bolt   cardno 073/086    name Unfezant  Uncommon  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/073/high.webp
+#242  Audino / Audino
+      JP  set SV11B   Black Bolt   cardno 076/086    name Audino (タブンネ)  C  hp:100
+      EN  set sv10.5b Black Bolt   cardno 074/086    name Audino  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/074/high.webp
+#243  Minccino / Minccino
+      JP  set SV11B   Black Bolt   cardno 077/086    name Minccino (チラーミィ)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 075/086    name Minccino  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/075/high.webp
+#244  Cinccino / Cinccino
+      JP  set SV11B   Black Bolt   cardno 078/086    name Cinccino (チラチーノ)  U  hp:100
+      EN  set sv10.5b Black Bolt   cardno 076/086    name Cinccino  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/076/high.webp
+#245  Energy Coin / Energy Coin
+      JP  set SV11B   Black Bolt   cardno 079/086    name Energy Coin (エネルギーコイン)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 081/086    name Energy Coin  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/081/high.webp
+#246  Antique Cover Fossil / Antique Cover Fossil
+      JP  set SV11B   Black Bolt   cardno 080/086    name Antique Cover Fossil (古びたふたの化石)  C  hp:-
+      EN  set sv10.5b Black Bolt   cardno 080/086    name Antique Cover Fossil  Common  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/080/high.webp
+#247  Pokégear 3.0 / Pokégear 3.0
+      JP  set SV11B   Black Bolt   cardno 081/086    name Pokégear 3.0 (ポケギア3.0)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 084/086    name Pokégear 3.0  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/084/high.webp
+#248  Air Balloon / Air Balloon
+      JP  set SV11B   Black Bolt   cardno 082/086    name Air Balloon (ふうせん)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 079/086    name Air Balloon  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/079/high.webp
+#249  N's Plan / N's Plan
+      JP  set SV11B   Black Bolt   cardno 083/086    name N's Plan (Nの筋書き)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 083/086    name N's Plan  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/083/high.webp
+#250  Professor's Research / Professor's Research
+      JP  set SV11B   Black Bolt   cardno 084/086    name Professor's Research (博士の研究)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 085/086    name Professor's Research  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/085/high.webp
+#251  Fennel / Fennel
+      JP  set SV11B   Black Bolt   cardno 085/086    name Fennel (マコモ)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 082/086    name Fennel  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/082/high.webp
+#252  Prism Energy / Prism Energy
+      JP  set SV11B   Black Bolt   cardno 086/086    name Prism Energy (プリズムエネルギー)  U  hp:-
+      EN  set sv10.5b Black Bolt   cardno 086/086    name Prism Energy  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/086/high.webp
+#253  Snivy / Snivy
+      JP  set SV11B   Black Bolt   cardno 087/086    name Snivy (ツタージャ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 087/086    name Snivy  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/087/high.webp
+#254  Servine / Servine
+      JP  set SV11B   Black Bolt   cardno 088/086    name Servine (ジャノビー)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 088/086    name Servine  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/088/high.webp
+#255  Pansage / Pansage
+      JP  set SV11B   Black Bolt   cardno 089/086    name Pansage (ヤナップ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 089/086    name Pansage  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/089/high.webp
+#256  Simisage / Simisage
+      JP  set SV11B   Black Bolt   cardno 090/086    name Simisage (ヤナッキー)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 090/086    name Simisage  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/090/high.webp
+#257  Petilil / Petilil
+      JP  set SV11B   Black Bolt   cardno 091/086    name Petilil (チュリネ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 091/086    name Petilil  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/091/high.webp
+#258  Lilligant / Lilligant
+      JP  set SV11B   Black Bolt   cardno 092/086    name Lilligant (ドレディア)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 092/086    name Lilligant  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/092/high.webp
+#259  Maractus / Maractus
+      JP  set SV11B   Black Bolt   cardno 093/086    name Maractus (マラカッチ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 093/086    name Maractus  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/093/high.webp
+#260  Karrablast / Karrablast
+      JP  set SV11B   Black Bolt   cardno 094/086    name Karrablast (カブルモ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 094/086    name Karrablast  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/094/high.webp
+#261  Foongus / Foongus
+      JP  set SV11B   Black Bolt   cardno 095/086    name Foongus (タマゲタケ)  AR  hp:50
+      EN  set sv10.5b Black Bolt   cardno 095/086    name Foongus  Illustration Rare  hp:50
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/095/high.webp
+#262  Amoonguss / Amoonguss
+      JP  set SV11B   Black Bolt   cardno 096/086    name Amoonguss (モロバレル)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 096/086    name Amoonguss  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/096/high.webp
+#263  Darumaka / Darumaka
+      JP  set SV11B   Black Bolt   cardno 098/086    name Darumaka (ダルマッカ)  AR  hp:80
+      EN  set sv10.5b Black Bolt   cardno 097/086    name Darumaka  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/097/high.webp
+#264  Darmanitan / Darmanitan
+      JP  set SV11B   Black Bolt   cardno 099/086    name Darmanitan (ヒヒダルマ)  AR  hp:140
+      EN  set sv10.5b Black Bolt   cardno 098/086    name Darmanitan  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/098/high.webp
+#265  Larvesta / Larvesta
+      JP  set SV11B   Black Bolt   cardno 103/086    name Larvesta (メラルバ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 099/086    name Larvesta  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/099/high.webp
+#266  Volcarona / Volcarona
+      JP  set SV11B   Black Bolt   cardno 104/086    name Volcarona (ウルガモス)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 100/086    name Volcarona  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/100/high.webp
+#267  Panpour / Panpour
+      JP  set SV11B   Black Bolt   cardno 105/086    name Panpour (ヒヤップ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 101/086    name Panpour  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/101/high.webp
+#268  Simipour / Simipour
+      JP  set SV11B   Black Bolt   cardno 106/086    name Simipour (ヒヤッキー)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 102/086    name Simipour  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/102/high.webp
+#269  Tympole / Tympole
+      JP  set SV11B   Black Bolt   cardno 107/086    name Tympole (オタマロ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 103/086    name Tympole  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/103/high.webp
+#270  Palpitoad / Palpitoad
+      JP  set SV11B   Black Bolt   cardno 108/086    name Palpitoad (ガマガル)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 104/086    name Palpitoad  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/104/high.webp
+#271  Seismitoad / Seismitoad
+      JP  set SV11B   Black Bolt   cardno 109/086    name Seismitoad (ガマゲロゲ)  AR  hp:170
+      EN  set sv10.5b Black Bolt   cardno 105/086    name Seismitoad  Illustration Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/105/high.webp
+#272  Tirtouga / Tirtouga
+      JP  set SV11B   Black Bolt   cardno 110/086    name Tirtouga (プロトーガ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 106/086    name Tirtouga  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/106/high.webp
+#273  Carracosta / Carracosta
+      JP  set SV11B   Black Bolt   cardno 111/086    name Carracosta (アバゴーラ)  AR  hp:180
+      EN  set sv10.5b Black Bolt   cardno 107/086    name Carracosta  Illustration Rare  hp:180
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/107/high.webp
+#274  Alomomola / Alomomola
+      JP  set SV11B   Black Bolt   cardno 112/086    name Alomomola (ママンボウ)  AR  hp:110
+      EN  set sv10.5b Black Bolt   cardno 108/086    name Alomomola  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/108/high.webp
+#275  Cubchoo / Cubchoo
+      JP  set SV11B   Black Bolt   cardno 113/086    name Cubchoo (クマシュン)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 109/086    name Cubchoo  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/109/high.webp
+#276  Beartic / Beartic
+      JP  set SV11B   Black Bolt   cardno 114/086    name Beartic (ツンベアー)  AR  hp:150
+      EN  set sv10.5b Black Bolt   cardno 110/086    name Beartic  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/110/high.webp
+#277  Cryogonal / Cryogonal
+      JP  set SV11B   Black Bolt   cardno 115/086    name Cryogonal (フリージオ)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 111/086    name Cryogonal  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/111/high.webp
+#278  Emolga / Emolga
+      JP  set SV11B   Black Bolt   cardno 116/086    name Emolga (エモンガ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 112/086    name Emolga  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/112/high.webp
+#279  Tynamo / Tynamo
+      JP  set SV11B   Black Bolt   cardno 117/086    name Tynamo (シビシラス)  AR  hp:40
+      EN  set sv10.5b Black Bolt   cardno 113/086    name Tynamo  Illustration Rare  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/113/high.webp
+#280  Eelektrik / Eelektrik
+      JP  set SV11B   Black Bolt   cardno 118/086    name Eelektrik (シビビール)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 114/086    name Eelektrik  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/114/high.webp
+#281  Eelektross / Eelektross
+      JP  set SV11B   Black Bolt   cardno 119/086    name Eelektross (シビルドン)  AR  hp:160
+      EN  set sv10.5b Black Bolt   cardno 115/086    name Eelektross  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/115/high.webp
+#282  Munna / Munna
+      JP  set SV11B   Black Bolt   cardno 121/086    name Munna (ムンナ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 116/086    name Munna  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/116/high.webp
+#283  Musharna / Musharna
+      JP  set SV11B   Black Bolt   cardno 122/086    name Musharna (ムシャーナ)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 117/086    name Musharna  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/117/high.webp
+#284  Solosis / Solosis
+      JP  set SV11B   Black Bolt   cardno 123/086    name Solosis (ユニラン)  AR  hp:40
+      EN  set sv10.5b Black Bolt   cardno 118/086    name Solosis  Illustration Rare  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/118/high.webp
+#285  Duosion / Duosion
+      JP  set SV11B   Black Bolt   cardno 124/086    name Duosion (ダブラン)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 119/086    name Duosion  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/119/high.webp
+#286  Elgyem / Elgyem
+      JP  set SV11B   Black Bolt   cardno 126/086    name Elgyem (リグレー)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 120/086    name Elgyem  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/120/high.webp
+#287  Beheeyem / Beheeyem
+      JP  set SV11B   Black Bolt   cardno 127/086    name Beheeyem (オーベム)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 121/086    name Beheeyem  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/121/high.webp
+#288  Golett / Golett
+      JP  set SV11B   Black Bolt   cardno 128/086    name Golett (ゴビット)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 122/086    name Golett  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/122/high.webp
+#289  Golurk / Golurk
+      JP  set SV11B   Black Bolt   cardno 129/086    name Golurk (ゴルーグ)  AR  hp:160
+      EN  set sv10.5b Black Bolt   cardno 123/086    name Golurk  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/123/high.webp
+#290  Drilbur / Drilbur
+      JP  set SV11B   Black Bolt   cardno 130/086    name Drilbur (モグリュー)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 124/086    name Drilbur  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/124/high.webp
+#291  Timburr / Timburr
+      JP  set SV11B   Black Bolt   cardno 131/086    name Timburr (ドッコラー)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 125/086    name Timburr  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/125/high.webp
+#292  Gurdurr / Gurdurr
+      JP  set SV11B   Black Bolt   cardno 132/086    name Gurdurr (ドテッコツ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 126/086    name Gurdurr  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/126/high.webp
+#293  Conkeldurr / Conkeldurr
+      JP  set SV11B   Black Bolt   cardno 133/086    name Conkeldurr (ローブシン)  AR  hp:140
+      EN  set sv10.5b Black Bolt   cardno 127/086    name Conkeldurr  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/127/high.webp
+#294  Throh / Throh
+      JP  set SV11B   Black Bolt   cardno 134/086    name Throh (ナゲキ)  AR  hp:130
+      EN  set sv10.5b Black Bolt   cardno 128/086    name Throh  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/128/high.webp
+#295  Dwebble / Dwebble
+      JP  set SV11B   Black Bolt   cardno 135/086    name Dwebble (イシズマイ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 129/086    name Dwebble  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/129/high.webp
+#296  Crustle / Crustle
+      JP  set SV11B   Black Bolt   cardno 136/086    name Crustle (イワパレス)  AR  hp:150
+      EN  set sv10.5b Black Bolt   cardno 130/086    name Crustle  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/130/high.webp
+#297  Landorus / Landorus
+      JP  set SV11B   Black Bolt   cardno 137/086    name Landorus (ランドロス)  AR  hp:130
+      EN  set sv10.5b Black Bolt   cardno 131/086    name Landorus  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/131/high.webp
+#298  Venipede / Venipede
+      JP  set SV11B   Black Bolt   cardno 138/086    name Venipede (フシデ)  AR  hp:80
+      EN  set sv10.5b Black Bolt   cardno 132/086    name Venipede  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/132/high.webp
+#299  Whirlipede / Whirlipede
+      JP  set SV11B   Black Bolt   cardno 139/086    name Whirlipede (ホイーガ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 133/086    name Whirlipede  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/133/high.webp
+#300  Scolipede / Scolipede
+      JP  set SV11B   Black Bolt   cardno 140/086    name Scolipede (ペンドラー)  AR  hp:160
+      EN  set sv10.5b Black Bolt   cardno 134/086    name Scolipede  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/134/high.webp
+#301  Sandile / Sandile
+      JP  set SV11B   Black Bolt   cardno 141/086    name Sandile (メグロコ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 135/086    name Sandile  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/135/high.webp
+#302  Krokorok / Krokorok
+      JP  set SV11B   Black Bolt   cardno 142/086    name Krokorok (ワルビル)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 136/086    name Krokorok  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/136/high.webp
+#303  Krookodile / Krookodile
+      JP  set SV11B   Black Bolt   cardno 143/086    name Krookodile (ワルビアル)  AR  hp:170
+      EN  set sv10.5b Black Bolt   cardno 137/086    name Krookodile  Illustration Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/137/high.webp
+#304  Escavalier / Escavalier
+      JP  set SV11B   Black Bolt   cardno 146/086    name Escavalier (シュバルゴ)  AR  hp:130
+      EN  set sv10.5b Black Bolt   cardno 138/086    name Escavalier  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/138/high.webp
+#305  Pawniard / Pawniard
+      JP  set SV11B   Black Bolt   cardno 147/086    name Pawniard (コマタナ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 142/086    name Pawniard  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/142/high.webp
+#306  Bisharp / Bisharp
+      JP  set SV11B   Black Bolt   cardno 148/086    name Bisharp (キリキザン)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 143/086    name Bisharp  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/143/high.webp
+#307  Cobalion / Cobalion
+      JP  set SV11B   Black Bolt   cardno 149/086    name Cobalion (コバルオン)  AR  hp:120
+      EN  set sv10.5b Black Bolt   cardno 144/086    name Cobalion  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/144/high.webp
+#308  Axew / Axew
+      JP  set SV11B   Black Bolt   cardno 150/086    name Axew (キバゴ)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 145/086    name Axew  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/145/high.webp
+#309  Fraxure / Fraxure
+      JP  set SV11B   Black Bolt   cardno 151/086    name Fraxure (オノンド)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 146/086    name Fraxure  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/146/high.webp
+#310  Haxorus / Haxorus
+      JP  set SV11B   Black Bolt   cardno 152/086    name Haxorus (オノノクス)  AR  hp:170
+      EN  set sv10.5b Black Bolt   cardno 147/086    name Haxorus  Illustration Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/147/high.webp
+#311  Pidove / Pidove
+      JP  set SV11B   Black Bolt   cardno 153/086    name Pidove (マメパト)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 148/086    name Pidove  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/148/high.webp
+#312  Tranquill / Tranquill
+      JP  set SV11B   Black Bolt   cardno 154/086    name Tranquill (ハトーボー)  AR  hp:80
+      EN  set sv10.5b Black Bolt   cardno 149/086    name Tranquill  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/149/high.webp
+#313  Unfezant / Unfezant
+      JP  set SV11B   Black Bolt   cardno 155/086    name Unfezant (ケンホロウ)  AR  hp:150
+      EN  set sv10.5b Black Bolt   cardno 150/086    name Unfezant  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/150/high.webp
+#314  Audino / Audino
+      JP  set SV11B   Black Bolt   cardno 156/086    name Audino (タブンネ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 151/086    name Audino  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/151/high.webp
+#315  Minccino / Minccino
+      JP  set SV11B   Black Bolt   cardno 157/086    name Minccino (チラーミィ)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 152/086    name Minccino  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/152/high.webp
+#316  Cinccino / Cinccino
+      JP  set SV11B   Black Bolt   cardno 158/086    name Cinccino (チラチーノ)  AR  hp:100
+      EN  set sv10.5b Black Bolt   cardno 153/086    name Cinccino  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/153/high.webp
+#317  Serperior ex / Serperior ex
+      JP  set SV11B   Black Bolt   cardno 159/086    name Serperior ex (ジャローダex)  SR  hp:320
+      EN  set sv10.5b Black Bolt   cardno 156/086    name Serperior ex  Ultra Rare  hp:320
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/156/high.webp
+#318  Kyurem ex / Kyurem ex
+      JP  set SV11B   Black Bolt   cardno 160/086    name Kyurem ex (キュレムex)  SR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 157/086    name Kyurem ex  Ultra Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/157/high.webp
+#319  Zekrom ex / Zekrom ex
+      JP  set SV11B   Black Bolt   cardno 161/086    name Zekrom ex (ゼクロムex)  SR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 158/086    name Zekrom ex  Ultra Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/158/high.webp
+#320  Meloetta ex / Meloetta ex
+      JP  set SV11B   Black Bolt   cardno 162/086    name Meloetta ex (メロエッタex)  SR  hp:200
+      EN  set sv10.5b Black Bolt   cardno 159/086    name Meloetta ex  Ultra Rare  hp:200
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/159/high.webp
+#321  Excadrill ex / Excadrill ex
+      JP  set SV11B   Black Bolt   cardno 163/086    name Excadrill ex (ドリュウズex)  SR  hp:270
+      EN  set sv10.5b Black Bolt   cardno 160/086    name Excadrill ex  Ultra Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/160/high.webp
+#322  Genesect ex / Genesect ex
+      JP  set SV11B   Black Bolt   cardno 164/086    name Genesect ex (ゲノセクトex)  SR  hp:220
+      EN  set sv10.5b Black Bolt   cardno 161/086    name Genesect ex  Ultra Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/161/high.webp
+#323  N's Plan / N's Plan
+      JP  set SV11B   Black Bolt   cardno 165/086    name N's Plan (Nの筋書き)  SR  hp:-
+      EN  set sv10.5b Black Bolt   cardno 163/086    name N's Plan  Ultra Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/163/high.webp
+#324  Fennel / Fennel
+      JP  set SV11B   Black Bolt   cardno 166/086    name Fennel (マコモ)  SR  hp:-
+      EN  set sv10.5b Black Bolt   cardno 162/086    name Fennel  Ultra Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/162/high.webp
+#325  Serperior ex / Serperior ex
+      JP  set SV11B   Black Bolt   cardno 167/086    name Serperior ex (ジャローダex)  SAR  hp:320
+      EN  set sv10.5b Black Bolt   cardno 164/086    name Serperior ex  Special Illustration Rare  hp:320
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/164/high.webp
+#326  Kyurem ex / Kyurem ex
+      JP  set SV11B   Black Bolt   cardno 168/086    name Kyurem ex (キュレムex)  SAR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 165/086    name Kyurem ex  Special Illustration Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/165/high.webp
+#327  Zekrom ex / Zekrom ex
+      JP  set SV11B   Black Bolt   cardno 169/086    name Zekrom ex (ゼクロムex)  SAR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 166/086    name Zekrom ex  Special Illustration Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/166/high.webp
+#328  Meloetta ex / Meloetta ex
+      JP  set SV11B   Black Bolt   cardno 170/086    name Meloetta ex (メロエッタex)  SAR  hp:200
+      EN  set sv10.5b Black Bolt   cardno 167/086    name Meloetta ex  Special Illustration Rare  hp:200
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/167/high.webp
+#329  Excadrill ex / Excadrill ex
+      JP  set SV11B   Black Bolt   cardno 171/086    name Excadrill ex (ドリュウズex)  SAR  hp:270
+      EN  set sv10.5b Black Bolt   cardno 168/086    name Excadrill ex  Special Illustration Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/168/high.webp
+#330  Genesect ex / Genesect ex
+      JP  set SV11B   Black Bolt   cardno 172/086    name Genesect ex (ゲノセクトex)  SAR  hp:220
+      EN  set sv10.5b Black Bolt   cardno 169/086    name Genesect ex  Special Illustration Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/169/high.webp
+#331  N's Plan / N's Plan
+      JP  set SV11B   Black Bolt   cardno 173/086    name N's Plan (Nの筋書き)  SAR  hp:-
+      EN  set sv10.5b Black Bolt   cardno 170/086    name N's Plan  Special Illustration Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/170/high.webp
+#332  Zekrom ex / Zekrom ex
+      JP  set SV11B   Black Bolt   cardno 174/086    name Zekrom ex (ゼクロムex)  BWR  hp:230
+      EN  set sv10.5b Black Bolt   cardno 172/086    name Zekrom ex  Black White Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/172/high.webp
+
+############################################################################################
+## SV11B->sv10.5w   [JA -> EN]   10 cap
+############################################################################################
+#333  Litwick / Litwick
+      JP  set SV11B   Black Bolt   cardno 015/086    name Litwick (ヒトモシ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 016/086    name Litwick  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/016/high.webp
+#334  Lampent / Lampent
+      JP  set SV11B   Black Bolt   cardno 016/086    name Lampent (ランプラー)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 017/086    name Lampent  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/017/high.webp
+#335  Chandelure / Chandelure
+      JP  set SV11B   Black Bolt   cardno 017/086    name Chandelure (シャンデラ)  R  hp:150
+      EN  set sv10.5w White Flare  cardno 018/086    name Chandelure  Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/018/high.webp
+#336  Vullaby / Vullaby
+      JP  set SV11B   Black Bolt   cardno 063/086    name Vullaby (バルチャイ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 063/086    name Vullaby  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/063/high.webp
+#337  Mandibuzz / Mandibuzz
+      JP  set SV11B   Black Bolt   cardno 064/086    name Mandibuzz (バルジーナ)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 064/086    name Mandibuzz  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/064/high.webp
+#338  Litwick / Litwick
+      JP  set SV11B   Black Bolt   cardno 100/086    name Litwick (ヒトモシ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 101/086    name Litwick  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/101/high.webp
+#339  Lampent / Lampent
+      JP  set SV11B   Black Bolt   cardno 101/086    name Lampent (ランプラー)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 102/086    name Lampent  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/102/high.webp
+#340  Chandelure / Chandelure
+      JP  set SV11B   Black Bolt   cardno 102/086    name Chandelure (シャンデラ)  AR  hp:150
+      EN  set sv10.5w White Flare  cardno 103/086    name Chandelure  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/103/high.webp
+#341  Vullaby / Vullaby
+      JP  set SV11B   Black Bolt   cardno 144/086    name Vullaby (バルチャイ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 144/086    name Vullaby  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/144/high.webp
+#342  Mandibuzz / Mandibuzz
+      JP  set SV11B   Black Bolt   cardno 145/086    name Mandibuzz (バルジーナ)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 145/086    name Mandibuzz  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/145/high.webp
+
+############################################################################################
+## SV11B->svp   [JA -> EN]   3 cap
+############################################################################################
+#343  Victini / Victini
+      JP  set SV11B   Black Bolt   cardno 097/086    name Victini (ビクティニ)  AR  hp:80
+      EN  set svp     SVP Black Star Promos cardno 208        name Victini  -  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/svp/208/high.webp
+#344  Thundurus / Thundurus
+      JP  set SV11B   Black Bolt   cardno 120/086    name Thundurus (ボルトロス)  AR  hp:120
+      EN  set svp     SVP Black Star Promos cardno 209        name Thundurus  -  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/svp/209/high.webp
+#345  Reuniclus / Reuniclus
+      JP  set SV11B   Black Bolt   cardno 125/086    name Reuniclus (ランクルス)  AR  hp:140
+      EN  set svp     SVP Black Star Promos cardno 212        name Reuniclus  -  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/svp/212/high.webp
+
+############################################################################################
+## SV11W->SV11B   [EN -> JA]   10 cap
+############################################################################################
+#346  Litwick / Litwick
+      JP  set SV11B   Black Bolt   cardno 015/086    name Litwick (ヒトモシ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 016/086    name Litwick  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/016/high.webp
+#347  Lampent / Lampent
+      JP  set SV11B   Black Bolt   cardno 016/086    name Lampent (ランプラー)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 017/086    name Lampent  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/017/high.webp
+#348  Chandelure / Chandelure
+      JP  set SV11B   Black Bolt   cardno 017/086    name Chandelure (シャンデラ)  R  hp:150
+      EN  set sv10.5w White Flare  cardno 018/086    name Chandelure  Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/018/high.webp
+#349  Vullaby / Vullaby
+      JP  set SV11B   Black Bolt   cardno 063/086    name Vullaby (バルチャイ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 063/086    name Vullaby  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/063/high.webp
+#350  Mandibuzz / Mandibuzz
+      JP  set SV11B   Black Bolt   cardno 064/086    name Mandibuzz (バルジーナ)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 064/086    name Mandibuzz  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/064/high.webp
+#351  Litwick / Litwick
+      JP  set SV11B   Black Bolt   cardno 100/086    name Litwick (ヒトモシ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 101/086    name Litwick  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/101/high.webp
+#352  Lampent / Lampent
+      JP  set SV11B   Black Bolt   cardno 101/086    name Lampent (ランプラー)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 102/086    name Lampent  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/102/high.webp
+#353  Chandelure / Chandelure
+      JP  set SV11B   Black Bolt   cardno 102/086    name Chandelure (シャンデラ)  AR  hp:150
+      EN  set sv10.5w White Flare  cardno 103/086    name Chandelure  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/103/high.webp
+#354  Vullaby / Vullaby
+      JP  set SV11B   Black Bolt   cardno 144/086    name Vullaby (バルチャイ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 144/086    name Vullaby  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/144/high.webp
+#355  Mandibuzz / Mandibuzz
+      JP  set SV11B   Black Bolt   cardno 145/086    name Mandibuzz (バルジーナ)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 145/086    name Mandibuzz  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/145/high.webp
+
+############################################################################################
+## SV11W->SV11W   [EN -> JA]   162 cap
+############################################################################################
+#356  Sewaddle / Sewaddle
+      JP  set SV11W   White Flare  cardno 001/086    name Sewaddle (クルミル)  C  hp:50
+      EN  set sv10.5w White Flare  cardno 001/086    name Sewaddle  Common  hp:50
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/001/high.webp
+#357  Swadloon / Swadloon
+      JP  set SV11W   White Flare  cardno 002/086    name Swadloon (クルマユ)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 002/086    name Swadloon  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/002/high.webp
+#358  Leavanny / Leavanny
+      JP  set SV11W   White Flare  cardno 003/086    name Leavanny (ハハコモリ)  U  hp:130
+      EN  set sv10.5w White Flare  cardno 003/086    name Leavanny  Uncommon  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/003/high.webp
+#359  Cottonee / Cottonee
+      JP  set SV11W   White Flare  cardno 004/086    name Cottonee (モンメン)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 004/086    name Cottonee  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/004/high.webp
+#360  Whimsicott ex / Whimsicott ex
+      JP  set SV11W   White Flare  cardno 005/086    name Whimsicott ex (エルフーンex)  RR  hp:230
+      EN  set sv10.5w White Flare  cardno 005/086    name Whimsicott ex  Double Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/005/high.webp
+#361  Deerling / Deerling
+      JP  set SV11W   White Flare  cardno 006/086    name Deerling (シキジカ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 006/086    name Deerling  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/006/high.webp
+#362  Sawsbuck / Sawsbuck
+      JP  set SV11W   White Flare  cardno 007/086    name Sawsbuck (メブキジカ)  U  hp:130
+      EN  set sv10.5w White Flare  cardno 007/086    name Sawsbuck  Uncommon  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/007/high.webp
+#363  Shelmet / Shelmet
+      JP  set SV11W   White Flare  cardno 008/086    name Shelmet (チョボマキ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 008/086    name Shelmet  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/008/high.webp
+#364  Accelgor / Accelgor
+      JP  set SV11W   White Flare  cardno 009/086    name Accelgor (アギルダー)  U  hp:100
+      EN  set sv10.5w White Flare  cardno 009/086    name Accelgor  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/009/high.webp
+#365  Virizion / Virizion
+      JP  set SV11W   White Flare  cardno 010/086    name Virizion (ビリジオン)  R  hp:120
+      EN  set sv10.5w White Flare  cardno 010/086    name Virizion  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/010/high.webp
+#366  Tepig / Tepig
+      JP  set SV11W   White Flare  cardno 011/086    name Tepig (ポカブ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 011/086    name Tepig  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/011/high.webp
+#367  Pignite / Pignite
+      JP  set SV11W   White Flare  cardno 012/086    name Pignite (チャオブー)  C  hp:110
+      EN  set sv10.5w White Flare  cardno 012/086    name Pignite  Common  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/012/high.webp
+#368  Emboar / Emboar
+      JP  set SV11W   White Flare  cardno 013/086    name Emboar (エンブオー)  R  hp:180
+      EN  set sv10.5w White Flare  cardno 013/086    name Emboar  Rare  hp:180
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/013/high.webp
+#369  Pansear / Pansear
+      JP  set SV11W   White Flare  cardno 014/086    name Pansear (バオップ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 014/086    name Pansear  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/014/high.webp
+#370  Simisear / Simisear
+      JP  set SV11W   White Flare  cardno 015/086    name Simisear (バオッキー)  U  hp:100
+      EN  set sv10.5w White Flare  cardno 015/086    name Simisear  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/015/high.webp
+#371  Heatmor / Heatmor
+      JP  set SV11W   White Flare  cardno 016/086    name Heatmor (クイタラン)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 019/086    name Heatmor  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/019/high.webp
+#372  Reshiram ex / Reshiram ex
+      JP  set SV11W   White Flare  cardno 017/086    name Reshiram ex (レシラムex)  RR  hp:230
+      EN  set sv10.5w White Flare  cardno 020/086    name Reshiram ex  Double Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/020/high.webp
+#373  Oshawott / Oshawott
+      JP  set SV11W   White Flare  cardno 018/086    name Oshawott (ミジュマル)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 021/086    name Oshawott  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/021/high.webp
+#374  Dewott / Dewott
+      JP  set SV11W   White Flare  cardno 019/086    name Dewott (フタチマル)  C  hp:100
+      EN  set sv10.5w White Flare  cardno 022/086    name Dewott  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/022/high.webp
+#375  Samurott / Samurott
+      JP  set SV11W   White Flare  cardno 020/086    name Samurott (ダイケンキ)  R  hp:160
+      EN  set sv10.5w White Flare  cardno 023/086    name Samurott  Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/023/high.webp
+#376  Basculin / Basculin
+      JP  set SV11W   White Flare  cardno 021/086    name Basculin (バスラオ)  C  hp:90
+      EN  set sv10.5w White Flare  cardno 024/086    name Basculin  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/024/high.webp
+#377  Ducklett / Ducklett
+      JP  set SV11W   White Flare  cardno 022/086    name Ducklett (コアルヒー)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 025/086    name Ducklett  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/025/high.webp
+#378  Swanna / Swanna
+      JP  set SV11W   White Flare  cardno 023/086    name Swanna (スワンナ)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 026/086    name Swanna  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/026/high.webp
+#379  Vanillite / Vanillite
+      JP  set SV11W   White Flare  cardno 024/086    name Vanillite (バニプッチ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 027/086    name Vanillite  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/027/high.webp
+#380  Vanillish / Vanillish
+      JP  set SV11W   White Flare  cardno 025/086    name Vanillish (バニプッチ)  C  hp:90
+      EN  set sv10.5w White Flare  cardno 028/086    name Vanillish  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/028/high.webp
+#381  Vanilluxe / Vanilluxe
+      JP  set SV11W   White Flare  cardno 026/086    name Vanilluxe (バイバニラ)  U  hp:150
+      EN  set sv10.5w White Flare  cardno 029/086    name Vanilluxe  Uncommon  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/029/high.webp
+#382  Keldeo ex / Keldeo ex
+      JP  set SV11W   White Flare  cardno 027/086    name Keldeo ex (ケルディオex)  RR  hp:210
+      EN  set sv10.5w White Flare  cardno 030/086    name Keldeo ex  Double Rare  hp:210
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/030/high.webp
+#383  Blitzle / Blitzle
+      JP  set SV11W   White Flare  cardno 028/086    name Blitzle (シママ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 031/086    name Blitzle  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/031/high.webp
+#384  Zebstrika / Zebstrika
+      JP  set SV11W   White Flare  cardno 029/086    name Zebstrika (ゼブライカ)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 032/086    name Zebstrika  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/032/high.webp
+#385  Joltik / Joltik
+      JP  set SV11W   White Flare  cardno 030/086    name Joltik (バチュル)  C  hp:40
+      EN  set sv10.5w White Flare  cardno 033/086    name Joltik  Common  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/033/high.webp
+#386  Galvantula / Galvantula
+      JP  set SV11W   White Flare  cardno 031/086    name Galvantula (デンチュラ)  U  hp:90
+      EN  set sv10.5w White Flare  cardno 034/086    name Galvantula  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/034/high.webp
+#387  Stunfisk / Stunfisk
+      JP  set SV11W   White Flare  cardno 032/086    name Stunfisk (マッギョ)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 035/086    name Stunfisk  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/035/high.webp
+#388  Woobat / Woobat
+      JP  set SV11W   White Flare  cardno 033/086    name Woobat (コロモリ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 036/086    name Woobat  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/036/high.webp
+#389  Swoobat / Swoobat
+      JP  set SV11W   White Flare  cardno 034/086    name Swoobat (ココロモリ)  U  hp:90
+      EN  set sv10.5w White Flare  cardno 037/086    name Swoobat  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/037/high.webp
+#390  Sigilyph / Sigilyph
+      JP  set SV11W   White Flare  cardno 035/086    name Sigilyph (シンボラー)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 038/086    name Sigilyph  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/038/high.webp
+#391  Yamask / Yamask
+      JP  set SV11W   White Flare  cardno 036/086    name Yamask (デスマス)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 039/086    name Yamask  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/039/high.webp
+#392  Cofagrigus / Cofagrigus
+      JP  set SV11W   White Flare  cardno 037/086    name Cofagrigus (デスカーン)  R  hp:120
+      EN  set sv10.5w White Flare  cardno 040/086    name Cofagrigus  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/040/high.webp
+#393  Gothita / Gothita
+      JP  set SV11W   White Flare  cardno 038/086    name Gothita (ゴチム)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 041/086    name Gothita  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/041/high.webp
+#394  Gothorita / Gothorita
+      JP  set SV11W   White Flare  cardno 039/086    name Gothorita (ゴチミル)  C  hp:90
+      EN  set sv10.5w White Flare  cardno 042/086    name Gothorita  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/042/high.webp
+#395  Gothitelle / Gothitelle
+      JP  set SV11W   White Flare  cardno 040/086    name Gothitelle (ゴチルゼル)  R  hp:150
+      EN  set sv10.5w White Flare  cardno 043/086    name Gothitelle  Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/043/high.webp
+#396  Frillish / Frillish
+      JP  set SV11W   White Flare  cardno 041/086    name Frillish (プルリル)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 044/086    name Frillish  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/044/high.webp
+#397  Jellicent ex / Jellicent ex
+      JP  set SV11W   White Flare  cardno 042/086    name Jellicent ex (ブルンゲルex)  RR  hp:270
+      EN  set sv10.5w White Flare  cardno 045/086    name Jellicent ex  Double Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/045/high.webp
+#398  Roggenrola / Roggenrola
+      JP  set SV11W   White Flare  cardno 043/086    name Roggenrola (ダンゴロ)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 046/086    name Roggenrola  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/046/high.webp
+#399  Boldore / Boldore
+      JP  set SV11W   White Flare  cardno 044/086    name Boldore (ガントル)  C  hp:110
+      EN  set sv10.5w White Flare  cardno 047/086    name Boldore  Common  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/047/high.webp
+#400  Gigalith / Gigalith
+      JP  set SV11W   White Flare  cardno 045/086    name Gigalith (ギガイアス)  U  hp:170
+      EN  set sv10.5w White Flare  cardno 048/086    name Gigalith  Uncommon  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/048/high.webp
+#401  Sawk / Sawk
+      JP  set SV11W   White Flare  cardno 046/086    name Sawk (ダゲキ)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 049/086    name Sawk  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/049/high.webp
+#402  Archen / Archen
+      JP  set SV11W   White Flare  cardno 047/086    name Archen (アーケン)  U  hp:80
+      EN  set sv10.5w White Flare  cardno 050/086    name Archen  Uncommon  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/050/high.webp
+#403  Archeops / Archeops
+      JP  set SV11W   White Flare  cardno 048/086    name Archeops (アーケオス)  R  hp:140
+      EN  set sv10.5w White Flare  cardno 051/086    name Archeops  Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/051/high.webp
+#404  Mienfoo / Mienfoo
+      JP  set SV11W   White Flare  cardno 049/086    name Mienfoo (コジョフー)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 052/086    name Mienfoo  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/052/high.webp
+#405  Mienshao / Mienshao
+      JP  set SV11W   White Flare  cardno 050/086    name Mienshao (コジョンド)  U  hp:100
+      EN  set sv10.5w White Flare  cardno 053/086    name Mienshao  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/053/high.webp
+#406  Terrakion / Terrakion
+      JP  set SV11W   White Flare  cardno 051/086    name Terrakion (テラキオン)  R  hp:140
+      EN  set sv10.5w White Flare  cardno 054/086    name Terrakion  Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/054/high.webp
+#407  Purrloin / Purrloin
+      JP  set SV11W   White Flare  cardno 052/086    name Purrloin (チョロネコ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 055/086    name Purrloin  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/055/high.webp
+#408  Liepard / Liepard
+      JP  set SV11W   White Flare  cardno 053/086    name Liepard (レパルダス)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 056/086    name Liepard  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/056/high.webp
+#409  Scraggy / Scraggy
+      JP  set SV11W   White Flare  cardno 054/086    name Scraggy (ズルッグ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 057/086    name Scraggy  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/057/high.webp
+#410  Scrafty / Scrafty
+      JP  set SV11W   White Flare  cardno 055/086    name Scrafty (ズルズキン)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 058/086    name Scrafty  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/058/high.webp
+#411  Trubbish / Trubbish
+      JP  set SV11W   White Flare  cardno 056/086    name Trubbish (ヤブクロン)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 059/086    name Trubbish  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/059/high.webp
+#412  Garbodor / Garbodor
+      JP  set SV11W   White Flare  cardno 057/086    name Garbodor (ダストダス)  U  hp:140
+      EN  set sv10.5w White Flare  cardno 060/086    name Garbodor  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/060/high.webp
+#413  Zorua / Zorua
+      JP  set SV11W   White Flare  cardno 058/086    name Zorua (ゾロア)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 061/086    name Zorua  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/061/high.webp
+#414  Zoroark / Zoroark
+      JP  set SV11W   White Flare  cardno 059/086    name Zoroark (ゾロアーク)  R  hp:120
+      EN  set sv10.5w White Flare  cardno 062/086    name Zoroark  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/062/high.webp
+#415  Deino / Deino
+      JP  set SV11W   White Flare  cardno 060/086    name Deino (モノズ)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 065/086    name Deino  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/065/high.webp
+#416  Zweilous / Zweilous
+      JP  set SV11W   White Flare  cardno 061/086    name Zweilous (ジヘッド)  C  hp:110
+      EN  set sv10.5w White Flare  cardno 066/086    name Zweilous  Common  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/066/high.webp
+#417  Hydreigon ex / Hydreigon ex
+      JP  set SV11W   White Flare  cardno 062/086    name Hydreigon ex (サザンドラex)  RR  hp:330
+      EN  set sv10.5w White Flare  cardno 067/086    name Hydreigon ex  Double Rare  hp:330
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/067/high.webp
+#418  Ferroseed / Ferroseed
+      JP  set SV11W   White Flare  cardno 063/086    name Ferroseed (テッシード)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 068/086    name Ferroseed  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/068/high.webp
+#419  Ferrothorn / Ferrothorn
+      JP  set SV11W   White Flare  cardno 064/086    name Ferrothorn (ナットレイ)  U  hp:140
+      EN  set sv10.5w White Flare  cardno 069/086    name Ferrothorn  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/069/high.webp
+#420  Durant / Durant
+      JP  set SV11W   White Flare  cardno 068/086    name Durant (アイアント)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 070/086    name Durant  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/070/high.webp
+#421  Druddigon / Druddigon
+      JP  set SV11W   White Flare  cardno 069/086    name Druddigon (クリムガン)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 071/086    name Druddigon  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/071/high.webp
+#422  Patrat / Patrat
+      JP  set SV11W   White Flare  cardno 070/086    name Patrat (ミネズミ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 072/086    name Patrat  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/072/high.webp
+#423  Watchog / Watchog
+      JP  set SV11W   White Flare  cardno 071/086    name Watchog (ミルホッグ)  U  hp:90
+      EN  set sv10.5w White Flare  cardno 073/086    name Watchog  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/073/high.webp
+#424  Lillipup / Lillipup
+      JP  set SV11W   White Flare  cardno 072/086    name Lillipup (ヨーテリー)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 074/086    name Lillipup  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/074/high.webp
+#425  Herdier / Herdier
+      JP  set SV11W   White Flare  cardno 073/086    name Herdier (ハーデリア)  C  hp:90
+      EN  set sv10.5w White Flare  cardno 075/086    name Herdier  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/075/high.webp
+#426  Stoutland / Stoutland
+      JP  set SV11W   White Flare  cardno 074/086    name Stoutland (ムーランド)  U  hp:160
+      EN  set sv10.5w White Flare  cardno 076/086    name Stoutland  Uncommon  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/076/high.webp
+#427  Bouffalant ex / Bouffalant ex
+      JP  set SV11W   White Flare  cardno 075/086    name Bouffalant ex (バッフロンex)  RR  hp:220
+      EN  set sv10.5w White Flare  cardno 077/086    name Bouffalant ex  Double Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/077/high.webp
+#428  Tornadus / Tornadus
+      JP  set SV11W   White Flare  cardno 078/086    name Tornadus (トルネロス)  R  hp:120
+      EN  set sv10.5w White Flare  cardno 078/086    name Tornadus  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/078/high.webp
+#429  Antique Plume Fossil / Antique Plume Fossil
+      JP  set SV11W   White Flare  cardno 081/086    name Antique Plume Fossil (古びたはねの化石)  C  hp:-
+      EN  set sv10.5w White Flare  cardno 079/086    name Antique Plume Fossil  Common  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/079/high.webp
+#430  Brave Bangle / Brave Bangle
+      JP  set SV11W   White Flare  cardno 082/086    name Brave Bangle (ブレイブバングル)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 080/086    name Brave Bangle  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/080/high.webp
+#431  Cheren / Cheren
+      JP  set SV11W   White Flare  cardno 084/086    name Cheren (チェレン)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 081/086    name Cheren  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/081/high.webp
+#432  Energy Retrieval / Energy Retrieval
+      JP  set SV11W   White Flare  cardno 079/086    name Energy Retrieval (エネルギー回収)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 082/086    name Energy Retrieval  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/082/high.webp
+#433  Harlequin / Harlequin
+      JP  set SV11W   White Flare  cardno 083/086    name Harlequin (クラウン)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 083/086    name Harlequin  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/083/high.webp
+#434  Hilda / Hilda
+      JP  set SV11W   White Flare  cardno 085/086    name Hilda (トウコ)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 084/086    name Hilda  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/084/high.webp
+#435  Tool Scrapper / Tool Scrapper
+      JP  set SV11W   White Flare  cardno 080/086    name Tool Scrapper (ツールスクラッパー)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 085/086    name Tool Scrapper  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/085/high.webp
+#436  Ignition Energy / Ignition Energy
+      JP  set SV11W   White Flare  cardno 086/086    name Ignition Energy (イグニッションエネルギー)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 086/086    name Ignition Energy  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/086/high.webp
+#437  Sewaddle / Sewaddle
+      JP  set SV11W   White Flare  cardno 087/086    name Sewaddle (クルミル)  AR  hp:50
+      EN  set sv10.5w White Flare  cardno 087/086    name Sewaddle  Illustration Rare  hp:50
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/087/high.webp
+#438  Swadloon / Swadloon
+      JP  set SV11W   White Flare  cardno 088/086    name Swadloon (クルマユ)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 088/086    name Swadloon  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/088/high.webp
+#439  Leavanny / Leavanny
+      JP  set SV11W   White Flare  cardno 089/086    name Leavanny (ハハコモリ)  AR  hp:130
+      EN  set sv10.5w White Flare  cardno 089/086    name Leavanny  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/089/high.webp
+#440  Cottonee / Cottonee
+      JP  set SV11W   White Flare  cardno 090/086    name Cottonee (モンメン)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 090/086    name Cottonee  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/090/high.webp
+#441  Deerling / Deerling
+      JP  set SV11W   White Flare  cardno 091/086    name Deerling (シキジカ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 091/086    name Deerling  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/091/high.webp
+#442  Sawsbuck / Sawsbuck
+      JP  set SV11W   White Flare  cardno 092/086    name Sawsbuck (メブキジカ)  AR  hp:130
+      EN  set sv10.5w White Flare  cardno 092/086    name Sawsbuck  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/092/high.webp
+#443  Shelmet / Shelmet
+      JP  set SV11W   White Flare  cardno 093/086    name Shelmet (チョボマキ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 093/086    name Shelmet  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/093/high.webp
+#444  Accelgor / Accelgor
+      JP  set SV11W   White Flare  cardno 094/086    name Accelgor (アギルダー)  AR  hp:100
+      EN  set sv10.5w White Flare  cardno 094/086    name Accelgor  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/094/high.webp
+#445  Virizion / Virizion
+      JP  set SV11W   White Flare  cardno 095/086    name Virizion (ビリジオン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 095/086    name Virizion  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/095/high.webp
+#446  Tepig / Tepig
+      JP  set SV11W   White Flare  cardno 096/086    name Tepig (ポカブ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 096/086    name Tepig  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/096/high.webp
+#447  Pignite / Pignite
+      JP  set SV11W   White Flare  cardno 097/086    name Pignite (チャオブー)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 097/086    name Pignite  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/097/high.webp
+#448  Emboar / Emboar
+      JP  set SV11W   White Flare  cardno 098/086    name Emboar (エンブオー)  AR  hp:180
+      EN  set sv10.5w White Flare  cardno 098/086    name Emboar  Illustration Rare  hp:180
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/098/high.webp
+#449  Pansear / Pansear
+      JP  set SV11W   White Flare  cardno 099/086    name Pansear (バオップ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 099/086    name Pansear  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/099/high.webp
+#450  Simisear / Simisear
+      JP  set SV11W   White Flare  cardno 100/086    name Simisear (バオッキー)  AR  hp:100
+      EN  set sv10.5w White Flare  cardno 100/086    name Simisear  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/100/high.webp
+#451  Heatmor / Heatmor
+      JP  set SV11W   White Flare  cardno 101/086    name Heatmor (クイタラン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 104/086    name Heatmor  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/104/high.webp
+#452  Oshawott / Oshawott
+      JP  set SV11W   White Flare  cardno 102/086    name Oshawott (ミジュマル)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 105/086    name Oshawott  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/105/high.webp
+#453  Dewott / Dewott
+      JP  set SV11W   White Flare  cardno 103/086    name Dewott (フタチマル)  AR  hp:100
+      EN  set sv10.5w White Flare  cardno 106/086    name Dewott  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/106/high.webp
+#454  Samurott / Samurott
+      JP  set SV11W   White Flare  cardno 104/086    name Samurott (ダイケンキ)  AR  hp:160
+      EN  set sv10.5w White Flare  cardno 107/086    name Samurott  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/107/high.webp
+#455  Basculin / Basculin
+      JP  set SV11W   White Flare  cardno 105/086    name Basculin (バスラオ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 108/086    name Basculin  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/108/high.webp
+#456  Ducklett / Ducklett
+      JP  set SV11W   White Flare  cardno 106/086    name Ducklett (コアルヒー)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 109/086    name Ducklett  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/109/high.webp
+#457  Swanna / Swanna
+      JP  set SV11W   White Flare  cardno 107/086    name Swanna (スワンナ)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 110/086    name Swanna  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/110/high.webp
+#458  Vanillite / Vanillite
+      JP  set SV11W   White Flare  cardno 108/086    name Vanillite (バニプッチ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 111/086    name Vanillite  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/111/high.webp
+#459  Vanillish / Vanillish
+      JP  set SV11W   White Flare  cardno 109/086    name Vanillish (バニプッチ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 112/086    name Vanillish  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/112/high.webp
+#460  Vanilluxe / Vanilluxe
+      JP  set SV11W   White Flare  cardno 110/086    name Vanilluxe (バイバニラ)  AR  hp:150
+      EN  set sv10.5w White Flare  cardno 113/086    name Vanilluxe  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/113/high.webp
+#461  Blitzle / Blitzle
+      JP  set SV11W   White Flare  cardno 111/086    name Blitzle (シママ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 114/086    name Blitzle  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/114/high.webp
+#462  Zebstrika / Zebstrika
+      JP  set SV11W   White Flare  cardno 112/086    name Zebstrika (ゼブライカ)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 115/086    name Zebstrika  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/115/high.webp
+#463  Joltik / Joltik
+      JP  set SV11W   White Flare  cardno 113/086    name Joltik (バチュル)  AR  hp:40
+      EN  set sv10.5w White Flare  cardno 116/086    name Joltik  Illustration Rare  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/116/high.webp
+#464  Galvantula / Galvantula
+      JP  set SV11W   White Flare  cardno 114/086    name Galvantula (デンチュラ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 117/086    name Galvantula  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/117/high.webp
+#465  Stunfisk / Stunfisk
+      JP  set SV11W   White Flare  cardno 115/086    name Stunfisk (マッギョ)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 118/086    name Stunfisk  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/118/high.webp
+#466  Woobat / Woobat
+      JP  set SV11W   White Flare  cardno 116/086    name Woobat (コロモリ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 119/086    name Woobat  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/119/high.webp
+#467  Swoobat / Swoobat
+      JP  set SV11W   White Flare  cardno 117/086    name Swoobat (ココロモリ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 120/086    name Swoobat  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/120/high.webp
+#468  Sigilyph / Sigilyph
+      JP  set SV11W   White Flare  cardno 118/086    name Sigilyph (シンボラー)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 121/086    name Sigilyph  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/121/high.webp
+#469  Yamask / Yamask
+      JP  set SV11W   White Flare  cardno 119/086    name Yamask (デスマス)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 122/086    name Yamask  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/122/high.webp
+#470  Cofagrigus / Cofagrigus
+      JP  set SV11W   White Flare  cardno 120/086    name Cofagrigus (デスカーン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 123/086    name Cofagrigus  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/123/high.webp
+#471  Gothita / Gothita
+      JP  set SV11W   White Flare  cardno 121/086    name Gothita (ゴチム)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 124/086    name Gothita  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/124/high.webp
+#472  Gothorita / Gothorita
+      JP  set SV11W   White Flare  cardno 122/086    name Gothorita (ゴチミル)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 125/086    name Gothorita  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/125/high.webp
+#473  Frillish / Frillish
+      JP  set SV11W   White Flare  cardno 124/086    name Frillish (プルリル)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 126/086    name Frillish  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/126/high.webp
+#474  Roggenrola / Roggenrola
+      JP  set SV11W   White Flare  cardno 125/086    name Roggenrola (ダンゴロ)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 127/086    name Roggenrola  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/127/high.webp
+#475  Boldore / Boldore
+      JP  set SV11W   White Flare  cardno 126/086    name Boldore (ガントル)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 128/086    name Boldore  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/128/high.webp
+#476  Gigalith / Gigalith
+      JP  set SV11W   White Flare  cardno 127/086    name Gigalith (ギガイアス)  AR  hp:170
+      EN  set sv10.5w White Flare  cardno 129/086    name Gigalith  Illustration Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/129/high.webp
+#477  Sawk / Sawk
+      JP  set SV11W   White Flare  cardno 128/086    name Sawk (ダゲキ)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 130/086    name Sawk  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/130/high.webp
+#478  Archen / Archen
+      JP  set SV11W   White Flare  cardno 129/086    name Archen (アーケン)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 131/086    name Archen  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/131/high.webp
+#479  Archeops / Archeops
+      JP  set SV11W   White Flare  cardno 130/086    name Archeops (アーケオス)  AR  hp:140
+      EN  set sv10.5w White Flare  cardno 132/086    name Archeops  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/132/high.webp
+#480  Mienfoo / Mienfoo
+      JP  set SV11W   White Flare  cardno 131/086    name Mienfoo (コジョフー)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 133/086    name Mienfoo  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/133/high.webp
+#481  Mienshao / Mienshao
+      JP  set SV11W   White Flare  cardno 132/086    name Mienshao (コジョンド)  AR  hp:100
+      EN  set sv10.5w White Flare  cardno 134/086    name Mienshao  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/134/high.webp
+#482  Terrakion / Terrakion
+      JP  set SV11W   White Flare  cardno 133/086    name Terrakion (テラキオン)  AR  hp:140
+      EN  set sv10.5w White Flare  cardno 135/086    name Terrakion  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/135/high.webp
+#483  Purrloin / Purrloin
+      JP  set SV11W   White Flare  cardno 134/086    name Purrloin (チョロネコ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 136/086    name Purrloin  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/136/high.webp
+#484  Liepard / Liepard
+      JP  set SV11W   White Flare  cardno 135/086    name Liepard (レパルダス)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 137/086    name Liepard  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/137/high.webp
+#485  Scraggy / Scraggy
+      JP  set SV11W   White Flare  cardno 136/086    name Scraggy (ズルッグ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 138/086    name Scraggy  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/138/high.webp
+#486  Scrafty / Scrafty
+      JP  set SV11W   White Flare  cardno 137/086    name Scrafty (ズルズキン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 139/086    name Scrafty  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/139/high.webp
+#487  Trubbish / Trubbish
+      JP  set SV11W   White Flare  cardno 138/086    name Trubbish (ヤブクロン)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 140/086    name Trubbish  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/140/high.webp
+#488  Garbodor / Garbodor
+      JP  set SV11W   White Flare  cardno 139/086    name Garbodor (ダストダス)  AR  hp:140
+      EN  set sv10.5w White Flare  cardno 141/086    name Garbodor  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/141/high.webp
+#489  Zorua / Zorua
+      JP  set SV11W   White Flare  cardno 140/086    name Zorua (ゾロア)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 142/086    name Zorua  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/142/high.webp
+#490  Zoroark / Zoroark
+      JP  set SV11W   White Flare  cardno 141/086    name Zoroark (ゾロアーク)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 143/086    name Zoroark  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/143/high.webp
+#491  Deino / Deino
+      JP  set SV11W   White Flare  cardno 142/086    name Deino (モノズ)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 146/086    name Deino  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/146/high.webp
+#492  Zweilous / Zweilous
+      JP  set SV11W   White Flare  cardno 143/086    name Zweilous (ジヘッド)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 147/086    name Zweilous  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/147/high.webp
+#493  Ferroseed / Ferroseed
+      JP  set SV11W   White Flare  cardno 144/086    name Ferroseed (テッシード)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 148/086    name Ferroseed  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/148/high.webp
+#494  Ferrothorn / Ferrothorn
+      JP  set SV11W   White Flare  cardno 145/086    name Ferrothorn (ナットレイ)  AR  hp:140
+      EN  set sv10.5w White Flare  cardno 149/086    name Ferrothorn  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/149/high.webp
+#495  Durant / Durant
+      JP  set SV11W   White Flare  cardno 149/086    name Durant (アイアント)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 150/086    name Durant  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/150/high.webp
+#496  Druddigon / Druddigon
+      JP  set SV11W   White Flare  cardno 150/086    name Druddigon (クリムガン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 151/086    name Druddigon  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/151/high.webp
+#497  Patrat / Patrat
+      JP  set SV11W   White Flare  cardno 151/086    name Patrat (ミネズミ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 152/086    name Patrat  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/152/high.webp
+#498  Watchog / Watchog
+      JP  set SV11W   White Flare  cardno 152/086    name Watchog (ミルホッグ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 153/086    name Watchog  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/153/high.webp
+#499  Lillipup / Lillipup
+      JP  set SV11W   White Flare  cardno 153/086    name Lillipup (ヨーテリー)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 154/086    name Lillipup  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/154/high.webp
+#500  Herdier / Herdier
+      JP  set SV11W   White Flare  cardno 154/086    name Herdier (ハーデリア)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 155/086    name Herdier  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/155/high.webp
+#501  Stoutland / Stoutland
+      JP  set SV11W   White Flare  cardno 155/086    name Stoutland (ムーランド)  AR  hp:160
+      EN  set sv10.5w White Flare  cardno 156/086    name Stoutland  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/156/high.webp
+#502  Whimsicott ex / Whimsicott ex
+      JP  set SV11W   White Flare  cardno 159/086    name Whimsicott ex (エルフーンex)  SR  hp:230
+      EN  set sv10.5w White Flare  cardno 157/086    name Whimsicott ex  Ultra Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/157/high.webp
+#503  Reshiram ex / Reshiram ex
+      JP  set SV11W   White Flare  cardno 160/086    name Reshiram ex (レシラムex)  SR  hp:230
+      EN  set sv10.5w White Flare  cardno 158/086    name Reshiram ex  Ultra Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/158/high.webp
+#504  Keldeo ex / Keldeo ex
+      JP  set SV11W   White Flare  cardno 161/086    name Keldeo ex (ケルディオex)  SR  hp:210
+      EN  set sv10.5w White Flare  cardno 159/086    name Keldeo ex  Ultra Rare  hp:210
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/159/high.webp
+#505  Jellicent ex / Jellicent ex
+      JP  set SV11W   White Flare  cardno 162/086    name Jellicent ex (ブルンゲルex)  SR  hp:270
+      EN  set sv10.5w White Flare  cardno 160/086    name Jellicent ex  Ultra Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/160/high.webp
+#506  Hydreigon ex / Hydreigon ex
+      JP  set SV11W   White Flare  cardno 163/086    name Hydreigon ex (サザンドラex)  SR  hp:330
+      EN  set sv10.5w White Flare  cardno 161/086    name Hydreigon ex  Ultra Rare  hp:330
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/161/high.webp
+#507  Bouffalant ex / Bouffalant ex
+      JP  set SV11W   White Flare  cardno 164/086    name Bouffalant ex (バッフロンex)  SR  hp:220
+      EN  set sv10.5w White Flare  cardno 162/086    name Bouffalant ex  Ultra Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/162/high.webp
+#508  Harlequin / Harlequin
+      JP  set SV11W   White Flare  cardno 165/086    name Harlequin (クラウン)  SR  hp:-
+      EN  set sv10.5w White Flare  cardno 163/086    name Harlequin  Ultra Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/163/high.webp
+#509  Hilda / Hilda
+      JP  set SV11W   White Flare  cardno 166/086    name Hilda (トウコ)  SR  hp:-
+      EN  set sv10.5w White Flare  cardno 164/086    name Hilda  Ultra Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/164/high.webp
+#510  Whimsicott ex / Whimsicott ex
+      JP  set SV11W   White Flare  cardno 167/086    name Whimsicott ex (エルフーンex)  SAR  hp:230
+      EN  set sv10.5w White Flare  cardno 165/086    name Whimsicott ex  Special Illustration Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/165/high.webp
+#511  Reshiram ex / Reshiram ex
+      JP  set SV11W   White Flare  cardno 168/086    name Reshiram ex (レシラムex)  SAR  hp:230
+      EN  set sv10.5w White Flare  cardno 166/086    name Reshiram ex  Special Illustration Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/166/high.webp
+#512  Keldeo ex / Keldeo ex
+      JP  set SV11W   White Flare  cardno 169/086    name Keldeo ex (ケルディオex)  SAR  hp:210
+      EN  set sv10.5w White Flare  cardno 167/086    name Keldeo ex  Special Illustration Rare  hp:210
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/167/high.webp
+#513  Jellicent ex / Jellicent ex
+      JP  set SV11W   White Flare  cardno 170/086    name Jellicent ex (ブルンゲルex)  SAR  hp:270
+      EN  set sv10.5w White Flare  cardno 168/086    name Jellicent ex  Special Illustration Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/168/high.webp
+#514  Hydreigon ex / Hydreigon ex
+      JP  set SV11W   White Flare  cardno 171/086    name Hydreigon ex (サザンドラex)  SAR  hp:330
+      EN  set sv10.5w White Flare  cardno 169/086    name Hydreigon ex  Special Illustration Rare  hp:330
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/169/high.webp
+#515  Bouffalant ex / Bouffalant ex
+      JP  set SV11W   White Flare  cardno 172/086    name Bouffalant ex (バッフロンex)  SAR  hp:220
+      EN  set sv10.5w White Flare  cardno 170/086    name Bouffalant ex  Special Illustration Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/170/high.webp
+#516  Hilda / Hilda
+      JP  set SV11W   White Flare  cardno 173/086    name Hilda (トウコ)  SAR  hp:-
+      EN  set sv10.5w White Flare  cardno 171/086    name Hilda  Special Illustration Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/171/high.webp
+#517  Reshiram ex / Reshiram ex
+      JP  set SV11W   White Flare  cardno 174/086    name Reshiram ex (レシラムex)  BWR  hp:230
+      EN  set sv10.5w White Flare  cardno 173/086    name Reshiram ex  Black White Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/173/high.webp
+
+############################################################################################
+## SV11W->sv10.5b   [JA -> EN]   10 cap
+############################################################################################
+#518  Klink / Klink
+      JP  set SV11W   White Flare  cardno 065/086    name Klink (ギアル)  C  hp:60
+      EN  set sv10.5b Black Bolt   cardno 061/086    name Klink  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/061/high.webp
+#519  Klang / Klang
+      JP  set SV11W   White Flare  cardno 066/086    name Klang (ギギアル)  C  hp:90
+      EN  set sv10.5b Black Bolt   cardno 062/086    name Klang  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/062/high.webp
+#520  Klinklang / Klinklang
+      JP  set SV11W   White Flare  cardno 067/086    name Klinklang (ギギギアル)  R  hp:150
+      EN  set sv10.5b Black Bolt   cardno 063/086    name Klinklang  Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/063/high.webp
+#521  Rufflet / Rufflet
+      JP  set SV11W   White Flare  cardno 076/086    name Rufflet (ワシボン)  C  hp:70
+      EN  set sv10.5b Black Bolt   cardno 077/086    name Rufflet  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/077/high.webp
+#522  Braviary / Braviary
+      JP  set SV11W   White Flare  cardno 077/086    name Braviary (ウォーグル)  U  hp:140
+      EN  set sv10.5b Black Bolt   cardno 078/086    name Braviary  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/078/high.webp
+#523  Klink / Klink
+      JP  set SV11W   White Flare  cardno 146/086    name Klink (ギアル)  AR  hp:60
+      EN  set sv10.5b Black Bolt   cardno 139/086    name Klink  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/139/high.webp
+#524  Klang / Klang
+      JP  set SV11W   White Flare  cardno 147/086    name Klang (ギギアル)  AR  hp:90
+      EN  set sv10.5b Black Bolt   cardno 140/086    name Klang  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/140/high.webp
+#525  Klinklang / Klinklang
+      JP  set SV11W   White Flare  cardno 148/086    name Klinklang (ギギギアル)  AR  hp:150
+      EN  set sv10.5b Black Bolt   cardno 141/086    name Klinklang  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/141/high.webp
+#526  Rufflet / Rufflet
+      JP  set SV11W   White Flare  cardno 156/086    name Rufflet (ワシボン)  AR  hp:70
+      EN  set sv10.5b Black Bolt   cardno 154/086    name Rufflet  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/154/high.webp
+#527  Braviary / Braviary
+      JP  set SV11W   White Flare  cardno 157/086    name Braviary (ウォーグル)  AR  hp:140
+      EN  set sv10.5b Black Bolt   cardno 155/086    name Braviary  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5b/155/high.webp
+
+############################################################################################
+## SV11W->sv10.5w   [JA -> EN]   162 cap
+############################################################################################
+#528  Sewaddle / Sewaddle
+      JP  set SV11W   White Flare  cardno 001/086    name Sewaddle (クルミル)  C  hp:50
+      EN  set sv10.5w White Flare  cardno 001/086    name Sewaddle  Common  hp:50
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/001/high.webp
+#529  Swadloon / Swadloon
+      JP  set SV11W   White Flare  cardno 002/086    name Swadloon (クルマユ)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 002/086    name Swadloon  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/002/high.webp
+#530  Leavanny / Leavanny
+      JP  set SV11W   White Flare  cardno 003/086    name Leavanny (ハハコモリ)  U  hp:130
+      EN  set sv10.5w White Flare  cardno 003/086    name Leavanny  Uncommon  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/003/high.webp
+#531  Cottonee / Cottonee
+      JP  set SV11W   White Flare  cardno 004/086    name Cottonee (モンメン)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 004/086    name Cottonee  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/004/high.webp
+#532  Whimsicott ex / Whimsicott ex
+      JP  set SV11W   White Flare  cardno 005/086    name Whimsicott ex (エルフーンex)  RR  hp:230
+      EN  set sv10.5w White Flare  cardno 005/086    name Whimsicott ex  Double Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/005/high.webp
+#533  Deerling / Deerling
+      JP  set SV11W   White Flare  cardno 006/086    name Deerling (シキジカ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 006/086    name Deerling  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/006/high.webp
+#534  Sawsbuck / Sawsbuck
+      JP  set SV11W   White Flare  cardno 007/086    name Sawsbuck (メブキジカ)  U  hp:130
+      EN  set sv10.5w White Flare  cardno 007/086    name Sawsbuck  Uncommon  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/007/high.webp
+#535  Shelmet / Shelmet
+      JP  set SV11W   White Flare  cardno 008/086    name Shelmet (チョボマキ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 008/086    name Shelmet  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/008/high.webp
+#536  Accelgor / Accelgor
+      JP  set SV11W   White Flare  cardno 009/086    name Accelgor (アギルダー)  U  hp:100
+      EN  set sv10.5w White Flare  cardno 009/086    name Accelgor  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/009/high.webp
+#537  Virizion / Virizion
+      JP  set SV11W   White Flare  cardno 010/086    name Virizion (ビリジオン)  R  hp:120
+      EN  set sv10.5w White Flare  cardno 010/086    name Virizion  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/010/high.webp
+#538  Tepig / Tepig
+      JP  set SV11W   White Flare  cardno 011/086    name Tepig (ポカブ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 011/086    name Tepig  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/011/high.webp
+#539  Pignite / Pignite
+      JP  set SV11W   White Flare  cardno 012/086    name Pignite (チャオブー)  C  hp:110
+      EN  set sv10.5w White Flare  cardno 012/086    name Pignite  Common  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/012/high.webp
+#540  Emboar / Emboar
+      JP  set SV11W   White Flare  cardno 013/086    name Emboar (エンブオー)  R  hp:180
+      EN  set sv10.5w White Flare  cardno 013/086    name Emboar  Rare  hp:180
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/013/high.webp
+#541  Pansear / Pansear
+      JP  set SV11W   White Flare  cardno 014/086    name Pansear (バオップ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 014/086    name Pansear  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/014/high.webp
+#542  Simisear / Simisear
+      JP  set SV11W   White Flare  cardno 015/086    name Simisear (バオッキー)  U  hp:100
+      EN  set sv10.5w White Flare  cardno 015/086    name Simisear  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/015/high.webp
+#543  Heatmor / Heatmor
+      JP  set SV11W   White Flare  cardno 016/086    name Heatmor (クイタラン)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 019/086    name Heatmor  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/019/high.webp
+#544  Reshiram ex / Reshiram ex
+      JP  set SV11W   White Flare  cardno 017/086    name Reshiram ex (レシラムex)  RR  hp:230
+      EN  set sv10.5w White Flare  cardno 020/086    name Reshiram ex  Double Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/020/high.webp
+#545  Oshawott / Oshawott
+      JP  set SV11W   White Flare  cardno 018/086    name Oshawott (ミジュマル)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 021/086    name Oshawott  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/021/high.webp
+#546  Dewott / Dewott
+      JP  set SV11W   White Flare  cardno 019/086    name Dewott (フタチマル)  C  hp:100
+      EN  set sv10.5w White Flare  cardno 022/086    name Dewott  Common  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/022/high.webp
+#547  Samurott / Samurott
+      JP  set SV11W   White Flare  cardno 020/086    name Samurott (ダイケンキ)  R  hp:160
+      EN  set sv10.5w White Flare  cardno 023/086    name Samurott  Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/023/high.webp
+#548  Basculin / Basculin
+      JP  set SV11W   White Flare  cardno 021/086    name Basculin (バスラオ)  C  hp:90
+      EN  set sv10.5w White Flare  cardno 024/086    name Basculin  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/024/high.webp
+#549  Ducklett / Ducklett
+      JP  set SV11W   White Flare  cardno 022/086    name Ducklett (コアルヒー)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 025/086    name Ducklett  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/025/high.webp
+#550  Swanna / Swanna
+      JP  set SV11W   White Flare  cardno 023/086    name Swanna (スワンナ)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 026/086    name Swanna  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/026/high.webp
+#551  Vanillite / Vanillite
+      JP  set SV11W   White Flare  cardno 024/086    name Vanillite (バニプッチ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 027/086    name Vanillite  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/027/high.webp
+#552  Vanillish / Vanillish
+      JP  set SV11W   White Flare  cardno 025/086    name Vanillish (バニプッチ)  C  hp:90
+      EN  set sv10.5w White Flare  cardno 028/086    name Vanillish  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/028/high.webp
+#553  Vanilluxe / Vanilluxe
+      JP  set SV11W   White Flare  cardno 026/086    name Vanilluxe (バイバニラ)  U  hp:150
+      EN  set sv10.5w White Flare  cardno 029/086    name Vanilluxe  Uncommon  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/029/high.webp
+#554  Keldeo ex / Keldeo ex
+      JP  set SV11W   White Flare  cardno 027/086    name Keldeo ex (ケルディオex)  RR  hp:210
+      EN  set sv10.5w White Flare  cardno 030/086    name Keldeo ex  Double Rare  hp:210
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/030/high.webp
+#555  Blitzle / Blitzle
+      JP  set SV11W   White Flare  cardno 028/086    name Blitzle (シママ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 031/086    name Blitzle  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/031/high.webp
+#556  Zebstrika / Zebstrika
+      JP  set SV11W   White Flare  cardno 029/086    name Zebstrika (ゼブライカ)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 032/086    name Zebstrika  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/032/high.webp
+#557  Joltik / Joltik
+      JP  set SV11W   White Flare  cardno 030/086    name Joltik (バチュル)  C  hp:40
+      EN  set sv10.5w White Flare  cardno 033/086    name Joltik  Common  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/033/high.webp
+#558  Galvantula / Galvantula
+      JP  set SV11W   White Flare  cardno 031/086    name Galvantula (デンチュラ)  U  hp:90
+      EN  set sv10.5w White Flare  cardno 034/086    name Galvantula  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/034/high.webp
+#559  Stunfisk / Stunfisk
+      JP  set SV11W   White Flare  cardno 032/086    name Stunfisk (マッギョ)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 035/086    name Stunfisk  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/035/high.webp
+#560  Woobat / Woobat
+      JP  set SV11W   White Flare  cardno 033/086    name Woobat (コロモリ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 036/086    name Woobat  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/036/high.webp
+#561  Swoobat / Swoobat
+      JP  set SV11W   White Flare  cardno 034/086    name Swoobat (ココロモリ)  U  hp:90
+      EN  set sv10.5w White Flare  cardno 037/086    name Swoobat  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/037/high.webp
+#562  Sigilyph / Sigilyph
+      JP  set SV11W   White Flare  cardno 035/086    name Sigilyph (シンボラー)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 038/086    name Sigilyph  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/038/high.webp
+#563  Yamask / Yamask
+      JP  set SV11W   White Flare  cardno 036/086    name Yamask (デスマス)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 039/086    name Yamask  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/039/high.webp
+#564  Cofagrigus / Cofagrigus
+      JP  set SV11W   White Flare  cardno 037/086    name Cofagrigus (デスカーン)  R  hp:120
+      EN  set sv10.5w White Flare  cardno 040/086    name Cofagrigus  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/040/high.webp
+#565  Gothita / Gothita
+      JP  set SV11W   White Flare  cardno 038/086    name Gothita (ゴチム)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 041/086    name Gothita  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/041/high.webp
+#566  Gothorita / Gothorita
+      JP  set SV11W   White Flare  cardno 039/086    name Gothorita (ゴチミル)  C  hp:90
+      EN  set sv10.5w White Flare  cardno 042/086    name Gothorita  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/042/high.webp
+#567  Gothitelle / Gothitelle
+      JP  set SV11W   White Flare  cardno 040/086    name Gothitelle (ゴチルゼル)  R  hp:150
+      EN  set sv10.5w White Flare  cardno 043/086    name Gothitelle  Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/043/high.webp
+#568  Frillish / Frillish
+      JP  set SV11W   White Flare  cardno 041/086    name Frillish (プルリル)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 044/086    name Frillish  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/044/high.webp
+#569  Jellicent ex / Jellicent ex
+      JP  set SV11W   White Flare  cardno 042/086    name Jellicent ex (ブルンゲルex)  RR  hp:270
+      EN  set sv10.5w White Flare  cardno 045/086    name Jellicent ex  Double Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/045/high.webp
+#570  Roggenrola / Roggenrola
+      JP  set SV11W   White Flare  cardno 043/086    name Roggenrola (ダンゴロ)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 046/086    name Roggenrola  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/046/high.webp
+#571  Boldore / Boldore
+      JP  set SV11W   White Flare  cardno 044/086    name Boldore (ガントル)  C  hp:110
+      EN  set sv10.5w White Flare  cardno 047/086    name Boldore  Common  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/047/high.webp
+#572  Gigalith / Gigalith
+      JP  set SV11W   White Flare  cardno 045/086    name Gigalith (ギガイアス)  U  hp:170
+      EN  set sv10.5w White Flare  cardno 048/086    name Gigalith  Uncommon  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/048/high.webp
+#573  Sawk / Sawk
+      JP  set SV11W   White Flare  cardno 046/086    name Sawk (ダゲキ)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 049/086    name Sawk  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/049/high.webp
+#574  Archen / Archen
+      JP  set SV11W   White Flare  cardno 047/086    name Archen (アーケン)  U  hp:80
+      EN  set sv10.5w White Flare  cardno 050/086    name Archen  Uncommon  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/050/high.webp
+#575  Archeops / Archeops
+      JP  set SV11W   White Flare  cardno 048/086    name Archeops (アーケオス)  R  hp:140
+      EN  set sv10.5w White Flare  cardno 051/086    name Archeops  Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/051/high.webp
+#576  Mienfoo / Mienfoo
+      JP  set SV11W   White Flare  cardno 049/086    name Mienfoo (コジョフー)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 052/086    name Mienfoo  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/052/high.webp
+#577  Mienshao / Mienshao
+      JP  set SV11W   White Flare  cardno 050/086    name Mienshao (コジョンド)  U  hp:100
+      EN  set sv10.5w White Flare  cardno 053/086    name Mienshao  Uncommon  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/053/high.webp
+#578  Terrakion / Terrakion
+      JP  set SV11W   White Flare  cardno 051/086    name Terrakion (テラキオン)  R  hp:140
+      EN  set sv10.5w White Flare  cardno 054/086    name Terrakion  Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/054/high.webp
+#579  Purrloin / Purrloin
+      JP  set SV11W   White Flare  cardno 052/086    name Purrloin (チョロネコ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 055/086    name Purrloin  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/055/high.webp
+#580  Liepard / Liepard
+      JP  set SV11W   White Flare  cardno 053/086    name Liepard (レパルダス)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 056/086    name Liepard  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/056/high.webp
+#581  Scraggy / Scraggy
+      JP  set SV11W   White Flare  cardno 054/086    name Scraggy (ズルッグ)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 057/086    name Scraggy  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/057/high.webp
+#582  Scrafty / Scrafty
+      JP  set SV11W   White Flare  cardno 055/086    name Scrafty (ズルズキン)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 058/086    name Scrafty  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/058/high.webp
+#583  Trubbish / Trubbish
+      JP  set SV11W   White Flare  cardno 056/086    name Trubbish (ヤブクロン)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 059/086    name Trubbish  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/059/high.webp
+#584  Garbodor / Garbodor
+      JP  set SV11W   White Flare  cardno 057/086    name Garbodor (ダストダス)  U  hp:140
+      EN  set sv10.5w White Flare  cardno 060/086    name Garbodor  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/060/high.webp
+#585  Zorua / Zorua
+      JP  set SV11W   White Flare  cardno 058/086    name Zorua (ゾロア)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 061/086    name Zorua  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/061/high.webp
+#586  Zoroark / Zoroark
+      JP  set SV11W   White Flare  cardno 059/086    name Zoroark (ゾロアーク)  R  hp:120
+      EN  set sv10.5w White Flare  cardno 062/086    name Zoroark  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/062/high.webp
+#587  Deino / Deino
+      JP  set SV11W   White Flare  cardno 060/086    name Deino (モノズ)  C  hp:80
+      EN  set sv10.5w White Flare  cardno 065/086    name Deino  Common  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/065/high.webp
+#588  Zweilous / Zweilous
+      JP  set SV11W   White Flare  cardno 061/086    name Zweilous (ジヘッド)  C  hp:110
+      EN  set sv10.5w White Flare  cardno 066/086    name Zweilous  Common  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/066/high.webp
+#589  Hydreigon ex / Hydreigon ex
+      JP  set SV11W   White Flare  cardno 062/086    name Hydreigon ex (サザンドラex)  RR  hp:330
+      EN  set sv10.5w White Flare  cardno 067/086    name Hydreigon ex  Double Rare  hp:330
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/067/high.webp
+#590  Ferroseed / Ferroseed
+      JP  set SV11W   White Flare  cardno 063/086    name Ferroseed (テッシード)  C  hp:70
+      EN  set sv10.5w White Flare  cardno 068/086    name Ferroseed  Common  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/068/high.webp
+#591  Ferrothorn / Ferrothorn
+      JP  set SV11W   White Flare  cardno 064/086    name Ferrothorn (ナットレイ)  U  hp:140
+      EN  set sv10.5w White Flare  cardno 069/086    name Ferrothorn  Uncommon  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/069/high.webp
+#592  Durant / Durant
+      JP  set SV11W   White Flare  cardno 068/086    name Durant (アイアント)  U  hp:110
+      EN  set sv10.5w White Flare  cardno 070/086    name Durant  Uncommon  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/070/high.webp
+#593  Druddigon / Druddigon
+      JP  set SV11W   White Flare  cardno 069/086    name Druddigon (クリムガン)  U  hp:120
+      EN  set sv10.5w White Flare  cardno 071/086    name Druddigon  Uncommon  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/071/high.webp
+#594  Patrat / Patrat
+      JP  set SV11W   White Flare  cardno 070/086    name Patrat (ミネズミ)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 072/086    name Patrat  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/072/high.webp
+#595  Watchog / Watchog
+      JP  set SV11W   White Flare  cardno 071/086    name Watchog (ミルホッグ)  U  hp:90
+      EN  set sv10.5w White Flare  cardno 073/086    name Watchog  Uncommon  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/073/high.webp
+#596  Lillipup / Lillipup
+      JP  set SV11W   White Flare  cardno 072/086    name Lillipup (ヨーテリー)  C  hp:60
+      EN  set sv10.5w White Flare  cardno 074/086    name Lillipup  Common  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/074/high.webp
+#597  Herdier / Herdier
+      JP  set SV11W   White Flare  cardno 073/086    name Herdier (ハーデリア)  C  hp:90
+      EN  set sv10.5w White Flare  cardno 075/086    name Herdier  Common  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/075/high.webp
+#598  Stoutland / Stoutland
+      JP  set SV11W   White Flare  cardno 074/086    name Stoutland (ムーランド)  U  hp:160
+      EN  set sv10.5w White Flare  cardno 076/086    name Stoutland  Uncommon  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/076/high.webp
+#599  Bouffalant ex / Bouffalant ex
+      JP  set SV11W   White Flare  cardno 075/086    name Bouffalant ex (バッフロンex)  RR  hp:220
+      EN  set sv10.5w White Flare  cardno 077/086    name Bouffalant ex  Double Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/077/high.webp
+#600  Tornadus / Tornadus
+      JP  set SV11W   White Flare  cardno 078/086    name Tornadus (トルネロス)  R  hp:120
+      EN  set sv10.5w White Flare  cardno 078/086    name Tornadus  Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/078/high.webp
+#601  Energy Retrieval / Energy Retrieval
+      JP  set SV11W   White Flare  cardno 079/086    name Energy Retrieval (エネルギー回収)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 082/086    name Energy Retrieval  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/082/high.webp
+#602  Tool Scrapper / Tool Scrapper
+      JP  set SV11W   White Flare  cardno 080/086    name Tool Scrapper (ツールスクラッパー)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 085/086    name Tool Scrapper  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/085/high.webp
+#603  Antique Plume Fossil / Antique Plume Fossil
+      JP  set SV11W   White Flare  cardno 081/086    name Antique Plume Fossil (古びたはねの化石)  C  hp:-
+      EN  set sv10.5w White Flare  cardno 079/086    name Antique Plume Fossil  Common  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/079/high.webp
+#604  Brave Bangle / Brave Bangle
+      JP  set SV11W   White Flare  cardno 082/086    name Brave Bangle (ブレイブバングル)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 080/086    name Brave Bangle  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/080/high.webp
+#605  Harlequin / Harlequin
+      JP  set SV11W   White Flare  cardno 083/086    name Harlequin (クラウン)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 083/086    name Harlequin  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/083/high.webp
+#606  Cheren / Cheren
+      JP  set SV11W   White Flare  cardno 084/086    name Cheren (チェレン)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 081/086    name Cheren  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/081/high.webp
+#607  Hilda / Hilda
+      JP  set SV11W   White Flare  cardno 085/086    name Hilda (トウコ)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 084/086    name Hilda  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/084/high.webp
+#608  Ignition Energy / Ignition Energy
+      JP  set SV11W   White Flare  cardno 086/086    name Ignition Energy (イグニッションエネルギー)  U  hp:-
+      EN  set sv10.5w White Flare  cardno 086/086    name Ignition Energy  Uncommon  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/086/high.webp
+#609  Sewaddle / Sewaddle
+      JP  set SV11W   White Flare  cardno 087/086    name Sewaddle (クルミル)  AR  hp:50
+      EN  set sv10.5w White Flare  cardno 087/086    name Sewaddle  Illustration Rare  hp:50
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/087/high.webp
+#610  Swadloon / Swadloon
+      JP  set SV11W   White Flare  cardno 088/086    name Swadloon (クルマユ)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 088/086    name Swadloon  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/088/high.webp
+#611  Leavanny / Leavanny
+      JP  set SV11W   White Flare  cardno 089/086    name Leavanny (ハハコモリ)  AR  hp:130
+      EN  set sv10.5w White Flare  cardno 089/086    name Leavanny  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/089/high.webp
+#612  Cottonee / Cottonee
+      JP  set SV11W   White Flare  cardno 090/086    name Cottonee (モンメン)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 090/086    name Cottonee  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/090/high.webp
+#613  Deerling / Deerling
+      JP  set SV11W   White Flare  cardno 091/086    name Deerling (シキジカ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 091/086    name Deerling  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/091/high.webp
+#614  Sawsbuck / Sawsbuck
+      JP  set SV11W   White Flare  cardno 092/086    name Sawsbuck (メブキジカ)  AR  hp:130
+      EN  set sv10.5w White Flare  cardno 092/086    name Sawsbuck  Illustration Rare  hp:130
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/092/high.webp
+#615  Shelmet / Shelmet
+      JP  set SV11W   White Flare  cardno 093/086    name Shelmet (チョボマキ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 093/086    name Shelmet  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/093/high.webp
+#616  Accelgor / Accelgor
+      JP  set SV11W   White Flare  cardno 094/086    name Accelgor (アギルダー)  AR  hp:100
+      EN  set sv10.5w White Flare  cardno 094/086    name Accelgor  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/094/high.webp
+#617  Virizion / Virizion
+      JP  set SV11W   White Flare  cardno 095/086    name Virizion (ビリジオン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 095/086    name Virizion  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/095/high.webp
+#618  Tepig / Tepig
+      JP  set SV11W   White Flare  cardno 096/086    name Tepig (ポカブ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 096/086    name Tepig  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/096/high.webp
+#619  Pignite / Pignite
+      JP  set SV11W   White Flare  cardno 097/086    name Pignite (チャオブー)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 097/086    name Pignite  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/097/high.webp
+#620  Emboar / Emboar
+      JP  set SV11W   White Flare  cardno 098/086    name Emboar (エンブオー)  AR  hp:180
+      EN  set sv10.5w White Flare  cardno 098/086    name Emboar  Illustration Rare  hp:180
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/098/high.webp
+#621  Pansear / Pansear
+      JP  set SV11W   White Flare  cardno 099/086    name Pansear (バオップ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 099/086    name Pansear  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/099/high.webp
+#622  Simisear / Simisear
+      JP  set SV11W   White Flare  cardno 100/086    name Simisear (バオッキー)  AR  hp:100
+      EN  set sv10.5w White Flare  cardno 100/086    name Simisear  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/100/high.webp
+#623  Heatmor / Heatmor
+      JP  set SV11W   White Flare  cardno 101/086    name Heatmor (クイタラン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 104/086    name Heatmor  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/104/high.webp
+#624  Oshawott / Oshawott
+      JP  set SV11W   White Flare  cardno 102/086    name Oshawott (ミジュマル)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 105/086    name Oshawott  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/105/high.webp
+#625  Dewott / Dewott
+      JP  set SV11W   White Flare  cardno 103/086    name Dewott (フタチマル)  AR  hp:100
+      EN  set sv10.5w White Flare  cardno 106/086    name Dewott  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/106/high.webp
+#626  Samurott / Samurott
+      JP  set SV11W   White Flare  cardno 104/086    name Samurott (ダイケンキ)  AR  hp:160
+      EN  set sv10.5w White Flare  cardno 107/086    name Samurott  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/107/high.webp
+#627  Basculin / Basculin
+      JP  set SV11W   White Flare  cardno 105/086    name Basculin (バスラオ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 108/086    name Basculin  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/108/high.webp
+#628  Ducklett / Ducklett
+      JP  set SV11W   White Flare  cardno 106/086    name Ducklett (コアルヒー)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 109/086    name Ducklett  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/109/high.webp
+#629  Swanna / Swanna
+      JP  set SV11W   White Flare  cardno 107/086    name Swanna (スワンナ)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 110/086    name Swanna  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/110/high.webp
+#630  Vanillite / Vanillite
+      JP  set SV11W   White Flare  cardno 108/086    name Vanillite (バニプッチ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 111/086    name Vanillite  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/111/high.webp
+#631  Vanillish / Vanillish
+      JP  set SV11W   White Flare  cardno 109/086    name Vanillish (バニプッチ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 112/086    name Vanillish  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/112/high.webp
+#632  Vanilluxe / Vanilluxe
+      JP  set SV11W   White Flare  cardno 110/086    name Vanilluxe (バイバニラ)  AR  hp:150
+      EN  set sv10.5w White Flare  cardno 113/086    name Vanilluxe  Illustration Rare  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/113/high.webp
+#633  Blitzle / Blitzle
+      JP  set SV11W   White Flare  cardno 111/086    name Blitzle (シママ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 114/086    name Blitzle  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/114/high.webp
+#634  Zebstrika / Zebstrika
+      JP  set SV11W   White Flare  cardno 112/086    name Zebstrika (ゼブライカ)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 115/086    name Zebstrika  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/115/high.webp
+#635  Joltik / Joltik
+      JP  set SV11W   White Flare  cardno 113/086    name Joltik (バチュル)  AR  hp:40
+      EN  set sv10.5w White Flare  cardno 116/086    name Joltik  Illustration Rare  hp:40
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/116/high.webp
+#636  Galvantula / Galvantula
+      JP  set SV11W   White Flare  cardno 114/086    name Galvantula (デンチュラ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 117/086    name Galvantula  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/117/high.webp
+#637  Stunfisk / Stunfisk
+      JP  set SV11W   White Flare  cardno 115/086    name Stunfisk (マッギョ)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 118/086    name Stunfisk  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/118/high.webp
+#638  Woobat / Woobat
+      JP  set SV11W   White Flare  cardno 116/086    name Woobat (コロモリ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 119/086    name Woobat  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/119/high.webp
+#639  Swoobat / Swoobat
+      JP  set SV11W   White Flare  cardno 117/086    name Swoobat (ココロモリ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 120/086    name Swoobat  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/120/high.webp
+#640  Sigilyph / Sigilyph
+      JP  set SV11W   White Flare  cardno 118/086    name Sigilyph (シンボラー)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 121/086    name Sigilyph  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/121/high.webp
+#641  Yamask / Yamask
+      JP  set SV11W   White Flare  cardno 119/086    name Yamask (デスマス)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 122/086    name Yamask  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/122/high.webp
+#642  Cofagrigus / Cofagrigus
+      JP  set SV11W   White Flare  cardno 120/086    name Cofagrigus (デスカーン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 123/086    name Cofagrigus  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/123/high.webp
+#643  Gothita / Gothita
+      JP  set SV11W   White Flare  cardno 121/086    name Gothita (ゴチム)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 124/086    name Gothita  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/124/high.webp
+#644  Gothorita / Gothorita
+      JP  set SV11W   White Flare  cardno 122/086    name Gothorita (ゴチミル)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 125/086    name Gothorita  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/125/high.webp
+#645  Frillish / Frillish
+      JP  set SV11W   White Flare  cardno 124/086    name Frillish (プルリル)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 126/086    name Frillish  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/126/high.webp
+#646  Roggenrola / Roggenrola
+      JP  set SV11W   White Flare  cardno 125/086    name Roggenrola (ダンゴロ)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 127/086    name Roggenrola  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/127/high.webp
+#647  Boldore / Boldore
+      JP  set SV11W   White Flare  cardno 126/086    name Boldore (ガントル)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 128/086    name Boldore  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/128/high.webp
+#648  Gigalith / Gigalith
+      JP  set SV11W   White Flare  cardno 127/086    name Gigalith (ギガイアス)  AR  hp:170
+      EN  set sv10.5w White Flare  cardno 129/086    name Gigalith  Illustration Rare  hp:170
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/129/high.webp
+#649  Sawk / Sawk
+      JP  set SV11W   White Flare  cardno 128/086    name Sawk (ダゲキ)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 130/086    name Sawk  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/130/high.webp
+#650  Archen / Archen
+      JP  set SV11W   White Flare  cardno 129/086    name Archen (アーケン)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 131/086    name Archen  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/131/high.webp
+#651  Archeops / Archeops
+      JP  set SV11W   White Flare  cardno 130/086    name Archeops (アーケオス)  AR  hp:140
+      EN  set sv10.5w White Flare  cardno 132/086    name Archeops  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/132/high.webp
+#652  Mienfoo / Mienfoo
+      JP  set SV11W   White Flare  cardno 131/086    name Mienfoo (コジョフー)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 133/086    name Mienfoo  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/133/high.webp
+#653  Mienshao / Mienshao
+      JP  set SV11W   White Flare  cardno 132/086    name Mienshao (コジョンド)  AR  hp:100
+      EN  set sv10.5w White Flare  cardno 134/086    name Mienshao  Illustration Rare  hp:100
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/134/high.webp
+#654  Terrakion / Terrakion
+      JP  set SV11W   White Flare  cardno 133/086    name Terrakion (テラキオン)  AR  hp:140
+      EN  set sv10.5w White Flare  cardno 135/086    name Terrakion  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/135/high.webp
+#655  Purrloin / Purrloin
+      JP  set SV11W   White Flare  cardno 134/086    name Purrloin (チョロネコ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 136/086    name Purrloin  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/136/high.webp
+#656  Liepard / Liepard
+      JP  set SV11W   White Flare  cardno 135/086    name Liepard (レパルダス)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 137/086    name Liepard  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/137/high.webp
+#657  Scraggy / Scraggy
+      JP  set SV11W   White Flare  cardno 136/086    name Scraggy (ズルッグ)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 138/086    name Scraggy  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/138/high.webp
+#658  Scrafty / Scrafty
+      JP  set SV11W   White Flare  cardno 137/086    name Scrafty (ズルズキン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 139/086    name Scrafty  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/139/high.webp
+#659  Trubbish / Trubbish
+      JP  set SV11W   White Flare  cardno 138/086    name Trubbish (ヤブクロン)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 140/086    name Trubbish  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/140/high.webp
+#660  Garbodor / Garbodor
+      JP  set SV11W   White Flare  cardno 139/086    name Garbodor (ダストダス)  AR  hp:140
+      EN  set sv10.5w White Flare  cardno 141/086    name Garbodor  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/141/high.webp
+#661  Zorua / Zorua
+      JP  set SV11W   White Flare  cardno 140/086    name Zorua (ゾロア)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 142/086    name Zorua  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/142/high.webp
+#662  Zoroark / Zoroark
+      JP  set SV11W   White Flare  cardno 141/086    name Zoroark (ゾロアーク)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 143/086    name Zoroark  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/143/high.webp
+#663  Deino / Deino
+      JP  set SV11W   White Flare  cardno 142/086    name Deino (モノズ)  AR  hp:80
+      EN  set sv10.5w White Flare  cardno 146/086    name Deino  Illustration Rare  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/146/high.webp
+#664  Zweilous / Zweilous
+      JP  set SV11W   White Flare  cardno 143/086    name Zweilous (ジヘッド)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 147/086    name Zweilous  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/147/high.webp
+#665  Ferroseed / Ferroseed
+      JP  set SV11W   White Flare  cardno 144/086    name Ferroseed (テッシード)  AR  hp:70
+      EN  set sv10.5w White Flare  cardno 148/086    name Ferroseed  Illustration Rare  hp:70
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/148/high.webp
+#666  Ferrothorn / Ferrothorn
+      JP  set SV11W   White Flare  cardno 145/086    name Ferrothorn (ナットレイ)  AR  hp:140
+      EN  set sv10.5w White Flare  cardno 149/086    name Ferrothorn  Illustration Rare  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/149/high.webp
+#667  Durant / Durant
+      JP  set SV11W   White Flare  cardno 149/086    name Durant (アイアント)  AR  hp:110
+      EN  set sv10.5w White Flare  cardno 150/086    name Durant  Illustration Rare  hp:110
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/150/high.webp
+#668  Druddigon / Druddigon
+      JP  set SV11W   White Flare  cardno 150/086    name Druddigon (クリムガン)  AR  hp:120
+      EN  set sv10.5w White Flare  cardno 151/086    name Druddigon  Illustration Rare  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/151/high.webp
+#669  Patrat / Patrat
+      JP  set SV11W   White Flare  cardno 151/086    name Patrat (ミネズミ)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 152/086    name Patrat  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/152/high.webp
+#670  Watchog / Watchog
+      JP  set SV11W   White Flare  cardno 152/086    name Watchog (ミルホッグ)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 153/086    name Watchog  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/153/high.webp
+#671  Lillipup / Lillipup
+      JP  set SV11W   White Flare  cardno 153/086    name Lillipup (ヨーテリー)  AR  hp:60
+      EN  set sv10.5w White Flare  cardno 154/086    name Lillipup  Illustration Rare  hp:60
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/154/high.webp
+#672  Herdier / Herdier
+      JP  set SV11W   White Flare  cardno 154/086    name Herdier (ハーデリア)  AR  hp:90
+      EN  set sv10.5w White Flare  cardno 155/086    name Herdier  Illustration Rare  hp:90
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/155/high.webp
+#673  Stoutland / Stoutland
+      JP  set SV11W   White Flare  cardno 155/086    name Stoutland (ムーランド)  AR  hp:160
+      EN  set sv10.5w White Flare  cardno 156/086    name Stoutland  Illustration Rare  hp:160
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/156/high.webp
+#674  Whimsicott ex / Whimsicott ex
+      JP  set SV11W   White Flare  cardno 159/086    name Whimsicott ex (エルフーンex)  SR  hp:230
+      EN  set sv10.5w White Flare  cardno 157/086    name Whimsicott ex  Ultra Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/157/high.webp
+#675  Reshiram ex / Reshiram ex
+      JP  set SV11W   White Flare  cardno 160/086    name Reshiram ex (レシラムex)  SR  hp:230
+      EN  set sv10.5w White Flare  cardno 158/086    name Reshiram ex  Ultra Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/158/high.webp
+#676  Keldeo ex / Keldeo ex
+      JP  set SV11W   White Flare  cardno 161/086    name Keldeo ex (ケルディオex)  SR  hp:210
+      EN  set sv10.5w White Flare  cardno 159/086    name Keldeo ex  Ultra Rare  hp:210
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/159/high.webp
+#677  Jellicent ex / Jellicent ex
+      JP  set SV11W   White Flare  cardno 162/086    name Jellicent ex (ブルンゲルex)  SR  hp:270
+      EN  set sv10.5w White Flare  cardno 160/086    name Jellicent ex  Ultra Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/160/high.webp
+#678  Hydreigon ex / Hydreigon ex
+      JP  set SV11W   White Flare  cardno 163/086    name Hydreigon ex (サザンドラex)  SR  hp:330
+      EN  set sv10.5w White Flare  cardno 161/086    name Hydreigon ex  Ultra Rare  hp:330
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/161/high.webp
+#679  Bouffalant ex / Bouffalant ex
+      JP  set SV11W   White Flare  cardno 164/086    name Bouffalant ex (バッフロンex)  SR  hp:220
+      EN  set sv10.5w White Flare  cardno 162/086    name Bouffalant ex  Ultra Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/162/high.webp
+#680  Harlequin / Harlequin
+      JP  set SV11W   White Flare  cardno 165/086    name Harlequin (クラウン)  SR  hp:-
+      EN  set sv10.5w White Flare  cardno 163/086    name Harlequin  Ultra Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/163/high.webp
+#681  Hilda / Hilda
+      JP  set SV11W   White Flare  cardno 166/086    name Hilda (トウコ)  SR  hp:-
+      EN  set sv10.5w White Flare  cardno 164/086    name Hilda  Ultra Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/164/high.webp
+#682  Whimsicott ex / Whimsicott ex
+      JP  set SV11W   White Flare  cardno 167/086    name Whimsicott ex (エルフーンex)  SAR  hp:230
+      EN  set sv10.5w White Flare  cardno 165/086    name Whimsicott ex  Special Illustration Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/165/high.webp
+#683  Reshiram ex / Reshiram ex
+      JP  set SV11W   White Flare  cardno 168/086    name Reshiram ex (レシラムex)  SAR  hp:230
+      EN  set sv10.5w White Flare  cardno 166/086    name Reshiram ex  Special Illustration Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/166/high.webp
+#684  Keldeo ex / Keldeo ex
+      JP  set SV11W   White Flare  cardno 169/086    name Keldeo ex (ケルディオex)  SAR  hp:210
+      EN  set sv10.5w White Flare  cardno 167/086    name Keldeo ex  Special Illustration Rare  hp:210
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/167/high.webp
+#685  Jellicent ex / Jellicent ex
+      JP  set SV11W   White Flare  cardno 170/086    name Jellicent ex (ブルンゲルex)  SAR  hp:270
+      EN  set sv10.5w White Flare  cardno 168/086    name Jellicent ex  Special Illustration Rare  hp:270
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/168/high.webp
+#686  Hydreigon ex / Hydreigon ex
+      JP  set SV11W   White Flare  cardno 171/086    name Hydreigon ex (サザンドラex)  SAR  hp:330
+      EN  set sv10.5w White Flare  cardno 169/086    name Hydreigon ex  Special Illustration Rare  hp:330
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/169/high.webp
+#687  Bouffalant ex / Bouffalant ex
+      JP  set SV11W   White Flare  cardno 172/086    name Bouffalant ex (バッフロンex)  SAR  hp:220
+      EN  set sv10.5w White Flare  cardno 170/086    name Bouffalant ex  Special Illustration Rare  hp:220
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/170/high.webp
+#688  Hilda / Hilda
+      JP  set SV11W   White Flare  cardno 173/086    name Hilda (トウコ)  SAR  hp:-
+      EN  set sv10.5w White Flare  cardno 171/086    name Hilda  Special Illustration Rare  hp:-
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/171/high.webp
+#689  Reshiram ex / Reshiram ex
+      JP  set SV11W   White Flare  cardno 174/086    name Reshiram ex (レシラムex)  BWR  hp:230
+      EN  set sv10.5w White Flare  cardno 173/086    name Reshiram ex  Black White Rare  hp:230
+      anh EN  https://assets.tcgdex.net/en/sv/sv10.5w/173/high.webp
+
+############################################################################################
+## SV11W->svp   [JA -> EN]   2 cap
+############################################################################################
+#690  Gothitelle / Gothitelle
+      JP  set SV11W   White Flare  cardno 123/086    name Gothitelle (ゴチルゼル)  AR  hp:150
+      EN  set svp     SVP Black Star Promos cardno 211        name Gothitelle  -  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/svp/211/high.webp
+#691  Tornadus / Tornadus
+      JP  set SV11W   White Flare  cardno 158/086    name Tornadus (トルネロス)  AR  hp:120
+      EN  set svp     SVP Black Star Promos cardno 210        name Tornadus  -  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/svp/210/high.webp
+
+############################################################################################
+## SVP->SV11B   [EN -> JA]   3 cap
+############################################################################################
+#692  Victini / Victini
+      JP  set SV11B   Black Bolt   cardno 097/086    name Victini (ビクティニ)  AR  hp:80
+      EN  set svp     SVP Black Star Promos cardno 208        name Victini  -  hp:80
+      anh EN  https://assets.tcgdex.net/en/sv/svp/208/high.webp
+#693  Thundurus / Thundurus
+      JP  set SV11B   Black Bolt   cardno 120/086    name Thundurus (ボルトロス)  AR  hp:120
+      EN  set svp     SVP Black Star Promos cardno 209        name Thundurus  -  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/svp/209/high.webp
+#694  Reuniclus / Reuniclus
+      JP  set SV11B   Black Bolt   cardno 125/086    name Reuniclus (ランクルス)  AR  hp:140
+      EN  set svp     SVP Black Star Promos cardno 212        name Reuniclus  -  hp:140
+      anh EN  https://assets.tcgdex.net/en/sv/svp/212/high.webp
+
+############################################################################################
+## SVP->SV11W   [EN -> JA]   2 cap
+############################################################################################
+#695  Tornadus / Tornadus
+      JP  set SV11W   White Flare  cardno 158/086    name Tornadus (トルネロス)  AR  hp:120
+      EN  set svp     SVP Black Star Promos cardno 210        name Tornadus  -  hp:120
+      anh EN  https://assets.tcgdex.net/en/sv/svp/210/high.webp
+#696  Gothitelle / Gothitelle
+      JP  set SV11W   White Flare  cardno 123/086    name Gothitelle (ゴチルゼル)  AR  hp:150
+      EN  set svp     SVP Black Star Promos cardno 211        name Gothitelle  -  hp:150
+      anh EN  https://assets.tcgdex.net/en/sv/svp/211/high.webp

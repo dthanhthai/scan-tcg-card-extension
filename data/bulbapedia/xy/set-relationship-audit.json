@@ -1,0 +1,655 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "jpSetCode": "BREAK",
+      "enSetId": "g1",
+      "cardCount": 65,
+      "sourceSetNames": [
+        "BREAK Starter Pack"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "CP2",
+      "enSetId": "xy8",
+      "cardCount": 14,
+      "sourceSetNames": [
+        "Legendary Shine Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "CP2",
+      "enSetId": "xyp",
+      "cardCount": 13,
+      "sourceSetNames": [
+        "Legendary Shine Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "CP3",
+      "enSetId": "g1",
+      "cardCount": 32,
+      "sourceSetNames": [
+        "PokéKyun Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "CP6",
+      "enSetId": "xy12",
+      "cardCount": 99,
+      "sourceSetNames": [
+        "Expansion Pack 20th Anniversary"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "g1",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy10",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy11",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy12",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy3",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy4",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy5",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy6",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy7",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy8",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xy9",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY-P",
+      "enSetId": "xyp",
+      "cardCount": 111,
+      "sourceSetNames": [
+        "XY-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY10",
+      "enSetId": "xy10",
+      "cardCount": 88,
+      "sourceSetNames": [
+        "Awakening Psychic King"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "XY11A",
+      "enSetId": "xy11",
+      "cardCount": 59,
+      "sourceSetNames": [
+        "Fever-Burst Fighter"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY11B",
+      "enSetId": "xy11",
+      "cardCount": 54,
+      "sourceSetNames": [
+        "Cruel Traitor"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY1A",
+      "enSetId": "xy1",
+      "cardCount": 63,
+      "sourceSetNames": [
+        "Collection X"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY1B",
+      "enSetId": "xy1",
+      "cardCount": 62,
+      "sourceSetNames": [
+        "Collection Y"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY2",
+      "enSetId": "xy2",
+      "cardCount": 90,
+      "sourceSetNames": [
+        "Wild Blaze"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "XY3",
+      "enSetId": "xy3",
+      "cardCount": 105,
+      "sourceSetNames": [
+        "Rising Fist"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "XY4",
+      "enSetId": "xy4",
+      "cardCount": 97,
+      "sourceSetNames": [
+        "Phantom Gate"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "XY5A",
+      "enSetId": "xy5",
+      "cardCount": 77,
+      "sourceSetNames": [
+        "Gaia Volcano"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY5B",
+      "enSetId": "xy5",
+      "cardCount": 79,
+      "sourceSetNames": [
+        "Tidal Storm"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY6",
+      "enSetId": "xy6",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Emerald Break"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "XY7",
+      "enSetId": "xy7",
+      "cardCount": 97,
+      "sourceSetNames": [
+        "Bandit Ring"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "XY8A",
+      "enSetId": "xy8",
+      "cardCount": 65,
+      "sourceSetNames": [
+        "Blue Shock"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY8B",
+      "enSetId": "xy8",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "Red Flash"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "XY9",
+      "enSetId": "xy9",
+      "cardCount": 89,
+      "sourceSetNames": [
+        "Rage of the Broken Heavens"
+      ],
+      "expectedByRuntimeMap": true
+    }
+  ],
+  "setCodes": [
+    {
+      "jpSetCode": "BREAK",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "g1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "g1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "CP2",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy8",
+        "xyp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy8",
+        "xyp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "CP3",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "g1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "g1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "CP6",
+      "expectedEnSetIds": [
+        "xy12"
+      ],
+      "observedEnSetIds": [
+        "xy12"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "XY-P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "g1",
+        "xy10",
+        "xy11",
+        "xy12",
+        "xy3",
+        "xy4",
+        "xy5",
+        "xy6",
+        "xy7",
+        "xy8",
+        "xy9",
+        "xyp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "g1",
+        "xy10",
+        "xy11",
+        "xy12",
+        "xy3",
+        "xy4",
+        "xy5",
+        "xy6",
+        "xy7",
+        "xy8",
+        "xy9",
+        "xyp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY10",
+      "expectedEnSetIds": [
+        "xy10"
+      ],
+      "observedEnSetIds": [
+        "xy10"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "XY11A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy11"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy11"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY11B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy11"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy11"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY11a",
+      "expectedEnSetIds": [
+        "xy11"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "xy11"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "XY11b",
+      "expectedEnSetIds": [
+        "xy11"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "xy11"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "XY1A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY1B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY1a",
+      "expectedEnSetIds": [
+        "xy1"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "xy1"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "XY1b",
+      "expectedEnSetIds": [
+        "xy1"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "xy1"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "XY2",
+      "expectedEnSetIds": [
+        "xy2"
+      ],
+      "observedEnSetIds": [
+        "xy2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "XY3",
+      "expectedEnSetIds": [
+        "xy3"
+      ],
+      "observedEnSetIds": [
+        "xy3"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "XY4",
+      "expectedEnSetIds": [
+        "xy4"
+      ],
+      "observedEnSetIds": [
+        "xy4"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "XY5A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY5B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY5a",
+      "expectedEnSetIds": [
+        "xy5"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "xy5"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "XY5b",
+      "expectedEnSetIds": [
+        "xy5"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "xy5"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "XY6",
+      "expectedEnSetIds": [
+        "xy6"
+      ],
+      "observedEnSetIds": [
+        "xy6"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "XY7",
+      "expectedEnSetIds": [
+        "xy7"
+      ],
+      "observedEnSetIds": [
+        "xy7"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "XY8A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY8B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "xy8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "xy8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "XY8a",
+      "expectedEnSetIds": [
+        "xy8"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "xy8"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "XY8b",
+      "expectedEnSetIds": [
+        "xy8"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "xy8"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "XY9",
+      "expectedEnSetIds": [
+        "xy9"
+      ],
+      "observedEnSetIds": [
+        "xy9"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    }
+  ]
+}

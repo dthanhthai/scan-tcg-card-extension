@@ -1,0 +1,2039 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "selectionPolicy": "after-audit",
+  "approvalStatus": "pending-user-review",
+  "proposals": [
+    {
+      "relationship": "BATTLE-STRENGTH-DECKS->bw1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 1,
+      "selectionReasons": [
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BATTLE-STRENGTH-DECKS:BATTLE_STRENGTH_DECKS:008/014",
+        "language": "ja",
+        "setCode": "BATTLE-STRENGTH-DECKS",
+        "tcgdexSetId": null,
+        "setName": "Battle Strength Decks",
+        "cardNumber": "008/014",
+        "localId": "008",
+        "rarity": null,
+        "cardName": "Energy Search",
+        "japaneseName": "エネルギー転送",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BLW",
+        "tcgdexSetId": "bw1",
+        "setName": "Black & White",
+        "cardNumber": "93/114",
+        "localId": "93",
+        "rarity": "Common",
+        "cardName": "Energy Search",
+        "japaneseName": "エネルギー転送",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Energy Search (Fossil 59)",
+            "pageId": 20118,
+            "revisionId": 4516930,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M-P->me03",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M-P:M_P_PROMOTIONAL_CARDS:002/M-P",
+        "language": "ja",
+        "setCode": "M-P",
+        "tcgdexSetId": null,
+        "setName": "M-P Promotional cards",
+        "cardNumber": "002/M-P",
+        "localId": "002",
+        "rarity": null,
+        "cardName": "Lapras ex",
+        "japaneseName": "ラプラスex",
+        "cardKind": "pokemon",
+        "hp": 210
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME03",
+        "tcgdexSetId": "me03",
+        "setName": "Perfect Order",
+        "cardNumber": "022/088",
+        "localId": "022",
+        "rarity": "Double Rare",
+        "cardName": "Lapras ex",
+        "japaneseName": "ラプラスex",
+        "cardKind": "pokemon",
+        "hp": 210,
+        "evidence": [
+          {
+            "pageTitle": "Lapras ex (Perfect Order 22)",
+            "pageId": 338278,
+            "revisionId": 4595775,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M-P->me04",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M-P:M_P_PROMOTIONAL_CARDS:046/M-P",
+        "language": "ja",
+        "setCode": "M-P",
+        "tcgdexSetId": null,
+        "setName": "M-P Promotional cards",
+        "cardNumber": "046/M-P",
+        "localId": "046",
+        "rarity": null,
+        "cardName": "Krookodile ex",
+        "japaneseName": "ワルビアルex",
+        "cardKind": "pokemon",
+        "hp": 320
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME04",
+        "tcgdexSetId": "me04",
+        "setName": "Chaos Rising",
+        "cardNumber": "055/086",
+        "localId": "055",
+        "rarity": "Double Rare",
+        "cardName": "Krookodile ex",
+        "japaneseName": "ワルビアルex",
+        "cardKind": "pokemon",
+        "hp": 320,
+        "evidence": [
+          {
+            "pageTitle": "Krookodile ex (Chaos Rising 55)",
+            "pageId": 344057,
+            "revisionId": 4591507,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M-P->me05",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M-P:M_P_PROMOTIONAL_CARDS:071/M-P",
+        "language": "ja",
+        "setCode": "M-P",
+        "tcgdexSetId": null,
+        "setName": "M-P Promotional cards",
+        "cardNumber": "071/M-P",
+        "localId": "071",
+        "rarity": null,
+        "cardName": "Mega Slowbro ex",
+        "japaneseName": "メガヤドランex",
+        "cardKind": "pokemon",
+        "hp": 330
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME05",
+        "tcgdexSetId": "me05",
+        "setName": "Pitch Black",
+        "cardNumber": "031/084",
+        "localId": "031",
+        "rarity": "Double Rare",
+        "cardName": "Mega Slowbro ex",
+        "japaneseName": "メガヤドランex",
+        "cardKind": "pokemon",
+        "hp": 330,
+        "evidence": [
+          {
+            "pageTitle": "Mega Slowbro ex (Pitch Black 31)",
+            "pageId": 351599,
+            "revisionId": 4596280,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M-P->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M-P:M_P_PROMOTIONAL_CARDS:001/M-P",
+        "language": "ja",
+        "setCode": "M-P",
+        "tcgdexSetId": null,
+        "setName": "M-P Promotional cards",
+        "cardNumber": "001/M-P",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Chikorita",
+        "japaneseName": "チコリータ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "069",
+        "localId": "069",
+        "rarity": null,
+        "cardName": "Chikorita",
+        "japaneseName": "チコリータ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Chikorita (Mega Evolution 8)",
+            "pageId": 338053,
+            "revisionId": 4591513,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M-P->svp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M-P:M_P_PROMOTIONAL_CARDS:043/M-P",
+        "language": "ja",
+        "setCode": "M-P",
+        "tcgdexSetId": null,
+        "setName": "M-P Promotional cards",
+        "cardNumber": "043/M-P",
+        "localId": "043",
+        "rarity": null,
+        "cardName": "Team Rocket's Mewtwo ex",
+        "japaneseName": "ロケット団のミュウツーex",
+        "cardKind": "pokemon",
+        "hp": 280
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SVP",
+        "tcgdexSetId": "svp",
+        "setName": "SVP Black Star Promos",
+        "cardNumber": "216",
+        "localId": "216",
+        "rarity": null,
+        "cardName": "Team Rocket's Mewtwo ex",
+        "japaneseName": "ロケット団のミュウツーex",
+        "cardKind": "pokemon",
+        "hp": 280,
+        "evidence": [
+          {
+            "pageTitle": "Team Rocket's Mewtwo ex (Destined Rivals 81)",
+            "pageId": 330379,
+            "revisionId": 4480322,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M1L->me01",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M1L:MEGA_BRAVE:001/063",
+        "language": "ja",
+        "setCode": "M1L",
+        "tcgdexSetId": "M1L",
+        "setName": "Mega Brave",
+        "cardNumber": "001/063",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Bulbasaur",
+        "japaneseName": "フシギダネ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME01",
+        "tcgdexSetId": "me01",
+        "setName": "Mega Evolution",
+        "cardNumber": "001/132",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Bulbasaur",
+        "japaneseName": "フシギダネ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Bulbasaur (Mega Evolution 1)",
+            "pageId": 335798,
+            "revisionId": 4498586,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M1L->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M1L:MEGA_BRAVE:068/063",
+        "language": "ja",
+        "setCode": "M1L",
+        "tcgdexSetId": "M1L",
+        "setName": "Mega Brave",
+        "cardNumber": "068/063",
+        "localId": "068",
+        "rarity": "AR",
+        "cardName": "Riolu",
+        "japaneseName": "リオル",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "010",
+        "localId": "010",
+        "rarity": null,
+        "cardName": "Riolu",
+        "japaneseName": "リオル",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Riolu (Mega Evolution 76)",
+            "pageId": 335807,
+            "revisionId": 4608031,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M1S->me01",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M1S:MEGA_SYMPHONIA:001/063",
+        "language": "ja",
+        "setCode": "M1S",
+        "tcgdexSetId": "M1S",
+        "setName": "Mega Symphonia",
+        "cardNumber": "001/063",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME01",
+        "tcgdexSetId": "me01",
+        "setName": "Mega Evolution",
+        "cardNumber": "006/132",
+        "localId": "006",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Mega Evolution 6)",
+            "pageId": 338167,
+            "revisionId": 4469985,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M1S->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M1S:MEGA_SYMPHONIA:071/063",
+        "language": "ja",
+        "setCode": "M1S",
+        "tcgdexSetId": "M1S",
+        "setName": "Mega Symphonia",
+        "cardNumber": "071/063",
+        "localId": "071",
+        "rarity": "AR",
+        "cardName": "Alakazam",
+        "japaneseName": "フーディン",
+        "cardKind": "pokemon",
+        "hp": 140
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "009",
+        "localId": "009",
+        "rarity": null,
+        "cardName": "Alakazam",
+        "japaneseName": "フーディン",
+        "cardKind": "pokemon",
+        "hp": 140,
+        "evidence": [
+          {
+            "pageTitle": "Alakazam (Mega Evolution 56)",
+            "pageId": 337172,
+            "revisionId": 4522996,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M2->me02",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M2:INFERNO_X:001/080",
+        "language": "ja",
+        "setCode": "M2",
+        "tcgdexSetId": "M2",
+        "setName": "Inferno X",
+        "cardNumber": "001/080",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME02",
+        "tcgdexSetId": "me02",
+        "setName": "Phantasmal Flames",
+        "cardNumber": "001/094",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Oddish (Phantasmal Flames 1)",
+            "pageId": 342041,
+            "revisionId": 4531090,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M2->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M2:INFERNO_X:037/080",
+        "language": "ja",
+        "setCode": "M2",
+        "tcgdexSetId": "M2",
+        "setName": "Inferno X",
+        "cardNumber": "037/080",
+        "localId": "037",
+        "rarity": "C",
+        "cardName": "Cottonee",
+        "japaneseName": "モンメン",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "018",
+        "localId": "018",
+        "rarity": null,
+        "cardName": "Cottonee",
+        "japaneseName": "モンメン",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Cottonee (MEP Promo 18)",
+            "pageId": 340278,
+            "revisionId": 4535754,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M2A->me02.5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M2A:MEGA_DREAM_EX:021/193",
+        "language": "ja",
+        "setCode": "M2A",
+        "tcgdexSetId": "M2a",
+        "setName": "MEGA Dream ex",
+        "cardNumber": "021/193",
+        "localId": "021",
+        "rarity": "RR",
+        "cardName": "Ethan's Ho-Oh ex",
+        "japaneseName": "ヒビキのホウオウex",
+        "cardKind": "pokemon",
+        "hp": 230
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME02.5",
+        "tcgdexSetId": "me02.5",
+        "setName": "Ascended Heroes",
+        "cardNumber": "026/217",
+        "localId": "026",
+        "rarity": "Double Rare",
+        "cardName": "Ethan's Ho-Oh ex",
+        "japaneseName": "ヒビキのホウオウex",
+        "cardKind": "pokemon",
+        "hp": 230,
+        "evidence": [
+          {
+            "pageTitle": "Ethan's Ho-Oh ex (Destined Rivals 39)",
+            "pageId": 327743,
+            "revisionId": 4479889,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M2A->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M2A:MEGA_DREAM_EX:086/193",
+        "language": "ja",
+        "setCode": "M2A",
+        "tcgdexSetId": "M2a",
+        "setName": "MEGA Dream ex",
+        "cardNumber": "086/193",
+        "localId": "086",
+        "rarity": null,
+        "cardName": "Lunatone",
+        "japaneseName": "ルナトーン",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "004",
+        "localId": "004",
+        "rarity": null,
+        "cardName": "Lunatone",
+        "japaneseName": "ルナトーン",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Lunatone (Mega Evolution 74)",
+            "pageId": 338115,
+            "revisionId": 4553342,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M2A->svp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M2A:MEGA_DREAM_EX:028/193",
+        "language": "ja",
+        "setCode": "M2A",
+        "tcgdexSetId": "M2a",
+        "setName": "MEGA Dream ex",
+        "cardNumber": "028/193",
+        "localId": "028",
+        "rarity": null,
+        "cardName": "N's Darmanitan",
+        "japaneseName": "Ｎのヒヒダルマ",
+        "cardKind": "pokemon",
+        "hp": 140
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SVP",
+        "tcgdexSetId": "svp",
+        "setName": "SVP Black Star Promos",
+        "cardNumber": "181",
+        "localId": "181",
+        "rarity": null,
+        "cardName": "N's Darmanitan",
+        "japaneseName": "Ｎのヒヒダルマ",
+        "cardKind": "pokemon",
+        "hp": 140,
+        "evidence": [
+          {
+            "pageTitle": "N's Darmanitan (Journey Together 27)",
+            "pageId": 325142,
+            "revisionId": 4480713,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M3->me03",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M3:NIHIL_ZERO:001/080",
+        "language": "ja",
+        "setCode": "M3",
+        "tcgdexSetId": "M3",
+        "setName": "Nihil Zero",
+        "cardNumber": "001/080",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Spinarak",
+        "japaneseName": "イトマル",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME03",
+        "tcgdexSetId": "me03",
+        "setName": "Perfect Order",
+        "cardNumber": "001/088",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Spinarak",
+        "japaneseName": "イトマル",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Spinarak (Perfect Order 1)",
+            "pageId": 350053,
+            "revisionId": 4523126,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M3->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M3:NIHIL_ZERO:089/080",
+        "language": "ja",
+        "setCode": "M3",
+        "tcgdexSetId": "M3",
+        "setName": "Nihil Zero",
+        "cardNumber": "089/080",
+        "localId": "089",
+        "rarity": "AR",
+        "cardName": "Tyrunt",
+        "japaneseName": "チゴラス",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "070",
+        "localId": "070",
+        "rarity": null,
+        "cardName": "Tyrunt",
+        "japaneseName": "チゴラス",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Tyrunt (Perfect Order 44)",
+            "pageId": 349468,
+            "revisionId": 4616242,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M4->me04",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M4:NINJA_SPINNER:001/083",
+        "language": "ja",
+        "setCode": "M4",
+        "tcgdexSetId": "M4",
+        "setName": "Ninja Spinner",
+        "cardNumber": "001/083",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME04",
+        "tcgdexSetId": "me04",
+        "setName": "Chaos Rising",
+        "cardNumber": "001/086",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Weedle (Chaos Rising 1)",
+            "pageId": 352555,
+            "revisionId": 4556880,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M4->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M4:NINJA_SPINNER:085/083",
+        "language": "ja",
+        "setCode": "M4",
+        "tcgdexSetId": "M4",
+        "setName": "Ninja Spinner",
+        "cardNumber": "085/083",
+        "localId": "085",
+        "rarity": "AR",
+        "cardName": "Fennekin",
+        "japaneseName": "フォッコ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "080",
+        "localId": "080",
+        "rarity": null,
+        "cardName": "Fennekin",
+        "japaneseName": "フォッコ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Fennekin (Chaos Rising 11)",
+            "pageId": 352491,
+            "revisionId": 4559381,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M5->me05",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M5:ABYSS_EYE:001/081",
+        "language": "ja",
+        "setCode": "M5",
+        "tcgdexSetId": "M5",
+        "setName": "Abyss Eye",
+        "cardNumber": "001/081",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tropius",
+        "japaneseName": "トロピウス",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME05",
+        "tcgdexSetId": "me05",
+        "setName": "Pitch Black",
+        "cardNumber": "001/084",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Tropius",
+        "japaneseName": "トロピウス",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Tropius (Pitch Black 1)",
+            "pageId": 356265,
+            "revisionId": 4592379,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M5->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M5:ABYSS_EYE:090/081",
+        "language": "ja",
+        "setCode": "M5",
+        "tcgdexSetId": "M5",
+        "setName": "Abyss Eye",
+        "cardNumber": "090/081",
+        "localId": "090",
+        "rarity": "AR",
+        "cardName": "Zarude",
+        "japaneseName": "ザルード",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "088",
+        "localId": "088",
+        "rarity": null,
+        "cardName": "Zarude",
+        "japaneseName": "ザルード",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Zarude (Pitch Black 56)",
+            "pageId": 354826,
+            "revisionId": 4592387,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "M6->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:M6:STORM_EMERALDA:080/076",
+        "language": "ja",
+        "setCode": "M6",
+        "tcgdexSetId": "M6",
+        "setName": "Storm Emeralda",
+        "cardNumber": "080/076",
+        "localId": "080",
+        "rarity": "AR",
+        "cardName": "Kyogre",
+        "japaneseName": "カイオーガ",
+        "cardKind": "pokemon",
+        "hp": 150
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "117",
+        "localId": "117",
+        "rarity": null,
+        "cardName": "Kyogre",
+        "japaneseName": "カイオーガ",
+        "cardKind": "pokemon",
+        "hp": 150,
+        "evidence": [
+          {
+            "pageTitle": "Kyogre (MEP Promo 117)",
+            "pageId": 359393,
+            "revisionId": 4634086,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "ME01->M1L",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:ME01:MEGA_EVOLUTION:001/132",
+        "language": "en",
+        "setCode": "ME01",
+        "tcgdexSetId": "me01",
+        "setName": "Mega Evolution",
+        "cardNumber": "001/132",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Bulbasaur",
+        "japaneseName": "フシギダネ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M1L",
+        "tcgdexSetId": "M1L",
+        "setName": "Mega Brave",
+        "cardNumber": "001/063",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Bulbasaur",
+        "japaneseName": "フシギダネ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Bulbasaur (Mega Evolution 1)",
+            "pageId": 335798,
+            "revisionId": 4498586,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "ME01->M1S",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:ME01:MEGA_EVOLUTION:006/132",
+        "language": "en",
+        "setCode": "ME01",
+        "tcgdexSetId": "me01",
+        "setName": "Mega Evolution",
+        "cardNumber": "006/132",
+        "localId": "006",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M1S",
+        "tcgdexSetId": "M1S",
+        "setName": "Mega Symphonia",
+        "cardNumber": "001/063",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Mega Evolution 6)",
+            "pageId": 338167,
+            "revisionId": 4469985,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "ME02->M2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:ME02:PHANTASMAL_FLAMES:001/094",
+        "language": "en",
+        "setCode": "ME02",
+        "tcgdexSetId": "me02",
+        "setName": "Phantasmal Flames",
+        "cardNumber": "001/094",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M2",
+        "tcgdexSetId": "M2",
+        "setName": "Inferno X",
+        "cardNumber": "001/080",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Oddish (Phantasmal Flames 1)",
+            "pageId": 342041,
+            "revisionId": 4531090,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "ME02.5->M2a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:ME02.5:ASCENDED_HEROES:026/217",
+        "language": "en",
+        "setCode": "ME02.5",
+        "tcgdexSetId": "me02.5",
+        "setName": "Ascended Heroes",
+        "cardNumber": "026/217",
+        "localId": "026",
+        "rarity": "Double Rare",
+        "cardName": "Ethan's Ho-Oh ex",
+        "japaneseName": "ヒビキのホウオウex",
+        "cardKind": "pokemon",
+        "hp": 230
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M2A",
+        "tcgdexSetId": "M2a",
+        "setName": "MEGA Dream ex",
+        "cardNumber": "021/193",
+        "localId": "021",
+        "rarity": "RR",
+        "cardName": "Ethan's Ho-Oh ex",
+        "japaneseName": "ヒビキのホウオウex",
+        "cardKind": "pokemon",
+        "hp": 230,
+        "evidence": [
+          {
+            "pageTitle": "Ethan's Ho-Oh ex (Destined Rivals 39)",
+            "pageId": 327743,
+            "revisionId": 4479889,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "ME03->M3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:ME03:PERFECT_ORDER:001/088",
+        "language": "en",
+        "setCode": "ME03",
+        "tcgdexSetId": "me03",
+        "setName": "Perfect Order",
+        "cardNumber": "001/088",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Spinarak",
+        "japaneseName": "イトマル",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M3",
+        "tcgdexSetId": "M3",
+        "setName": "Nihil Zero",
+        "cardNumber": "001/080",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Spinarak",
+        "japaneseName": "イトマル",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Spinarak (Perfect Order 1)",
+            "pageId": 350053,
+            "revisionId": 4523126,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "ME04->M4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:ME04:CHAOS_RISING:001/086",
+        "language": "en",
+        "setCode": "ME04",
+        "tcgdexSetId": "me04",
+        "setName": "Chaos Rising",
+        "cardNumber": "001/086",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M4",
+        "tcgdexSetId": "M4",
+        "setName": "Ninja Spinner",
+        "cardNumber": "001/083",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Weedle (Chaos Rising 1)",
+            "pageId": 352555,
+            "revisionId": 4556880,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "ME05->M5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:ME05:PITCH_BLACK:001/084",
+        "language": "en",
+        "setCode": "ME05",
+        "tcgdexSetId": "me05",
+        "setName": "Pitch Black",
+        "cardNumber": "001/084",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Tropius",
+        "japaneseName": "トロピウス",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M5",
+        "tcgdexSetId": "M5",
+        "setName": "Abyss Eye",
+        "cardNumber": "001/081",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tropius",
+        "japaneseName": "トロピウス",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Tropius (Pitch Black 1)",
+            "pageId": 356265,
+            "revisionId": 4592379,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEGA-DIANCIE->me02",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:MEGA-DIANCIE:MEGA_STARTER_SET_MEGA_DIANCIE_EX:001/021",
+        "language": "ja",
+        "setCode": "MEGA-DIANCIE",
+        "tcgdexSetId": null,
+        "setName": "MEGA Starter Set Mega Diancie ex",
+        "cardNumber": "001/021",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Snubbull",
+        "japaneseName": "ブルー",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME02",
+        "tcgdexSetId": "me02",
+        "setName": "Phantasmal Flames",
+        "cardNumber": "037/094",
+        "localId": "037",
+        "rarity": "Common",
+        "cardName": "Snubbull",
+        "japaneseName": "ブルー",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Snubbull (Phantasmal Flames 37)",
+            "pageId": 339444,
+            "revisionId": 4453029,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEGA-DIANCIE->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:MEGA-DIANCIE:MEGA_STARTER_SET_MEGA_DIANCIE_EX:022/021",
+        "language": "ja",
+        "setCode": "MEGA-DIANCIE",
+        "tcgdexSetId": null,
+        "setName": "MEGA Starter Set Mega Diancie ex",
+        "cardNumber": "022/021",
+        "localId": "022",
+        "rarity": null,
+        "cardName": "Meloetta",
+        "japaneseName": "メロエッタ",
+        "cardKind": "pokemon",
+        "hp": 90
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "026",
+        "localId": "026",
+        "rarity": null,
+        "cardName": "Meloetta",
+        "japaneseName": "メロエッタ",
+        "cardKind": "pokemon",
+        "hp": 90,
+        "evidence": [
+          {
+            "pageTitle": "Meloetta (Phantasmal Flames 40)",
+            "pageId": 339447,
+            "revisionId": 4453033,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEGA-GENGAR->me02",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:MEGA-GENGAR:MEGA_STARTER_SET_MEGA_GENGAR_EX:001/021",
+        "language": "ja",
+        "setCode": "MEGA-GENGAR",
+        "tcgdexSetId": null,
+        "setName": "MEGA Starter Set Mega Gengar ex",
+        "cardNumber": "001/021",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Gastly",
+        "japaneseName": "ゴース",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "ME02",
+        "tcgdexSetId": "me02",
+        "setName": "Phantasmal Flames",
+        "cardNumber": "054/094",
+        "localId": "054",
+        "rarity": "Common",
+        "cardName": "Gastly",
+        "japaneseName": "ゴース",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Gastly (Phantasmal Flames 54)",
+            "pageId": 339431,
+            "revisionId": 4523015,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEGA-GENGAR->mep",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:MEGA-GENGAR:MEGA_STARTER_SET_MEGA_GENGAR_EX:022/021",
+        "language": "ja",
+        "setCode": "MEGA-GENGAR",
+        "tcgdexSetId": null,
+        "setName": "MEGA Starter Set Mega Gengar ex",
+        "cardNumber": "022/021",
+        "localId": "022",
+        "rarity": null,
+        "cardName": "Haunter",
+        "japaneseName": "ゴースト",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "027",
+        "localId": "027",
+        "rarity": null,
+        "cardName": "Haunter",
+        "japaneseName": "ゴースト",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Haunter (Phantasmal Flames 55)",
+            "pageId": 339432,
+            "revisionId": 4480724,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEP->M1L",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:MEP:MEP_BLACK_STAR_PROMOS:010",
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "010",
+        "localId": "010",
+        "rarity": null,
+        "cardName": "Riolu",
+        "japaneseName": "リオル",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M1L",
+        "tcgdexSetId": "M1L",
+        "setName": "Mega Brave",
+        "cardNumber": "068/063",
+        "localId": "068",
+        "rarity": "AR",
+        "cardName": "Riolu",
+        "japaneseName": "リオル",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Riolu (Mega Evolution 76)",
+            "pageId": 335807,
+            "revisionId": 4608031,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEP->M1S",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:MEP:MEP_BLACK_STAR_PROMOS:009",
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "009",
+        "localId": "009",
+        "rarity": null,
+        "cardName": "Alakazam",
+        "japaneseName": "フーディン",
+        "cardKind": "pokemon",
+        "hp": 140
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M1S",
+        "tcgdexSetId": "M1S",
+        "setName": "Mega Symphonia",
+        "cardNumber": "071/063",
+        "localId": "071",
+        "rarity": "AR",
+        "cardName": "Alakazam",
+        "japaneseName": "フーディン",
+        "cardKind": "pokemon",
+        "hp": 140,
+        "evidence": [
+          {
+            "pageTitle": "Alakazam (Mega Evolution 56)",
+            "pageId": 337172,
+            "revisionId": 4522996,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEP->M2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:MEP:MEP_BLACK_STAR_PROMOS:018",
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "018",
+        "localId": "018",
+        "rarity": null,
+        "cardName": "Cottonee",
+        "japaneseName": "モンメン",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M2",
+        "tcgdexSetId": "M2",
+        "setName": "Inferno X",
+        "cardNumber": "037/080",
+        "localId": "037",
+        "rarity": "C",
+        "cardName": "Cottonee",
+        "japaneseName": "モンメン",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Cottonee (MEP Promo 18)",
+            "pageId": 340278,
+            "revisionId": 4535754,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEP->M2a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:MEP:MEP_BLACK_STAR_PROMOS:004",
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "004",
+        "localId": "004",
+        "rarity": null,
+        "cardName": "Lunatone",
+        "japaneseName": "ルナトーン",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M2A",
+        "tcgdexSetId": "M2a",
+        "setName": "MEGA Dream ex",
+        "cardNumber": "086/193",
+        "localId": "086",
+        "rarity": null,
+        "cardName": "Lunatone",
+        "japaneseName": "ルナトーン",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Lunatone (Mega Evolution 74)",
+            "pageId": 338115,
+            "revisionId": 4553342,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEP->M3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:MEP:MEP_BLACK_STAR_PROMOS:070",
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "070",
+        "localId": "070",
+        "rarity": null,
+        "cardName": "Tyrunt",
+        "japaneseName": "チゴラス",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M3",
+        "tcgdexSetId": "M3",
+        "setName": "Nihil Zero",
+        "cardNumber": "089/080",
+        "localId": "089",
+        "rarity": "AR",
+        "cardName": "Tyrunt",
+        "japaneseName": "チゴラス",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Tyrunt (Perfect Order 44)",
+            "pageId": 349468,
+            "revisionId": 4616242,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEP->M4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:MEP:MEP_BLACK_STAR_PROMOS:080",
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "080",
+        "localId": "080",
+        "rarity": null,
+        "cardName": "Fennekin",
+        "japaneseName": "フォッコ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M4",
+        "tcgdexSetId": "M4",
+        "setName": "Ninja Spinner",
+        "cardNumber": "085/083",
+        "localId": "085",
+        "rarity": "AR",
+        "cardName": "Fennekin",
+        "japaneseName": "フォッコ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Fennekin (Chaos Rising 11)",
+            "pageId": 352491,
+            "revisionId": 4559381,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEP->M5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:MEP:MEP_BLACK_STAR_PROMOS:088",
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "088",
+        "localId": "088",
+        "rarity": null,
+        "cardName": "Zarude",
+        "japaneseName": "ザルード",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M5",
+        "tcgdexSetId": "M5",
+        "setName": "Abyss Eye",
+        "cardNumber": "090/081",
+        "localId": "090",
+        "rarity": "AR",
+        "cardName": "Zarude",
+        "japaneseName": "ザルード",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Zarude (Pitch Black 56)",
+            "pageId": 354826,
+            "revisionId": 4592387,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "MEP->M6",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:MEP:MEP_BLACK_STAR_PROMOS:117",
+        "language": "en",
+        "setCode": "MEP",
+        "tcgdexSetId": "mep",
+        "setName": "MEP Black Star Promos",
+        "cardNumber": "117",
+        "localId": "117",
+        "rarity": null,
+        "cardName": "Kyogre",
+        "japaneseName": "カイオーガ",
+        "cardKind": "pokemon",
+        "hp": 150
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M6",
+        "tcgdexSetId": "M6",
+        "setName": "Storm Emeralda",
+        "cardNumber": "080/076",
+        "localId": "080",
+        "rarity": "AR",
+        "cardName": "Kyogre",
+        "japaneseName": "カイオーガ",
+        "cardKind": "pokemon",
+        "hp": 150,
+        "evidence": [
+          {
+            "pageTitle": "Kyogre (MEP Promo 117)",
+            "pageId": 359393,
+            "revisionId": 4634086,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "NATIONAL-BEGINNING->bw7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 1,
+      "selectionReasons": [
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:NATIONAL-BEGINNING:NATIONAL_BEGINNING_SET:031/034",
+        "language": "ja",
+        "setCode": "NATIONAL-BEGINNING",
+        "tcgdexSetId": null,
+        "setName": "National Beginning Set",
+        "cardNumber": "031/034",
+        "localId": "031",
+        "rarity": null,
+        "cardName": "Potion",
+        "japaneseName": "きずぐすり",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BCR",
+        "tcgdexSetId": "bw7",
+        "setName": "Boundaries Crossed",
+        "cardNumber": "132/149",
+        "localId": "132",
+        "rarity": "Common",
+        "cardName": "Potion",
+        "japaneseName": "きずぐすり",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Potion (Base Set 94)",
+            "pageId": 12098,
+            "revisionId": 4626620,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SVP->M2a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SVP:SVP_BLACK_STAR_PROMOS:152",
+        "language": "en",
+        "setCode": "SVP",
+        "tcgdexSetId": "svp",
+        "setName": "SVP Black Star Promos",
+        "cardNumber": "152",
+        "localId": "152",
+        "rarity": null,
+        "cardName": "Chien-Pao",
+        "japaneseName": "パオジアン",
+        "cardKind": "pokemon",
+        "hp": 120
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "M2A",
+        "tcgdexSetId": "M2a",
+        "setName": "MEGA Dream ex",
+        "cardNumber": "043/193",
+        "localId": "043",
+        "rarity": null,
+        "cardName": "Chien-Pao",
+        "japaneseName": "パオジアン",
+        "cardKind": "pokemon",
+        "hp": 120,
+        "evidence": [
+          {
+            "pageTitle": "Chien-Pao (Surging Sparks 56)",
+            "pageId": 321271,
+            "revisionId": 4553281,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "V-STARTER-SETS->swsh1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 1,
+      "selectionReasons": [
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:V-STARTER-SETS:V_STARTER_SETS:012/024",
+        "language": "ja",
+        "setCode": "V-STARTER-SETS",
+        "tcgdexSetId": null,
+        "setName": "V Starter Sets",
+        "cardNumber": "012/024",
+        "localId": "012",
+        "rarity": null,
+        "cardName": "Energy Retrieval",
+        "japaneseName": "エネルギー回収",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SWSH1",
+        "tcgdexSetId": "swsh1",
+        "setName": "Sword & Shield",
+        "cardNumber": "160/202",
+        "localId": "160",
+        "rarity": "Uncommon",
+        "cardName": "Energy Retrieval",
+        "japaneseName": "エネルギー回収",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Energy Retrieval (Base Set 81)",
+            "pageId": 15383,
+            "revisionId": 4552776,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "XY-BEGINNING->xy0",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 1,
+      "selectionReasons": [
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:XY-BEGINNING:XY_BEGINNING_SET:034/039",
+        "language": "ja",
+        "setCode": "XY-BEGINNING",
+        "tcgdexSetId": null,
+        "setName": "XY Beginning Set",
+        "cardNumber": "034/039",
+        "localId": "034",
+        "rarity": null,
+        "cardName": "Potion",
+        "japaneseName": "きずぐすり",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "KSS",
+        "tcgdexSetId": "xy0",
+        "setName": "Kalos Starter Set",
+        "cardNumber": "37/39",
+        "localId": "37",
+        "rarity": null,
+        "cardName": "Potion",
+        "japaneseName": "きずぐすり",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Potion (Base Set 94)",
+            "pageId": 12098,
+            "revisionId": 4626620,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    }
+  ]
+}

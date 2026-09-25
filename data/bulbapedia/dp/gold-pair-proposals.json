@@ -1,0 +1,509 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "selectionPolicy": "after-audit",
+  "approvalStatus": "pending-user-review",
+  "proposals": [
+    {
+      "relationship": "DP-P->dp5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DP-P:DP_P_PROMOTIONAL_CARDS:067/DP-P",
+        "language": "ja",
+        "setCode": "DP-P",
+        "tcgdexSetId": null,
+        "setName": "DP-P Promotional cards",
+        "cardNumber": "067/DP-P",
+        "localId": "067",
+        "rarity": null,
+        "cardName": "Eevee",
+        "japaneseName": "イーブイ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DP5",
+        "tcgdexSetId": "dp5",
+        "setName": "Majestic Dawn",
+        "cardNumber": "63/100",
+        "localId": "63",
+        "rarity": "Common",
+        "cardName": "Eevee",
+        "japaneseName": "イーブイ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Eevee (Majestic Dawn 63)",
+            "pageId": 41776,
+            "revisionId": 4375296,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DP-P->dpp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DP-P:DP_P_PROMOTIONAL_CARDS:004/DP-P",
+        "language": "ja",
+        "setCode": "DP-P",
+        "tcgdexSetId": null,
+        "setName": "DP-P Promotional cards",
+        "cardNumber": "004/DP-P",
+        "localId": "004",
+        "rarity": null,
+        "cardName": "Lucario LV.X",
+        "japaneseName": "ルカリオ",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DPP",
+        "tcgdexSetId": "dpp",
+        "setName": "DP Black Star Promos",
+        "cardNumber": "DP12",
+        "localId": "DP12",
+        "rarity": null,
+        "cardName": "Lucario LV.X",
+        "japaneseName": "ルカリオ",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Lucario LV.X (Mysterious Treasures 122)",
+            "pageId": 30314,
+            "revisionId": 4277019,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DP-P->pl2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DP-P:DP_P_PROMOTIONAL_CARDS:125/DP-P",
+        "language": "ja",
+        "setCode": "DP-P",
+        "tcgdexSetId": null,
+        "setName": "DP-P Promotional cards",
+        "cardNumber": "125/DP-P",
+        "localId": "125",
+        "rarity": null,
+        "cardName": "Munchlax",
+        "japaneseName": "ゴンベ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PL2",
+        "tcgdexSetId": "pl2",
+        "setName": "Rising Rivals",
+        "cardNumber": "70/111",
+        "localId": "70",
+        "rarity": "Common",
+        "cardName": "Munchlax",
+        "japaneseName": "ゴンベ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Munchlax (Rising Rivals 70)",
+            "pageId": 53927,
+            "revisionId": 4616807,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DP6->dp7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DP6:INTENSE_FIGHT_IN_THE_DESTROYED_SKY:001/092",
+        "language": "ja",
+        "setCode": "DP6",
+        "tcgdexSetId": null,
+        "setName": "Intense Fight in the Destroyed Sky",
+        "cardNumber": "001/092",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DP7",
+        "tcgdexSetId": "dp7",
+        "setName": "Stormfront",
+        "cardNumber": "78/100",
+        "localId": "78",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Stormfront 78)",
+            "pageId": 58304,
+            "revisionId": 4126768,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DP6->pl1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DP6:INTENSE_FIGHT_IN_THE_DESTROYED_SKY:011/092",
+        "language": "ja",
+        "setCode": "DP6",
+        "tcgdexSetId": null,
+        "setName": "Intense Fight in the Destroyed Sky",
+        "cardNumber": "011/092",
+        "localId": "011",
+        "rarity": "Rare Holo",
+        "cardName": "Shaymin",
+        "japaneseName": "シェイミ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PL1",
+        "tcgdexSetId": "pl1",
+        "setName": "Platinum",
+        "cardNumber": "14/127",
+        "localId": "14",
+        "rarity": "Rare Holo",
+        "cardName": "Shaymin",
+        "japaneseName": "シェイミ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Shaymin (Platinum 14)",
+            "pageId": 67725,
+            "revisionId": 4214780,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DPT-P->dpp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DPT-P:DPT_P_PROMOTIONAL_CARDS:001/DPT-P",
+        "language": "ja",
+        "setCode": "DPT-P",
+        "tcgdexSetId": null,
+        "setName": "DPt-P Promotional cards",
+        "cardNumber": "001/DPT-P",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Carnivine G",
+        "japaneseName": "マスキッパG[ギンガ]",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DPP",
+        "tcgdexSetId": "dpp",
+        "setName": "DP Black Star Promos",
+        "cardNumber": "DP42",
+        "localId": "DP42",
+        "rarity": null,
+        "cardName": "Carnivine G",
+        "japaneseName": "マスキッパG[ギンガ]",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Carnivine G (DP Promo 42)",
+            "pageId": 57391,
+            "revisionId": 4544562,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DPT-P->pl2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DPT-P:DPT_P_PROMOTIONAL_CARDS:005/DPT-P",
+        "language": "ja",
+        "setCode": "DPT-P",
+        "tcgdexSetId": null,
+        "setName": "DPt-P Promotional cards",
+        "cardNumber": "005/DPT-P",
+        "localId": "005",
+        "rarity": null,
+        "cardName": "Darkrai G",
+        "japaneseName": "ダークライG[ギンガ]",
+        "cardKind": "pokemon",
+        "hp": 90
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PL2",
+        "tcgdexSetId": "pl2",
+        "setName": "Rising Rivals",
+        "cardNumber": "3/111",
+        "localId": "3",
+        "rarity": "Rare Holo",
+        "cardName": "Darkrai G",
+        "japaneseName": "ダークライG[ギンガ]",
+        "cardKind": "pokemon",
+        "hp": 90,
+        "evidence": [
+          {
+            "pageTitle": "Darkrai G (Rising Rivals 3)",
+            "pageId": 57397,
+            "revisionId": 4546059,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DPT1->pl1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DPT1:GALACTIC_S_CONQUEST:001/096",
+        "language": "ja",
+        "setCode": "DPT1",
+        "tcgdexSetId": null,
+        "setName": "Galactic's Conquest",
+        "cardNumber": "001/096",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Wurmple",
+        "japaneseName": "ケムッソ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PL1",
+        "tcgdexSetId": "pl1",
+        "setName": "Platinum",
+        "cardNumber": "103/127",
+        "localId": "103",
+        "rarity": "Common",
+        "cardName": "Wurmple",
+        "japaneseName": "ケムッソ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Wurmple (Platinum 103)",
+            "pageId": 69209,
+            "revisionId": 4574756,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DPT2->pl2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DPT2:BONDS_TO_THE_END_OF_TIME:001/090",
+        "language": "ja",
+        "setCode": "DPT2",
+        "tcgdexSetId": null,
+        "setName": "Bonds to the End of Time",
+        "cardNumber": "001/090",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PL2",
+        "tcgdexSetId": "pl2",
+        "setName": "Rising Rivals",
+        "cardNumber": "86/111",
+        "localId": "86",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Weedle (Rising Rivals 86)",
+            "pageId": 75787,
+            "revisionId": 4616788,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DPT3->pl3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DPT3:BEAT_OF_THE_FRONTIER:001/100",
+        "language": "ja",
+        "setCode": "DPT3",
+        "tcgdexSetId": null,
+        "setName": "Beat of the Frontier",
+        "cardNumber": "001/100",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Bulbasaur",
+        "japaneseName": "フシギダネ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PL3",
+        "tcgdexSetId": "pl3",
+        "setName": "Supreme Victors",
+        "cardNumber": "93/147",
+        "localId": "93",
+        "rarity": "Common",
+        "cardName": "Bulbasaur",
+        "japaneseName": "フシギダネ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Bulbasaur (Supreme Victors 93)",
+            "pageId": 71666,
+            "revisionId": 4111406,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DPT4->pl4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DPT4:ADVENT_OF_ARCEUS:001/090",
+        "language": "ja",
+        "setCode": "DPT4",
+        "tcgdexSetId": null,
+        "setName": "Advent of Arceus",
+        "cardNumber": "001/090",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Beedrill G",
+        "japaneseName": "スピアーG[ギンガ]",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PL4",
+        "tcgdexSetId": "pl4",
+        "setName": "Platinum: Arceus",
+        "cardNumber": "53/99",
+        "localId": "53",
+        "rarity": "Common",
+        "cardName": "Beedrill G",
+        "japaneseName": "スピアーG[ギンガ]",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Beedrill G (Arceus 53)",
+            "pageId": 79575,
+            "revisionId": 4605421,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    }
+  ]
+}

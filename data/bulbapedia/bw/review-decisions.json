@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "decidedAt": "2026-09-22",
+  "decidedBy": "user",
+  "status": "approved-for-phase-4",
+  "goldPairApprovals": {
+    "status": "approved",
+    "approvedRelationships": [
+      "BW1->bw1",
+      "BW1->bw2",
+      "BW2->bw3",
+      "BW3->bw2",
+      "BW3->bw3",
+      "BW3->bw4",
+      "BW3->bw5",
+      "BW4->bw2",
+      "BW4->bw5",
+      "BW5->bw6",
+      "BW6->bw7",
+      "BW6->bw8",
+      "BW7->bw7",
+      "BW7->bw8",
+      "BW8->bw9",
+      "BW9->bw10",
+      "DS->dv1",
+      "EB->bw11",
+      "SC->bw11"
+    ],
+    "note": "User confirmed all 19 proposed pairs match artwork."
+  },
+  "conflictReview": {
+    "status": "approved",
+    "conflictCount": 0
+  },
+  "ambiguityReview": {
+    "status": "approved",
+    "ambiguousRecordCount": 0
+  },
+  "randomSampleReview": {
+    "status": "approved",
+    "seed": 20260301,
+    "samplesPerRelationship": 2,
+    "totalSamples": 36,
+    "flagged": 0,
+    "note": "EN targets cross-checked against live TCGdex for name and HP; JP sides rely on user-verified gold pairs."
+  },
+  "fullValidationReview": {
+    "status": "reviewed",
+    "mode": "all",
+    "checked": 1010,
+    "flagged": 2,
+    "rate": 0.2,
+    "effectiveFlagged": 2,
+    "note": "Full pass with scripts/bulbapedia/sample-review.mjs bw --all (seed 20260301, live TCGdex). The 2 flags are source naming conventions, not wrong pairings: Bulbapedia writes the BW blend energies short (\"Blend Energy WLFM\" / \"Blend Energy GRPD\") while TCGdex spells them out (\"Blend Energy Water Lightning Fighting Metal\" / \"Blend Energy Grass Fire Psychic Darkness\"). Card number, set and HP all match."
+  }
+}

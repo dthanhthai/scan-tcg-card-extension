@@ -1,0 +1,166 @@
+SV gold-pair checklist — filtered (interesting + random sample)
+
+== CROSS-SET / SPECIAL / PROMO (cần soi kỹ)
+ 1. SV-P Promotional cards (SV-P) -> Scarlet & Violet (SV01)  (4)
+      SV-P 005/SV-P Miraidon hp120  <->  SV01 080/198 Miraidon
+      SV-P 007/SV-P Koraidon hp130  <->  SV01 124/198 Koraidon
+ 2. SV-P Promotional cards (SV-P) -> Obsidian Flames (SV03)  (2)
+      SV-P 027/SV-P Klawf ex hp220  <->  SV03 120/197 Klawf ex
+      SV-P 029/SV-P Brassius  <->  SV03 187/197 Brassius
+ 3. SV-P Promotional cards (SV-P) -> Paldean Fates (SV04.5)  (3)
+      SV-P 054/SV-P Barboach hp70  <->  SV04.5 050/091 Barboach
+      SV-P 056/SV-P Atticus  <->  SV04.5 077/091 Atticus
+ 4. SV-P Promotional cards (SV-P) -> Temporal Forces (SV05)  (1)
+      SV-P 089/SV-P Scovillain ex hp260  <->  SV05 022/162 Scovillain ex
+ 5. SV-P Promotional cards (SV-P) -> Twilight Masquerade (SV06)  (1)
+      SV-P 117/SV-P Raifort  <->  SV06 161/167 Raifort
+ 6. SV-P Promotional cards (SV-P) -> Stellar Crown (SV07)  (3)
+      SV-P 111/SV-P Pansear hp70  <->  SV07 021/142 Pansear
+      SV-P 113/SV-P Yamask hp70  <->  SV07 062/142 Yamask
+ 7. SV-P Promotional cards (SV-P) -> Surging Sparks (SV08)  (3)
+      SV-P 124/SV-P Flamigo ex hp200  <->  SV08 160/191 Flamigo ex
+      SV-P 127/SV-P Tyme  <->  SV08 190/191 Tyme
+ 8. SV-P Promotional cards (SV-P) -> Prismatic Evolutions (SV08.5)  (1)
+      SV-P 160/SV-P Roto-Stick  <->  SV08.5 127/131 Roto-Stick
+ 9. SV-P Promotional cards (SV-P) -> Journey Together (SV09)  (2)
+      SV-P 165/SV-P Veluza ex hp210  <->  SV09 043/159 Veluza ex
+      SV-P 170/SV-P Billy & O'Nare  <->  SV09 142/159 Billy & O'Nare
+10. SV-P Promotional cards (SV-P) -> Destined Rivals (SV10)  (4)
+      SV-P 184/SV-P Rabsca ex hp250  <->  SV10 025/182 Rabsca ex
+      SV-P 186/SV-P Hippopotas hp90  <->  SV10 105/182 Hippopotas
+11. SV-P Promotional cards (SV-P) -> SVP Black Star Promos (SVP)  (59)
+      SV-P 001/SV-P Pikachu hp60  <->  SVP 027 Pikachu
+      SV-P 002/SV-P Spidops hp120  <->  SVP 009 Spidops
+12. Glory of the Rocket Gang (SV10) -> Destined Rivals (SV10)  (262)
+      SV10 001/098 Pineco hp70  <->  SV10 004/182 Pineco
+      SV10 002/098 Shroomish hp60  <->  SV10 005/182 Shroomish
+13. Glory of the Rocket Gang (SV10) -> SVP Black Star Promos (SVP)  (2)
+      SV10 103/098 Team Rocket's Wobbuffet hp110  <->  SVP 203 Team Rocket's Wobbuffet
+      SV10 103/098 Team Rocket's Wobbuffet hp110  <->  SVP 203 Team Rocket's Wobbuffet
+14. Triplet Beat (SV1A) -> Paldea Evolved (SV02)  (178)
+      SV1A 001/073 Tropius hp110  <->  SV02 007/193 Tropius
+      SV1A 004/073 Sprigatito hp60  <->  SV02 012/193 Sprigatito
+15. Triplet Beat (SV1A) -> Obsidian Flames (SV03)  (28)
+      SV1A 002/073 Foongus hp50  <->  SV03 009/197 Foongus
+      SV1A 003/073 Amoonguss hp110  <->  SV03 010/197 Amoonguss
+16. Pokémon Card 151 (SV2A) -> 151 (SV03.5)  (414)
+      SV2A 001/165 Bulbasaur hp70  <->  SV03.5 001/165 Bulbasaur
+      SV2A 002/165 Ivysaur hp100  <->  SV03.5 002/165 Ivysaur
+17. Pokémon Card 151 (SV2A) -> SVP Black Star Promos (SVP)  (6)
+      SV2A 181/165 Snorlax hp150  <->  SVP 051 Snorlax
+      SV2A 183/165 Mewtwo hp130  <->  SVP 052 Mewtwo
+18. Clay Burst (SV2D) -> Paldea Evolved (SV02)  (180)
+      SV2D 001/071 Hoppip hp50  <->  SV02 001/193 Hoppip
+      SV2D 002/071 Skiploom hp70  <->  SV02 002/193 Skiploom
+19. Clay Burst (SV2D) -> Obsidian Flames (SV03)  (12)
+      SV2D 010/071 Numel hp90  <->  SV03 031/197 Numel
+      SV2D 011/071 Camerupt hp140  <->  SV03 032/197 Camerupt
+20. Clay Burst (SV2D) -> SVP Black Star Promos (SVP)  (4)
+      SV2D 033/071 Tinkatink hp70  <->  SVP 025 Tinkatink
+      SV2D 035/071 Tinkaton ex hp300  <->  SVP 031 Tinkaton ex
+21. Snow Hazard (SV2P) -> Paldea Evolved (SV02)  (176)
+      SV2P 003/071 Combee hp50  <->  SV02 008/193 Combee
+      SV2P 004/071 Vespiquen hp120  <->  SV02 009/193 Vespiquen
+22. Snow Hazard (SV2P) -> Obsidian Flames (SV03)  (18)
+      SV2P 001/071 Surskit hp60  <->  SV03 006/197 Surskit
+      SV2P 002/071 Masquerain hp100  <->  SV03 007/197 Masquerain
+23. Snow Hazard (SV2P) -> SVP Black Star Promos (SVP)  (2)
+      SV2P 040/071 Annihilape ex hp320  <->  SVP 032 Annihilape ex
+      SV2P 040/071 Annihilape ex hp320  <->  SVP 032 Annihilape ex
+24. Raging Surf (SV3A) -> Paradox Rift (SV04)  (160)
+      SV3A 001/062 Froslass ex hp250  <->  SV04 003/182 Froslass ex
+      SV3A 003/062 Remoraid hp70  <->  SV04 033/182 Remoraid
+25. Raging Surf (SV3A) -> Paldean Fates (SV04.5)  (20)
+      SV3A 002/062 Lapras hp110  <->  SV04.5 016/091 Lapras
+      SV3A 012/062 Chinchou hp60  <->  SV04.5 020/091 Chinchou
+26. Ruler of the Black Flame (SV3) -> Paldea Evolved (SV02)  (2)
+      SV3 141/108 Basic Fire Energy  <->  SV02 230/197 Basic Fire Energy
+      SV3 141/108 Basic Fire Energy  <->  SV02 230/197 Basic Fire Energy
+27. Ruler of the Black Flame (SV3) -> Obsidian Flames (SV03)  (278)
+      SV3 001/108 Oddish hp50  <->  SV03 001/197 Oddish
+      SV3 002/108 Gloom hp80  <->  SV03 002/197 Gloom
+28. Ruler of the Black Flame (SV3) -> SVP Black Star Promos (SVP)  (2)
+      SV3 067/108 Paldean Wooper hp60  <->  SVP 041 Paldean Wooper
+      SV3 067/108 Paldean Wooper hp60  <->  SVP 041 Paldean Wooper
+29. Shiny Treasure ex (SV4A) -> Paldean Fates (SV04.5)  (420)
+      SV4A 008/190 Pineco hp70  <->  SV04.5 001/091 Pineco
+      SV4A 009/190 Forretress ex hp270  <->  SV04.5 002/091 Forretress ex
+30. Shiny Treasure ex (SV4A) -> SVP Black Star Promos (SVP)  (64)
+      SV4A 068/190 Pawmot hp130  <->  SVP 006 Pawmot
+      SV4A 106/190 Hawlucha hp70  <->  SVP 007 Hawlucha
+31. Ancient Roar (SV4K) -> Paradox Rift (SV04)  (172)
+      SV4K 001/066 Pansage hp70  <->  SV04 004/182 Pansage
+      SV4K 002/066 Simisage hp100  <->  SV04 005/182 Simisage
+32. Ancient Roar (SV4K) -> Paldean Fates (SV04.5)  (14)
+      SV4K 003/066 Maractus hp110  <->  SV04.5 003/091 Maractus
+      SV4K 011/066 Numel hp80  <->  SV04.5 011/091 Numel
+33. Ancient Roar (SV4K) -> Shrouded Fable (SV06.5)  (2)
+      SV4K 095/066 Basic Darkness Energy  <->  SV06.5 098/064 Basic Darkness Energy
+      SV4K 095/066 Basic Darkness Energy  <->  SV06.5 098/064 Basic Darkness Energy
+34. Ancient Roar (SV4K) -> SVP Black Star Promos (SVP)  (2)
+      SV4K 071/066 Scream Tail hp90  <->  SVP 065 Scream Tail
+      SV4K 071/066 Scream Tail hp90  <->  SVP 065 Scream Tail
+35. Future Flash (SV4M) -> Paradox Rift (SV04)  (184)
+      SV4M 001/066 Surskit hp50  <->  SV04 001/182 Surskit
+      SV4M 002/066 Masquerain hp100  <->  SV04 002/182 Masquerain
+36. Future Flash (SV4M) -> Paldean Fates (SV04.5)  (2)
+      SV4M 028/066 Chimecho hp70  <->  SV04.5 030/091 Chimecho
+      SV4M 028/066 Chimecho hp70  <->  SV04.5 030/091 Chimecho
+37. Future Flash (SV4M) -> Shrouded Fable (SV06.5)  (2)
+      SV4M 095/066 Basic Metal Energy  <->  SV06.5 099/064 Basic Metal Energy
+      SV4M 095/066 Basic Metal Energy  <->  SV06.5 099/064 Basic Metal Energy
+38. Future Flash (SV4M) -> SVP Black Star Promos (SVP)  (2)
+      SV4M 071/066 Iron Bundle hp100  <->  SVP 066 Iron Bundle
+      SV4M 071/066 Iron Bundle hp100  <->  SVP 066 Iron Bundle
+39. Wild Force (SV5K) -> Temporal Forces (SV05)  (198)
+      SV5K 001/071 Roselia hp60  <->  SV05 008/162 Roselia
+      SV5K 002/071 Roserade hp130  <->  SV05 009/162 Roserade
+40. Wild Force (SV5K) -> SVP Black Star Promos (SVP)  (2)
+      SV5K 076/071 Flutter Mane hp90  <->  SVP 097 Flutter Mane
+      SV5K 076/071 Flutter Mane hp90  <->  SVP 097 Flutter Mane
+41. Cyber Judge (SV5M) -> Temporal Forces (SV05)  (198)
+      SV5M 001/071 Scyther hp90  <->  SV05 001/162 Scyther
+      SV5M 002/071 Pineco hp70  <->  SV05 002/162 Pineco
+42. Cyber Judge (SV5M) -> SVP Black Star Promos (SVP)  (2)
+      SV5M 077/071 Iron Thorns hp140  <->  SVP 098 Iron Thorns
+      SV5M 077/071 Iron Thorns hp140  <->  SVP 098 Iron Thorns
+43. Transformation Mask (SV6) -> Twilight Masquerade (SV06)  (260)
+      SV6 001/101 Sunkern hp40  <->  SV06 006/167 Sunkern
+      SV6 002/101 Sunflora hp100  <->  SV06 007/167 Sunflora
+44. Transformation Mask (SV6) -> Shrouded Fable (SV06.5)  (6)
+      SV6 107/101 Munkidori hp110  <->  SV06.5 072/064 Munkidori
+      SV6 108/101 Fezandipiti hp120  <->  SV06.5 073/064 Fezandipiti
+45. Stellar Miracle (SV7) -> Stellar Crown (SV07)  (266)
+      SV7 001/102 Ledyba hp60  <->  SV07 002/142 Ledyba
+      SV7 002/102 Ledian hp90  <->  SV07 003/142 Ledian
+46. Stellar Miracle (SV7) -> SVP Black Star Promos (SVP)  (4)
+      SV7 114/102 Noctowl hp100  <->  SVP 141 Noctowl
+      SV7 122/102 Terapagos ex hp230  <->  SVP 165 Terapagos ex
+47. Terastal Fest ex (SV8A) -> Prismatic Evolutions (SV08.5)  (262)
+      SV8A 001/187 Budew hp30  <->  SV08.5 004/131 Budew
+      SV8A 003/187 Leafeon ex hp270  <->  SV08.5 006/131 Leafeon ex
+48. Terastal Fest ex (SV8A) -> SVP Black Star Promos (SVP)  (56)
+      SV8A 025/187 Chi-Yu hp110  <->  SVP 057 Chi-Yu
+      SV8A 047/187 Iron Bundle hp100  <->  SVP 058 Iron Bundle
+49. Super Electric Breaker (SV8) -> Surging Sparks (SV08)  (272)
+      SV8 001/106 Exeggcute hp50  <->  SV08 002/191 Exeggcute
+      SV8 002/106 Exeggutor hp130  <->  SV08 003/191 Exeggutor
+50. Super Electric Breaker (SV8) -> SVP Black Star Promos (SVP)  (4)
+      SV8 075/106 Pecharunt hp80  <->  SVP 149 Pecharunt
+      SV8 112/106 Magneton hp100  <->  SVP 159 Magneton
+51. Battle Partners (SV9) -> Journey Together (SV09)  (262)
+      SV9 001/100 Caterpie hp50  <->  SV09 001/159 Caterpie
+      SV9 002/100 Metapod hp90  <->  SV09 002/159 Metapod
+52. Battle Partners (SV9) -> SVP Black Star Promos (SVP)  (2)
+      SV9 108/100 N's Zorua hp70  <->  SVP 189 N's Zorua
+      SV9 108/100 N's Zorua hp70  <->  SVP 189 N's Zorua
+
+== RANDOM SAMPLE (4 cặp main-set thường)
+53. Scarlet ex (SV1S) -> Scarlet & Violet (SV01)  (216)
+      SV1S 001/078 Cacnea hp60  <->  SV01 005/198 Cacnea
+54. Violet ex (SV1V) -> Scarlet & Violet (SV01)  (216)
+      SV1V 001/078 Pineco hp60  <->  SV01 001/198 Pineco
+55. Crimson Haze (SV5A) -> Twilight Masquerade (SV06)  (188)
+      SV5A 001/066 Tangela hp80  <->  SV06 001/167 Tangela
+56. Hot Wind Arena (SV9A) -> Destined Rivals (SV10)  (180)
+      SV9A 001/063 Ethan's Pinsir hp120  <->  SV10 001/182 Ethan's Pinsir

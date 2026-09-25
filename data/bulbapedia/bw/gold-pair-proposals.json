@@ -1,0 +1,878 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "selectionPolicy": "after-audit",
+  "approvalStatus": "pending-user-review",
+  "proposals": [
+    {
+      "relationship": "BW1->bw1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW1:BLACK_COLLECTION:006/053",
+        "language": "ja",
+        "setCode": "BW1",
+        "tcgdexSetId": null,
+        "setName": "Black Collection",
+        "cardNumber": "006/053",
+        "localId": "006",
+        "rarity": "C",
+        "cardName": "Deerling",
+        "japaneseName": "シキジカ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BLW",
+        "tcgdexSetId": "bw1",
+        "setName": "Black & White",
+        "cardNumber": "13/114",
+        "localId": "13",
+        "rarity": "Common",
+        "cardName": "Deerling",
+        "japaneseName": "シキジカ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Deerling (Black & White 13)",
+            "pageId": 122794,
+            "revisionId": 3790312,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW1->bw2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW1:BLACK_COLLECTION:001/053",
+        "language": "ja",
+        "setCode": "BW1",
+        "tcgdexSetId": null,
+        "setName": "Black Collection",
+        "cardNumber": "001/053",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Sewaddle",
+        "japaneseName": "クルミル",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "EP",
+        "tcgdexSetId": "bw2",
+        "setName": "Emerging Powers",
+        "cardNumber": "3/98",
+        "localId": "3",
+        "rarity": "Common",
+        "cardName": "Sewaddle",
+        "japaneseName": "クルミル",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Sewaddle (Emerging Powers 3)",
+            "pageId": 121898,
+            "revisionId": 3790305,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW2->bw3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW2:RED_COLLECTION:001/066",
+        "language": "ja",
+        "setCode": "BW2",
+        "tcgdexSetId": null,
+        "setName": "Red Collection",
+        "cardNumber": "001/066",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Dwebble",
+        "japaneseName": "イシズマイ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "NVI",
+        "tcgdexSetId": "bw3",
+        "setName": "Noble Victories",
+        "cardNumber": "6/101",
+        "localId": "6",
+        "rarity": "Common",
+        "cardName": "Dwebble",
+        "japaneseName": "イシズマイ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Dwebble (Noble Victories 6)",
+            "pageId": 142065,
+            "revisionId": 3873780,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW3->bw2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW3:HAIL_BLIZZARD:005/052",
+        "language": "ja",
+        "setCode": "BW3",
+        "tcgdexSetId": null,
+        "setName": "Hail Blizzard",
+        "cardNumber": "005/052",
+        "localId": "005",
+        "rarity": "C",
+        "cardName": "Deerling",
+        "japaneseName": "シキジカ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "EP",
+        "tcgdexSetId": "bw2",
+        "setName": "Emerging Powers",
+        "cardNumber": "15/98",
+        "localId": "15",
+        "rarity": "Common",
+        "cardName": "Deerling",
+        "japaneseName": "シキジカ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Deerling (Emerging Powers 15)",
+            "pageId": 145901,
+            "revisionId": 3906160,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW3->bw3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW3:HAIL_BLIZZARD:003/052",
+        "language": "ja",
+        "setCode": "BW3",
+        "tcgdexSetId": null,
+        "setName": "Hail Blizzard",
+        "cardNumber": "003/052",
+        "localId": "003",
+        "rarity": "C",
+        "cardName": "Petilil",
+        "japaneseName": "チュリネ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "NVI",
+        "tcgdexSetId": "bw3",
+        "setName": "Noble Victories",
+        "cardNumber": "4/101",
+        "localId": "4",
+        "rarity": "Common",
+        "cardName": "Petilil",
+        "japaneseName": "チュリネ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Petilil (Noble Victories 4)",
+            "pageId": 147496,
+            "revisionId": 3905581,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW3->bw4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW3:HAIL_BLIZZARD:001/052",
+        "language": "ja",
+        "setCode": "BW3",
+        "tcgdexSetId": null,
+        "setName": "Hail Blizzard",
+        "cardNumber": "001/052",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Pansage",
+        "japaneseName": "ヤナップ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "NXD",
+        "tcgdexSetId": "bw4",
+        "setName": "Next Destinies",
+        "cardNumber": "6/99",
+        "localId": "6",
+        "rarity": "Common",
+        "cardName": "Pansage",
+        "japaneseName": "ヤナップ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Pansage (Next Destinies 6)",
+            "pageId": 147494,
+            "revisionId": 3905579,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW3->bw5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW3:HAIL_BLIZZARD:032/052",
+        "language": "ja",
+        "setCode": "BW3",
+        "tcgdexSetId": null,
+        "setName": "Hail Blizzard",
+        "cardNumber": "032/052",
+        "localId": "032",
+        "rarity": "R",
+        "cardName": "Groudon-EX",
+        "japaneseName": "グラードンEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DEX",
+        "tcgdexSetId": "bw5",
+        "setName": "Dark Explorers",
+        "cardNumber": "54/108",
+        "localId": "54",
+        "rarity": "Rare Holo ex",
+        "cardName": "Groudon-EX",
+        "japaneseName": "グラードンEX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Groudon-EX (Dark Explorers 54)",
+            "pageId": 147309,
+            "revisionId": 4574452,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW4->bw2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW4:DARK_RUSH:036/069",
+        "language": "ja",
+        "setCode": "BW4",
+        "tcgdexSetId": null,
+        "setName": "Dark Rush",
+        "cardNumber": "036/069",
+        "localId": "036",
+        "rarity": "C",
+        "cardName": "Swoobat",
+        "japaneseName": "ココロモリ",
+        "cardKind": "pokemon",
+        "hp": 90
+      },
+      "target": {
+        "language": "en",
+        "setCode": "EP",
+        "tcgdexSetId": "bw2",
+        "setName": "Emerging Powers",
+        "cardNumber": "37/98",
+        "localId": "37",
+        "rarity": "Rare",
+        "cardName": "Swoobat",
+        "japaneseName": "ココロモリ",
+        "cardKind": "pokemon",
+        "hp": 90,
+        "evidence": [
+          {
+            "pageTitle": "Swoobat (Emerging Powers 37)",
+            "pageId": 145968,
+            "revisionId": 3914174,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW4->bw5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW4:DARK_RUSH:001/069",
+        "language": "ja",
+        "setCode": "BW4",
+        "tcgdexSetId": null,
+        "setName": "Dark Rush",
+        "cardNumber": "001/069",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Bulbasaur",
+        "japaneseName": "フシギダネ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DEX",
+        "tcgdexSetId": "bw5",
+        "setName": "Dark Explorers",
+        "cardNumber": "1/108",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Bulbasaur",
+        "japaneseName": "フシギダネ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Bulbasaur (Dark Explorers 1)",
+            "pageId": 152323,
+            "revisionId": 3906394,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW5->bw6",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW5:DRAGON_BLADE:001/050",
+        "language": "ja",
+        "setCode": "BW5",
+        "tcgdexSetId": null,
+        "setName": "Dragon Blade",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Hoppip",
+        "japaneseName": "ハネッコ",
+        "cardKind": "pokemon",
+        "hp": 30
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DRX",
+        "tcgdexSetId": "bw6",
+        "setName": "Dragons Exalted",
+        "cardNumber": "1/124",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Hoppip",
+        "japaneseName": "ハネッコ",
+        "cardKind": "pokemon",
+        "hp": 30,
+        "evidence": [
+          {
+            "pageTitle": "Hoppip (Dragons Exalted 1)",
+            "pageId": 156445,
+            "revisionId": 3804304,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW6->bw7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW6:COLD_FLARE:001/059",
+        "language": "ja",
+        "setCode": "BW6",
+        "tcgdexSetId": null,
+        "setName": "Cold Flare",
+        "cardNumber": "001/059",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BCR",
+        "tcgdexSetId": "bw7",
+        "setName": "Boundaries Crossed",
+        "cardNumber": "5/149",
+        "localId": "5",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Boundaries Crossed 5)",
+            "pageId": 164768,
+            "revisionId": 4594965,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW6->bw8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW6:COLD_FLARE:005/059",
+        "language": "ja",
+        "setCode": "BW6",
+        "tcgdexSetId": null,
+        "setName": "Cold Flare",
+        "cardNumber": "005/059",
+        "localId": "005",
+        "rarity": "C",
+        "cardName": "Sewaddle",
+        "japaneseName": "クルミル",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PLS",
+        "tcgdexSetId": "bw8",
+        "setName": "Plasma Storm",
+        "cardNumber": "8/135",
+        "localId": "8",
+        "rarity": "Common",
+        "cardName": "Sewaddle",
+        "japaneseName": "クルミル",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Sewaddle (Plasma Storm 8)",
+            "pageId": 164770,
+            "revisionId": 4001695,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW7->bw7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW7:PLASMA_GALE:076/070",
+        "language": "ja",
+        "setCode": "BW7",
+        "tcgdexSetId": null,
+        "setName": "Plasma Gale",
+        "cardNumber": "076/070",
+        "localId": "076",
+        "rarity": "SR",
+        "cardName": "Skyla",
+        "japaneseName": "フウロ",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BCR",
+        "tcgdexSetId": "bw7",
+        "setName": "Boundaries Crossed",
+        "cardNumber": "149/149",
+        "localId": "149",
+        "rarity": "Rare Ultra",
+        "cardName": "Skyla",
+        "japaneseName": "フウロ",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Skyla (Boundaries Crossed 134)",
+            "pageId": 163691,
+            "revisionId": 4598666,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW7->bw8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW7:PLASMA_GALE:001/070",
+        "language": "ja",
+        "setCode": "BW7",
+        "tcgdexSetId": null,
+        "setName": "Plasma Gale",
+        "cardNumber": "001/070",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Turtwig",
+        "japaneseName": "ナエトル",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PLS",
+        "tcgdexSetId": "bw8",
+        "setName": "Plasma Storm",
+        "cardNumber": "1/135",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Turtwig",
+        "japaneseName": "ナエトル",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Turtwig (Plasma Storm 1)",
+            "pageId": 168017,
+            "revisionId": 4594966,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW8->bw9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW8:SPIRAL_FORCE:001/051",
+        "language": "ja",
+        "setCode": "BW8",
+        "tcgdexSetId": null,
+        "setName": "Spiral Force",
+        "cardNumber": "001/051",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Exeggcute",
+        "japaneseName": "タマタマ",
+        "cardKind": "pokemon",
+        "hp": 30
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PLF",
+        "tcgdexSetId": "bw9",
+        "setName": "Plasma Freeze",
+        "cardNumber": "4/116",
+        "localId": "4",
+        "rarity": "Uncommon",
+        "cardName": "Exeggcute",
+        "japaneseName": "タマタマ",
+        "cardKind": "pokemon",
+        "hp": 30,
+        "evidence": [
+          {
+            "pageTitle": "Exeggcute (Plasma Freeze 4)",
+            "pageId": 171782,
+            "revisionId": 4001095,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "BW9->bw10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:BW9:MEGALO_CANNON:001/076",
+        "language": "ja",
+        "setCode": "BW9",
+        "tcgdexSetId": null,
+        "setName": "Megalo Cannon",
+        "cardNumber": "001/076",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Surskit",
+        "japaneseName": "アメタマ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PLB",
+        "tcgdexSetId": "bw10",
+        "setName": "Plasma Blast",
+        "cardNumber": "1/101",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Surskit",
+        "japaneseName": "アメタマ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Surskit (Plasma Blast 1)",
+            "pageId": 174682,
+            "revisionId": 4001473,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "DS->dv1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:DS:DRAGON_SELECTION:001/020",
+        "language": "ja",
+        "setCode": "DS",
+        "tcgdexSetId": null,
+        "setName": "Dragon Selection",
+        "cardNumber": "001/020",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Dratini",
+        "japaneseName": "ミニリュウ",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DRV",
+        "tcgdexSetId": "dv1",
+        "setName": "Dragon Vault",
+        "cardNumber": "1/20",
+        "localId": "1",
+        "rarity": null,
+        "cardName": "Dratini",
+        "japaneseName": "ミニリュウ",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Dratini (Dragon Vault 1)",
+            "pageId": 154279,
+            "revisionId": 2854294,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "EB->bw11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:EB:EX_BATTLE_BOOST:001/093",
+        "language": "ja",
+        "setCode": "EB",
+        "tcgdexSetId": null,
+        "setName": "EX Battle Boost",
+        "cardNumber": "001/093",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Shuckle",
+        "japaneseName": "ツボツボ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "LTR",
+        "tcgdexSetId": "bw11",
+        "setName": "Legendary Treasures",
+        "cardNumber": "3/113",
+        "localId": "3",
+        "rarity": "Uncommon",
+        "cardName": "Shuckle",
+        "japaneseName": "ツボツボ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Shuckle (Legendary Treasures 3)",
+            "pageId": 180453,
+            "revisionId": 4552201,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SC->bw11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SC:SHINY_COLLECTION:001/020",
+        "language": "ja",
+        "setCode": "SC",
+        "tcgdexSetId": null,
+        "setName": "Shiny Collection",
+        "cardNumber": "001/020",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Snivy",
+        "japaneseName": "ツタージャ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "LTR",
+        "tcgdexSetId": "bw11",
+        "setName": "Legendary Treasures",
+        "cardNumber": "RC1/RC25",
+        "localId": "RC1",
+        "rarity": "Common",
+        "cardName": "Snivy",
+        "japaneseName": "ツタージャ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Snivy (Legendary Treasures RC1)",
+            "pageId": 173343,
+            "revisionId": 4475533,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    }
+  ]
+}

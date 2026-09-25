@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "decidedAt": "2026-09-22",
+  "decidedBy": "user",
+  "status": "approved-for-phase-4",
+  "goldPairApprovals": {
+    "status": "approved",
+    "approvedRelationships": [
+      "BATTLE-STRENGTH-DECKS->bw1",
+      "M-P->me03",
+      "M-P->me04",
+      "M-P->me05",
+      "M-P->mep",
+      "M-P->svp",
+      "M1L->me01",
+      "M1L->mep",
+      "M1S->me01",
+      "M1S->mep",
+      "M2->me02",
+      "M2->mep",
+      "M2A->me02.5",
+      "M2A->mep",
+      "M2A->svp",
+      "M3->me03",
+      "M3->mep",
+      "M4->me04",
+      "M4->mep",
+      "M5->me05",
+      "M5->mep",
+      "M6->mep",
+      "ME01->M1L",
+      "ME01->M1S",
+      "ME02->M2",
+      "ME02.5->M2a",
+      "ME03->M3",
+      "ME04->M4",
+      "ME05->M5",
+      "MEGA-DIANCIE->me02",
+      "MEGA-DIANCIE->mep",
+      "MEGA-GENGAR->me02",
+      "MEGA-GENGAR->mep",
+      "MEP->M1L",
+      "MEP->M1S",
+      "MEP->M2",
+      "MEP->M2a",
+      "MEP->M3",
+      "MEP->M4",
+      "MEP->M5",
+      "MEP->M6",
+      "NATIONAL-BEGINNING->bw7",
+      "SVP->M2a",
+      "V-STARTER-SETS->swsh1",
+      "XY-BEGINNING->xy0"
+    ],
+    "note": "User confirmed all 21 proposed pairs against artwork. 2026-09-23 (phase 2 of the English-category work): the era also crawls 4 English categories now (Ascended Heroes, Phantasmal Flames, Perfect Order, Mega Evolution) and 13 deck products were added to SET_CATALOG.ja (the two MEGA Starter Sets, plus GX Starter Decks, the V Starter Sets/Decks, Battle Strength Decks, National Beginning Set, Gift Box DPt and other reprint decks). None exists on TCGdex, so all are marketplace-only with printsNoSetCode, listed in the era extraSetNames. 798 -> 897 crawled pages, records 1756 -> 1789, enToJa 57 -> 101. Sample review 73 checked / 1 flagged, the known MEP coverage gap (TCGdex has no card above MEP 089) that must not be dropped. Conflicts 1 -> 3: the pre-existing NIHIL_ZERO row plus 2 from the V Starter Sets line product. 8 new relationships approved by the user on 2026-09-23 as 6 product rows with artwork."
+  },
+  "conflictReview": {
+    "status": "approved",
+    "conflictCount": 1
+  },
+  "ambiguityReview": {
+    "status": "approved",
+    "ambiguousRecordCount": 0
+  },
+  "randomSampleReview": {
+    "status": "approved",
+    "seed": 20260301,
+    "samplesPerRelationship": 2,
+    "totalSamples": 60,
+    "flagged": 1,
+    "note": "One sample failed to fetch (404); the rest matched live TCGdex."
+  },
+  "fullValidationReview": {
+    "status": "reviewed",
+    "mode": "all",
+    "checked": 1730,
+    "flagged": 28,
+    "rate": 1.62,
+    "effectiveFlagged": 23,
+    "note": "Full pass with scripts/bulbapedia/sample-review.mjs m --all (seed 20260301, live TCGdex). One flag was a wrong pairing and is dropped through exclusions.json: Perfect Order 117 Wondrous Patch listed jpcardno 103/080, but TCGdex M3-103 is Poké Pad and Wondrous Patch is M3-104. Five were a transient TCGdex 503 and cleared on a re-run. Fourteen are the MEP promos: TCGdex serves a stub (or 404) for local ids above 089, so those records cannot be verified yet - this is the same root cause as the deferred M6 080/076 Kyogre -> MEP 117 item, and it is a TCGdex coverage gap, not a wrong row. The remaining flags are the energy naming convention (\"Nitro R Energy\" vs \"Nitro Fire Energy\", \"Voltaic L Energy\" vs \"Voltaic Lightning Energy\")."
+  }
+}

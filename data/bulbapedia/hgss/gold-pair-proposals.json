@@ -1,0 +1,602 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "selectionPolicy": "after-audit",
+  "approvalStatus": "pending-user-review",
+  "proposals": [
+    {
+      "relationship": "L-P->col1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:005/L-P",
+        "language": "ja",
+        "setCode": "L-P",
+        "tcgdexSetId": null,
+        "setName": "L-P Promotional cards",
+        "cardNumber": "005/L-P",
+        "localId": "005",
+        "rarity": null,
+        "cardName": "Chikorita",
+        "japaneseName": "チコリータ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "CL",
+        "tcgdexSetId": "col1",
+        "setName": "Call of Legends",
+        "cardNumber": "53/95",
+        "localId": "53",
+        "rarity": "Common",
+        "cardName": "Chikorita",
+        "japaneseName": "チコリータ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Chikorita (Call of Legends 53)",
+            "pageId": 84580,
+            "revisionId": 4594947,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L-P->hgss1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:004/L-P",
+        "language": "ja",
+        "setCode": "L-P",
+        "tcgdexSetId": null,
+        "setName": "L-P Promotional cards",
+        "cardNumber": "004/L-P",
+        "localId": "004",
+        "rarity": null,
+        "cardName": "Gyarados",
+        "japaneseName": "ギャラドス",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "en",
+        "setCode": "HS",
+        "tcgdexSetId": "hgss1",
+        "setName": "HeartGold & SoulSilver",
+        "cardNumber": "123/123",
+        "localId": "123",
+        "rarity": "Rare Holo",
+        "cardName": "Gyarados",
+        "japaneseName": "ギャラドス",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Gyarados (HeartGold & SoulSilver 123)",
+            "pageId": 84583,
+            "revisionId": 4277122,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L-P->hgss3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:028/L-P",
+        "language": "ja",
+        "setCode": "L-P",
+        "tcgdexSetId": null,
+        "setName": "L-P Promotional cards",
+        "cardNumber": "028/L-P",
+        "localId": "028",
+        "rarity": null,
+        "cardName": "Slowpoke",
+        "japaneseName": "ヤドン",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "UD",
+        "tcgdexSetId": "hgss3",
+        "setName": "Undaunted",
+        "cardNumber": "66/90",
+        "localId": "66",
+        "rarity": "Common",
+        "cardName": "Slowpoke",
+        "japaneseName": "ヤドン",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Slowpoke (Undaunted 66)",
+            "pageId": 87410,
+            "revisionId": 3984130,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L-P->hgssp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:019/L-P",
+        "language": "ja",
+        "setCode": "L-P",
+        "tcgdexSetId": null,
+        "setName": "L-P Promotional cards",
+        "cardNumber": "019/L-P",
+        "localId": "019",
+        "rarity": null,
+        "cardName": "Pikachu",
+        "japaneseName": "ピカチュウ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "HSP",
+        "tcgdexSetId": "hgssp",
+        "setName": "HGSS Black Star Promos",
+        "cardNumber": "HGSS03",
+        "localId": "HGSS03",
+        "rarity": null,
+        "cardName": "Pikachu",
+        "japaneseName": "ピカチュウ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Pikachu (HGSS Promo 3)",
+            "pageId": 71621,
+            "revisionId": 4544599,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L1A->hgss1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:004/070",
+        "language": "ja",
+        "setCode": "L1A",
+        "tcgdexSetId": null,
+        "setName": "HeartGold Collection",
+        "cardNumber": "004/070",
+        "localId": "004",
+        "rarity": "Common",
+        "cardName": "Spinarak",
+        "japaneseName": "イトマル",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "HS",
+        "tcgdexSetId": "hgss1",
+        "setName": "HeartGold & SoulSilver",
+        "cardNumber": "83/123",
+        "localId": "83",
+        "rarity": "Common",
+        "cardName": "Spinarak",
+        "japaneseName": "イトマル",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Spinarak (HeartGold & SoulSilver 83)",
+            "pageId": 86958,
+            "revisionId": 4277129,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L1A->hgss2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:001/070",
+        "language": "ja",
+        "setCode": "L1A",
+        "tcgdexSetId": null,
+        "setName": "HeartGold Collection",
+        "cardNumber": "001/070",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "UL",
+        "tcgdexSetId": "hgss2",
+        "setName": "Unleashed",
+        "cardNumber": "69/95",
+        "localId": "69",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Weedle (Unleashed 69)",
+            "pageId": 86955,
+            "revisionId": 4215635,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L1B->hgss1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:001/070",
+        "language": "ja",
+        "setCode": "L1B",
+        "tcgdexSetId": null,
+        "setName": "SoulSilver Collection",
+        "cardNumber": "001/070",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 30
+      },
+      "target": {
+        "language": "en",
+        "setCode": "HS",
+        "tcgdexSetId": "hgss1",
+        "setName": "HeartGold & SoulSilver",
+        "cardNumber": "57/123",
+        "localId": "57",
+        "rarity": "Common",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 30,
+        "evidence": [
+          {
+            "pageTitle": "Caterpie (HeartGold & SoulSilver 57)",
+            "pageId": 86966,
+            "revisionId": 4277152,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L1B->hgss2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:018/070",
+        "language": "ja",
+        "setCode": "L1B",
+        "tcgdexSetId": null,
+        "setName": "SoulSilver Collection",
+        "cardNumber": "018/070",
+        "localId": "018",
+        "rarity": "Common",
+        "cardName": "Poliwag",
+        "japaneseName": "ニョロモ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "UL",
+        "tcgdexSetId": "hgss2",
+        "setName": "Unleashed",
+        "cardNumber": "58/95",
+        "localId": "58",
+        "rarity": "Common",
+        "cardName": "Poliwag",
+        "japaneseName": "ニョロモ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Poliwag (Unleashed 58)",
+            "pageId": 87182,
+            "revisionId": 3533489,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L2->hgss2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L2:REVIVING_LEGENDS:012/080",
+        "language": "ja",
+        "setCode": "L2",
+        "tcgdexSetId": null,
+        "setName": "Reviving Legends",
+        "cardNumber": "012/080",
+        "localId": "012",
+        "rarity": "Common",
+        "cardName": "Horsea",
+        "japaneseName": "タッツ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "UL",
+        "tcgdexSetId": "hgss2",
+        "setName": "Unleashed",
+        "cardNumber": "49/95",
+        "localId": "49",
+        "rarity": "Common",
+        "cardName": "Horsea",
+        "japaneseName": "タッツ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Horsea (Unleashed 49)",
+            "pageId": 95752,
+            "revisionId": 4045436,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L2->hgss3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L2:REVIVING_LEGENDS:001/080",
+        "language": "ja",
+        "setCode": "L2",
+        "tcgdexSetId": null,
+        "setName": "Reviving Legends",
+        "cardNumber": "001/080",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "UD",
+        "tcgdexSetId": "hgss3",
+        "setName": "Undaunted",
+        "cardNumber": "60/90",
+        "localId": "60",
+        "rarity": "Common",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Oddish (Undaunted 60)",
+            "pageId": 95618,
+            "revisionId": 4280257,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "L3->hgss4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:001/080",
+        "language": "ja",
+        "setCode": "L3",
+        "tcgdexSetId": null,
+        "setName": "Clash at the Summit",
+        "cardNumber": "001/080",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 40
+      },
+      "target": {
+        "language": "en",
+        "setCode": "TM",
+        "tcgdexSetId": "hgss4",
+        "setName": "Triumphant",
+        "cardNumber": "57/102",
+        "localId": "57",
+        "rarity": "Common",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 40,
+        "evidence": [
+          {
+            "pageTitle": "Bellsprout (Triumphant 57)",
+            "pageId": 108505,
+            "revisionId": 4032879,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "LL->col1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:LL:LOST_LINK:003/040",
+        "language": "ja",
+        "setCode": "LL",
+        "tcgdexSetId": null,
+        "setName": "Lost Link",
+        "cardNumber": "003/040",
+        "localId": "003",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "CL",
+        "tcgdexSetId": "col1",
+        "setName": "Call of Legends",
+        "cardNumber": "72/95",
+        "localId": "72",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Call of Legends 72)",
+            "pageId": 101122,
+            "revisionId": 3851486,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "LL->hgss4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:LL:LOST_LINK:001/040",
+        "language": "ja",
+        "setCode": "LL",
+        "tcgdexSetId": null,
+        "setName": "Lost Link",
+        "cardNumber": "001/040",
+        "localId": "001",
+        "rarity": "Common",
+        "cardName": "Venonat",
+        "japaneseName": "コンパン",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "TM",
+        "tcgdexSetId": "hgss4",
+        "setName": "Triumphant",
+        "cardNumber": "81/102",
+        "localId": "81",
+        "rarity": "Common",
+        "cardName": "Venonat",
+        "japaneseName": "コンパン",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Venonat (Triumphant 81)",
+            "pageId": 101120,
+            "revisionId": 3010763,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    }
+  ]
+}

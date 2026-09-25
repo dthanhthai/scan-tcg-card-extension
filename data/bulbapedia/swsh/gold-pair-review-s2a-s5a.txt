@@ -1,0 +1,198 @@
+==============================================================================
+S2A->swsh3   (77 cap)
+==============================================================================
+[JP] S2A 001/070 Explosive Walker - Butterfree V / バタフリーV   |   [EN] SWSH3 001/189 Darkness Ablaze (swsh3) - Butterfree V
+[JP] S2A 002/070 Explosive Walker - Butterfree VMAX / バタフリーVMAX   |   [EN] SWSH3 002/189 Darkness Ablaze (swsh3) - Butterfree VMAX
+[JP] S2A 003/070 Explosive Walker - Karrablast / カブルモ   |   [EN] SWSH3 008/189 Darkness Ablaze (swsh3) - Karrablast
+[JP] S2A 004/070 Explosive Walker - Shelmet / チョボマキ   |   [EN] SWSH3 009/189 Darkness Ablaze (swsh3) - Shelmet
+[JP] S2A 005/070 Explosive Walker - Accelgor / アギルダー   |   [EN] SWSH3 010/189 Darkness Ablaze (swsh3) - Accelgor
+[JP] S2A 006/070 Explosive Walker - Bounsweet / アマカジ   |   [EN] SWSH3 014/189 Darkness Ablaze (swsh3) - Bounsweet
+[JP] S2A 007/070 Explosive Walker - Steenee / アママイコ   |   [EN] SWSH3 015/189 Darkness Ablaze (swsh3) - Steenee
+[JP] S2A 008/070 Explosive Walker - Tsareena / アマージョ   |   [EN] SWSH3 016/189 Darkness Ablaze (swsh3) - Tsareena
+[JP] S2A 009/070 Explosive Walker - Wimpod / コソクムシ   |   [EN] SWSH3 017/189 Darkness Ablaze (swsh3) - Wimpod
+[JP] S2A 010/070 Explosive Walker - Golisopod / グソクムシャ   |   [EN] SWSH3 018/189 Darkness Ablaze (swsh3) - Golisopod
+[JP] S2A 011/070 Explosive Walker - Heatran / ヒードラン   |   [EN] SWSH3 025/189 Darkness Ablaze (swsh3) - Heatran
+[JP] S2A 012/070 Explosive Walker - Larvesta / メラルバ   |   [EN] SWSH3 029/189 Darkness Ablaze (swsh3) - Larvesta
+[JP] S2A 013/070 Explosive Walker - Volcarona / ウルガモス   |   [EN] SWSH3 030/189 Darkness Ablaze (swsh3) - Volcarona
+[JP] S2A 014/070 Explosive Walker - Fletchinder / ヒノヤコマ   |   [EN] SWSH3 031/189 Darkness Ablaze (swsh3) - Fletchinder
+[JP] S2A 015/070 Explosive Walker - Talonflame / ファイアロー   |   [EN] SWSH3 032/189 Darkness Ablaze (swsh3) - Talonflame
+[JP] S2A 016/070 Explosive Walker - Centiskorch V / マルヤクデV   |   [EN] SWSH3 033/189 Darkness Ablaze (swsh3) - Centiskorch V
+[JP] S2A 017/070 Explosive Walker - Centiskorch VMAX / マルヤクデVMAX   |   [EN] SWSH3 034/189 Darkness Ablaze (swsh3) - Centiskorch VMAX
+[JP] S2A 018/070 Explosive Walker - Galarian Mr. Mime / ガラルバリヤード   |   [EN] SWSH3 035/189 Darkness Ablaze (swsh3) - Galarian Mr. Mime
+[JP] S2A 019/070 Explosive Walker - Galarian Mr. Rime / ガラルバリコオル   |   [EN] SWSH3 036/189 Darkness Ablaze (swsh3) - Galarian Mr. Rime
+[JP] S2A 020/070 Explosive Walker - Feebas / ヒンバス   |   [EN] SWSH3 038/189 Darkness Ablaze (swsh3) - Feebas
+[JP] S2A 021/070 Explosive Walker - Milotic / ミロカロス   |   [EN] SWSH3 039/189 Darkness Ablaze (swsh3) - Milotic
+[JP] S2A 022/070 Explosive Walker - Cubchoo / クマシュン   |   [EN] SWSH3 048/189 Darkness Ablaze (swsh3) - Cubchoo
+[JP] S2A 023/070 Explosive Walker - Beartic / ツンベアー   |   [EN] SWSH3 049/189 Darkness Ablaze (swsh3) - Beartic
+[JP] S2A 024/070 Explosive Walker - Wishiwashi / ヨワシ   |   [EN] SWSH3 050/189 Darkness Ablaze (swsh3) - Wishiwashi
+[JP] S2A 025/070 Explosive Walker - Vikavolt V / クワガノンV   |   [EN] SWSH3 060/189 Darkness Ablaze (swsh3) - Vikavolt V
+[JP] S2A 026/070 Explosive Walker - Toxel / エレズン   |   [EN] SWSH3 062/189 Darkness Ablaze (swsh3) - Toxel
+[JP] S2A 027/070 Explosive Walker - Toxtricity / ストリンダー   |   [EN] SWSH3 063/189 Darkness Ablaze (swsh3) - Toxtricity
+[JP] S2A 028/070 Explosive Walker - Snubbull / ブルー   |   [EN] SWSH3 070/189 Darkness Ablaze (swsh3) - Snubbull
+[JP] S2A 029/070 Explosive Walker - Granbull / グランブル   |   [EN] SWSH3 071/189 Darkness Ablaze (swsh3) - Granbull
+[JP] S2A 032/070 Explosive Walker - Lunatone / ルナトーン   |   [EN] SWSH3 072/189 Darkness Ablaze (swsh3) - Lunatone
+[JP] S2A 033/070 Explosive Walker - Dedenne / デデンネ   |   [EN] SWSH3 078/189 Darkness Ablaze (swsh3) - Dedenne
+[JP] S2A 034/070 Explosive Walker - Morelull / ネマシュ   |   [EN] SWSH3 079/189 Darkness Ablaze (swsh3) - Morelull
+[JP] S2A 035/070 Explosive Walker - Shiinotic / マシェード   |   [EN] SWSH3 080/189 Darkness Ablaze (swsh3) - Shiinotic
+[JP] S2A 036/070 Explosive Walker - Sinistea / ヤバチャ   |   [EN] SWSH3 082/189 Darkness Ablaze (swsh3) - Sinistea
+[JP] S2A 037/070 Explosive Walker - Polteageist / ポットデス   |   [EN] SWSH3 083/189 Darkness Ablaze (swsh3) - Polteageist
+[JP] S2A 038/070 Explosive Walker - Diglett / ディグダ   |   [EN] SWSH3 084/189 Darkness Ablaze (swsh3) - Diglett
+[JP] S2A 039/070 Explosive Walker - Dugtrio / ダグトリオ   |   [EN] SWSH3 085/189 Darkness Ablaze (swsh3) - Dugtrio
+[JP] S2A 040/070 Explosive Walker - Larvitar / ヨーギラス   |   [EN] SWSH3 086/189 Darkness Ablaze (swsh3) - Larvitar
+[JP] S2A 041/070 Explosive Walker - Pupitar / サナギラス   |   [EN] SWSH3 087/189 Darkness Ablaze (swsh3) - Pupitar
+[JP] S2A 042/070 Explosive Walker - Tyranitar / バンギラス   |   [EN] SWSH3 088/189 Darkness Ablaze (swsh3) - Tyranitar
+[JP] S2A 043/070 Explosive Walker - Solrock / ソルロック   |   [EN] SWSH3 092/189 Darkness Ablaze (swsh3) - Solrock
+[JP] S2A 044/070 Explosive Walker - Diggersby / ホルード   |   [EN] SWSH3 096/189 Darkness Ablaze (swsh3) - Diggersby
+[JP] S2A 046/070 Explosive Walker - Grimer / ベトベター   |   [EN] SWSH3 100/189 Darkness Ablaze (swsh3) - Grimer
+[JP] S2A 047/070 Explosive Walker - Muk / ベトベトン   |   [EN] SWSH3 101/189 Darkness Ablaze (swsh3) - Muk
+[JP] S2A 048/070 Explosive Walker - Darkrai / ダークライ   |   [EN] SWSH3 105/189 Darkness Ablaze (swsh3) - Darkrai
+[JP] S2A 049/070 Explosive Walker - Purrloin / チョロネコ   |   [EN] SWSH3 106/189 Darkness Ablaze (swsh3) - Purrloin
+[JP] S2A 050/070 Explosive Walker - Liepard / レパルダス   |   [EN] SWSH3 107/189 Darkness Ablaze (swsh3) - Liepard
+[JP] S2A 051/070 Explosive Walker - Aron / ココドラ   |   [EN] SWSH3 121/189 Darkness Ablaze (swsh3) - Aron
+[JP] S2A 052/070 Explosive Walker - Lairon / コドラ   |   [EN] SWSH3 122/189 Darkness Ablaze (swsh3) - Lairon
+[JP] S2A 053/070 Explosive Walker - Aggron / ボスゴドラ   |   [EN] SWSH3 123/189 Darkness Ablaze (swsh3) - Aggron
+[JP] S2A 054/070 Explosive Walker - Escavalier / シュバルゴ   |   [EN] SWSH3 124/189 Darkness Ablaze (swsh3) - Escavalier
+[JP] S2A 055/070 Explosive Walker - Galarian Stunfisk V / ガラルマッギョV   |   [EN] SWSH3 128/189 Darkness Ablaze (swsh3) - Galarian Stunfisk V
+[JP] S2A 056/070 Explosive Walker - Sentret / オタチ   |   [EN] SWSH3 135/189 Darkness Ablaze (swsh3) - Sentret
+[JP] S2A 057/070 Explosive Walker - Furret / オオタチ   |   [EN] SWSH3 136/189 Darkness Ablaze (swsh3) - Furret
+[JP] S2A 058/070 Explosive Walker - Bunnelby / ホルビー   |   [EN] SWSH3 150/189 Darkness Ablaze (swsh3) - Bunnelby
+[JP] S2A 059/070 Explosive Walker - Fletchling / ヤヤコマ   |   [EN] SWSH3 151/189 Darkness Ablaze (swsh3) - Fletchling
+[JP] S2A 060/070 Explosive Walker - Rookidee / ココガラ   |   [EN] SWSH3 154/189 Darkness Ablaze (swsh3) - Rookidee
+[JP] S2A 061/070 Explosive Walker - Corvisquire / アオガラス   |   [EN] SWSH3 155/189 Darkness Ablaze (swsh3) - Corvisquire
+[JP] S2A 062/070 Explosive Walker - Corviknight / アーマーガア   |   [EN] SWSH3 156/189 Darkness Ablaze (swsh3) - Corviknight
+[JP] S2A 064/070 Explosive Walker - Familiar Bell / そっくりベル   |   [EN] SWSH3 161/189 Darkness Ablaze (swsh3) - Familiar Bell
+[JP] S2A 065/070 Explosive Walker - Old PC / ボロのパソコン   |   [EN] SWSH3 164/189 Darkness Ablaze (swsh3) - Old PC
+[JP] S2A 066/070 Explosive Walker - Big Parasol / ビッグパラソル   |   [EN] SWSH3 157/189 Darkness Ablaze (swsh3) - Big Parasol
+[JP] S2A 067/070 Explosive Walker - Kabu / カブ   |   [EN] SWSH3 163/189 Darkness Ablaze (swsh3) - Kabu
+[JP] S2A 068/070 Explosive Walker - Pokémon Breeder's Nurturing / ポケモンブリーダーの育成   |   [EN] SWSH3 166/189 Darkness Ablaze (swsh3) - Pokémon Breeder's Nurturing
+[JP] S2A 069/070 Explosive Walker - Glimwood Tangle / ルミナスメイズの森   |   [EN] SWSH3 162/189 Darkness Ablaze (swsh3) - Glimwood Tangle
+[JP] S2A 070/070 Explosive Walker - Heat R Energy / ヒート炎エネルギー   |   [EN] SWSH3 174/189 Darkness Ablaze (swsh3) - Heat R Energy
+[JP] S2A 071/070 Explosive Walker - Butterfree V / バタフリーV   |   [EN] SWSH3 177/189 Darkness Ablaze (swsh3) - Butterfree V
+[JP] S2A 072/070 Explosive Walker - Centiskorch V / マルヤクデV   |   [EN] SWSH3 179/189 Darkness Ablaze (swsh3) - Centiskorch V
+[JP] S2A 073/070 Explosive Walker - Vikavolt V / クワガノンV   |   [EN] SWSH3 180/189 Darkness Ablaze (swsh3) - Vikavolt V
+[JP] S2A 076/070 Explosive Walker - Galarian Stunfisk V / ガラルマッギョV   |   [EN] SWSH3 184/189 Darkness Ablaze (swsh3) - Galarian Stunfisk V
+[JP] S2A 077/070 Explosive Walker - Kabu / カブ   |   [EN] SWSH3 186/189 Darkness Ablaze (swsh3) - Kabu
+[JP] S2A 078/070 Explosive Walker - Pokémon Breeder's Nurturing / ポケモンブリーダーの育成   |   [EN] SWSH3 188/189 Darkness Ablaze (swsh3) - Pokémon Breeder's Nurturing
+[JP] S2A 079/070 Explosive Walker - Butterfree VMAX / バタフリーVMAX   |   [EN] SWSH3 190/189 Darkness Ablaze (swsh3) - Butterfree VMAX
+[JP] S2A 080/070 Explosive Walker - Centiskorch VMAX / マルヤクデVMAX   |   [EN] SWSH3 191/189 Darkness Ablaze (swsh3) - Centiskorch VMAX
+[JP] S2A 083/070 Explosive Walker - Pokémon Breeder's Nurturing / ポケモンブリーダーの育成   |   [EN] SWSH3 195/189 Darkness Ablaze (swsh3) - Pokémon Breeder's Nurturing
+[JP] S2A 084/070 Explosive Walker - Rillaboom / ゴリランダー   |   [EN] SWSH3 197/189 Darkness Ablaze (swsh3) - Rillaboom
+[JP] S2A 086/070 Explosive Walker - Big Parasol / ビッグパラソル   |   [EN] SWSH3 199/189 Darkness Ablaze (swsh3) - Big Parasol
+
+==============================================================================
+S2A->swsh3.5   (9 cap)
+==============================================================================
+[JP] S2A 030/070 Explosive Walker - Gardevoir V / サーナイトV   |   [EN] SWSH3.5 016/073 Champion's Path (swsh3.5) - Gardevoir V
+[JP] S2A 031/070 Explosive Walker - Gardevoir VMAX / サーナイトVMAX   |   [EN] SWSH3.5 017/073 Champion's Path (swsh3.5) - Gardevoir VMAX
+[JP] S2A 045/070 Explosive Walker - Grapploct V / オトスパスV   |   [EN] SWSH3.5 032/073 Champion's Path (swsh3.5) - Grapploct V
+[JP] S2A 063/070 Explosive Walker - Suspicious Food Tin / 妖しいカンヅメ   |   [EN] SWSH3.5 066/073 Champion's Path (swsh3.5) - Suspicious Food Tin
+[JP] S2A 074/070 Explosive Walker - Gardevoir V / サーナイトV   |   [EN] SWSH3.5 070/073 Champion's Path (swsh3.5) - Gardevoir V
+[JP] S2A 075/070 Explosive Walker - Grapploct V / オトスパスV   |   [EN] SWSH3.5 072/073 Champion's Path (swsh3.5) - Grapploct V
+[JP] S2A 081/070 Explosive Walker - Gardevoir VMAX / サーナイトVMAX   |   [EN] SWSH3.5 076/073 Champion's Path (swsh3.5) - Gardevoir VMAX
+[JP] S2A 082/070 Explosive Walker - Kabu / カブ   |   [EN] SWSH3.5 077/073 Champion's Path (swsh3.5) - Kabu
+[JP] S2A 085/070 Explosive Walker - Suspicious Food Tin / 妖しいカンヅメ   |   [EN] SWSH3.5 080/073 Champion's Path (swsh3.5) - Suspicious Food Tin
+
+==============================================================================
+S5A->swsh6   (72 cap)
+==============================================================================
+[JP] S5A 001/070 Peerless Fighters - Weedle / ビードル   |   [EN] SWSH6 001/198 Chilling Reign (swsh6) - Weedle
+[JP] S5A 002/070 Peerless Fighters - Kakuna / コクーン   |   [EN] SWSH6 002/198 Chilling Reign (swsh6) - Kakuna
+[JP] S5A 003/070 Peerless Fighters - Beedrill / スピアー   |   [EN] SWSH6 003/198 Chilling Reign (swsh6) - Beedrill
+[JP] S5A 004/070 Peerless Fighters - Heracross / ヘラクロス   |   [EN] SWSH6 006/198 Chilling Reign (swsh6) - Heracross
+[JP] S5A 007/070 Peerless Fighters - Blaziken V / バシャーモV   |   [EN] SWSH6 020/198 Chilling Reign (swsh6) - Blaziken V
+[JP] S5A 008/070 Peerless Fighters - Blaziken VMAX / バシャーモVMAX   |   [EN] SWSH6 021/198 Chilling Reign (swsh6) - Blaziken VMAX
+[JP] S5A 009/070 Peerless Fighters - Larvesta / メラルバ   |   [EN] SWSH6 023/198 Chilling Reign (swsh6) - Larvesta
+[JP] S5A 010/070 Peerless Fighters - Volcarona / ウルガモス   |   [EN] SWSH6 024/198 Chilling Reign (swsh6) - Volcarona
+[JP] S5A 013/070 Peerless Fighters - Delibird / デリバード   |   [EN] SWSH6 032/198 Chilling Reign (swsh6) - Delibird
+[JP] S5A 016/070 Peerless Fighters - Sobble / メッソン   |   [EN] SWSH6 041/198 Chilling Reign (swsh6) - Sobble
+[JP] S5A 017/070 Peerless Fighters - Drizzile / ジメレオン   |   [EN] SWSH6 042/198 Chilling Reign (swsh6) - Drizzile
+[JP] S5A 018/070 Peerless Fighters - Inteleon / インテレオン   |   [EN] SWSH6 043/198 Chilling Reign (swsh6) - Inteleon
+[JP] S5A 019/070 Peerless Fighters - Rapid Strike Urshifu / れんげきウーラオス   |   [EN] SWSH6 044/198 Chilling Reign (swsh6) - Rapid Strike Urshifu
+[JP] S5A 022/070 Peerless Fighters - Thundurus / ボルトロス   |   [EN] SWSH6 052/198 Chilling Reign (swsh6) - Thundurus
+[JP] S5A 025/070 Peerless Fighters - Galarian Articuno V / ガラルフリーザーV   |   [EN] SWSH6 058/198 Chilling Reign (swsh6) - Galarian Articuno V
+[JP] S5A 028/070 Peerless Fighters - Swirlix / ペロッパフ   |   [EN] SWSH6 067/198 Chilling Reign (swsh6) - Swirlix
+[JP] S5A 029/070 Peerless Fighters - Slurpuff / ペロリーム   |   [EN] SWSH6 068/198 Chilling Reign (swsh6) - Slurpuff
+[JP] S5A 030/070 Peerless Fighters - Hatenna / ミブリム   |   [EN] SWSH6 071/198 Chilling Reign (swsh6) - Hatenna
+[JP] S5A 031/070 Peerless Fighters - Hattrem / テブリム   |   [EN] SWSH6 072/198 Chilling Reign (swsh6) - Hattrem
+[JP] S5A 032/070 Peerless Fighters - Hatterene / ブリムオン   |   [EN] SWSH6 073/198 Chilling Reign (swsh6) - Hatterene
+[JP] S5A 033/070 Peerless Fighters - Diglett / ディグダ   |   [EN] SWSH6 076/198 Chilling Reign (swsh6) - Diglett
+[JP] S5A 034/070 Peerless Fighters - Dugtrio / ダグトリオ   |   [EN] SWSH6 077/198 Chilling Reign (swsh6) - Dugtrio
+[JP] S5A 035/070 Peerless Fighters - Galarian Farfetch'd / ガラルカモネギ   |   [EN] SWSH6 078/198 Chilling Reign (swsh6) - Galarian Farfetch'd
+[JP] S5A 036/070 Peerless Fighters - Galarian Sirfetch'd / ガラルネギガナイト   |   [EN] SWSH6 079/198 Chilling Reign (swsh6) - Galarian Sirfetch'd
+[JP] S5A 037/070 Peerless Fighters - Galarian Zapdos V / ガラルサンダーV   |   [EN] SWSH6 080/198 Chilling Reign (swsh6) - Galarian Zapdos V
+[JP] S5A 041/070 Peerless Fighters - Galarian Yamask / ガラルデスマス   |   [EN] SWSH6 082/198 Chilling Reign (swsh6) - Galarian Yamask
+[JP] S5A 042/070 Peerless Fighters - Galarian Runerigus / ガラルデスバーン   |   [EN] SWSH6 083/198 Chilling Reign (swsh6) - Galarian Runerigus
+[JP] S5A 043/070 Peerless Fighters - Passimian / ナゲツケサル   |   [EN] SWSH6 088/198 Chilling Reign (swsh6) - Passimian
+[JP] S5A 044/070 Peerless Fighters - Kubfu / ダクマ   |   [EN] SWSH6 093/198 Chilling Reign (swsh6) - Kubfu
+[JP] S5A 045/070 Peerless Fighters - Galarian Moltres V / ガラルファイヤーV   |   [EN] SWSH6 097/198 Chilling Reign (swsh6) - Galarian Moltres V
+[JP] S5A 046/070 Peerless Fighters - Galarian Slowking V / ガラルヤドキングV   |   [EN] SWSH6 099/198 Chilling Reign (swsh6) - Galarian Slowking V
+[JP] S5A 047/070 Peerless Fighters - Galarian Slowking VMAX / ガラルヤドキングVMAX   |   [EN] SWSH6 100/198 Chilling Reign (swsh6) - Galarian Slowking VMAX
+[JP] S5A 048/070 Peerless Fighters - Seviper / ハブネーク   |   [EN] SWSH6 102/198 Chilling Reign (swsh6) - Seviper
+[JP] S5A 049/070 Peerless Fighters - Spiritomb / ミカルゲ   |   [EN] SWSH6 103/198 Chilling Reign (swsh6) - Spiritomb
+[JP] S5A 050/070 Peerless Fighters - Venipede / フシデ   |   [EN] SWSH6 105/198 Chilling Reign (swsh6) - Venipede
+[JP] S5A 051/070 Peerless Fighters - Whirlipede / ホイーガ   |   [EN] SWSH6 106/198 Chilling Reign (swsh6) - Whirlipede
+[JP] S5A 052/070 Peerless Fighters - Scolipede / ペンドラー   |   [EN] SWSH6 107/198 Chilling Reign (swsh6) - Scolipede
+[JP] S5A 055/070 Peerless Fighters - Single Strike Urshifu / いちげきウーラオス   |   [EN] SWSH6 108/198 Chilling Reign (swsh6) - Single Strike Urshifu
+[JP] S5A 056/070 Peerless Fighters - Zangoose / ザングース   |   [EN] SWSH6 120/198 Chilling Reign (swsh6) - Zangoose
+[JP] S5A 057/070 Peerless Fighters - Shaymin / シェイミ   |   [EN] SWSH6 123/198 Chilling Reign (swsh6) - Shaymin
+[JP] S5A 063/070 Peerless Fighters - Welcoming Lantern / おむかえちょうちん   |   [EN] SWSH6 156/198 Chilling Reign (swsh6) - Welcoming Lantern
+[JP] S5A 064/070 Peerless Fighters - Echoing Horn / やまびこホーン   |   [EN] SWSH6 136/198 Chilling Reign (swsh6) - Echoing Horn
+[JP] S5A 065/070 Peerless Fighters - Galarian Chestplate / ガラルのむねあて   |   [EN] SWSH6 141/198 Chilling Reign (swsh6) - Galarian Chestplate
+[JP] S5A 066/070 Peerless Fighters - Karen's Conviction / カリンの信念   |   [EN] SWSH6 144/198 Chilling Reign (swsh6) - Karen's Conviction
+[JP] S5A 067/070 Peerless Fighters - Klara / クララ   |   [EN] SWSH6 145/198 Chilling Reign (swsh6) - Klara
+[JP] S5A 068/070 Peerless Fighters - Avery / セイボリー   |   [EN] SWSH6 130/198 Chilling Reign (swsh6) - Avery
+[JP] S5A 069/070 Peerless Fighters - Brawly / トウキ   |   [EN] SWSH6 131/198 Chilling Reign (swsh6) - Brawly
+[JP] S5A 070/070 Peerless Fighters - Dyna Tree Hill / ダイ木の丘   |   [EN] SWSH6 135/198 Chilling Reign (swsh6) - Dyna Tree Hill
+[JP] S5A 071/070 Peerless Fighters - Blaziken V / バシャーモV   |   [EN] SWSH6 161/198 Chilling Reign (swsh6) - Blaziken V
+[JP] S5A 073/070 Peerless Fighters - Galarian Articuno V / ガラルフリーザーV   |   [EN] SWSH6 169/198 Chilling Reign (swsh6) - Galarian Articuno V
+[JP] S5A 074/070 Peerless Fighters - Galarian Articuno V / ガラルフリーザーV   |   [EN] SWSH6 170/198 Chilling Reign (swsh6) - Galarian Articuno V
+[JP] S5A 075/070 Peerless Fighters - Galarian Zapdos V / ガラルサンダーV   |   [EN] SWSH6 173/198 Chilling Reign (swsh6) - Galarian Zapdos V
+[JP] S5A 076/070 Peerless Fighters - Galarian Zapdos V / ガラルサンダーV   |   [EN] SWSH6 174/198 Chilling Reign (swsh6) - Galarian Zapdos V
+[JP] S5A 077/070 Peerless Fighters - Galarian Moltres V / ガラルファイヤーV   |   [EN] SWSH6 176/198 Chilling Reign (swsh6) - Galarian Moltres V
+[JP] S5A 078/070 Peerless Fighters - Galarian Moltres V / ガラルファイヤーV   |   [EN] SWSH6 177/198 Chilling Reign (swsh6) - Galarian Moltres V
+[JP] S5A 079/070 Peerless Fighters - Galarian Slowking V / ガラルヤドキングV   |   [EN] SWSH6 178/198 Chilling Reign (swsh6) - Galarian Slowking V
+[JP] S5A 080/070 Peerless Fighters - Galarian Slowking V / ガラルヤドキングV   |   [EN] SWSH6 179/198 Chilling Reign (swsh6) - Galarian Slowking V
+[JP] S5A 081/070 Peerless Fighters - Karen's Conviction / カリンの信念   |   [EN] SWSH6 193/198 Chilling Reign (swsh6) - Karen's Conviction
+[JP] S5A 082/070 Peerless Fighters - Klara / クララ   |   [EN] SWSH6 194/198 Chilling Reign (swsh6) - Klara
+[JP] S5A 083/070 Peerless Fighters - Avery / セイボリー   |   [EN] SWSH6 187/198 Chilling Reign (swsh6) - Avery
+[JP] S5A 084/070 Peerless Fighters - Brawly / トウキ   |   [EN] SWSH6 188/198 Chilling Reign (swsh6) - Brawly
+[JP] S5A 085/070 Peerless Fighters - Blaziken VMAX / バシャーモVMAX   |   [EN] SWSH6 200/198 Chilling Reign (swsh6) - Blaziken VMAX
+[JP] S5A 086/070 Peerless Fighters - Blaziken VMAX / バシャーモVMAX   |   [EN] SWSH6 201/198 Chilling Reign (swsh6) - Blaziken VMAX
+[JP] S5A 088/070 Peerless Fighters - Galarian Slowking VMAX / ガラルヤドキングVMAX   |   [EN] SWSH6 207/198 Chilling Reign (swsh6) - Galarian Slowking VMAX
+[JP] S5A 089/070 Peerless Fighters - Karen's Conviction / カリンの信念   |   [EN] SWSH6 216/198 Chilling Reign (swsh6) - Karen's Conviction
+[JP] S5A 090/070 Peerless Fighters - Klara / クララ   |   [EN] SWSH6 217/198 Chilling Reign (swsh6) - Klara
+[JP] S5A 091/070 Peerless Fighters - Avery / セイボリー   |   [EN] SWSH6 211/198 Chilling Reign (swsh6) - Avery
+[JP] S5A 092/070 Peerless Fighters - Brawly / トウキ   |   [EN] SWSH6 212/198 Chilling Reign (swsh6) - Brawly
+[JP] S5A 093/070 Peerless Fighters - Snorlax / カビゴン   |   [EN] SWSH6 224/198 Chilling Reign (swsh6) - Snorlax
+[JP] S5A 094/070 Peerless Fighters - Fan of Waves / うねりの扇   |   [EN] SWSH6 226/198 Chilling Reign (swsh6) - Fan of Waves
+[JP] S5A 095/070 Peerless Fighters - Urn of Vitality / 活力の壺   |   [EN] SWSH6 229/198 Chilling Reign (swsh6) - Urn of Vitality
+[JP] S5A 096/070 Peerless Fighters - Basic Fighting Energy / 基本闘エネルギー   |   [EN] SWSH6 233/198 Chilling Reign (swsh6) - Basic Fighting Energy
+
+==============================================================================
+S5A->swsh7   (24 cap)
+==============================================================================
+[JP] S5A 005/070 Peerless Fighters - Petilil / チュリネ   |   [EN] SWSH7 009/203 Evolving Skies (swsh7) - Petilil
+[JP] S5A 006/070 Peerless Fighters - Lilligant / ドレディア   |   [EN] SWSH7 010/203 Evolving Skies (swsh7) - Lilligant
+[JP] S5A 011/070 Peerless Fighters - Tentacool / メノクラゲ   |   [EN] SWSH7 026/203 Evolving Skies (swsh7) - Tentacool
+[JP] S5A 012/070 Peerless Fighters - Tentacruel / ドククラゲ   |   [EN] SWSH7 027/203 Evolving Skies (swsh7) - Tentacruel
+[JP] S5A 014/070 Peerless Fighters - Carvanha / キバニア   |   [EN] SWSH7 035/203 Evolving Skies (swsh7) - Carvanha
+[JP] S5A 015/070 Peerless Fighters - Sharpedo / サメハダー   |   [EN] SWSH7 036/203 Evolving Skies (swsh7) - Sharpedo
+[JP] S5A 020/070 Peerless Fighters - Chinchou / チョンチー   |   [EN] SWSH7 052/203 Evolving Skies (swsh7) - Chinchou
+[JP] S5A 021/070 Peerless Fighters - Lanturn / ランターン   |   [EN] SWSH7 053/203 Evolving Skies (swsh7) - Lanturn
+[JP] S5A 023/070 Peerless Fighters - Dracozolt V / パッチラゴンV   |   [EN] SWSH7 058/203 Evolving Skies (swsh7) - Dracozolt V
+[JP] S5A 024/070 Peerless Fighters - Dracozolt VMAX / パッチラゴンVMAX   |   [EN] SWSH7 059/203 Evolving Skies (swsh7) - Dracozolt VMAX
+[JP] S5A 026/070 Peerless Fighters - Woobat / コロモリ   |   [EN] SWSH7 068/203 Evolving Skies (swsh7) - Woobat
+[JP] S5A 027/070 Peerless Fighters - Swoobat / ココロモリ   |   [EN] SWSH7 069/203 Evolving Skies (swsh7) - Swoobat
+[JP] S5A 038/070 Peerless Fighters - Roggenrola / ダンゴロ   |   [EN] SWSH7 086/203 Evolving Skies (swsh7) - Roggenrola
+[JP] S5A 039/070 Peerless Fighters - Boldore / ガントル   |   [EN] SWSH7 087/203 Evolving Skies (swsh7) - Boldore
+[JP] S5A 040/070 Peerless Fighters - Gigalith / ギガイアス   |   [EN] SWSH7 088/203 Evolving Skies (swsh7) - Gigalith
+[JP] S5A 053/070 Peerless Fighters - Scraggy / ズルッグ   |   [EN] SWSH7 098/203 Evolving Skies (swsh7) - Scraggy
+[JP] S5A 054/070 Peerless Fighters - Scrafty / ズルズキン   |   [EN] SWSH7 099/203 Evolving Skies (swsh7) - Scrafty
+[JP] S5A 058/070 Peerless Fighters - Lillipup / ヨーテリー   |   [EN] SWSH7 133/203 Evolving Skies (swsh7) - Lillipup
+[JP] S5A 059/070 Peerless Fighters - Herdier / ハーデリア   |   [EN] SWSH7 134/203 Evolving Skies (swsh7) - Herdier
+[JP] S5A 060/070 Peerless Fighters - Stoutland / ムーランド   |   [EN] SWSH7 135/203 Evolving Skies (swsh7) - Stoutland
+[JP] S5A 061/070 Peerless Fighters - Rufflet / ワシボン   |   [EN] SWSH7 136/203 Evolving Skies (swsh7) - Rufflet
+[JP] S5A 062/070 Peerless Fighters - Braviary / ウォーグル   |   [EN] SWSH7 137/203 Evolving Skies (swsh7) - Braviary
+[JP] S5A 072/070 Peerless Fighters - Dracozolt V / パッチラゴンV   |   [EN] SWSH7 178/203 Evolving Skies (swsh7) - Dracozolt V
+[JP] S5A 087/070 Peerless Fighters - Dracozolt VMAX / パッチラゴンVMAX   |   [EN] SWSH7 210/203 Evolving Skies (swsh7) - Dracozolt VMAX
+

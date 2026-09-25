@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "note": "Source keys dropped from the published index. Each entry records why.",
+  "sourceKeys": [
+    {
+      "sourceKey": "en:SM10:UNBROKEN_BONDS:47/214",
+      "reason": "Bulbapedia lists jpcardno 026/095 for Unbroken Bonds 47 Kingler, but TCGdex SM10-026 is Krabby (クラブ, hp 70). The pairing is wrong, so the record is dropped."
+    },
+    {
+      "sourceKey": "en:SM2:GUARDIANS_RISING:36/145",
+      "reason": "Bulbapedia lists jpcardno 011/050 (Alolan Moonlight) for Guardians Rising 36 Alomomola, but TCGdex SM2L-011 is Wailord (ホエルオー, hp 200); Alomomola is SM2L-012. Found by the 2026-09-19 sample review."
+    },
+    {
+      "sourceKey": "en:SM3:BURNING_SHADOWS:168/147",
+      "reason": "Bulbapedia lists jpcardno 066/049 (Facing a New Trial) for Burning Shadows 168 Basic Darkness Energy, but TCGdex's SM2p has 65 cards (highest local id 065), so the number does not exist. Found by the 2026-09-19 sample review."
+    },
+    {
+      "sourceKey": "en:SM1:SUN_MOON:93/149",
+      "reason": "Bulbapedia lists jpcardno 043/060 (Collection Sun) for Sun & Moon 93 Ribombee, but TCGdex SM1S-043 is Kangaskhan (ガルーラ, hp 130); Ribombee is SM1S-042. Found by the 2026-09-22 full validation pass."
+    },
+    {
+      "sourceKey": "en:SM2:GUARDIANS_RISING:168/145",
+      "reason": "Bulbapedia lists jpcardno 062/050 (Islands Await You) for Guardians Rising 168 Basic Lightning Energy, but TCGdex's SM2K has 61 cards in total (highest local id 061), so the number does not exist. Found by the 2026-09-22 full validation pass."
+    },
+    {
+      "sourceKey": "en:SM4:CRIMSON_INVASION:124/111",
+      "reason": "Bulbapedia lists jpcardno 062/050 (Ultradimensional Beasts) for Crimson Invasion 124 Basic Water Energy, but TCGdex's SM4A has 61 cards in total (highest local id 061), so the number does not exist. Found by the 2026-09-22 full validation pass."
+    }
+  ]
+}

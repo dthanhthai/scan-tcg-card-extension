@@ -1,0 +1,2483 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "jpSetCode": "EXSD",
+      "enSetId": "sv03",
+      "cardCount": 54,
+      "sourceSetNames": [
+        "ex Start Decks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "EXSS",
+      "enSetId": "sv01",
+      "cardCount": 15,
+      "sourceSetNames": [
+        "ex Starter Sets"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "EXSS-MARNIE",
+      "enSetId": "sv10",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "ex Starter Set Marnie's Morpeko & Grimmsnarl ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "EXSS-MARNIE",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "ex Starter Set Marnie's Morpeko & Grimmsnarl ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "EXSS-PIKACHU",
+      "enSetId": "sv02",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "ex Starter Set Pikachu ex & Pawmot"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "EXSS-STEVEN",
+      "enSetId": "sv10",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "ex Starter Set Steven's Beldum & Metagross ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "EXSS-STEVEN",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "ex Starter Set Steven's Beldum & Metagross ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-DIALGA",
+      "enSetId": "sv08.5",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "Generations Start Deck Dialga ex & Lucario ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-KORAIDON",
+      "enSetId": "sv09",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "Generations Start Deck Koraidon ex & Paldean Clodsire ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-KYOGRE",
+      "enSetId": "sv09",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "Generations Start Deck Kyogre ex & Blaziken ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-KYOGRE",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Generations Start Deck Kyogre ex & Blaziken ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-LUGIA",
+      "enSetId": "sv08.5",
+      "cardCount": 13,
+      "sourceSetNames": [
+        "Generations Start Deck Lugia ex & Tyranitar ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-PIKACHU",
+      "enSetId": "sv08.5",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "Generations Start Deck Pikachu ex & Snorlax ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-RESHIRAM",
+      "enSetId": "sv09",
+      "cardCount": 13,
+      "sourceSetNames": [
+        "Generations Start Deck Reshiram ex & Amoonguss ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-TAPUKOKO",
+      "enSetId": "sv09",
+      "cardCount": 11,
+      "sourceSetNames": [
+        "Generations Start Deck Tapu Koko ex & Mimikyu ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-TAPUKOKO",
+      "enSetId": "svp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Generations Start Deck Tapu Koko ex & Mimikyu ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-XERNEAS",
+      "enSetId": "sv08.5",
+      "cardCount": 11,
+      "sourceSetNames": [
+        "Generations Start Deck Xerneas ex & Noivern ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-ZACIAN",
+      "enSetId": "sv09",
+      "cardCount": 11,
+      "sourceSetNames": [
+        "Generations Start Deck Zacian ex & Alcremie ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "GSD-ZACIAN",
+      "enSetId": "svp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Generations Start Deck Zacian ex & Alcremie ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MC",
+      "enSetId": "me02.5",
+      "cardCount": 31,
+      "sourceSetNames": [
+        "Start Deck 100 Battle Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MC",
+      "enSetId": "me03",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Start Deck 100 Battle Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "MC",
+      "enSetId": "svp",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "Start Deck 100 Battle Collection"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME02.5",
+      "enSetId": "MC",
+      "cardCount": 31,
+      "sourceSetNames": [
+        "Ascended Heroes"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ME03",
+      "enSetId": "MC",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Perfect Order"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "PCGBA",
+      "enSetId": "sv06",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Pokémon Card Game Battle Academy"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "PCGBA",
+      "enSetId": "sv07",
+      "cardCount": 35,
+      "sourceSetNames": [
+        "Pokémon Card Game Battle Academy"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SD100",
+      "enSetId": "swsh9",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Start Deck 100"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SDBS-KORAIDON",
+      "enSetId": "sv05",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "Ancient Koraidon ex Starter Deck & Build Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SDBS-MIRAIDON",
+      "enSetId": "sv05",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "Future Miraidon ex Starter Deck & Build Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SDS-KANTO",
+      "enSetId": "sv07",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Venusaur & Charizard & Blastoise Special Deck Set ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SDS-KANTO",
+      "enSetId": "svp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Venusaur & Charizard & Blastoise Special Deck Set ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "STTS",
+      "enSetId": "sv08",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "Stellar Tera Type Starter Sets"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "me01",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "me02",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "me02.5",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "mep",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv01",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv03",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv04.5",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv05",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv06",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv07",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv08",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv08.5",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv09",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv10",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "sv10.5b",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV-P",
+      "enSetId": "svp",
+      "cardCount": 59,
+      "sourceSetNames": [
+        "SV-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV01",
+      "enSetId": "SV1S",
+      "cardCount": 108,
+      "sourceSetNames": [
+        "Scarlet & Violet"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV01",
+      "enSetId": "SV1V",
+      "cardCount": 108,
+      "sourceSetNames": [
+        "Scarlet & Violet"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV02",
+      "enSetId": "SV1a",
+      "cardCount": 89,
+      "sourceSetNames": [
+        "Paldea Evolved"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV02",
+      "enSetId": "SV2D",
+      "cardCount": 90,
+      "sourceSetNames": [
+        "Paldea Evolved"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV02",
+      "enSetId": "SV2P",
+      "cardCount": 88,
+      "sourceSetNames": [
+        "Paldea Evolved"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV02",
+      "enSetId": "SV3",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Paldea Evolved"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV03",
+      "enSetId": "SV1a",
+      "cardCount": 14,
+      "sourceSetNames": [
+        "Obsidian Flames"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV03",
+      "enSetId": "SV2D",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Obsidian Flames"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV03",
+      "enSetId": "SV2P",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "Obsidian Flames"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV03",
+      "enSetId": "SV3",
+      "cardCount": 139,
+      "sourceSetNames": [
+        "Obsidian Flames"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV03.5",
+      "enSetId": "SV2a",
+      "cardCount": 207,
+      "sourceSetNames": [
+        "151"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV04",
+      "enSetId": "SV3a",
+      "cardCount": 80,
+      "sourceSetNames": [
+        "Paradox Rift"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV04",
+      "enSetId": "SV4K",
+      "cardCount": 86,
+      "sourceSetNames": [
+        "Paradox Rift"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV04",
+      "enSetId": "SV4M",
+      "cardCount": 92,
+      "sourceSetNames": [
+        "Paradox Rift"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV04.5",
+      "enSetId": "SV3a",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "Paldean Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV04.5",
+      "enSetId": "SV4K",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "Paldean Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV04.5",
+      "enSetId": "SV4M",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Paldean Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV05",
+      "enSetId": "SV5K",
+      "cardCount": 99,
+      "sourceSetNames": [
+        "Temporal Forces"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV05",
+      "enSetId": "SV5M",
+      "cardCount": 99,
+      "sourceSetNames": [
+        "Temporal Forces"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV06",
+      "enSetId": "SV5a",
+      "cardCount": 94,
+      "sourceSetNames": [
+        "Twilight Masquerade"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV06",
+      "enSetId": "SV6",
+      "cardCount": 130,
+      "sourceSetNames": [
+        "Twilight Masquerade"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV06.5",
+      "enSetId": "SV4K",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Shrouded Fable"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV06.5",
+      "enSetId": "SV4M",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Shrouded Fable"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV06.5",
+      "enSetId": "SV6",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Shrouded Fable"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV06.5",
+      "enSetId": "SV6a",
+      "cardCount": 94,
+      "sourceSetNames": [
+        "Shrouded Fable"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV07",
+      "enSetId": "SV7",
+      "cardCount": 133,
+      "sourceSetNames": [
+        "Stellar Crown"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV08",
+      "enSetId": "SV7a",
+      "cardCount": 94,
+      "sourceSetNames": [
+        "Surging Sparks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV08",
+      "enSetId": "SV8",
+      "cardCount": 136,
+      "sourceSetNames": [
+        "Surging Sparks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV08.5",
+      "enSetId": "SV8a",
+      "cardCount": 131,
+      "sourceSetNames": [
+        "Prismatic Evolutions"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV09",
+      "enSetId": "SV9",
+      "cardCount": 131,
+      "sourceSetNames": [
+        "Journey Together"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV10",
+      "enSetId": "sv10",
+      "cardCount": 131,
+      "sourceSetNames": [
+        "Glory of the Rocket Gang"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV10",
+      "enSetId": "SV10",
+      "cardCount": 131,
+      "sourceSetNames": [
+        "Destined Rivals"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV10",
+      "enSetId": "SV9a",
+      "cardCount": 90,
+      "sourceSetNames": [
+        "Destined Rivals"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV10",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Glory of the Rocket Gang"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV11B",
+      "enSetId": "sv10.5b",
+      "cardCount": 161,
+      "sourceSetNames": [
+        "Black Bolt"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV11B",
+      "enSetId": "sv10.5w",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "Black Bolt"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV11B",
+      "enSetId": "SV11B",
+      "cardCount": 161,
+      "sourceSetNames": [
+        "Black Bolt"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV11B",
+      "enSetId": "SV11W",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "Black Bolt"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV11B",
+      "enSetId": "svp",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Black Bolt"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV11W",
+      "enSetId": "sv10.5b",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "White Flare"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV11W",
+      "enSetId": "sv10.5w",
+      "cardCount": 162,
+      "sourceSetNames": [
+        "White Flare"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV11W",
+      "enSetId": "SV11B",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "White Flare"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV11W",
+      "enSetId": "SV11W",
+      "cardCount": 162,
+      "sourceSetNames": [
+        "White Flare"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV11W",
+      "enSetId": "svp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "White Flare"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV1A",
+      "enSetId": "sv02",
+      "cardCount": 89,
+      "sourceSetNames": [
+        "Triplet Beat"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV1A",
+      "enSetId": "sv03",
+      "cardCount": 14,
+      "sourceSetNames": [
+        "Triplet Beat"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV1S",
+      "enSetId": "sv01",
+      "cardCount": 108,
+      "sourceSetNames": [
+        "Scarlet ex"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV1V",
+      "enSetId": "sv01",
+      "cardCount": 108,
+      "sourceSetNames": [
+        "Violet ex"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV2A",
+      "enSetId": "sv03.5",
+      "cardCount": 207,
+      "sourceSetNames": [
+        "Pokémon Card 151"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV2A",
+      "enSetId": "svp",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Pokémon Card 151"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV2D",
+      "enSetId": "sv02",
+      "cardCount": 90,
+      "sourceSetNames": [
+        "Clay Burst"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV2D",
+      "enSetId": "sv03",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "Clay Burst"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV2D",
+      "enSetId": "svp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Clay Burst"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV2P",
+      "enSetId": "sv02",
+      "cardCount": 88,
+      "sourceSetNames": [
+        "Snow Hazard"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV2P",
+      "enSetId": "sv03",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "Snow Hazard"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV2P",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Snow Hazard"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV3",
+      "enSetId": "sv03",
+      "cardCount": 139,
+      "sourceSetNames": [
+        "Ruler of the Black Flame"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV3",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Ruler of the Black Flame"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV3A",
+      "enSetId": "sv04",
+      "cardCount": 80,
+      "sourceSetNames": [
+        "Raging Surf"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV3A",
+      "enSetId": "sv04.5",
+      "cardCount": 10,
+      "sourceSetNames": [
+        "Raging Surf"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV4A",
+      "enSetId": "sv04.5",
+      "cardCount": 209,
+      "sourceSetNames": [
+        "Shiny Treasure ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV4A",
+      "enSetId": "svp",
+      "cardCount": 32,
+      "sourceSetNames": [
+        "Shiny Treasure ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV4K",
+      "enSetId": "sv04",
+      "cardCount": 86,
+      "sourceSetNames": [
+        "Ancient Roar"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV4K",
+      "enSetId": "sv04.5",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "Ancient Roar"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV4K",
+      "enSetId": "sv06.5",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Ancient Roar"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV4K",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Ancient Roar"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV4M",
+      "enSetId": "sv04",
+      "cardCount": 92,
+      "sourceSetNames": [
+        "Future Flash"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV4M",
+      "enSetId": "sv04.5",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Future Flash"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV4M",
+      "enSetId": "sv06.5",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Future Flash"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV4M",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Future Flash"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV5A",
+      "enSetId": "sv06",
+      "cardCount": 94,
+      "sourceSetNames": [
+        "Crimson Haze"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV5K",
+      "enSetId": "sv05",
+      "cardCount": 99,
+      "sourceSetNames": [
+        "Wild Force"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV5K",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Wild Force"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV5M",
+      "enSetId": "sv05",
+      "cardCount": 99,
+      "sourceSetNames": [
+        "Cyber Judge"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV5M",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Cyber Judge"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV6",
+      "enSetId": "sv06",
+      "cardCount": 130,
+      "sourceSetNames": [
+        "Transformation Mask"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV6",
+      "enSetId": "sv06.5",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Transformation Mask"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV6A",
+      "enSetId": "sv06.5",
+      "cardCount": 94,
+      "sourceSetNames": [
+        "Night Wanderer"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV7",
+      "enSetId": "sv07",
+      "cardCount": 133,
+      "sourceSetNames": [
+        "Stellar Miracle"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV7",
+      "enSetId": "svp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Stellar Miracle"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV7A",
+      "enSetId": "sv08",
+      "cardCount": 94,
+      "sourceSetNames": [
+        "Paradise Dragona"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV8",
+      "enSetId": "sv08",
+      "cardCount": 136,
+      "sourceSetNames": [
+        "Super Electric Breaker"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV8",
+      "enSetId": "svp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Super Electric Breaker"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV8A",
+      "enSetId": "sv08.5",
+      "cardCount": 131,
+      "sourceSetNames": [
+        "Terastal Fest ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV8A",
+      "enSetId": "svp",
+      "cardCount": 28,
+      "sourceSetNames": [
+        "Terastal Fest ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV9",
+      "enSetId": "sv09",
+      "cardCount": 131,
+      "sourceSetNames": [
+        "Battle Partners"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SV9",
+      "enSetId": "svp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Battle Partners"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SV9A",
+      "enSetId": "sv10",
+      "cardCount": 90,
+      "sourceSetNames": [
+        "Hot Wind Arena"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "MC",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV10",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV11B",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV11W",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV2a",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV2D",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV2P",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV3",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV4K",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV4M",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV5K",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV5M",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV7",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV8",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV8a",
+      "cardCount": 28,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SVP",
+      "enSetId": "SV9",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SVP Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "TSS-MEWTWO",
+      "enSetId": "sv04",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Terastal Starter Set Mewtwo ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "TSS-MEWTWO",
+      "enSetId": "sv04.5",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "Terastal Starter Set Mewtwo ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "TSS-SKELEDIRGE",
+      "enSetId": "sv04",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Terastal Starter Set Skeledirge ex"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "TSS-SKELEDIRGE",
+      "enSetId": "sv04.5",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Terastal Starter Set Skeledirge ex"
+      ],
+      "expectedByRuntimeMap": false
+    }
+  ],
+  "setCodes": [
+    {
+      "jpSetCode": "EXSD",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv03"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv03"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "EXSS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv01"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv01"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "EXSS-MARNIE",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv10",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv10",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "EXSS-PIKACHU",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv02"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv02"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "EXSS-STEVEN",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv10",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv10",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-DIALGA",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv08.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv08.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-KORAIDON",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv09"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv09"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-KYOGRE",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv09",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv09",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-LUGIA",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv08.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv08.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-PIKACHU",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv08.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv08.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-RESHIRAM",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv09"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv09"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-TAPUKOKO",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv09",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv09",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-XERNEAS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv08.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv08.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "GSD-ZACIAN",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv09",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv09",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "MC",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "me02.5",
+        "me03",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "me02.5",
+        "me03",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "ME02.5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "MC"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "MC"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "ME03",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "MC"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "MC"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "PCGBA",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv06",
+        "sv07"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv06",
+        "sv07"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SD100",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "swsh9"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "swsh9"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SDBS-KORAIDON",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv05"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv05"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SDBS-MIRAIDON",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv05"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv05"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SDS-KANTO",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv07",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv07",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "STTS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv08"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv08"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV-P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "me01",
+        "me02",
+        "me02.5",
+        "mep",
+        "sv01",
+        "sv03",
+        "sv04.5",
+        "sv05",
+        "sv06",
+        "sv07",
+        "sv08",
+        "sv08.5",
+        "sv09",
+        "sv10",
+        "sv10.5b",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "me01",
+        "me02",
+        "me02.5",
+        "mep",
+        "sv01",
+        "sv03",
+        "sv04.5",
+        "sv05",
+        "sv06",
+        "sv07",
+        "sv08",
+        "sv08.5",
+        "sv09",
+        "sv10",
+        "sv10.5b",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV01",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV1S",
+        "SV1V"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV1S",
+        "SV1V"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV02",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV1a",
+        "SV2D",
+        "SV2P",
+        "SV3"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV1a",
+        "SV2D",
+        "SV2P",
+        "SV3"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV03",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV1a",
+        "SV2D",
+        "SV2P",
+        "SV3"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV1a",
+        "SV2D",
+        "SV2P",
+        "SV3"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV03.5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV2a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV2a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV04",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV3a",
+        "SV4K",
+        "SV4M"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV3a",
+        "SV4K",
+        "SV4M"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV04.5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV3a",
+        "SV4K",
+        "SV4M"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV3a",
+        "SV4K",
+        "SV4M"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV05",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV5K",
+        "SV5M"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV5K",
+        "SV5M"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV06",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV5a",
+        "SV6"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV5a",
+        "SV6"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV06.5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV4K",
+        "SV4M",
+        "SV6",
+        "SV6a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV4K",
+        "SV4M",
+        "SV6",
+        "SV6a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV07",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV7"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV7"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV08",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV7a",
+        "SV8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV7a",
+        "SV8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV08.5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV8a"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV8a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV09",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SV9"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV9"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV10",
+      "expectedEnSetIds": [
+        "sv10"
+      ],
+      "observedEnSetIds": [
+        "SV10",
+        "SV9a",
+        "sv10",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV10",
+        "SV9a",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV11B",
+      "expectedEnSetIds": [
+        "sv10.5b"
+      ],
+      "observedEnSetIds": [
+        "SV11B",
+        "SV11W",
+        "sv10.5b",
+        "sv10.5w",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV11B",
+        "SV11W",
+        "sv10.5w",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV11W",
+      "expectedEnSetIds": [
+        "sv10.5w"
+      ],
+      "observedEnSetIds": [
+        "SV11B",
+        "SV11W",
+        "sv10.5b",
+        "sv10.5w",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SV11B",
+        "SV11W",
+        "sv10.5b",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV1A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv02",
+        "sv03"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv02",
+        "sv03"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV1S",
+      "expectedEnSetIds": [
+        "sv01"
+      ],
+      "observedEnSetIds": [
+        "sv01"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SV1V",
+      "expectedEnSetIds": [
+        "sv01"
+      ],
+      "observedEnSetIds": [
+        "sv01"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SV1a",
+      "expectedEnSetIds": [
+        "sv02"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sv02"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SV2A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv03.5",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv03.5",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV2D",
+      "expectedEnSetIds": [
+        "sv02"
+      ],
+      "observedEnSetIds": [
+        "sv02",
+        "sv03",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv03",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV2P",
+      "expectedEnSetIds": [
+        "sv03"
+      ],
+      "observedEnSetIds": [
+        "sv02",
+        "sv03",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv02",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV2a",
+      "expectedEnSetIds": [
+        "sv03.5"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sv03.5"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SV3",
+      "expectedEnSetIds": [
+        "sv03"
+      ],
+      "observedEnSetIds": [
+        "sv03",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV3A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv04",
+        "sv04.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv04",
+        "sv04.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV3a",
+      "expectedEnSetIds": [
+        "sv04"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sv04"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SV4A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv04.5",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv04.5",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV4K",
+      "expectedEnSetIds": [
+        "sv04"
+      ],
+      "observedEnSetIds": [
+        "sv04",
+        "sv04.5",
+        "sv06.5",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv04.5",
+        "sv06.5",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV4M",
+      "expectedEnSetIds": [
+        "sv04"
+      ],
+      "observedEnSetIds": [
+        "sv04",
+        "sv04.5",
+        "sv06.5",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv04.5",
+        "sv06.5",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV4a",
+      "expectedEnSetIds": [
+        "sv04.5"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sv04.5"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SV5A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv06"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv06"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV5K",
+      "expectedEnSetIds": [
+        "sv05"
+      ],
+      "observedEnSetIds": [
+        "sv05",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV5M",
+      "expectedEnSetIds": [
+        "sv05"
+      ],
+      "observedEnSetIds": [
+        "sv05",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV5a",
+      "expectedEnSetIds": [
+        "sv06"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sv06"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SV6",
+      "expectedEnSetIds": [
+        "sv06"
+      ],
+      "observedEnSetIds": [
+        "sv06",
+        "sv06.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv06.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV6A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv06.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv06.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV6a",
+      "expectedEnSetIds": [
+        "sv06.5"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sv06.5"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SV7",
+      "expectedEnSetIds": [
+        "sv07"
+      ],
+      "observedEnSetIds": [
+        "sv07",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV7A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv08"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv08"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV7a",
+      "expectedEnSetIds": [
+        "sv08"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sv08"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SV8",
+      "expectedEnSetIds": [
+        "sv08"
+      ],
+      "observedEnSetIds": [
+        "sv08",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV8A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv08.5",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv08.5",
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV9",
+      "expectedEnSetIds": [
+        "sv09"
+      ],
+      "observedEnSetIds": [
+        "sv09",
+        "svp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "svp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV9A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv10"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv10"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SV9a",
+      "expectedEnSetIds": [
+        "sv10"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sv10"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SVP",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "MC",
+        "SV10",
+        "SV11B",
+        "SV11W",
+        "SV2D",
+        "SV2P",
+        "SV2a",
+        "SV3",
+        "SV4K",
+        "SV4M",
+        "SV5K",
+        "SV5M",
+        "SV7",
+        "SV8",
+        "SV8a",
+        "SV9"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "MC",
+        "SV10",
+        "SV11B",
+        "SV11W",
+        "SV2D",
+        "SV2P",
+        "SV2a",
+        "SV3",
+        "SV4K",
+        "SV4M",
+        "SV5K",
+        "SV5M",
+        "SV7",
+        "SV8",
+        "SV8a",
+        "SV9"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "TSS-MEWTWO",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv04",
+        "sv04.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv04",
+        "sv04.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "TSS-SKELEDIRGE",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sv04",
+        "sv04.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sv04",
+        "sv04.5"
+      ],
+      "status": "expanded"
+    }
+  ]
+}

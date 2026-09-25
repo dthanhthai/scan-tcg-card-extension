@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pokemon TCG Card Scanner</title>
+  <link rel="stylesheet" href="../assets/shared.css" />
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div id="preloadOverlay" class="preload-overlay hidden">
+    <div class="preload-content">
+      <div class="preload-spinner"></div>
+      <p id="preloadText">Preparing card database...</p>
+    </div>
+  </div>
+  <header class="app-header">
+    <div class="app-title">
+      <img src="../assets/icons/logo_square.png" alt="Logo" class="app-logo" />
+      <div class="app-title-text">
+        <span class="app-title-name">Pokemon TCG Scanner</span>
+        <div class="gemini-status-row">
+          <span id="geminiStatus" class="gemini-status">Gemini API: ...</span>
+          <button id="geminiTestBtn" class="gemini-test-btn" title="Test Gemini API" aria-label="Test Gemini API">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M23 4v6h-6"/>
+              <path d="M1 20v-6h6"/>
+              <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10"/>
+              <path d="M20.49 15a9 9 0 0 1-14.85 3.36L1 14"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+    <button id="settingsBtn" class="icon-btn" title="Settings" aria-label="Settings">⚙</button>
+  </header>
+
+  <main>
+    <section class="search-section">
+      <form id="searchForm" autocomplete="off">
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="e.g. M2a 017  or  SVP 062 JP  or  Pikachu 028/071"
+          aria-label="Search a card, e.g. M2a 017 or Pikachu 028/071"
+        />
+        <button type="submit" id="searchBtn" aria-label="Search">🔍</button>
+      </form>
+      <button id="uploadBtn" class="primary-btn">📎 Upload Card Image</button>
+      <input id="fileInput" type="file" accept="image/*" class="hidden" />
+      <button id="snapshotBtn" class="secondary-btn">🖥️ Snapshot Current Tab</button>
+    </section>
+
+    <section id="statusArea" class="status-area hidden" role="status"></section>
+
+    <section id="resultArea" class="result-area hidden"></section>
+
+    <section class="history-section">
+      <h2>Recent Scans</h2>
+      <ul id="historyList" class="history-list"></ul>
+      <p id="historyEmpty" class="empty-message">No scans yet.</p>
+    </section>
+  </main>
+
+  <script src="../utils/constants.js"></script>
+  <script src="../utils/storage.js"></script>
+  <script src="../lib/tcgplayer-linker.js"></script>
+  <script src="../lib/bulbapedia-index.js"></script>
+  <script src="../lib/bulbapedia-resolver.js"></script>
+  <script src="../utils/card-lookup.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

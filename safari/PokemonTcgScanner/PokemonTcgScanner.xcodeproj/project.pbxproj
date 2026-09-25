@@ -1,0 +1,1023 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B327E8BC3059271800CC08A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B327E8BB3059271800CC08A9 /* AppDelegate.swift */; };
+		B327E8BE3059271800CC08A9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B327E8BD3059271800CC08A9 /* SceneDelegate.swift */; };
+		B327E8C13059271800CC08A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B327E8BF3059271800CC08A9 /* LaunchScreen.storyboard */; };
+		B327E8C43059271800CC08A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B327E8C23059271800CC08A9 /* Main.storyboard */; };
+		B327E8CD3059271800CC08A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B327E8CC3059271800CC08A9 /* AppDelegate.swift */; };
+		B327E8D03059271800CC08A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B327E8CE3059271800CC08A9 /* Main.storyboard */; };
+		B327E8D73059271800CC08A9 /* PokemonTcgScanner Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B327E8D63059271800CC08A9 /* PokemonTcgScanner Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B327E8E13059271800CC08A9 /* PokemonTcgScanner Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B327E8E03059271800CC08A9 /* PokemonTcgScanner Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B327E8E63059271800CC08A9 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = B327E8AB3059271400CC08A9 /* Main.html */; };
+		B327E8E73059271800CC08A9 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = B327E8AB3059271400CC08A9 /* Main.html */; };
+		B327E8E83059271800CC08A9 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B327E8AD3059271400CC08A9 /* Icon.png */; };
+		B327E8E93059271800CC08A9 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B327E8AD3059271400CC08A9 /* Icon.png */; };
+		B327E8EA3059271800CC08A9 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = B327E8AE3059271400CC08A9 /* Style.css */; };
+		B327E8EB3059271800CC08A9 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = B327E8AE3059271400CC08A9 /* Style.css */; };
+		B327E8EC3059271800CC08A9 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = B327E8AF3059271400CC08A9 /* Script.js */; };
+		B327E8ED3059271800CC08A9 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = B327E8AF3059271400CC08A9 /* Script.js */; };
+		B327E8EE3059271800CC08A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B327E8B03059271400CC08A9 /* ViewController.swift */; };
+		B327E8EF3059271800CC08A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B327E8B03059271400CC08A9 /* ViewController.swift */; };
+		B327E8F03059271800CC08A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B327E8B13059271800CC08A9 /* Assets.xcassets */; };
+		B327E8F13059271800CC08A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B327E8B13059271800CC08A9 /* Assets.xcassets */; };
+		B327E8F23059271800CC08A9 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = B327E8B33059271800CC08A9 /* SafariWebExtensionHandler.swift */; };
+		B327E8F33059271800CC08A9 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = B327E8B33059271800CC08A9 /* SafariWebExtensionHandler.swift */; };
+		B327E9193059271900CC08A9 /* background in Resources */ = {isa = PBXBuildFile; fileRef = B327E9053059271900CC08A9 /* background */; };
+		B327E91A3059271900CC08A9 /* settings in Resources */ = {isa = PBXBuildFile; fileRef = B327E9063059271900CC08A9 /* settings */; };
+		B327E91B3059271900CC08A9 /* popup in Resources */ = {isa = PBXBuildFile; fileRef = B327E9073059271900CC08A9 /* popup */; };
+		B327E91E3059271900CC08A9 /* utils in Resources */ = {isa = PBXBuildFile; fileRef = B327E90A3059271900CC08A9 /* utils */; };
+		B327E9253059271900CC08A9 /* content-scripts in Resources */ = {isa = PBXBuildFile; fileRef = B327E9113059271900CC08A9 /* content-scripts */; };
+		B327E9263059271900CC08A9 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = B327E9123059271900CC08A9 /* manifest.json */; };
+		B327E9273059271900CC08A9 /* lib in Resources */ = {isa = PBXBuildFile; fileRef = B327E9133059271900CC08A9 /* lib */; };
+		B327E92A3059271900CC08A9 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = B327E9163059271900CC08A9 /* assets */; };
+		B327E92B3059271900CC08A9 /* scanner in Resources */ = {isa = PBXBuildFile; fileRef = B327E9173059271900CC08A9 /* scanner */; };
+		B327E92C3059271900CC08A9 /* vendor in Resources */ = {isa = PBXBuildFile; fileRef = B327E9183059271900CC08A9 /* vendor */; };
+		B327E92D3059271900CC08A9 /* background in Resources */ = {isa = PBXBuildFile; fileRef = B327E9053059271900CC08A9 /* background */; };
+		B327E92E3059271900CC08A9 /* settings in Resources */ = {isa = PBXBuildFile; fileRef = B327E9063059271900CC08A9 /* settings */; };
+		B327E92F3059271900CC08A9 /* popup in Resources */ = {isa = PBXBuildFile; fileRef = B327E9073059271900CC08A9 /* popup */; };
+		B327E9323059271900CC08A9 /* utils in Resources */ = {isa = PBXBuildFile; fileRef = B327E90A3059271900CC08A9 /* utils */; };
+		B327E9393059271900CC08A9 /* content-scripts in Resources */ = {isa = PBXBuildFile; fileRef = B327E9113059271900CC08A9 /* content-scripts */; };
+		B327E93A3059271900CC08A9 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = B327E9123059271900CC08A9 /* manifest.json */; };
+		B327E93B3059271900CC08A9 /* lib in Resources */ = {isa = PBXBuildFile; fileRef = B327E9133059271900CC08A9 /* lib */; };
+		B327E93E3059271900CC08A9 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = B327E9163059271900CC08A9 /* assets */; };
+		B327E93F3059271900CC08A9 /* scanner in Resources */ = {isa = PBXBuildFile; fileRef = B327E9173059271900CC08A9 /* scanner */; };
+		B327E9403059271900CC08A9 /* vendor in Resources */ = {isa = PBXBuildFile; fileRef = B327E9183059271900CC08A9 /* vendor */; };
+		B327E9423059271900CC08A9 /* data in Resources */ = {isa = PBXBuildFile; fileRef = B327E9413059271900CC08A9 /* data */; };
+		B327E9433059271900CC08A9 /* data in Resources */ = {isa = PBXBuildFile; fileRef = B327E9413059271900CC08A9 /* data */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B327E8D83059271800CC08A9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B327E8A53059271300CC08A9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B327E8D53059271800CC08A9;
+			remoteInfo = "PokemonTcgScanner Extension (iOS)";
+		};
+		B327E8E23059271800CC08A9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B327E8A53059271300CC08A9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B327E8DF3059271800CC08A9;
+			remoteInfo = "PokemonTcgScanner Extension (macOS)";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		B327E8F93059271800CC08A9 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				B327E8D73059271800CC08A9 /* PokemonTcgScanner Extension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E9003059271800CC08A9 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				B327E8E13059271800CC08A9 /* PokemonTcgScanner Extension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		B327E8AC3059271400CC08A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/Main.html; sourceTree = "<group>"; };
+		B327E8AD3059271400CC08A9 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		B327E8AE3059271400CC08A9 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
+		B327E8AF3059271400CC08A9 /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
+		B327E8B03059271400CC08A9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B327E8B13059271800CC08A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B327E8B33059271800CC08A9 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
+		B327E8B83059271800CC08A9 /* PokemonTcgScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonTcgScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B327E8BB3059271800CC08A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B327E8BD3059271800CC08A9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		B327E8C03059271800CC08A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B327E8C33059271800CC08A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B327E8C53059271800CC08A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B327E8CA3059271800CC08A9 /* PokemonTcgScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonTcgScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B327E8CC3059271800CC08A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B327E8CF3059271800CC08A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B327E8D13059271800CC08A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B327E8D63059271800CC08A9 /* PokemonTcgScanner Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "PokemonTcgScanner Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B327E8DB3059271800CC08A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B327E8E03059271800CC08A9 /* PokemonTcgScanner Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "PokemonTcgScanner Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B327E8E53059271800CC08A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B327E9053059271900CC08A9 /* background */ = {isa = PBXFileReference; lastKnownFileType = folder; name = background; path = ../../../background; sourceTree = "<group>"; };
+		B327E9063059271900CC08A9 /* settings */ = {isa = PBXFileReference; lastKnownFileType = folder; name = settings; path = ../../../settings; sourceTree = "<group>"; };
+		B327E9073059271900CC08A9 /* popup */ = {isa = PBXFileReference; lastKnownFileType = folder; name = popup; path = ../../../popup; sourceTree = "<group>"; };
+		B327E90A3059271900CC08A9 /* utils */ = {isa = PBXFileReference; lastKnownFileType = folder; name = utils; path = ../../../utils; sourceTree = "<group>"; };
+		B327E9113059271900CC08A9 /* content-scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "content-scripts"; path = "../../../content-scripts"; sourceTree = "<group>"; };
+		B327E9123059271900CC08A9 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = ../../../manifest.json; sourceTree = "<group>"; };
+		B327E9133059271900CC08A9 /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; name = lib; path = ../../../lib; sourceTree = "<group>"; };
+		B327E9163059271900CC08A9 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = assets; path = ../../../assets; sourceTree = "<group>"; };
+		B327E9173059271900CC08A9 /* scanner */ = {isa = PBXFileReference; lastKnownFileType = folder; name = scanner; path = ../../../scanner; sourceTree = "<group>"; };
+		B327E9183059271900CC08A9 /* vendor */ = {isa = PBXFileReference; lastKnownFileType = folder; name = vendor; path = ../../../vendor; sourceTree = "<group>"; };
+		B327E9413059271900CC08A9 /* data */ = {isa = PBXFileReference; lastKnownFileType = folder; name = data; path = Resources/data; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B327E8B53059271800CC08A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8C73059271800CC08A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8D33059271800CC08A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8DD3059271800CC08A9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B327E8A43059271300CC08A9 = {
+			isa = PBXGroup;
+			children = (
+				B327E8A93059271400CC08A9 /* Shared (App) */,
+				B327E8B23059271800CC08A9 /* Shared (Extension) */,
+				B327E8BA3059271800CC08A9 /* iOS (App) */,
+				B327E8CB3059271800CC08A9 /* macOS (App) */,
+				B327E8DA3059271800CC08A9 /* iOS (Extension) */,
+				B327E8E43059271800CC08A9 /* macOS (Extension) */,
+				B327E8B93059271800CC08A9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B327E8A93059271400CC08A9 /* Shared (App) */ = {
+			isa = PBXGroup;
+			children = (
+				B327E8B03059271400CC08A9 /* ViewController.swift */,
+				B327E8B13059271800CC08A9 /* Assets.xcassets */,
+				B327E8AA3059271400CC08A9 /* Resources */,
+			);
+			path = "Shared (App)";
+			sourceTree = "<group>";
+		};
+		B327E8AA3059271400CC08A9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B327E8AB3059271400CC08A9 /* Main.html */,
+				B327E8AD3059271400CC08A9 /* Icon.png */,
+				B327E8AE3059271400CC08A9 /* Style.css */,
+				B327E8AF3059271400CC08A9 /* Script.js */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		B327E8B23059271800CC08A9 /* Shared (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				B327E9043059271900CC08A9 /* Resources */,
+				B327E8B33059271800CC08A9 /* SafariWebExtensionHandler.swift */,
+			);
+			path = "Shared (Extension)";
+			sourceTree = "<group>";
+		};
+		B327E8B93059271800CC08A9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B327E8B83059271800CC08A9 /* PokemonTcgScanner.app */,
+				B327E8CA3059271800CC08A9 /* PokemonTcgScanner.app */,
+				B327E8D63059271800CC08A9 /* PokemonTcgScanner Extension.appex */,
+				B327E8E03059271800CC08A9 /* PokemonTcgScanner Extension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B327E8BA3059271800CC08A9 /* iOS (App) */ = {
+			isa = PBXGroup;
+			children = (
+				B327E8BB3059271800CC08A9 /* AppDelegate.swift */,
+				B327E8BD3059271800CC08A9 /* SceneDelegate.swift */,
+				B327E8BF3059271800CC08A9 /* LaunchScreen.storyboard */,
+				B327E8C23059271800CC08A9 /* Main.storyboard */,
+				B327E8C53059271800CC08A9 /* Info.plist */,
+			);
+			path = "iOS (App)";
+			sourceTree = "<group>";
+		};
+		B327E8CB3059271800CC08A9 /* macOS (App) */ = {
+			isa = PBXGroup;
+			children = (
+				B327E8CC3059271800CC08A9 /* AppDelegate.swift */,
+				B327E8CE3059271800CC08A9 /* Main.storyboard */,
+				B327E8D13059271800CC08A9 /* Info.plist */,
+			);
+			path = "macOS (App)";
+			sourceTree = "<group>";
+		};
+		B327E8DA3059271800CC08A9 /* iOS (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				B327E8DB3059271800CC08A9 /* Info.plist */,
+			);
+			path = "iOS (Extension)";
+			sourceTree = "<group>";
+		};
+		B327E8E43059271800CC08A9 /* macOS (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				B327E8E53059271800CC08A9 /* Info.plist */,
+			);
+			path = "macOS (Extension)";
+			sourceTree = "<group>";
+		};
+		B327E9043059271900CC08A9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B327E9053059271900CC08A9 /* background */,
+				B327E9063059271900CC08A9 /* settings */,
+				B327E9073059271900CC08A9 /* popup */,
+				B327E90A3059271900CC08A9 /* utils */,
+				B327E9113059271900CC08A9 /* content-scripts */,
+				B327E9123059271900CC08A9 /* manifest.json */,
+				B327E9133059271900CC08A9 /* lib */,
+				B327E9163059271900CC08A9 /* assets */,
+				B327E9173059271900CC08A9 /* scanner */,
+				B327E9183059271900CC08A9 /* vendor */,
+				B327E9413059271900CC08A9 /* data */,
+			);
+			name = Resources;
+			path = "Shared (Extension)";
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B327E8B73059271800CC08A9 /* PokemonTcgScanner (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B327E8FA3059271800CC08A9 /* Build configuration list for PBXNativeTarget "PokemonTcgScanner (iOS)" */;
+			buildPhases = (
+				B327E8B43059271800CC08A9 /* Sources */,
+				B327E8B53059271800CC08A9 /* Frameworks */,
+				B327E8B63059271800CC08A9 /* Resources */,
+				B327E8F93059271800CC08A9 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B327E8D93059271800CC08A9 /* PBXTargetDependency */,
+			);
+			name = "PokemonTcgScanner (iOS)";
+			packageProductDependencies = (
+			);
+			productName = "PokemonTcgScanner (iOS)";
+			productReference = B327E8B83059271800CC08A9 /* PokemonTcgScanner.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B327E8C93059271800CC08A9 /* PokemonTcgScanner (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B327E9013059271800CC08A9 /* Build configuration list for PBXNativeTarget "PokemonTcgScanner (macOS)" */;
+			buildPhases = (
+				B327E8C63059271800CC08A9 /* Sources */,
+				B327E8C73059271800CC08A9 /* Frameworks */,
+				B327E8C83059271800CC08A9 /* Resources */,
+				B327E9003059271800CC08A9 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B327E8E33059271800CC08A9 /* PBXTargetDependency */,
+			);
+			name = "PokemonTcgScanner (macOS)";
+			packageProductDependencies = (
+			);
+			productName = "PokemonTcgScanner (macOS)";
+			productReference = B327E8CA3059271800CC08A9 /* PokemonTcgScanner.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B327E8D53059271800CC08A9 /* PokemonTcgScanner Extension (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B327E8F63059271800CC08A9 /* Build configuration list for PBXNativeTarget "PokemonTcgScanner Extension (iOS)" */;
+			buildPhases = (
+				B327E8D23059271800CC08A9 /* Sources */,
+				B327E8D33059271800CC08A9 /* Frameworks */,
+				B327E8D43059271800CC08A9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "PokemonTcgScanner Extension (iOS)";
+			packageProductDependencies = (
+			);
+			productName = "PokemonTcgScanner Extension (iOS)";
+			productReference = B327E8D63059271800CC08A9 /* PokemonTcgScanner Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		B327E8DF3059271800CC08A9 /* PokemonTcgScanner Extension (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B327E8FD3059271800CC08A9 /* Build configuration list for PBXNativeTarget "PokemonTcgScanner Extension (macOS)" */;
+			buildPhases = (
+				B327E8DC3059271800CC08A9 /* Sources */,
+				B327E8DD3059271800CC08A9 /* Frameworks */,
+				B327E8DE3059271800CC08A9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "PokemonTcgScanner Extension (macOS)";
+			packageProductDependencies = (
+			);
+			productName = "PokemonTcgScanner Extension (macOS)";
+			productReference = B327E8E03059271800CC08A9 /* PokemonTcgScanner Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B327E8A53059271300CC08A9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2640;
+				LastUpgradeCheck = 2640;
+				TargetAttributes = {
+					B327E8B73059271800CC08A9 = {
+						CreatedOnToolsVersion = 26.4;
+					};
+					B327E8C93059271800CC08A9 = {
+						CreatedOnToolsVersion = 26.4;
+					};
+					B327E8D53059271800CC08A9 = {
+						CreatedOnToolsVersion = 26.4;
+					};
+					B327E8DF3059271800CC08A9 = {
+						CreatedOnToolsVersion = 26.4;
+					};
+				};
+			};
+			buildConfigurationList = B327E8A83059271300CC08A9 /* Build configuration list for PBXProject "PokemonTcgScanner" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B327E8A43059271300CC08A9;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = B327E8B93059271800CC08A9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B327E8B73059271800CC08A9 /* PokemonTcgScanner (iOS) */,
+				B327E8C93059271800CC08A9 /* PokemonTcgScanner (macOS) */,
+				B327E8D53059271800CC08A9 /* PokemonTcgScanner Extension (iOS) */,
+				B327E8DF3059271800CC08A9 /* PokemonTcgScanner Extension (macOS) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B327E8B63059271800CC08A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B327E8E83059271800CC08A9 /* Icon.png in Resources */,
+				B327E8C13059271800CC08A9 /* LaunchScreen.storyboard in Resources */,
+				B327E8E63059271800CC08A9 /* Main.html in Resources */,
+				B327E8EC3059271800CC08A9 /* Script.js in Resources */,
+				B327E8F03059271800CC08A9 /* Assets.xcassets in Resources */,
+				B327E8C43059271800CC08A9 /* Main.storyboard in Resources */,
+				B327E8EA3059271800CC08A9 /* Style.css in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8C83059271800CC08A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B327E8E93059271800CC08A9 /* Icon.png in Resources */,
+				B327E8EB3059271800CC08A9 /* Style.css in Resources */,
+				B327E8D03059271800CC08A9 /* Main.storyboard in Resources */,
+				B327E8ED3059271800CC08A9 /* Script.js in Resources */,
+				B327E8F13059271800CC08A9 /* Assets.xcassets in Resources */,
+				B327E8E73059271800CC08A9 /* Main.html in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8D43059271800CC08A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B327E9403059271900CC08A9 /* vendor in Resources */,
+				B327E9433059271900CC08A9 /* data in Resources */,
+				B327E9323059271900CC08A9 /* utils in Resources */,
+				B327E93E3059271900CC08A9 /* assets in Resources */,
+				B327E92F3059271900CC08A9 /* popup in Resources */,
+				B327E92D3059271900CC08A9 /* background in Resources */,
+				B327E93F3059271900CC08A9 /* scanner in Resources */,
+				B327E9393059271900CC08A9 /* content-scripts in Resources */,
+				B327E93B3059271900CC08A9 /* lib in Resources */,
+				B327E93A3059271900CC08A9 /* manifest.json in Resources */,
+				B327E92E3059271900CC08A9 /* settings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8DE3059271800CC08A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B327E92C3059271900CC08A9 /* vendor in Resources */,
+				B327E9423059271900CC08A9 /* data in Resources */,
+				B327E91E3059271900CC08A9 /* utils in Resources */,
+				B327E92A3059271900CC08A9 /* assets in Resources */,
+				B327E91B3059271900CC08A9 /* popup in Resources */,
+				B327E9193059271900CC08A9 /* background in Resources */,
+				B327E92B3059271900CC08A9 /* scanner in Resources */,
+				B327E9253059271900CC08A9 /* content-scripts in Resources */,
+				B327E9273059271900CC08A9 /* lib in Resources */,
+				B327E9263059271900CC08A9 /* manifest.json in Resources */,
+				B327E91A3059271900CC08A9 /* settings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B327E8B43059271800CC08A9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B327E8EE3059271800CC08A9 /* ViewController.swift in Sources */,
+				B327E8BC3059271800CC08A9 /* AppDelegate.swift in Sources */,
+				B327E8BE3059271800CC08A9 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8C63059271800CC08A9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B327E8EF3059271800CC08A9 /* ViewController.swift in Sources */,
+				B327E8CD3059271800CC08A9 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8D23059271800CC08A9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B327E8F23059271800CC08A9 /* SafariWebExtensionHandler.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B327E8DC3059271800CC08A9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B327E8F33059271800CC08A9 /* SafariWebExtensionHandler.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B327E8D93059271800CC08A9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B327E8D53059271800CC08A9 /* PokemonTcgScanner Extension (iOS) */;
+			targetProxy = B327E8D83059271800CC08A9 /* PBXContainerItemProxy */;
+		};
+		B327E8E33059271800CC08A9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B327E8DF3059271800CC08A9 /* PokemonTcgScanner Extension (macOS) */;
+			targetProxy = B327E8E23059271800CC08A9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B327E8AB3059271400CC08A9 /* Main.html */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B327E8AC3059271400CC08A9 /* Base */,
+			);
+			name = Main.html;
+			sourceTree = "<group>";
+		};
+		B327E8BF3059271800CC08A9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B327E8C03059271800CC08A9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		B327E8C23059271800CC08A9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B327E8C33059271800CC08A9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B327E8CE3059271800CC08A9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B327E8CF3059271800CC08A9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B327E8F43059271800CC08A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B327E8F53059271800CC08A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		B327E8F73059271800CC08A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "PokemonTcgScanner Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourCompany.PokemonTcgScanner.Extension;
+				PRODUCT_NAME = "PokemonTcgScanner Extension";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B327E8F83059271800CC08A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "PokemonTcgScanner Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourCompany.PokemonTcgScanner.Extension;
+				PRODUCT_NAME = "PokemonTcgScanner Extension";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B327E8FB3059271800CC08A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = PokemonTcgScanner;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourCompany.PokemonTcgScanner;
+				PRODUCT_NAME = PokemonTcgScanner;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B327E8FC3059271800CC08A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = PokemonTcgScanner;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourCompany.PokemonTcgScanner;
+				PRODUCT_NAME = PokemonTcgScanner;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B327E8FE3059271800CC08A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "PokemonTcgScanner Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourCompany.PokemonTcgScanner.Extension;
+				PRODUCT_NAME = "PokemonTcgScanner Extension";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		B327E8FF3059271800CC08A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "PokemonTcgScanner Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourCompany.PokemonTcgScanner.Extension;
+				PRODUCT_NAME = "PokemonTcgScanner Extension";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		B327E9023059271800CC08A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = PokemonTcgScanner;
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourCompany.PokemonTcgScanner;
+				PRODUCT_NAME = PokemonTcgScanner;
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = macosx;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		B327E9033059271800CC08A9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = PokemonTcgScanner;
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourCompany.PokemonTcgScanner;
+				PRODUCT_NAME = PokemonTcgScanner;
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = macosx;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B327E8A83059271300CC08A9 /* Build configuration list for PBXProject "PokemonTcgScanner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B327E8F43059271800CC08A9 /* Debug */,
+				B327E8F53059271800CC08A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B327E8F63059271800CC08A9 /* Build configuration list for PBXNativeTarget "PokemonTcgScanner Extension (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B327E8F73059271800CC08A9 /* Debug */,
+				B327E8F83059271800CC08A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B327E8FA3059271800CC08A9 /* Build configuration list for PBXNativeTarget "PokemonTcgScanner (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B327E8FB3059271800CC08A9 /* Debug */,
+				B327E8FC3059271800CC08A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B327E8FD3059271800CC08A9 /* Build configuration list for PBXNativeTarget "PokemonTcgScanner Extension (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B327E8FE3059271800CC08A9 /* Debug */,
+				B327E8FF3059271800CC08A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B327E9013059271800CC08A9 /* Build configuration list for PBXNativeTarget "PokemonTcgScanner (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B327E9023059271800CC08A9 /* Debug */,
+				B327E9033059271800CC08A9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B327E8A53059271300CC08A9 /* Project object */;
+}

@@ -1,0 +1,2273 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "jpSetCode": "ROCKRUFF-DECK",
+      "enSetId": "sm2",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "Rockruff Full Power Deck"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "ROCKRUFF-DECK",
+      "enSetId": "smp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Rockruff Full Power Deck"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-FAMILY",
+      "enSetId": "sm11",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "Sun & Moon Family Pokémon Card Game"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-FAMILY",
+      "enSetId": "sm115",
+      "cardCount": 31,
+      "sourceSetNames": [
+        "Sun & Moon Family Pokémon Card Game"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-FAMILY",
+      "enSetId": "sm12",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Sun & Moon Family Pokémon Card Game"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm1",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm10",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm11",
+      "cardCount": 7,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm115",
+      "cardCount": 8,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm12",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm2",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm3",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm4",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm7",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm7.5",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm8",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "sm9",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-P",
+      "enSetId": "smp",
+      "cardCount": 112,
+      "sourceSetNames": [
+        "SM-P Promotional cards"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM-TRAINER-DECKS",
+      "enSetId": "sm115",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "Trainer Battle Decks"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM1",
+      "enSetId": "SM1M",
+      "cardCount": 70,
+      "sourceSetNames": [
+        "Sun & Moon"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM1",
+      "enSetId": "SM1S",
+      "cardCount": 72,
+      "sourceSetNames": [
+        "Sun & Moon"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM1+",
+      "enSetId": "sm2",
+      "cardCount": 36,
+      "sourceSetNames": [
+        "Enhanced Expansion Pack Sun & Moon"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM1+",
+      "enSetId": "smp",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Enhanced Expansion Pack Sun & Moon"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10",
+      "enSetId": "sm10",
+      "cardCount": 101,
+      "sourceSetNames": [
+        "Double Blaze"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM10",
+      "enSetId": "SM10",
+      "cardCount": 104,
+      "sourceSetNames": [
+        "Unbroken Bonds"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10",
+      "enSetId": "sm115",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Double Blaze"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10",
+      "enSetId": "SM9a",
+      "cardCount": 65,
+      "sourceSetNames": [
+        "Unbroken Bonds"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10",
+      "enSetId": "SM9b",
+      "cardCount": 62,
+      "sourceSetNames": [
+        "Unbroken Bonds"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10",
+      "enSetId": "sma",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Double Blaze"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10",
+      "enSetId": "smp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Double Blaze"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10A",
+      "enSetId": "sm11",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "GG End"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10A",
+      "enSetId": "smp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "GG End"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10B",
+      "enSetId": "sm11",
+      "cardCount": 55,
+      "sourceSetNames": [
+        "Sky Legend"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10B",
+      "enSetId": "sm115",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "Sky Legend"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM10B",
+      "enSetId": "smp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Sky Legend"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM11",
+      "enSetId": "SM10a",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "Unified Minds"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM11",
+      "enSetId": "SM10b",
+      "cardCount": 55,
+      "sourceSetNames": [
+        "Unified Minds"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM11",
+      "enSetId": "sm11",
+      "cardCount": 110,
+      "sourceSetNames": [
+        "Miracle Twin"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM11",
+      "enSetId": "SM11",
+      "cardCount": 110,
+      "sourceSetNames": [
+        "Unified Minds"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM11",
+      "enSetId": "smp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Miracle Twin"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM115",
+      "enSetId": "SM10",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Hidden Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM115",
+      "enSetId": "SM10b",
+      "cardCount": 9,
+      "sourceSetNames": [
+        "Hidden Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM11A",
+      "enSetId": "sm12",
+      "cardCount": 67,
+      "sourceSetNames": [
+        "Remix Bout"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM11A",
+      "enSetId": "smp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Remix Bout"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM11B",
+      "enSetId": "sm12",
+      "cardCount": 75,
+      "sourceSetNames": [
+        "Dream League"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM12",
+      "enSetId": "SM11a",
+      "cardCount": 67,
+      "sourceSetNames": [
+        "Cosmic Eclipse"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM12",
+      "enSetId": "SM11b",
+      "cardCount": 75,
+      "sourceSetNames": [
+        "Cosmic Eclipse"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM12",
+      "enSetId": "sm12",
+      "cardCount": 113,
+      "sourceSetNames": [
+        "Alter Genesis"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM12",
+      "enSetId": "SM12",
+      "cardCount": 113,
+      "sourceSetNames": [
+        "Cosmic Eclipse"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM12",
+      "enSetId": "SM12a",
+      "cardCount": 11,
+      "sourceSetNames": [
+        "Cosmic Eclipse"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM12A",
+      "enSetId": "sm12",
+      "cardCount": 11,
+      "sourceSetNames": [
+        "Tag All Stars"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM12A",
+      "enSetId": "smp",
+      "cardCount": 13,
+      "sourceSetNames": [
+        "Tag All Stars"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM1D",
+      "enSetId": "sm1",
+      "cardCount": 17,
+      "sourceSetNames": [
+        "Sun & Moon Starter Set"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM1M",
+      "enSetId": "sm1",
+      "cardCount": 70,
+      "sourceSetNames": [
+        "Collection Moon"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM1S",
+      "enSetId": "sm1",
+      "cardCount": 71,
+      "sourceSetNames": [
+        "Collection Sun"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM2",
+      "enSetId": "SM1p",
+      "cardCount": 36,
+      "sourceSetNames": [
+        "Guardians Rising"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM2",
+      "enSetId": "SM2K",
+      "cardCount": 61,
+      "sourceSetNames": [
+        "Guardians Rising"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM2",
+      "enSetId": "SM2L",
+      "cardCount": 59,
+      "sourceSetNames": [
+        "Guardians Rising"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM2K",
+      "enSetId": "sm2",
+      "cardCount": 62,
+      "sourceSetNames": [
+        "Islands Await You"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM2L",
+      "enSetId": "sm2",
+      "cardCount": 58,
+      "sourceSetNames": [
+        "Alolan Moonlight"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM2P",
+      "enSetId": "sm3",
+      "cardCount": 38,
+      "sourceSetNames": [
+        "Facing a New Trial"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM2P",
+      "enSetId": "smp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Facing a New Trial"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM3",
+      "enSetId": "SM2p",
+      "cardCount": 37,
+      "sourceSetNames": [
+        "Burning Shadows"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM3",
+      "enSetId": "SM3H",
+      "cardCount": 62,
+      "sourceSetNames": [
+        "Burning Shadows"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM3",
+      "enSetId": "SM3N",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "Burning Shadows"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM3+",
+      "enSetId": "smp",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Shining Legends"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM3H",
+      "enSetId": "sm3",
+      "cardCount": 62,
+      "sourceSetNames": [
+        "To Have Seen the Battle Rainbow"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM3H",
+      "enSetId": "smp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "To Have Seen the Battle Rainbow"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM3N",
+      "enSetId": "sm3",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "Darkness that Consumes Light"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM4",
+      "enSetId": "SM4A",
+      "cardCount": 61,
+      "sourceSetNames": [
+        "Crimson Invasion"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM4",
+      "enSetId": "SM4S",
+      "cardCount": 61,
+      "sourceSetNames": [
+        "Crimson Invasion"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM4+",
+      "enSetId": "sm5",
+      "cardCount": 29,
+      "sourceSetNames": [
+        "GX Battle Boost"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM4+",
+      "enSetId": "smp",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "GX Battle Boost"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM4A",
+      "enSetId": "sm4",
+      "cardCount": 62,
+      "sourceSetNames": [
+        "Ultradimensional Beasts"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM4S",
+      "enSetId": "sm4",
+      "cardCount": 61,
+      "sourceSetNames": [
+        "Awakened Heroes"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM5",
+      "enSetId": "SM4p",
+      "cardCount": 29,
+      "sourceSetNames": [
+        "Ultra Prism"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM5",
+      "enSetId": "SM5M",
+      "cardCount": 71,
+      "sourceSetNames": [
+        "Ultra Prism"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM5",
+      "enSetId": "SM5S",
+      "cardCount": 73,
+      "sourceSetNames": [
+        "Ultra Prism"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM5+",
+      "enSetId": "smp",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Ultra Force"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM5M",
+      "enSetId": "sm5",
+      "cardCount": 71,
+      "sourceSetNames": [
+        "Ultra Moon"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM5S",
+      "enSetId": "sm5",
+      "cardCount": 73,
+      "sourceSetNames": [
+        "Ultra Sun"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM6",
+      "enSetId": "sma",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Forbidden Light"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM6A",
+      "enSetId": "sm7.5",
+      "cardCount": 59,
+      "sourceSetNames": [
+        "Dragon Storm"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM6A",
+      "enSetId": "smp",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Dragon Storm"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM6B",
+      "enSetId": "sm7",
+      "cardCount": 73,
+      "sourceSetNames": [
+        "Champion Road"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM6B",
+      "enSetId": "sm7.5",
+      "cardCount": 11,
+      "sourceSetNames": [
+        "Champion Road"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM6B",
+      "enSetId": "sm8",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Champion Road"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM6B",
+      "enSetId": "smp",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Champion Road"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7",
+      "enSetId": "SM6b",
+      "cardCount": 73,
+      "sourceSetNames": [
+        "Celestial Storm"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7",
+      "enSetId": "sm7",
+      "cardCount": 101,
+      "sourceSetNames": [
+        "Sky-Splitting Charisma"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM7",
+      "enSetId": "SM7",
+      "cardCount": 101,
+      "sourceSetNames": [
+        "Celestial Storm"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7",
+      "enSetId": "sm7.5",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Sky-Splitting Charisma"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7.5",
+      "enSetId": "SM6a",
+      "cardCount": 59,
+      "sourceSetNames": [
+        "Dragon Majesty"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7.5",
+      "enSetId": "SM6b",
+      "cardCount": 11,
+      "sourceSetNames": [
+        "Dragon Majesty"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7.5",
+      "enSetId": "SM7",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Dragon Majesty"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7.5",
+      "enSetId": "SM8b",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Dragon Majesty"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7A",
+      "enSetId": "sm8",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "Thunderclap Spark"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM7B",
+      "enSetId": "sm8",
+      "cardCount": 63,
+      "sourceSetNames": [
+        "Fairy Rise"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8",
+      "enSetId": "SM6b",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Lost Thunder"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8",
+      "enSetId": "SM7a",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "Lost Thunder"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8",
+      "enSetId": "SM7b",
+      "cardCount": 63,
+      "sourceSetNames": [
+        "Lost Thunder"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8",
+      "enSetId": "sm8",
+      "cardCount": 103,
+      "sourceSetNames": [
+        "Super-Burst Impact"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM8",
+      "enSetId": "SM8",
+      "cardCount": 103,
+      "sourceSetNames": [
+        "Lost Thunder"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8A",
+      "enSetId": "sm9",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "Dark Order"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8B",
+      "enSetId": "sm7.5",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "GX Ultra Shiny"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8B",
+      "enSetId": "sm9",
+      "cardCount": 22,
+      "sourceSetNames": [
+        "GX Ultra Shiny"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8B",
+      "enSetId": "sma",
+      "cardCount": 89,
+      "sourceSetNames": [
+        "GX Ultra Shiny"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM8B",
+      "enSetId": "smp",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "GX Ultra Shiny"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9",
+      "enSetId": "SM8a",
+      "cardCount": 64,
+      "sourceSetNames": [
+        "Team Up"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9",
+      "enSetId": "SM8b",
+      "cardCount": 22,
+      "sourceSetNames": [
+        "Team Up"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9",
+      "enSetId": "sm9",
+      "cardCount": 104,
+      "sourceSetNames": [
+        "Tag Bolt"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SM9",
+      "enSetId": "SM9",
+      "cardCount": 104,
+      "sourceSetNames": [
+        "Team Up"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9",
+      "enSetId": "sma",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Tag Bolt"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9",
+      "enSetId": "smp",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "Tag Bolt"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9A",
+      "enSetId": "sm10",
+      "cardCount": 65,
+      "sourceSetNames": [
+        "Night Unison"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9A",
+      "enSetId": "sma",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Night Unison"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9B",
+      "enSetId": "sm10",
+      "cardCount": 62,
+      "sourceSetNames": [
+        "Full Metal Wall"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9B",
+      "enSetId": "sma",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Full Metal Wall"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SM9B",
+      "enSetId": "smp",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Full Metal Wall"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMA",
+      "enSetId": "SM10",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Hidden Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMA",
+      "enSetId": "SM6",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Hidden Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMA",
+      "enSetId": "SM8b",
+      "cardCount": 89,
+      "sourceSetNames": [
+        "Hidden Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMA",
+      "enSetId": "SM9",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Hidden Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMA",
+      "enSetId": "SM9a",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Hidden Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMA",
+      "enSetId": "SM9b",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Hidden Fates"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM10",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM10a",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM10b",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM11",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM11a",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM12a",
+      "cardCount": 13,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM1p",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM2p",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM3H",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM3p",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM4p",
+      "cardCount": 6,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM5p",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM6a",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM6b",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM8b",
+      "cardCount": 12,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM9",
+      "cardCount": 3,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "SMP",
+      "enSetId": "SM9b",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "SM Black Star Promos"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "TAGTEAM-STARTERS",
+      "enSetId": "sm11",
+      "cardCount": 15,
+      "sourceSetNames": [
+        "TAG TEAM GX Starter Sets"
+      ],
+      "expectedByRuntimeMap": false
+    }
+  ],
+  "setCodes": [
+    {
+      "jpSetCode": "ROCKRUFF-DECK",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm2",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm2",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM-FAMILY",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm11",
+        "sm115",
+        "sm12"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm11",
+        "sm115",
+        "sm12"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM-P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm1",
+        "sm10",
+        "sm11",
+        "sm115",
+        "sm12",
+        "sm2",
+        "sm3",
+        "sm4",
+        "sm7",
+        "sm7.5",
+        "sm8",
+        "sm9",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm1",
+        "sm10",
+        "sm11",
+        "sm115",
+        "sm12",
+        "sm2",
+        "sm3",
+        "sm4",
+        "sm7",
+        "sm7.5",
+        "sm8",
+        "sm9",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM-TRAINER-DECKS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm115"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm115"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM1",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM1M",
+        "SM1S"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM1M",
+        "SM1S"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM1+",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm2",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm2",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM10",
+      "expectedEnSetIds": [
+        "sm10"
+      ],
+      "observedEnSetIds": [
+        "SM10",
+        "SM9a",
+        "SM9b",
+        "sm10",
+        "sm115",
+        "sma",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM10",
+        "SM9a",
+        "SM9b",
+        "sm115",
+        "sma",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM10A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm11",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm11",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM10B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm11",
+        "sm115",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm11",
+        "sm115",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM10a",
+      "expectedEnSetIds": [
+        "sm11"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm11"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM10b",
+      "expectedEnSetIds": [
+        "sm11",
+        "sm115"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm11",
+        "sm115"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM11",
+      "expectedEnSetIds": [
+        "sm11"
+      ],
+      "observedEnSetIds": [
+        "SM10a",
+        "SM10b",
+        "SM11",
+        "sm11",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM10a",
+        "SM10b",
+        "SM11",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM115",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM10",
+        "SM10b"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM10",
+        "SM10b"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM11A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm12",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm12",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM11B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm12"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm12"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM11a",
+      "expectedEnSetIds": [
+        "sm12"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm12"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM11b",
+      "expectedEnSetIds": [
+        "sm12"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm12"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM12",
+      "expectedEnSetIds": [
+        "sm12"
+      ],
+      "observedEnSetIds": [
+        "SM11a",
+        "SM11b",
+        "SM12",
+        "SM12a",
+        "sm12"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM11a",
+        "SM11b",
+        "SM12",
+        "SM12a"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM12A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm12",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm12",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM12a",
+      "expectedEnSetIds": [
+        "sm12"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm12"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM1D",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm1"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM1M",
+      "expectedEnSetIds": [
+        "sm1"
+      ],
+      "observedEnSetIds": [
+        "sm1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM1S",
+      "expectedEnSetIds": [
+        "sm1"
+      ],
+      "observedEnSetIds": [
+        "sm1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM2",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM1p",
+        "SM2K",
+        "SM2L"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM1p",
+        "SM2K",
+        "SM2L"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM2K",
+      "expectedEnSetIds": [
+        "sm2"
+      ],
+      "observedEnSetIds": [
+        "sm2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM2L",
+      "expectedEnSetIds": [
+        "sm2"
+      ],
+      "observedEnSetIds": [
+        "sm2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM2P",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm3",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm3",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM2p",
+      "expectedEnSetIds": [
+        "sm3"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm3"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM3",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM2p",
+        "SM3H",
+        "SM3N"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM2p",
+        "SM3H",
+        "SM3N"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM3+",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM3H",
+      "expectedEnSetIds": [
+        "sm3"
+      ],
+      "observedEnSetIds": [
+        "sm3",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM3N",
+      "expectedEnSetIds": [
+        "sm3"
+      ],
+      "observedEnSetIds": [
+        "sm3"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM4",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM4A",
+        "SM4S"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM4A",
+        "SM4S"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM4+",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm5",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm5",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM4A",
+      "expectedEnSetIds": [
+        "sm4"
+      ],
+      "observedEnSetIds": [
+        "sm4"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM4S",
+      "expectedEnSetIds": [
+        "sm4"
+      ],
+      "observedEnSetIds": [
+        "sm4"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM4p",
+        "SM5M",
+        "SM5S"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM4p",
+        "SM5M",
+        "SM5S"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM5+",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM5M",
+      "expectedEnSetIds": [
+        "sm5"
+      ],
+      "observedEnSetIds": [
+        "sm5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM5S",
+      "expectedEnSetIds": [
+        "sm5"
+      ],
+      "observedEnSetIds": [
+        "sm5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SM6",
+      "expectedEnSetIds": [
+        "sm6"
+      ],
+      "observedEnSetIds": [
+        "sma"
+      ],
+      "missingExpectedEnSetIds": [
+        "sm6"
+      ],
+      "unexpectedObservedEnSetIds": [
+        "sma"
+      ],
+      "status": "divergent"
+    },
+    {
+      "jpSetCode": "SM6A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm7.5",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm7.5",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM6B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm7",
+        "sm7.5",
+        "sm8",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm7",
+        "sm7.5",
+        "sm8",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM6a",
+      "expectedEnSetIds": [
+        "sm7.5"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm7.5"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM6b",
+      "expectedEnSetIds": [
+        "sm7"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm7"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM7",
+      "expectedEnSetIds": [
+        "sm7"
+      ],
+      "observedEnSetIds": [
+        "SM6b",
+        "SM7",
+        "sm7",
+        "sm7.5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM6b",
+        "SM7",
+        "sm7.5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM7.5",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM6a",
+        "SM6b",
+        "SM7",
+        "SM8b"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM6a",
+        "SM6b",
+        "SM7",
+        "SM8b"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM7A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM7B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM7a",
+      "expectedEnSetIds": [
+        "sm8"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm8"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM7b",
+      "expectedEnSetIds": [
+        "sm8"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm8"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM8",
+      "expectedEnSetIds": [
+        "sm8"
+      ],
+      "observedEnSetIds": [
+        "SM6b",
+        "SM7a",
+        "SM7b",
+        "SM8",
+        "sm8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM6b",
+        "SM7a",
+        "SM7b",
+        "SM8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM8A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm9"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm9"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM8B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm7.5",
+        "sm9",
+        "sma",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm7.5",
+        "sm9",
+        "sma",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM8a",
+      "expectedEnSetIds": [
+        "sm9"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm9"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM8b",
+      "expectedEnSetIds": [
+        "sma"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sma"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM9",
+      "expectedEnSetIds": [
+        "sm9"
+      ],
+      "observedEnSetIds": [
+        "SM8a",
+        "SM8b",
+        "SM9",
+        "sm9",
+        "sma",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM8a",
+        "SM8b",
+        "SM9",
+        "sma",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM9A",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm10",
+        "sma"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm10",
+        "sma"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM9B",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm10",
+        "sma",
+        "smp"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm10",
+        "sma",
+        "smp"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SM9a",
+      "expectedEnSetIds": [
+        "sm10"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm10"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SM9b",
+      "expectedEnSetIds": [
+        "sm10"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "sm10"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "SMA",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM10",
+        "SM6",
+        "SM8b",
+        "SM9",
+        "SM9a",
+        "SM9b"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM10",
+        "SM6",
+        "SM8b",
+        "SM9",
+        "SM9a",
+        "SM9b"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SMP",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "SM10",
+        "SM10a",
+        "SM10b",
+        "SM11",
+        "SM11a",
+        "SM12a",
+        "SM1p",
+        "SM2p",
+        "SM3H",
+        "SM3p",
+        "SM4p",
+        "SM5p",
+        "SM6a",
+        "SM6b",
+        "SM8b",
+        "SM9",
+        "SM9b"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "SM10",
+        "SM10a",
+        "SM10b",
+        "SM11",
+        "SM11a",
+        "SM12a",
+        "SM1p",
+        "SM2p",
+        "SM3H",
+        "SM3p",
+        "SM4p",
+        "SM5p",
+        "SM6a",
+        "SM6b",
+        "SM8b",
+        "SM9",
+        "SM9b"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "SMP2",
+      "expectedEnSetIds": [
+        "det1"
+      ],
+      "observedEnSetIds": [],
+      "missingExpectedEnSetIds": [
+        "det1"
+      ],
+      "unexpectedObservedEnSetIds": [],
+      "status": "missing"
+    },
+    {
+      "jpSetCode": "TAGTEAM-STARTERS",
+      "expectedEnSetIds": [],
+      "observedEnSetIds": [
+        "sm11"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "sm11"
+      ],
+      "status": "expanded"
+    }
+  ]
+}

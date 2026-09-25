@@ -1,0 +1,400 @@
+{
+  "schemaVersion": 2,
+  "summary": {
+    "sourceFiles": 4,
+    "cardPages": 2,
+    "setPages": 1,
+    "redirectPages": 1,
+    "directionalCandidates": 25,
+    "publishedRecords": 5,
+    "publishedTargets": 5,
+    "enToJaRecords": 6,
+    "statuses": {
+      "structured": 5,
+      "inferred": 0,
+      "incomplete": 20,
+      "conflict": 0
+    }
+  },
+  "ambiguousRecords": [],
+  "conflicts": [],
+  "incompleteRecords": [
+    {
+      "sourceKey": "en:BLW:BLACK_WHITE:101/114",
+      "source": {
+        "language": "en",
+        "setCode": "BLW",
+        "setName": "Black & White",
+        "cardNumber": "101/114"
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "BW1",
+        "tcgdexSetId": null,
+        "setName": "Black Collection",
+        "cardNumber": "053/053"
+      },
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-target-tcgdex-set-id"
+      ]
+    },
+    {
+      "sourceKey": "en:BWP:BW_BLACK_STAR_PROMOS:BW46",
+      "source": {
+        "language": "en",
+        "setCode": "BWP",
+        "setName": "BW Black Star Promos",
+        "cardNumber": "BW46"
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "BW-P",
+        "tcgdexSetId": null,
+        "setName": "BW-P Promotional cards",
+        "cardNumber": null
+      },
+      "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+      "reasons": [
+        "missing-target-card-number",
+        "missing-target-tcgdex-set-id"
+      ]
+    },
+    {
+      "sourceKey": "en:DEX:DARK_EXPLORERS:107/108",
+      "source": {
+        "language": "en",
+        "setCode": "DEX",
+        "setName": "Dark Explorers",
+        "cardNumber": "107/108"
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "BW4",
+        "tcgdexSetId": null,
+        "setName": "Dark Rush",
+        "cardNumber": "072/069"
+      },
+      "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+      "reasons": [
+        "missing-target-tcgdex-set-id"
+      ]
+    },
+    {
+      "sourceKey": "en:DEX:DARK_EXPLORERS:63/108",
+      "source": {
+        "language": "en",
+        "setCode": "DEX",
+        "setName": "Dark Explorers",
+        "cardNumber": "63/108"
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "BW4",
+        "tcgdexSetId": null,
+        "setName": "Dark Rush",
+        "cardNumber": "044/069"
+      },
+      "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+      "reasons": [
+        "missing-target-tcgdex-set-id"
+      ]
+    },
+    {
+      "sourceKey": "en:DEX:DARK_EXPLORERS:98/108",
+      "source": {
+        "language": "en",
+        "setCode": "DEX",
+        "setName": "Dark Explorers",
+        "cardNumber": "98/108"
+      },
+      "target": {
+        "language": "ja",
+        "setCode": null,
+        "tcgdexSetId": null,
+        "setName": "Reshiram-EX Battle Strength Deck",
+        "cardNumber": "015/018"
+      },
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-target-set-identifier",
+        "missing-target-tcgdex-set-id"
+      ]
+    },
+    {
+      "sourceKey": "en:LTR:LEGENDARY_TREASURES:88/113",
+      "source": {
+        "language": "en",
+        "setCode": "LTR",
+        "setName": "Legendary Treasures",
+        "cardNumber": "88/113"
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "EB",
+        "tcgdexSetId": null,
+        "setName": "EX Battle Boost",
+        "cardNumber": "072/093"
+      },
+      "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+      "reasons": [
+        "missing-target-tcgdex-set-id"
+      ]
+    },
+    {
+      "sourceKey": "en:PLB:PLASMA_BLAST:84/101",
+      "source": {
+        "language": "en",
+        "setCode": "PLB",
+        "setName": "Plasma Blast",
+        "cardNumber": "84/101"
+      },
+      "target": {
+        "language": "ja",
+        "setCode": null,
+        "tcgdexSetId": null,
+        "setName": "Blastoise + Kyurem-EX Combo Deck",
+        "cardNumber": "014/018"
+      },
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-target-set-identifier",
+        "missing-target-tcgdex-set-id"
+      ]
+    },
+    {
+      "sourceKey": "en:PLF:PLASMA_FREEZE:116/116",
+      "source": {
+        "language": "en",
+        "setCode": "PLF",
+        "setName": "Plasma Freeze",
+        "cardNumber": "116/116"
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "BW8",
+        "tcgdexSetId": null,
+        "setName": "Thunder Knuckle",
+        "cardNumber": "055/051"
+      },
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-target-tcgdex-set-id"
+      ]
+    },
+    {
+      "sourceKey": "ja:BW-P:BW_P_PROMOTIONAL_CARDS:012/BW-P",
+      "source": {
+        "language": "ja",
+        "setCode": "BW-P",
+        "setName": "BW-P Promotional cards",
+        "cardNumber": "012/BW-P"
+      },
+      "target": null,
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-target-printing"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": "BW-P",
+        "setName": "BW-P Promotional cards",
+        "cardNumber": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "BWP",
+        "tcgdexSetId": "bwp",
+        "setName": "BW Black Star Promos",
+        "cardNumber": "BW46"
+      },
+      "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+      "reasons": [
+        "missing-source-card-number"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Black Kyurem-EX Battle Strength Deck",
+        "cardNumber": "015/018"
+      },
+      "target": null,
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-source-set-identifier",
+        "missing-target-printing"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Blastoise + Kyurem-EX Combo Deck",
+        "cardNumber": "014/018"
+      },
+      "target": {
+        "language": "en",
+        "setCode": "PLB",
+        "tcgdexSetId": "bw10",
+        "setName": "Plasma Blast",
+        "cardNumber": "84/101"
+      },
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-source-set-identifier"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Extra Regulation Box",
+        "cardNumber": "012/048"
+      },
+      "target": null,
+      "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+      "reasons": [
+        "missing-source-set-identifier",
+        "missing-target-printing"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Garchomp Half Deck",
+        "cardNumber": "013/015"
+      },
+      "target": null,
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-source-set-identifier",
+        "missing-target-printing"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Hydreigon Half Deck",
+        "cardNumber": "013/015"
+      },
+      "target": null,
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-source-set-identifier",
+        "missing-target-printing"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Master Deck Build Box EX",
+        "cardNumber": "021/046"
+      },
+      "target": null,
+      "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+      "reasons": [
+        "missing-source-set-identifier",
+        "missing-target-printing"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Master Deck Build Box EX",
+        "cardNumber": "040/046"
+      },
+      "target": null,
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-source-set-identifier",
+        "missing-target-printing"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Reshiram-EX Battle Strength Deck",
+        "cardNumber": "015/018"
+      },
+      "target": {
+        "language": "en",
+        "setCode": "DEX",
+        "tcgdexSetId": "bw5",
+        "setName": "Dark Explorers",
+        "cardNumber": "98/108"
+      },
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-source-set-identifier"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "White Kyurem-EX Battle Strength Deck",
+        "cardNumber": "015/018"
+      },
+      "target": null,
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-source-set-identifier",
+        "missing-target-printing"
+      ]
+    },
+    {
+      "sourceKey": null,
+      "source": {
+        "language": "ja",
+        "setCode": null,
+        "setName": "Zekrom-EX Battle Strength Deck",
+        "cardNumber": "015/018"
+      },
+      "target": null,
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "reasons": [
+        "missing-source-set-identifier",
+        "missing-target-printing"
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "pageTitle": "EX Battle Boost (TCG)",
+      "targetTitle": "Legendary Treasures (TCG)"
+    }
+  ],
+  "setPages": [
+    {
+      "pageTitle": "Dark Explorers (TCG)",
+      "pageId": 147670,
+      "revisionId": 4193142,
+      "setNames": [
+        "Additional cards",
+        "Dark Explorers",
+        "Dark Rush"
+      ],
+      "cardCount": 218
+    }
+  ],
+  "unsupportedSources": []
+}

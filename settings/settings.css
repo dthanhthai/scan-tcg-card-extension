@@ -1,0 +1,172 @@
+/* Settings-page-specific layout. Shared button/status styles live in
+   assets/shared.css (loaded before this file in settings.html). */
+
+.app-header {
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 18px;
+}
+
+main {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 20px 24px;
+}
+
+/* Narrow windows: keep the section cards from being pinched by the padding. */
+@media (max-width: 520px) {
+  .app-header {
+    padding: 14px 16px;
+  }
+
+  main {
+    padding: 16px;
+  }
+}
+
+.settings-section {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.settings-section h2 {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.settings-hint {
+  font-size: 13px;
+  color: var(--text-dim);
+  line-height: 1.6;
+  margin: 0 0 10px;
+}
+
+.settings-confirm {
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--success);
+}
+
+.settings-confirm.error {
+  color: var(--error, #ff5c5c);
+}
+
+.settings-list {
+  list-style: none;
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+.settings-list li {
+  font-size: 13px;
+  color: var(--text-dim);
+  padding: 4px 0 4px 16px;
+  position: relative;
+}
+
+.settings-list li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+}
+
+.api-key-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.api-key-row input {
+  flex: 1;
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg, #1a1a2e);
+  color: var(--text, #e0e0e0);
+  font-size: 13px;
+  font-family: monospace;
+}
+
+.settings-label {
+  font-size: 13px;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.toggle-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.toggle-row input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  margin: 0;
+  flex-shrink: 0;
+  accent-color: var(--accent);
+}
+
+.api-key-row select {
+  flex: 1;
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg, #1a1a2e);
+  color: var(--text, #e0e0e0);
+  font-size: 13px;
+}
+
+.api-key-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.hotkey-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.hotkey-label {
+  font-size: 13px;
+  color: var(--text);
+}
+
+.hotkey-display {
+  display: inline-block;
+  padding: 4px 12px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--text);
+  font-family: monospace;
+  font-size: 13px;
+  min-width: 80px;
+  text-align: center;
+}
+
+.credit-line {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+  color: var(--text-dim);
+}

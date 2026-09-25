@@ -1,0 +1,27 @@
+{
+  "name": "scan-tcg-card-extension",
+  "version": "1.0.0",
+  "description": "Chrome Extension for scanning Pokemon TCG cards and comparing marketplace prices",
+  "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build:chrome": "node scripts/build-extension.mjs --out build/chrome",
+    "build:safari": "./safari/build-safari.sh",
+    "bulbapedia:fixtures": "node scripts/bulbapedia/fetch-fixtures.mjs",
+    "bulbapedia:generate": "node scripts/bulbapedia/generate-artifacts.mjs",
+    "bulbapedia:bw:crawl": "node scripts/bulbapedia/crawl-bw.mjs",
+    "bulbapedia:bw:generate": "node scripts/bulbapedia/generate-bw-artifacts.mjs",
+    "bulbapedia:bw:bundle": "node scripts/bulbapedia/bundle-index.mjs",
+    "bulbapedia:bw:sample-review": "node scripts/bulbapedia/sample-review.mjs",
+    "bulbapedia:crawl-era": "node scripts/bulbapedia/crawl-era.mjs",
+    "bulbapedia:generate-era": "node scripts/bulbapedia/generate-era-artifacts.mjs",
+    "bulbapedia:bundle-era": "node scripts/bulbapedia/bundle-index.mjs",
+    "bulbapedia:sample-review-era": "node scripts/bulbapedia/sample-review.mjs",
+    "bulbapedia:set-era-map": "node scripts/bulbapedia/generate-set-era-map.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1",
+    "vitest": "^2.1.9"
+  }
+}

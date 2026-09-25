@@ -1,0 +1,44 @@
+SV gold-pair checklist - SHORT
+
+A. Bi flag khi validate (can soi)
+   1. Ruler of the Black Flame (SV3) -> Paldea Evolved (SV02)  (2 card)
+        SV3 141/108 Basic Fire Energy  <->  SV02 230/197 Basic Fire Energy
+   2. Battle Partners (SV9) -> SVP Black Star Promos (SVP)  (2 card)
+        SV9 108/100 N's Zorua hp70  <->  SVP 189 N's Zorua hp70
+
+B. Subset dac biet (ten/so khac nhau)
+   3. Pokémon Card 151 (SV2A) -> 151 (SV03.5)  (414 card)
+        SV2A 208/165 Mew ex hp180  <->  SV03.5 205/165 Mew ex hp180
+   4. Shiny Treasure ex (SV4A) -> Paldean Fates (SV04.5)  (420 card)
+        SV4A 360/190 Koraidon ex hp230  <->  SV04.5 245/091 Koraidon ex hp230
+   5. Terastal Fest ex (SV8A) -> Prismatic Evolutions (SV08.5)  (262 card)
+        SV8A 237/187 Terapagos ex hp230  <->  SV08.5 180/131 Terapagos ex hp230
+   6. Super Electric Breaker (SV8) -> Surging Sparks (SV08)  (272 card)
+        SV8 136/106 Pikachu ex hp200  <->  SV08 247/191 Pikachu ex hp200
+   7. Glory of the Rocket Gang (SV10) -> Destined Rivals (SV10)  (262 card)
+        SV10 131/098 Team Rocket's Crobat ex hp310  <->  SV10 242/182 Team Rocket's Crobat ex hp310
+
+C. Cross-set it card (de sai)
+   8. Ancient Roar (SV4K) -> Shrouded Fable (SV06.5)  (2 card)
+        SV4K 095/066 Basic Darkness Energy  <->  SV06.5 098/064 Basic Darkness Energy
+   9. Transformation Mask (SV6) -> Shrouded Fable (SV06.5)  (6 card)
+        SV6 110/101 Okidogi hp130  <->  SV06.5 074/064 Okidogi hp130
+  10. Raging Surf (SV3A) -> Paldean Fates (SV04.5)  (20 card)
+        SV3A 038/062 Scrafty hp120  <->  SV04.5 061/091 Scrafty hp120
+  11. Triplet Beat (SV1A) -> Obsidian Flames (SV03)  (28 card)
+        SV1A 063/073 Gumshoos hp120  <->  SV03 177/197 Gumshoos hp120
+
+D. Promo (JP promo <-> EN)
+  12. SV-P Promotional cards (SV-P) -> SVP Black Star Promos (SVP)  (59 card)
+        SV-P 291/SV-P Pikachu hp70  <->  SVP 225 Pikachu hp70
+  13. SV-P Promotional cards (SV-P) -> Scarlet & Violet (SV01)  (4 card)
+        SV-P 008/SV-P Oinkologne hp120  <->  SV01 157/198 Oinkologne hp120
+
+E. Ngaun nhien
+  14. Scarlet ex (SV1S) -> Scarlet & Violet (SV01)  (216 card)
+        SV1S 106/078 Koraidon ex hp230  <->  SV01 254/198 Koraidon ex hp230
+  15. Crimson Haze (SV5A) -> Twilight Masquerade (SV06)  (188 card)
+        SV5A 094/066 Bloodmoon Ursaluna ex hp260  <->  SV06 222/167 Bloodmoon Ursaluna ex hp260
+  16. Hot Wind Arena (SV9A) -> Destined Rivals (SV10)  (180 card)
+        SV9A 091/063 Cynthia's Garchomp ex hp330  <->  SV10 241/182 Cynthia's Garchomp ex hp330
+

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Settings - Pokemon TCG Card Scanner</title>
+  <link rel="stylesheet" href="../assets/shared.css" />
+  <link rel="stylesheet" href="settings.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>Settings</h1>
+  </header>
+
+  <main>
+    <section class="settings-section">
+      <h2>Gemini API Key</h2>
+      <p class="settings-hint">
+        Optional but recommended for reliable card code recognition. Free tier is sufficient for
+        personal use. Get a key at
+        <a class="link-btn" href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">Google AI Studio</a>.
+      </p>
+      <div class="api-key-row">
+        <input id="geminiApiKeyInput" type="password" placeholder="AIzaSy..." autocomplete="off" aria-label="Gemini API key" />
+        <button id="toggleKeyVisibilityBtn" class="secondary-btn" type="button">Show</button>
+      </div>
+      <div class="api-key-actions">
+        <button id="saveApiKeyBtn" class="primary-btn">Save Key</button>
+        <button id="testApiKeyBtn" class="secondary-btn">Test</button>
+        <button id="clearApiKeyBtn" class="secondary-btn">Clear</button>
+      </div>
+      <p id="apiKeyStatus" class="settings-confirm hidden" role="status"></p>
+    </section>
+
+    <section class="settings-section">
+      <h2>Image Quality</h2>
+      <p class="settings-hint">
+        Controls the image resolution sent to Gemini Vision. Higher quality improves detection
+        accuracy for small text (set codes, card numbers) but costs more API tokens and is slower.
+        Lower quality is faster and cheaper but may miss small text on cards.
+      </p>
+      <div class="api-key-row">
+        <label for="imageQualitySelect" class="settings-label">Image Quality</label>
+        <select id="imageQualitySelect">
+          <option value="original">Original (no resize) — full resolution, highest cost</option>
+          <option value="high">High (max 1536px) — best for small/faint text, ~4x tokens</option>
+          <option value="medium">Medium (max 1024px) — balanced, good for most cards</option>
+          <option value="low">Low (max 768px) — fastest/cheapest, may miss small text</option>
+        </select>
+      </div>
+      <p class="settings-hint">
+        <strong>Recommendation:</strong> Start with Medium. If set codes or card numbers are
+        detected incorrectly, switch to High. If you only scan cards with large, clear text,
+        Low may suffice.
+      </p>
+      <p id="imageQualityStatus" class="settings-confirm hidden"></p>
+    </section>
+
+    <section class="settings-section">
+      <h2>Scanning</h2>
+      <p class="settings-hint">
+        When on, a scan runs the lookup as soon as the detected fields are filled, so no second click is
+        needed. Turn it off to review or correct the fields first.
+      </p>
+      <label class="toggle-row" for="autoLookupInput">
+        <input id="autoLookupInput" type="checkbox" />
+        <span>Auto look up after the fields are filled</span>
+      </label>
+      <p id="autoLookupStatus" class="settings-confirm hidden"></p>
+    </section>
+
+    <section class="settings-section">
+      <h2>Scan History</h2>
+      <p class="settings-hint">Card lookups are stored locally in your browser only.</p>
+      <button id="clearHistoryBtn" class="secondary-btn">🗑 Clear Scan History</button>
+      <p id="clearConfirmMsg" class="settings-confirm hidden">History cleared.</p>
+    </section>
+
+    <section class="settings-section">
+      <h2>TCGdex Cache</h2>
+      <p class="settings-hint">
+        Set lists, abbreviations, and set-code mappings are cached to speed up lookups.
+        Clearing them forces a fresh fetch from TCGdex on the next scan (useful for picking up
+        newly released sets).
+      </p>
+      <button id="clearTcgdexCacheBtn" class="secondary-btn">🗑 Clear TCGdex Cache</button>
+      <p id="clearTcgdexCacheMsg" class="settings-confirm hidden">TCGdex cache cleared.</p>
+    </section>
+
+    <section class="settings-section">
+      <h2>Keyboard Shortcut</h2>
+      <p class="settings-hint">
+        Trigger a tab snapshot and card scan with a keyboard shortcut.
+      </p>
+      <div class="hotkey-row">
+        <label class="hotkey-label">Snapshot &amp; Scan</label>
+        <kbd id="hotkeyDisplay" class="hotkey-display">—</kbd>
+      </div>
+      <p class="settings-hint">
+        To change the shortcut, open
+        <a class="link-btn" id="openShortcutsLink" href="#">Chrome extension shortcuts</a>
+        and edit the "Snapshot current tab and scan card" entry.
+      </p>
+    </section>
+
+    <section class="settings-section">
+      <h2>About</h2>
+      <p class="settings-hint">Pokemon TCG Card Scanner v<span id="versionLabel"></span></p>
+      <p class="settings-hint">
+        Scan both Japanese and English Pokemon TCG cards by uploading an image, pasting from
+        clipboard, or snapshotting the current browser tab. Card codes are detected with
+        <a class="link-btn" href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">Google Gemini Vision</a>
+        when an API key is configured, falling back to on-device OCR
+        (<a class="link-btn" href="https://tesseract.projectnaptha.com/" target="_blank" rel="noopener">Tesseract.js</a>)
+        — no images leave your device without a key.
+      </p>
+      <p class="settings-hint">
+        Card metadata comes from
+        <a class="link-btn" href="https://tcgdex.dev" target="_blank" rel="noopener">TCGdex</a>.
+        Prices are looked up from multiple sources:
+      </p>
+      <ul class="settings-list">
+        <li><a class="link-btn" href="https://www.cardrush-pokemon.jp" target="_blank" rel="noopener">CardRush</a> — Japanese market prices (JPY)</li>
+        <li><a class="link-btn" href="https://www.tcgplayer.com" target="_blank" rel="noopener">TCGPlayer</a> — English market prices (USD)</li>
+        <li><a class="link-btn" href="https://www.pricecharting.com" target="_blank" rel="noopener">PriceCharting</a> — graded card prices (USD)</li>
+        <li><a class="link-btn" href="https://app.getcollectr.com" target="_blank" rel="noopener">Collectr</a> — collectible market prices (USD)</li>
+      </ul>
+      <p class="settings-hint">
+        JPY and USD prices are converted using live exchange rates from
+        <a class="link-btn" href="https://open.er-api.com" target="_blank" rel="noopener">ER API</a>.
+        All data is stored locally in your browser — nothing is uploaded to any server.
+      </p>
+      <p class="settings-hint credit-line">
+        Made by <a class="link-btn" href="https://github.com/dthanhthai" target="_blank" rel="noopener">dthanhthai</a>
+      </p>
+    </section>
+  </main>
+
+  <script src="../utils/constants.js"></script>
+  <script src="../utils/storage.js"></script>
+  <script src="settings.js"></script>
+</body>
+</html>

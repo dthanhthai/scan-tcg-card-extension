@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "relationships": [
+    {
+      "jpSetCode": "BW1",
+      "enSetId": "bw1",
+      "cardCount": 76,
+      "sourceSetNames": [
+        "Black Collection",
+        "White Collection"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW1",
+      "enSetId": "bw2",
+      "cardCount": 34,
+      "sourceSetNames": [
+        "Black Collection",
+        "White Collection"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW2",
+      "enSetId": "bw3",
+      "cardCount": 72,
+      "sourceSetNames": [
+        "Red Collection"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW3",
+      "enSetId": "bw2",
+      "cardCount": 5,
+      "sourceSetNames": [
+        "Hail Blizzard",
+        "Psycho Drive"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "BW3",
+      "enSetId": "bw3",
+      "cardCount": 14,
+      "sourceSetNames": [
+        "Hail Blizzard",
+        "Psycho Drive"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW3",
+      "enSetId": "bw4",
+      "cardCount": 91,
+      "sourceSetNames": [
+        "Hail Blizzard",
+        "Psycho Drive"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW3",
+      "enSetId": "bw5",
+      "cardCount": 4,
+      "sourceSetNames": [
+        "Hail Blizzard",
+        "Psycho Drive"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "BW4",
+      "enSetId": "bw2",
+      "cardCount": 2,
+      "sourceSetNames": [
+        "Dark Rush"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "BW4",
+      "enSetId": "bw5",
+      "cardCount": 74,
+      "sourceSetNames": [
+        "Dark Rush"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW5",
+      "enSetId": "bw6",
+      "cardCount": 109,
+      "sourceSetNames": [
+        "Dragon Blade",
+        "Dragon Blast"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW6",
+      "enSetId": "bw7",
+      "cardCount": 108,
+      "sourceSetNames": [
+        "Cold Flare",
+        "Freeze Bolt"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW6",
+      "enSetId": "bw8",
+      "cardCount": 22,
+      "sourceSetNames": [
+        "Cold Flare",
+        "Freeze Bolt"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "BW7",
+      "enSetId": "bw7",
+      "cardCount": 1,
+      "sourceSetNames": [
+        "Plasma Gale"
+      ],
+      "expectedByRuntimeMap": false
+    },
+    {
+      "jpSetCode": "BW7",
+      "enSetId": "bw8",
+      "cardCount": 78,
+      "sourceSetNames": [
+        "Plasma Gale"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW8",
+      "enSetId": "bw9",
+      "cardCount": 114,
+      "sourceSetNames": [
+        "Spiral Force",
+        "Thunder Knuckle"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "BW9",
+      "enSetId": "bw10",
+      "cardCount": 86,
+      "sourceSetNames": [
+        "Megalo Cannon"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "DS",
+      "enSetId": "dv1",
+      "cardCount": 20,
+      "sourceSetNames": [
+        "Dragon Selection"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "EB",
+      "enSetId": "bw11",
+      "cardCount": 95,
+      "sourceSetNames": [
+        "EX Battle Boost"
+      ],
+      "expectedByRuntimeMap": true
+    },
+    {
+      "jpSetCode": "SC",
+      "enSetId": "bw11",
+      "cardCount": 25,
+      "sourceSetNames": [
+        "Shiny Collection"
+      ],
+      "expectedByRuntimeMap": true
+    }
+  ],
+  "setCodes": [
+    {
+      "jpSetCode": "BW1",
+      "expectedEnSetIds": [
+        "bw1",
+        "bw2"
+      ],
+      "observedEnSetIds": [
+        "bw1",
+        "bw2"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "BW2",
+      "expectedEnSetIds": [
+        "bw3"
+      ],
+      "observedEnSetIds": [
+        "bw3"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "BW3",
+      "expectedEnSetIds": [
+        "bw3",
+        "bw4"
+      ],
+      "observedEnSetIds": [
+        "bw2",
+        "bw3",
+        "bw4",
+        "bw5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "bw2",
+        "bw5"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "BW4",
+      "expectedEnSetIds": [
+        "bw5"
+      ],
+      "observedEnSetIds": [
+        "bw2",
+        "bw5"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "bw2"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "BW5",
+      "expectedEnSetIds": [
+        "bw6"
+      ],
+      "observedEnSetIds": [
+        "bw6"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "BW6",
+      "expectedEnSetIds": [
+        "bw7"
+      ],
+      "observedEnSetIds": [
+        "bw7",
+        "bw8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "bw8"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "BW7",
+      "expectedEnSetIds": [
+        "bw8"
+      ],
+      "observedEnSetIds": [
+        "bw7",
+        "bw8"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [
+        "bw7"
+      ],
+      "status": "expanded"
+    },
+    {
+      "jpSetCode": "BW8",
+      "expectedEnSetIds": [
+        "bw9"
+      ],
+      "observedEnSetIds": [
+        "bw9"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "BW9",
+      "expectedEnSetIds": [
+        "bw10"
+      ],
+      "observedEnSetIds": [
+        "bw10"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "DS",
+      "expectedEnSetIds": [
+        "dv1"
+      ],
+      "observedEnSetIds": [
+        "dv1"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "EB",
+      "expectedEnSetIds": [
+        "bw11"
+      ],
+      "observedEnSetIds": [
+        "bw11"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    },
+    {
+      "jpSetCode": "SC",
+      "expectedEnSetIds": [
+        "bw11"
+      ],
+      "observedEnSetIds": [
+        "bw11"
+      ],
+      "missingExpectedEnSetIds": [],
+      "unexpectedObservedEnSetIds": [],
+      "status": "exact"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "decidedAt": "2026-09-22",
+  "decidedBy": "user",
+  "status": "approved-for-phase-4",
+  "goldPairApprovals": {
+    "status": "approved",
+    "approvedRelationships": [
+      "BREAK->g1",
+      "CP2->xy8",
+      "CP2->xyp",
+      "CP3->g1",
+      "CP6->xy12",
+      "XY-P->g1",
+      "XY-P->xy10",
+      "XY-P->xy11",
+      "XY-P->xy12",
+      "XY-P->xy3",
+      "XY-P->xy4",
+      "XY-P->xy5",
+      "XY-P->xy6",
+      "XY-P->xy7",
+      "XY-P->xy8",
+      "XY-P->xy9",
+      "XY-P->xyp",
+      "XY10->xy10",
+      "XY11A->xy11",
+      "XY11B->xy11",
+      "XY1A->xy1",
+      "XY1B->xy1",
+      "XY2->xy2",
+      "XY3->xy3",
+      "XY4->xy4",
+      "XY5A->xy5",
+      "XY5B->xy5",
+      "XY6->xy6",
+      "XY7->xy7",
+      "XY8A->xy8",
+      "XY8B->xy8",
+      "XY9->xy9"
+    ],
+    "note": "User confirmed all 30 proposed pairs match artwork (CP6->xy12 added after the 20th Anniversary crawl). XY11A->xy11 approved on 2026-09-19: the XY11a category was wrong (it held the SWSH S2a set), so XY11a had no records; it now crawls Category:Fever-Burst Fighter cards and pairs with Steam Siege. BREAK->g1 approved the same day: the BREAK Starter Pack deck (no printed set code) pairs 65 printings with Generations; its 11 Trainer reprints stay out because their English printings are in unsupported eras. 2026-09-23: 31 marketplace-only records were added for English cards whose Japanese printing has a set but no card number (XY Black Star Promos -> XY-P Promotional cards, the Generations basic energies, and Evolutions 92/108). No exact record changed, so the artwork approvals still apply. The runtime fails closed on such a record instead of letting TCGdex guess a printing from another era (see AGENTS.md)."
+  },
+  "conflictReview": {
+    "status": "approved",
+    "conflictCount": 3
+  },
+  "ambiguityReview": {
+    "status": "approved",
+    "ambiguousRecordCount": 0
+  },
+  "randomSampleReview": {
+    "status": "approved",
+    "seed": 20260301,
+    "samplesPerRelationship": 2,
+    "totalSamples": 62,
+    "flagged": 0,
+    "note": "All samples matched live TCGdex after the page-title name fix (Mega/Primal/BREAK prefixes). Re-run on 2026-09-19 after the XY11a category fix: 60 checked, 0 flagged, including the new XY11A->xy11 pairs."
+  },
+  "fullValidationReview": {
+    "status": "reviewed",
+    "mode": "all",
+    "checked": 1540,
+    "flagged": 11,
+    "rate": 0.71,
+    "effectiveFlagged": 4,
+    "note": "Full pass with scripts/bulbapedia/sample-review.mjs xy --all (seed 20260301, live TCGdex). Eight flags were a transient TCGdex 503 and cleared on a re-run. The rest are artifacts, not wrong pairings: TCGdex appends the Team Flare Gear subtitle to Phantom Forces 92/102/106 (\"Target Whistle Team Flare Gear\"), and its EN record for Evolutions 109 still carries the Japanese name (ナッシー[Exeggutor]). Card number, set and HP match in every case."
+  }
+}

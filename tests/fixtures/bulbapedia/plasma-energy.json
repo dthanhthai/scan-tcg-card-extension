@@ -1,0 +1,26 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 167074,
+        "ns": 0,
+        "title": "Plasma Energy (Plasma Storm 127)",
+        "revisions": [
+          {
+            "revid": 4467915,
+            "parentid": 3781234,
+            "timestamp": "2026-01-15T15:06:56Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{TCGEnergyCardInfobox\n|cardname=Plasma Energy\n|jname=プラズマエネルギー\n|jtrans=Plasma Energy\n|image=PlasmaEnergyPlasmaStorm127.jpg\n|caption=Illus. [[5ban Graphics]]\n|class=Special\n|subclass=Plasma\n|type=Colorless\n|provides={{e|Colorless}}\n}}\n{{TCGEnergyCardInfobox/ReleaseInfo|type=Colorless|releases=\n{{TCGEnergyCardInfobox/Expansion|type=Colorless|expansion={{TCG|Plasma Storm}}|rarity={{rar|Uncommon}}|cardno=127/135|jpexpansion={{TCG|Plasma Gale}}|jprarity={{rar|U}}|jpcardno=067/070}}\n{{TCGEnergyCardInfobox/Expansion|type=Colorless|jphalfdeck={{TCG|Team Plasma's Powered Half Deck}}|jpcardno=017/017}}\n{{TCGEnergyCardInfobox/Expansion|type=Colorless|jpdeck={{TCG|Black Kyurem-EX Battle Strength Deck}}|jpcardno=018/018}}\n{{TCGEnergyCardInfobox/Expansion|type=Colorless|jpdeck={{TCG|White Kyurem-EX Battle Strength Deck}}|jpcardno=018/018}}\n{{TCGEnergyCardInfobox/Expansion|type=Colorless|jpdeckkit={{TCG|Team Plasma Battle Gift Set}}|jpcardno=016/016}}\n{{TCGEnergyCardInfobox/Expansion|type=Colorless|expansion={{TCG|Plasma Freeze}}|rarity={{rar|Uncommon}}|cardno=106/116|jpexpansion={{TCG|Spiral Force}}|jprarity={{rar|U}}|jpcardno=051/051}}\n{{TCGEnergyCardInfobox/Expansion|type=Colorless|jpexpansion={{TCG|Thunder Knuckle}}|jprarity={{rar|U}}|jpcardno=051/051}}\n{{TCGEnergyCardInfobox/Expansion|type=Colorless|expansion={{TCG|Plasma Blast}}|rarity={{rar|Uncommon}}|cardno=91/101|jpexpansion={{TCG|Megalo Cannon}}|jprarity={{rar|U}}|jpcardno=076/076}}\n}}\n{{TCGEnergyCardInfobox/Footer|type=Colorless}}\n\n'''Plasma Energy''' (Japanese: '''プラズマエネルギー''' ''Plasma Energy'') is a {{TCG|Special Energy card}}. It was first released as part of the {{TCG|Plasma Storm}} expansion.\n\n==Card text==\n{{Cardtext/Header|type=Colorless|class=Plasma}}\n{{Cardtext/Team Plasma}}\n{{Cardtext/Energy\n|type=Colorless\n|effect=This card provides {{e|Colorless}} Energy.\n}}\n{{Cardtext/Footer}}\n\n==Release information==\nThis card was released in the {{TCG|Plasma Storm}} expansion, first originating from the Japanese {{TCG|Plasma Gale}} expansion. In Japan, it was reprinted in the {{TCG|Team Plasma's Powered Half Deck}}, the {{TCG|Black Kyurem-EX Battle Strength Deck|Black Kyurem-EX}} and {{TCG|White Kyurem-EX Battle Strength Deck}}s, and the {{TCG|Team Plasma Battle Gift Set}}. Plasma Energy was reprinted in the {{TCG|Plasma Freeze}} expansion, originating from the Japanese {{TCG|Spiral Force}} and {{TCG|Thunder Knuckle}} expansions, and again in the {{TCG|Plasma Blast}} expansion, originating from the Japanese {{TCG|Megalo Cannon}} expansion.\n\n==Trivia==\n* Like {{TCG ID|EX Legend Maker|React Energy|82}}, Plasma Energy provides a single unit of Colorless Energy with no additional effects on its own. However, there are a number of {{TCG|Team Plasma}} cards that interact with Plasma Energy in some way, like {{TCG ID|Plasma Blast|Porygon-Z|74}}, {{TCG ID|Plasma Storm|Lugia-EX|108}}, or {{TCG ID|Plasma Storm|Plasma Frigate|124}}.\n\n===Origin===\n\n==In other languages==\n{{Langtable|color={{TCG Colorless color}}|bordercolor=0963A9\n|ja=プラズマエネルギー ''Plasma Energy''\n|zh_yue=\n|zh_cmn=\n|fr=Énergie Plasma\n|de=Plasma-Energie\n|id=\n|it=Energia Plasma\n|ko=플라스마 에너지 ''Plasma Energy''\n|pt_br=Energia de Plasma\n|es_la=\n|es_eu=Energía Plasma\n|th=\n}}\n\n{{Project TCG notice}}\n\n[[Category:Energy cards that provide only Colorless Energy]]\n[[Category:Plasma Storm cards]]\n[[Category:Plasma Gale cards]]\n[[Category:Team Plasma's Powered Half Deck cards]]\n[[Category:Black Kyurem-EX Battle Strength Deck cards]]\n[[Category:White Kyurem-EX Battle Strength Deck cards]]\n[[Category:Team Plasma Battle Gift Set cards]]\n[[Category:Plasma Freeze cards]]\n[[Category:Spiral Force cards]]\n[[Category:Thunder Knuckle cards]]\n[[Category:Plasma Blast cards]]\n[[Category:Megalo Cannon cards]]\n[[Category:Illus. by 5ban Graphics]]\n\n[[de:Plasma-Energie (TCG)]]\n[[es:Energía Plasma (TCG)]]\n[[fr:Énergie Plasma (Noir & Blanc Tempête Plasma 127)]]\n[[it:Energia Plasma (Uragano Plasma 127)]]\n[[ja:プラズマエネルギー]]\n[[zh:等离子能量（TCG）]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

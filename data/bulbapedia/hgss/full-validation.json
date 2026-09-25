@@ -1,0 +1,2748 @@
+{
+ "era": "hgss",
+ "mode": "all",
+ "seed": 20260301,
+ "checked": 342,
+ "flagged": 1,
+ "rate": 0.29,
+ "results": [
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:006/L-P",
+   "jp": "L-P Promotional cards 006/L-P Cyndaquil (ヒノアラシ) hp:40 null",
+   "en": "Call of Legends 55/95 Cyndaquil hp:40 Common",
+   "tcgdex": "col1-55 Cyndaquil hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:076/L-P",
+   "jp": "L-P Promotional cards 076/L-P Deoxys (デオキシス) hp:80 null",
+   "en": "Call of Legends SL1 Deoxys hp:80 Rare Holo",
+   "tcgdex": "col1-SL1 Deoxys hp:80 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:065/L-P",
+   "jp": "L-P Promotional cards 065/L-P Ho-Oh (ホウオウ) hp:100 null",
+   "en": "Call of Legends SL5 Ho-Oh hp:100 Rare Holo",
+   "tcgdex": "col1-SL5 Ho-Oh hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:071/L-P",
+   "jp": "L-P Promotional cards 071/L-P Kyogre (カイオーガ) hp:100 null",
+   "en": "Call of Legends SL6 Kyogre hp:100 Rare Holo",
+   "tcgdex": "col1-SL6 Kyogre hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:073/L-P",
+   "jp": "L-P Promotional cards 073/L-P Palkia (パルキア) hp:100 null",
+   "en": "Call of Legends SL8 Palkia hp:100 Rare Holo",
+   "tcgdex": "col1-SL8 Palkia hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:007/L-P",
+   "jp": "L-P Promotional cards 007/L-P Totodile (ワニノコ) hp:60 null",
+   "en": "Call of Legends 74/95 Totodile hp:60 Common",
+   "tcgdex": "col1-74 Totodile hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:064/L-P",
+   "jp": "L-P Promotional cards 064/L-P Raikou (ライコウ) hp:90 null",
+   "en": "Call of Legends SL9 Raikou hp:90 Rare Holo",
+   "tcgdex": "col1-SL9 Raikou hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:062/L-P",
+   "jp": "L-P Promotional cards 062/L-P Entei (エンテイ) hp:90 null",
+   "en": "Call of Legends SL3 Entei hp:90 Rare Holo",
+   "tcgdex": "col1-SL3 Entei hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:066/L-P",
+   "jp": "L-P Promotional cards 066/L-P Lugia (ルギア) hp:100 null",
+   "en": "Call of Legends SL7 Lugia hp:100 Rare Holo",
+   "tcgdex": "col1-SL7 Lugia hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:074/L-P",
+   "jp": "L-P Promotional cards 074/L-P Dialga (ディアルガ) hp:100 null",
+   "en": "Call of Legends SL2 Dialga hp:100 Rare Holo",
+   "tcgdex": "col1-SL2 Dialga hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:008/L-P",
+   "jp": "L-P Promotional cards 008/L-P Mareep (メリープ) hp:40 null",
+   "en": "Call of Legends 63/95 Mareep hp:40 Common",
+   "tcgdex": "col1-63 Mareep hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:075/L-P",
+   "jp": "L-P Promotional cards 075/L-P Rayquaza (レックウザ) hp:100 null",
+   "en": "Call of Legends SL10 Rayquaza hp:100 Rare Holo",
+   "tcgdex": "col1-SL10 Rayquaza hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:063/L-P",
+   "jp": "L-P Promotional cards 063/L-P Suicune (スイクン) hp:90 null",
+   "en": "Call of Legends SL11 Suicune hp:90 Rare Holo",
+   "tcgdex": "col1-SL11 Suicune hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:072/L-P",
+   "jp": "L-P Promotional cards 072/L-P Groudon (グラードン) hp:100 null",
+   "en": "Call of Legends SL4 Groudon hp:100 Rare Holo",
+   "tcgdex": "col1-SL4 Groudon hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:009/L-P",
+   "jp": "L-P Promotional cards 009/L-P Phanpy (ゴマゾウ) hp:60 null",
+   "en": "Call of Legends 66/95 Phanpy hp:60 Common",
+   "tcgdex": "col1-66 Phanpy hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->col1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:010/L-P",
+   "jp": "L-P Promotional cards 010/L-P Teddiursa (ヒメグマ) hp:50 null",
+   "en": "Call of Legends 73/95 Teddiursa hp:50 Common",
+   "tcgdex": "col1-73 Teddiursa hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgss1",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:004/L-P",
+   "jp": "L-P Promotional cards 004/L-P Gyarados (ギャラドス) hp:130 null",
+   "en": "HeartGold & SoulSilver 123/123 Gyarados hp:130 Rare Holo",
+   "tcgdex": "hgss1-123 Gyarados hp:130 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgss3",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:030/L-P",
+   "jp": "L-P Promotional cards 030/L-P Slowking (ヤドキング) hp:100 null",
+   "en": "Undaunted 85/90 Slowking hp:100 Rare Holo Prime",
+   "tcgdex": "hgss3-85 Slowking hp:100 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgss3",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:044/L-P",
+   "jp": "L-P Promotional cards 044/L-P Raichu (ライチュウ) hp:100 null",
+   "en": "Undaunted 83/90 Raichu hp:100 Rare Holo Prime",
+   "tcgdex": "hgss3-83 Raichu hp:100 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgss3",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:053/L-P",
+   "jp": "L-P Promotional cards 053/L-P Espeon (エーフィ) hp:100 null",
+   "en": "Undaunted 81/90 Espeon hp:100 Rare Holo Prime",
+   "tcgdex": "hgss3-81 Espeon hp:100 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgss3",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:054/L-P",
+   "jp": "L-P Promotional cards 054/L-P Umbreon (ブラッキー) hp:100 null",
+   "en": "Undaunted 86/90 Umbreon hp:100 Rare Holo Prime",
+   "tcgdex": "hgss3-86 Umbreon hp:100 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgss3",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:029/L-P",
+   "jp": "L-P Promotional cards 029/L-P Slowbro (ヤドラン) hp:90 null",
+   "en": "Undaunted 38/90 Slowbro hp:90 Uncommon",
+   "tcgdex": "hgss3-38 Slowbro hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:061/L-P",
+   "jp": "L-P Promotional cards 061/L-P Raikou (ライコウ) hp:80 null",
+   "en": "HGSS Black Star Promos HGSS19 Raikou hp:80 null",
+   "tcgdex": "hgssp-HGSS19 Raikou hp:80 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:045/L-P",
+   "jp": "L-P Promotional cards 045/L-P Latias (ラティアス) hp:80 null",
+   "en": "HGSS Black Star Promos HGSS10 Latias hp:80 null",
+   "tcgdex": "hgssp-HGSS10 Latias hp:80 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:040/L-P",
+   "jp": "L-P Promotional cards 040/L-P Wobbuffet (ソーナンス) hp:90 null",
+   "en": "HGSS Black Star Promos HGSS04 Wobbuffet hp:90 null",
+   "tcgdex": "hgssp-HGSS04 Wobbuffet hp:90 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:025/L-P",
+   "jp": "L-P Promotional cards 025/L-P Hoothoot (ホーホー) hp:50 null",
+   "en": "HGSS Black Star Promos HGSS05 Hoothoot hp:50 null",
+   "tcgdex": "hgssp-HGSS05 Hoothoot hp:50 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:026/L-P",
+   "jp": "L-P Promotional cards 026/L-P Noctowl (ヨルノズク) hp:90 null",
+   "en": "HGSS Black Star Promos HGSS06 Noctowl hp:90 null",
+   "tcgdex": "hgssp-HGSS06 Noctowl hp:90 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:046/L-P",
+   "jp": "L-P Promotional cards 046/L-P Latios (ラティオス) hp:90 null",
+   "en": "HGSS Black Star Promos HGSS11 Latios hp:90 null",
+   "tcgdex": "hgssp-HGSS11 Latios hp:90 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:078/L-P",
+   "jp": "L-P Promotional cards 078/L-P Porygon2 (ポリゴン２) hp:80 null",
+   "en": "HGSS Black Star Promos HGSS23 Porygon2 hp:80 null",
+   "tcgdex": "hgssp-HGSS23 Porygon2 hp:80 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:060/L-P",
+   "jp": "L-P Promotional cards 060/L-P Suicune (スイクン) hp:80 null",
+   "en": "HGSS Black Star Promos HGSS21 Suicune hp:80 null",
+   "tcgdex": "hgssp-HGSS21 Suicune hp:80 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:077/L-P",
+   "jp": "L-P Promotional cards 077/L-P Porygon (ポリゴン) hp:50 null",
+   "en": "HGSS Black Star Promos HGSS22 Porygon hp:50 null",
+   "tcgdex": "hgssp-HGSS22 Porygon hp:50 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:059/L-P",
+   "jp": "L-P Promotional cards 059/L-P Entei (エンテイ) hp:80 null",
+   "en": "HGSS Black Star Promos HGSS20 Entei hp:80 null",
+   "tcgdex": "hgssp-HGSS20 Entei hp:80 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:047/L-P",
+   "jp": "L-P Promotional cards 047/L-P Lugia (ルギア) hp:90 null",
+   "en": "HGSS Black Star Promos HGSS02 Lugia hp:90 null",
+   "tcgdex": "hgssp-HGSS02 Lugia hp:90 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:058/L-P",
+   "jp": "L-P Promotional cards 058/L-P Lapras (ラプラス) hp:90 null",
+   "en": "HGSS Black Star Promos HGSS14 Lapras hp:90 null",
+   "tcgdex": "hgssp-HGSS14 Lapras hp:90 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:048/L-P",
+   "jp": "L-P Promotional cards 048/L-P Ho-Oh (ホウオウ) hp:100 null",
+   "en": "HGSS Black Star Promos HGSS01 Ho-Oh hp:100 null",
+   "tcgdex": "hgssp-HGSS01 Ho-Oh hp:80 Promo",
+   "checks": [
+    "hp-mismatch:80"
+   ]
+  },
+  {
+   "relationship": "L-P->hgssp",
+   "sourceKey": "ja:L-P:L_P_PROMOTIONAL_CARDS:067/L-P",
+   "jp": "L-P Promotional cards 067/L-P Shuckle (ツボツボ) hp:60 null",
+   "en": "HGSS Black Star Promos HGSS15 Shuckle hp:60 null",
+   "tcgdex": "hgssp-HGSS15 Shuckle hp:60 Promo",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:009/070",
+   "jp": "HeartGold Collection 009/070 Sunkern (ヒマナッツ) hp:40 Common",
+   "en": "HeartGold & SoulSilver 85/123 Sunkern hp:40 Common",
+   "tcgdex": "hgss1-85 Sunkern hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:005/070",
+   "jp": "HeartGold Collection 005/070 Ariados (アリアドス) hp:80 Rare",
+   "en": "HeartGold & SoulSilver 15/123 Ariados hp:80 Rare",
+   "tcgdex": "hgss1-15 Ariados hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:057/070",
+   "jp": "HeartGold Collection 057/070 Furret (オオタチ) hp:80 Rare",
+   "en": "HeartGold & SoulSilver 21/123 Furret hp:80 Rare",
+   "tcgdex": "hgss1-21 Furret hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:018/070",
+   "jp": "HeartGold Collection 018/070 Slowbro (ヤドラン) hp:90 Rare",
+   "en": "HeartGold & SoulSilver 52/123 Slowbro hp:90 Uncommon",
+   "tcgdex": "hgss1-52 Slowbro hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:069/070",
+   "jp": "HeartGold Collection 069/070 Bill (マサキ) hp:null null",
+   "en": "HeartGold & SoulSilver 89/123 Bill hp:null Uncommon",
+   "tcgdex": "hgss1-89 Bill hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:065/070",
+   "jp": "HeartGold Collection 065/070 Pokémon Reversal (ポケモンリバース) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 99/123 Pokémon Reversal hp:null Uncommon",
+   "tcgdex": "hgss1-99 Pokémon Reversal hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:038/070",
+   "jp": "HeartGold Collection 038/070 Jynx (ルージュラ) hp:70 Common",
+   "en": "HeartGold & SoulSilver 69/123 Jynx hp:70 Common",
+   "tcgdex": "hgss1-69 Jynx hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:010/070",
+   "jp": "HeartGold Collection 010/070 Sunflora (キマワリ) hp:80 Rare",
+   "en": "HeartGold & SoulSilver 31/123 Sunflora hp:80 Rare",
+   "tcgdex": "hgss1-31 Sunflora hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:036/070",
+   "jp": "HeartGold Collection 036/070 Weezing (マタドガス) hp:90 Rare",
+   "en": "HeartGold & SoulSilver 34/123 Weezing hp:90 Rare",
+   "tcgdex": "hgss1-34 Weezing hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:045/070",
+   "jp": "HeartGold Collection 045/070 Donphan (ドンファン) hp:100 Uncommon",
+   "en": "HeartGold & SoulSilver 40/123 Donphan hp:100 Uncommon",
+   "tcgdex": "hgss1-40 Donphan hp:100 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:017/070",
+   "jp": "HeartGold Collection 017/070 Slowpoke (ヤドン) hp:60 Common",
+   "en": "HeartGold & SoulSilver 81/123 Slowpoke hp:60 Common",
+   "tcgdex": "hgss1-81 Slowpoke hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:021/070",
+   "jp": "HeartGold Collection 021/070 Lapras (ラプラス) hp:90 Rare",
+   "en": "HeartGold & SoulSilver 24/123 Lapras hp:90 Rare",
+   "tcgdex": "hgss1-24 Lapras hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:052/070",
+   "jp": "HeartGold Collection 052/070 Chansey (ラッキー) hp:90 Common",
+   "en": "HeartGold & SoulSilver 58/123 Chansey hp:90 Common",
+   "tcgdex": "hgss1-58 Chansey hp:90 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:022/070",
+   "jp": "HeartGold Collection 022/070 Totodile (ワニノコ) hp:60 Common",
+   "en": "HeartGold & SoulSilver 86/123 Totodile hp:60 Common",
+   "tcgdex": "hgss1-86 Totodile hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:037/070",
+   "jp": "HeartGold Collection 037/070 Smoochum (ムチュール) hp:30 Rare Holo",
+   "en": "HeartGold & SoulSilver 30/123 Smoochum hp:30 Rare",
+   "tcgdex": "hgss1-30 Smoochum hp:30 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:040/070",
+   "jp": "HeartGold Collection 040/070 Unown (アンノーン) hp:50 Uncommon",
+   "en": "HeartGold & SoulSilver 54/123 Unown hp:50 Uncommon",
+   "tcgdex": "hgss1-54 Unown hp:50 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:067/070",
+   "jp": "HeartGold Collection 067/070 Professor Elm's Training Method (ウツギはかせの育てかた) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 100/123 Professor Elm's Training Method hp:null Uncommon",
+   "tcgdex": "hgss1-100 Professor Elm's Training Method hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:063/070",
+   "jp": "HeartGold Collection 063/070 Energy Switch (エネルギーつけかえ) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 91/123 Energy Switch hp:null Uncommon",
+   "tcgdex": "hgss1-91 Energy Switch hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:014/070",
+   "jp": "HeartGold Collection 014/070 Arcanine (ウインディ) hp:110 Rare Holo",
+   "en": "HeartGold & SoulSilver 1/123 Arcanine hp:110 Rare Holo",
+   "tcgdex": "hgss1-1 Arcanine hp:110 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:031/070",
+   "jp": "HeartGold Collection 031/070 Mareep (メリープ) hp:40 Common",
+   "en": "HeartGold & SoulSilver 73/123 Mareep hp:40 Common",
+   "tcgdex": "hgss1-73 Mareep hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:070/070",
+   "jp": "HeartGold Collection 070/070 Double Colorless Energy (ダブル無色エネルギー) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 103/123 Double Colorless Energy hp:null Uncommon",
+   "tcgdex": "hgss1-103 Double Colorless Energy hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:058/070",
+   "jp": "HeartGold Collection 058/070 Hoothoot (ホーホー) hp:50 Common",
+   "en": "HeartGold & SoulSilver 66/123 Hoothoot hp:50 Common",
+   "tcgdex": "hgss1-66 Hoothoot hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:023/070",
+   "jp": "HeartGold Collection 023/070 Croconaw (アリゲイツ) hp:80 Common",
+   "en": "HeartGold & SoulSilver 38/123 Croconaw hp:80 Uncommon",
+   "tcgdex": "hgss1-38 Croconaw hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:020/070",
+   "jp": "HeartGold Collection 020/070 Starmie (スターミー) hp:90 Rare",
+   "en": "HeartGold & SoulSilver 53/123 Starmie hp:90 Uncommon",
+   "tcgdex": "hgss1-53 Starmie hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:026/070",
+   "jp": "HeartGold Collection 026/070 Qwilfish (ハリーセン) hp:70 Uncommon",
+   "en": "HeartGold & SoulSilver 50/123 Qwilfish hp:70 Uncommon",
+   "tcgdex": "hgss1-50 Qwilfish hp:70 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:066/070",
+   "jp": "HeartGold Collection 066/070 Poké Ball (モンスターボール) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 95/123 Poké Ball hp:null Uncommon",
+   "tcgdex": "hgss1-95 Poké Ball hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:051/070",
+   "jp": "HeartGold Collection 051/070 Clefable (ピクシー) hp:80 Rare Holo",
+   "en": "HeartGold & SoulSilver 3/123 Clefable hp:80 Rare Holo",
+   "tcgdex": "hgss1-3 Clefable hp:80 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:071/070",
+   "jp": "HeartGold Collection 071/070 Alph Lithograph (アルフの石版) hp:null null",
+   "en": "HeartGold & SoulSilver ONE Alph Lithograph hp:null Rare Secret",
+   "tcgdex": "hgss1-ONE Alph Lithograph hp:0 Ultra Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:059/070",
+   "jp": "HeartGold Collection 059/070 Noctowl (ヨルノズク) hp:90 Rare Holo",
+   "en": "HeartGold & SoulSilver 8/123 Noctowl hp:90 Rare Holo",
+   "tcgdex": "hgss1-8 Noctowl hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:012/070",
+   "jp": "HeartGold Collection 012/070 Heracross (ヘラクロス) hp:80 Uncommon",
+   "en": "HeartGold & SoulSilver 43/123 Heracross hp:80 Uncommon",
+   "tcgdex": "hgss1-43 Heracross hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:024/070",
+   "jp": "HeartGold Collection 024/070 Feraligatr (オーダイル) hp:130 Uncommon",
+   "en": "HeartGold & SoulSilver 20/123 Feraligatr hp:130 Rare",
+   "tcgdex": "hgss1-20 Feraligatr hp:130 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:064/070",
+   "jp": "HeartGold Collection 064/070 Switch (ポケモンいれかえ) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 102/123 Switch hp:null Uncommon",
+   "tcgdex": "hgss1-102 Switch hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:011/070",
+   "jp": "HeartGold Collection 011/070 Shuckle (ツボツボ) hp:60 Rare Holo",
+   "en": "HeartGold & SoulSilver 11/123 Shuckle hp:60 Rare Holo",
+   "tcgdex": "hgss1-11 Shuckle hp:60 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:006/070",
+   "jp": "HeartGold Collection 006/070 Hoppip (ハネッコ) hp:30 Common",
+   "en": "HeartGold & SoulSilver 67/123 Hoppip hp:30 Common",
+   "tcgdex": "hgss1-67 Hoppip hp:30 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:056/070",
+   "jp": "HeartGold Collection 056/070 Sentret (オタチ) hp:50 Common",
+   "en": "HeartGold & SoulSilver 80/123 Sentret hp:50 Common",
+   "tcgdex": "hgss1-80 Sentret hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:054/070",
+   "jp": "HeartGold Collection 054/070 Blissey (ハピナス) hp:130 SuperRare Holo",
+   "en": "HeartGold & SoulSilver 106/123 Blissey hp:130 Rare Holo Prime",
+   "tcgdex": "hgss1-106 Blissey hp:130 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:032/070",
+   "jp": "HeartGold Collection 032/070 Flaaffy (モココ) hp:80 Common",
+   "en": "HeartGold & SoulSilver 42/123 Flaaffy hp:80 Uncommon",
+   "tcgdex": "hgss1-42 Flaaffy hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:013/070",
+   "jp": "HeartGold Collection 013/070 Growlithe (ガーディ) hp:70 Common",
+   "en": "HeartGold & SoulSilver 65/123 Growlithe hp:70 Common",
+   "tcgdex": "hgss1-65 Growlithe hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:044/070",
+   "jp": "HeartGold Collection 044/070 Phanpy (ゴマゾウ) hp:70 Common",
+   "en": "HeartGold & SoulSilver 77/123 Phanpy hp:70 Common",
+   "tcgdex": "hgss1-77 Phanpy hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:033/070",
+   "jp": "HeartGold Collection 033/070 Ampharos (デンリュウ) hp:120 Uncommon",
+   "en": "HeartGold & SoulSilver 14/123 Ampharos hp:120 Rare",
+   "tcgdex": "hgss1-14 Ampharos hp:120 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:035/070",
+   "jp": "HeartGold Collection 035/070 Koffing (ドガース) hp:50 Common",
+   "en": "HeartGold & SoulSilver 70/123 Koffing hp:50 Common",
+   "tcgdex": "hgss1-70 Koffing hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:060/070",
+   "jp": "HeartGold Collection 060/070 Girafarig (キリンリキ) hp:70 Common",
+   "en": "HeartGold & SoulSilver 64/123 Girafarig hp:70 Common",
+   "tcgdex": "hgss1-64 Girafarig hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:061/070",
+   "jp": "HeartGold Collection 061/070 Dunsparce (ノコッチ) hp:50 Uncommon",
+   "en": "HeartGold & SoulSilver 41/123 Dunsparce hp:50 Uncommon",
+   "tcgdex": "hgss1-41 Dunsparce hp:50 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:053/070",
+   "jp": "HeartGold Collection 053/070 Blissey (ハピナス) hp:130 Uncommon",
+   "en": "HeartGold & SoulSilver 36/123 Blissey hp:130 Uncommon",
+   "tcgdex": "hgss1-36 Blissey hp:130 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:030/070",
+   "jp": "HeartGold Collection 030/070 Mantine (マンタイン) hp:80 Uncommon",
+   "en": "HeartGold & SoulSilver 45/123 Mantine hp:80 Uncommon",
+   "tcgdex": "hgss1-45 Mantine hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:041/070",
+   "jp": "HeartGold Collection 041/070 Wobbuffet (ソーナンス) hp:90 Rare Holo",
+   "en": "HeartGold & SoulSilver 13/123 Wobbuffet hp:90 Rare Holo",
+   "tcgdex": "hgss1-13 Wobbuffet hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:039/070",
+   "jp": "HeartGold Collection 039/070 Slowking (ヤドキング) hp:80 Rare Holo",
+   "en": "HeartGold & SoulSilver 12/123 Slowking hp:80 Rare Holo",
+   "tcgdex": "hgss1-12 Slowking hp:80 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:050/070",
+   "jp": "HeartGold Collection 050/070 Clefairy (ピッピ) hp:50 Common",
+   "en": "HeartGold & SoulSilver 60/123 Clefairy hp:50 Common",
+   "tcgdex": "hgss1-60 Clefairy hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:049/070",
+   "jp": "HeartGold Collection 049/070 Cleffa (ピィ) hp:30 Rare Holo",
+   "en": "HeartGold & SoulSilver 17/123 Cleffa hp:30 Rare",
+   "tcgdex": "hgss1-17 Cleffa hp:30 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:007/070",
+   "jp": "HeartGold Collection 007/070 Skiploom (ポポッコ) hp:60 Common",
+   "en": "HeartGold & SoulSilver 51/123 Skiploom hp:60 Uncommon",
+   "tcgdex": "hgss1-51 Skiploom hp:60 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:068/070",
+   "jp": "HeartGold Collection 068/070 Professor Oak's New Theory (オーキドはかせの新理論) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 101/123 Professor Oak's New Theory hp:null Uncommon",
+   "tcgdex": "hgss1-101 Professor Oak's New Theory hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:008/070",
+   "jp": "HeartGold Collection 008/070 Jumpluff (ワタッコ) hp:90 Rare Holo",
+   "en": "HeartGold & SoulSilver 6/123 Jumpluff hp:90 Rare Holo",
+   "tcgdex": "hgss1-6 Jumpluff hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:025/070",
+   "jp": "HeartGold Collection 025/070 Feraligatr (オーダイル) hp:140 SuperRare Holo",
+   "en": "HeartGold & SoulSilver 108/123 Feraligatr hp:140 Rare Holo Prime",
+   "tcgdex": "hgss1-108 Feraligatr hp:140 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:027/070",
+   "jp": "HeartGold Collection 027/070 Corsola (サニーゴ) hp:60 Uncommon",
+   "en": "HeartGold & SoulSilver 37/123 Corsola hp:60 Uncommon",
+   "tcgdex": "hgss1-37 Corsola hp:60 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss1",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:019/070",
+   "jp": "HeartGold Collection 019/070 Staryu (ヒトデマン) hp:50 Common",
+   "en": "HeartGold & SoulSilver 84/123 Staryu hp:50 Common",
+   "tcgdex": "hgss1-84 Staryu hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:028/070",
+   "jp": "HeartGold Collection 028/070 Remoraid (テッポウオ) hp:50 Common",
+   "en": "Unleashed 59/95 Remoraid hp:50 Common",
+   "tcgdex": "hgss2-59 Remoraid hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:042/070",
+   "jp": "HeartGold Collection 042/070 Mankey (マンキー) hp:50 Common",
+   "en": "Unleashed 53/95 Mankey hp:50 Common",
+   "tcgdex": "hgss2-53 Mankey hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:048/070",
+   "jp": "HeartGold Collection 048/070 Fearow (オニドリル) hp:80 Rare",
+   "en": "Unleashed 15/95 Fearow hp:80 Rare",
+   "tcgdex": "hgss2-15 Fearow hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:003/070",
+   "jp": "HeartGold Collection 003/070 Beedrill (スピアー) hp:110 Rare",
+   "en": "Unleashed 12/95 Beedrill hp:110 Rare",
+   "tcgdex": "hgss2-12 Beedrill hp:110 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:047/070",
+   "jp": "HeartGold Collection 047/070 Spearow (オニスズメ) hp:50 Common",
+   "en": "Unleashed 62/95 Spearow hp:50 Common",
+   "tcgdex": "hgss2-62 Spearow hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:002/070",
+   "jp": "HeartGold Collection 002/070 Kakuna (コクーン) hp:80 Uncommon",
+   "en": "Unleashed 32/95 Kakuna hp:80 Uncommon",
+   "tcgdex": "hgss2-32 Kakuna hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:043/070",
+   "jp": "HeartGold Collection 043/070 Primeape (オコリザル) hp:90 Rare",
+   "en": "Unleashed 22/95 Primeape hp:90 Rare",
+   "tcgdex": "hgss2-22 Primeape hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:029/070",
+   "jp": "HeartGold Collection 029/070 Octillery (オクタン) hp:80 Rare Holo",
+   "en": "Unleashed 6/95 Octillery hp:80 Rare Holo",
+   "tcgdex": "hgss2-6 Octillery hp:80 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:062/070",
+   "jp": "HeartGold Collection 062/070 Stantler (オドシシ) hp:70 Common",
+   "en": "Unleashed 64/95 Stantler hp:70 Common",
+   "tcgdex": "hgss2-64 Stantler hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1A->hgss2",
+   "sourceKey": "ja:L1A:HEARTGOLD_COLLECTION:055/070",
+   "jp": "HeartGold Collection 055/070 Tauros (ケンタロス) hp:90 Uncommon",
+   "en": "Unleashed 41/95 Tauros hp:90 Uncommon",
+   "tcgdex": "hgss2-41 Tauros hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:002/070",
+   "jp": "SoulSilver Collection 002/070 Metapod (トランセル) hp:80 Uncommon",
+   "en": "HeartGold & SoulSilver 46/123 Metapod hp:80 Uncommon",
+   "tcgdex": "hgss1-46 Metapod hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:040/070",
+   "jp": "SoulSilver Collection 040/070 Exeggcute (タマタマ) hp:50 Common",
+   "en": "HeartGold & SoulSilver 63/123 Exeggcute hp:50 Common",
+   "tcgdex": "hgss1-63 Exeggcute hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:063/070",
+   "jp": "SoulSilver Collection 063/070 Full Heal (なんでもなおし) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 93/123 Full Heal hp:null Uncommon",
+   "tcgdex": "hgss1-93 Full Heal hp:undefined Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:049/070",
+   "jp": "SoulSilver Collection 049/070 Hitmontop (カポエラー) hp:60 Rare Holo",
+   "en": "HeartGold & SoulSilver 5/123 Hitmontop hp:60 Rare Holo",
+   "tcgdex": "hgss1-5 Hitmontop hp:60 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:016/070",
+   "jp": "SoulSilver Collection 016/070 Typhlosion (バクフーン) hp:130 Uncommon",
+   "en": "HeartGold & SoulSilver 32/123 Typhlosion hp:130 Rare",
+   "tcgdex": "hgss1-32 Typhlosion hp:130 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:048/070",
+   "jp": "SoulSilver Collection 048/070 Tyrogue (バルキー) hp:30 Rare",
+   "en": "HeartGold & SoulSilver 33/123 Tyrogue hp:30 Rare",
+   "tcgdex": "hgss1-33 Tyrogue hp:30 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:017/070",
+   "jp": "SoulSilver Collection 017/070 Typhlosion (バクフーン) hp:140 SuperRare Holo",
+   "en": "HeartGold & SoulSilver 110/123 Typhlosion hp:140 Rare Holo Prime",
+   "tcgdex": "hgss1-110 Typhlosion hp:140 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:003/070",
+   "jp": "SoulSilver Collection 003/070 Butterfree (バタフリー) hp:120 Rare",
+   "en": "HeartGold & SoulSilver 16/123 Butterfree hp:120 Rare",
+   "tcgdex": "hgss1-16 Butterfree hp:120 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:045/070",
+   "jp": "SoulSilver Collection 045/070 Sandshrew (サンド) hp:60 Common",
+   "en": "HeartGold & SoulSilver 79/123 Sandshrew hp:60 Common",
+   "tcgdex": "hgss1-79 Sandshrew hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:068/070",
+   "jp": "SoulSilver Collection 068/070 Pokémon Collector (ポケモンコレクター) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 97/123 Pokémon Collector hp:null Uncommon",
+   "tcgdex": "hgss1-97 Pokémon Collector hp:undefined Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:028/070",
+   "jp": "SoulSilver Collection 028/070 Delibird (デリバード) hp:70 Uncommon",
+   "en": "HeartGold & SoulSilver 39/123 Delibird hp:70 Uncommon",
+   "tcgdex": "hgss1-39 Delibird hp:70 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:010/070",
+   "jp": "SoulSilver Collection 010/070 Ledyba (レディバ) hp:50 Common",
+   "en": "HeartGold & SoulSilver 71/123 Ledyba hp:50 Common",
+   "tcgdex": "hgss1-71 Ledyba hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:015/070",
+   "jp": "SoulSilver Collection 015/070 Quilava (マグマラシ) hp:80 Common",
+   "en": "HeartGold & SoulSilver 49/123 Quilava hp:80 Uncommon",
+   "tcgdex": "hgss1-49 Quilava hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:066/070",
+   "jp": "SoulSilver Collection 066/070 Moomoo Milk (モーモーミルク) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 94/123 Moomoo Milk hp:null Uncommon",
+   "tcgdex": "hgss1-94 Moomoo Milk hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:039/070",
+   "jp": "SoulSilver Collection 039/070 Hypno (スリーパー) hp:90 Rare",
+   "en": "HeartGold & SoulSilver 23/123 Hypno hp:90 Rare",
+   "tcgdex": "hgss1-23 Hypno hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:032/070",
+   "jp": "SoulSilver Collection 032/070 Pikachu (ピカチュウ) hp:60 Common",
+   "en": "HeartGold & SoulSilver 78/123 Pikachu hp:60 Common",
+   "tcgdex": "hgss1-78 Pikachu hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:053/070",
+   "jp": "SoulSilver Collection 053/070 Meowth (ニャース) hp:60 Common",
+   "en": "HeartGold & SoulSilver 75/123 Meowth hp:60 Common",
+   "tcgdex": "hgss1-75 Meowth hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:024/070",
+   "jp": "SoulSilver Collection 024/070 Marill (マリル) hp:60 Common",
+   "en": "HeartGold & SoulSilver 74/123 Marill hp:60 Common",
+   "tcgdex": "hgss1-74 Marill hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:025/070",
+   "jp": "SoulSilver Collection 025/070 Azumarill (マリルリ) hp:90 Rare Holo",
+   "en": "HeartGold & SoulSilver 2/123 Azumarill hp:90 Rare Holo",
+   "tcgdex": "hgss1-2 Azumarill hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:004/070",
+   "jp": "SoulSilver Collection 004/070 Paras (パラス) hp:50 Common",
+   "en": "HeartGold & SoulSilver 76/123 Paras hp:50 Common",
+   "tcgdex": "hgss1-76 Paras hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:046/070",
+   "jp": "SoulSilver Collection 046/070 Sandslash (サンドパン) hp:80 Rare",
+   "en": "HeartGold & SoulSilver 29/123 Sandslash hp:80 Rare",
+   "tcgdex": "hgss1-29 Sandslash hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:009/070",
+   "jp": "SoulSilver Collection 009/070 Meganium (メガニウム) hp:150 SuperRare Holo",
+   "en": "HeartGold & SoulSilver 109/123 Meganium hp:150 Rare Holo Prime",
+   "tcgdex": "hgss1-109 Meganium hp:150 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:069/070",
+   "jp": "SoulSilver Collection 069/070 Copycat (モノマネむすめ) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 90/123 Copycat hp:null Uncommon",
+   "tcgdex": "hgss1-90 Copycat hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:038/070",
+   "jp": "SoulSilver Collection 038/070 Drowzee (スリープ) hp:60 Common",
+   "en": "HeartGold & SoulSilver 62/123 Drowzee hp:60 Common",
+   "tcgdex": "hgss1-62 Drowzee hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:026/070",
+   "jp": "SoulSilver Collection 026/070 Wooper (ウパー) hp:50 Common",
+   "en": "HeartGold & SoulSilver 88/123 Wooper hp:50 Common",
+   "tcgdex": "hgss1-88 Wooper hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:058/070",
+   "jp": "SoulSilver Collection 058/070 Granbull (グランブル) hp:90 Rare",
+   "en": "HeartGold & SoulSilver 22/123 Granbull hp:90 Rare",
+   "tcgdex": "hgss1-22 Granbull hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:052/070",
+   "jp": "SoulSilver Collection 052/070 Wigglytuff (プクリン) hp:90 Uncommon",
+   "en": "HeartGold & SoulSilver 56/123 Wigglytuff hp:90 Uncommon",
+   "tcgdex": "hgss1-56 Wigglytuff hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:005/070",
+   "jp": "SoulSilver Collection 005/070 Parasect (パラセクト) hp:90 Uncommon",
+   "en": "HeartGold & SoulSilver 48/123 Parasect hp:90 Uncommon",
+   "tcgdex": "hgss1-48 Parasect hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:051/070",
+   "jp": "SoulSilver Collection 051/070 Jigglypuff (プリン) hp:60 Common",
+   "en": "HeartGold & SoulSilver 68/123 Jigglypuff hp:60 Common",
+   "tcgdex": "hgss1-68 Jigglypuff hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:006/070",
+   "jp": "SoulSilver Collection 006/070 Chikorita (チコリータ) hp:60 Common",
+   "en": "HeartGold & SoulSilver 59/123 Chikorita hp:60 Common",
+   "tcgdex": "hgss1-59 Chikorita hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:011/070",
+   "jp": "SoulSilver Collection 011/070 Ledian (レディアン) hp:80 Rare",
+   "en": "HeartGold & SoulSilver 25/123 Ledian hp:80 Rare",
+   "tcgdex": "hgss1-25 Ledian hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:027/070",
+   "jp": "SoulSilver Collection 027/070 Quagsire (ヌオー) hp:100 Rare Holo",
+   "en": "HeartGold & SoulSilver 9/123 Quagsire hp:100 Rare Holo",
+   "tcgdex": "hgss1-9 Quagsire hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:013/070",
+   "jp": "SoulSilver Collection 013/070 Ninetales (キュウコン) hp:90 Rare Holo",
+   "en": "HeartGold & SoulSilver 7/123 Ninetales hp:90 Rare Holo",
+   "tcgdex": "hgss1-7 Ninetales hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:022/070",
+   "jp": "SoulSilver Collection 022/070 Magikarp (コイキング) hp:30 Common",
+   "en": "HeartGold & SoulSilver 72/123 Magikarp hp:30 Common",
+   "tcgdex": "hgss1-72 Magikarp hp:30 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:057/070",
+   "jp": "SoulSilver Collection 057/070 Snubbull (ブルー) hp:50 Common",
+   "en": "HeartGold & SoulSilver 82/123 Snubbull hp:50 Common",
+   "tcgdex": "hgss1-82 Snubbull hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:062/070",
+   "jp": "SoulSilver Collection 062/070 Miltank (ミルタンク) hp:90 Uncommon",
+   "en": "HeartGold & SoulSilver 47/123 Miltank hp:90 Uncommon",
+   "tcgdex": "hgss1-47 Miltank hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:044/070",
+   "jp": "SoulSilver Collection 044/070 Unown (アンノーン) hp:50 Uncommon",
+   "en": "HeartGold & SoulSilver 55/123 Unown hp:50 Uncommon",
+   "tcgdex": "hgss1-55 Unown hp:50 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:041/070",
+   "jp": "SoulSilver Collection 041/070 Exeggutor (ナッシー) hp:90 Rare",
+   "en": "HeartGold & SoulSilver 18/123 Exeggutor hp:90 Rare",
+   "tcgdex": "hgss1-18 Exeggutor hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:012/070",
+   "jp": "SoulSilver Collection 012/070 Vulpix (ロコン) hp:50 Common",
+   "en": "HeartGold & SoulSilver 87/123 Vulpix hp:50 Common",
+   "tcgdex": "hgss1-87 Vulpix hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:031/070",
+   "jp": "SoulSilver Collection 031/070 Pichu (ピチュー) hp:30 Rare Holo",
+   "en": "HeartGold & SoulSilver 28/123 Pichu hp:30 Rare",
+   "tcgdex": "hgss1-28 Pichu hp:30 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:050/070",
+   "jp": "SoulSilver Collection 050/070 Igglybuff (ププリン) hp:30 Uncommon",
+   "en": "HeartGold & SoulSilver 44/123 Igglybuff hp:30 Uncommon",
+   "tcgdex": "hgss1-44 Igglybuff hp:30 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:064/070",
+   "jp": "SoulSilver Collection 064/070 Pokégear 3.0 (ポケギア3.0) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 96/123 Pokégear 3.0 hp:null Uncommon",
+   "tcgdex": "hgss1-96 Pokégear 3.0 hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:055/070",
+   "jp": "SoulSilver Collection 055/070 Farfetch'd (カモネギ) hp:60 Rare",
+   "en": "HeartGold & SoulSilver 19/123 Farfetch'd hp:60 Rare",
+   "tcgdex": "hgss1-19 Farfetch'd hp:60 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:023/070",
+   "jp": "SoulSilver Collection 023/070 Gyarados (ギャラドス) hp:130 Rare Holo",
+   "en": "HeartGold & SoulSilver 4/123 Gyarados hp:130 Rare Holo",
+   "tcgdex": "hgss1-4 Gyarados hp:130 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:033/070",
+   "jp": "SoulSilver Collection 033/070 Raichu (ライチュウ) hp:90 Rare Holo",
+   "en": "HeartGold & SoulSilver 10/123 Raichu hp:90 Rare Holo",
+   "tcgdex": "hgss1-10 Raichu hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:007/070",
+   "jp": "SoulSilver Collection 007/070 Bayleef (ベイリーフ) hp:90 Common",
+   "en": "HeartGold & SoulSilver 35/123 Bayleef hp:90 Uncommon",
+   "tcgdex": "hgss1-35 Bayleef hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:008/070",
+   "jp": "SoulSilver Collection 008/070 Meganium (メガニウム) hp:130 Uncommon",
+   "en": "HeartGold & SoulSilver 26/123 Meganium hp:130 Rare",
+   "tcgdex": "hgss1-26 Meganium hp:130 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:054/070",
+   "jp": "SoulSilver Collection 054/070 Persian (ペルシアン) hp:80 Rare",
+   "en": "HeartGold & SoulSilver 27/123 Persian hp:80 Rare",
+   "tcgdex": "hgss1-27 Persian hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:070/070",
+   "jp": "SoulSilver Collection 070/070 Rainbow Energy (レインボーエネルギー) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 104/123 Rainbow Energy hp:null Uncommon",
+   "tcgdex": "hgss1-104 Rainbow Energy hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:067/070",
+   "jp": "SoulSilver Collection 067/070 Fisherman (釣り人) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 92/123 Fisherman hp:null Uncommon",
+   "tcgdex": "hgss1-92 Fisherman hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:065/070",
+   "jp": "SoulSilver Collection 065/070 Pokémon Communication (ポケモン通信) hp:null Uncommon",
+   "en": "HeartGold & SoulSilver 98/123 Pokémon Communication hp:null Uncommon",
+   "tcgdex": "hgss1-98 Pokémon Communication hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss1",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:014/070",
+   "jp": "SoulSilver Collection 014/070 Cyndaquil (ヒノアラシ) hp:60 Common",
+   "en": "HeartGold & SoulSilver 61/123 Cyndaquil hp:60 Common",
+   "tcgdex": "hgss1-61 Cyndaquil hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:071/070",
+   "jp": "SoulSilver Collection 071/070 Alph Lithograph (アルフの石版) hp:null null",
+   "en": "Unleashed TWO Alph Lithograph hp:null Rare Secret",
+   "tcgdex": "hgss2-TWO Alph Lithograph hp:0 Ultra Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:047/070",
+   "jp": "SoulSilver Collection 047/070 Sudowoodo (ウソッキー) hp:90 Rare Holo",
+   "en": "Unleashed 9/95 Sudowoodo hp:90 Rare Holo",
+   "tcgdex": "hgss2-9 Sudowoodo hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:043/070",
+   "jp": "SoulSilver Collection 043/070 Xatu (ネイティオ) hp:90 Rare Holo",
+   "en": "Unleashed 11/95 Xatu hp:90 Rare Holo",
+   "tcgdex": "hgss2-11 Xatu hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:061/070",
+   "jp": "SoulSilver Collection 061/070 Ursaring (リングマ) hp:110 SuperRare Holo",
+   "en": "Unleashed 89/95 Ursaring hp:110 Rare Holo Prime",
+   "tcgdex": "hgss2-89 Ursaring hp:110 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:034/070",
+   "jp": "SoulSilver Collection 034/070 Zubat (ズバット) hp:50 Common",
+   "en": "Unleashed 70/95 Zubat hp:50 Common",
+   "tcgdex": "hgss2-70 Zubat hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:060/070",
+   "jp": "SoulSilver Collection 060/070 Ursaring (リングマ) hp:100 Uncommon",
+   "en": "Unleashed 27/95 Ursaring hp:100 Rare",
+   "tcgdex": "hgss2-27 Ursaring hp:100 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:019/070",
+   "jp": "SoulSilver Collection 019/070 Poliwhirl (ニョロゾ) hp:80 Uncommon",
+   "en": "Unleashed 37/95 Poliwhirl hp:80 Uncommon",
+   "tcgdex": "hgss2-37 Poliwhirl hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:056/070",
+   "jp": "SoulSilver Collection 056/070 Aipom (エイパム) hp:50 Common",
+   "en": "Unleashed 43/95 Aipom hp:50 Common",
+   "tcgdex": "hgss2-43 Aipom hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:059/070",
+   "jp": "SoulSilver Collection 059/070 Teddiursa (ヒメグマ) hp:60 Common",
+   "en": "Unleashed 65/95 Teddiursa hp:60 Common",
+   "tcgdex": "hgss2-65 Teddiursa hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:036/070",
+   "jp": "SoulSilver Collection 036/070 Crobat (クロバット) hp:110 Uncommon",
+   "en": "Unleashed 14/95 Crobat hp:110 Rare",
+   "tcgdex": "hgss2-14 Crobat hp:110 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:035/070",
+   "jp": "SoulSilver Collection 035/070 Golbat (ゴルバット) hp:80 Common",
+   "en": "Unleashed 30/95 Golbat hp:80 Uncommon",
+   "tcgdex": "hgss2-30 Golbat hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:021/070",
+   "jp": "SoulSilver Collection 021/070 Politoed (ニョロトノ) hp:120 Rare Holo",
+   "en": "Unleashed 7/95 Politoed hp:120 Rare Holo",
+   "tcgdex": "hgss2-7 Politoed hp:120 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:037/070",
+   "jp": "SoulSilver Collection 037/070 Crobat (クロバット) hp:130 SuperRare Holo",
+   "en": "Unleashed 84/95 Crobat hp:130 Rare Holo Prime",
+   "tcgdex": "hgss2-84 Crobat hp:130 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:042/070",
+   "jp": "SoulSilver Collection 042/070 Natu (ネイティ) hp:50 Common",
+   "en": "Unleashed 55/95 Natu hp:50 Common",
+   "tcgdex": "hgss2-55 Natu hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L1B->hgss2",
+   "sourceKey": "ja:L1B:SOULSILVER_COLLECTION:020/070",
+   "jp": "SoulSilver Collection 020/070 Poliwrath (ニョロボン) hp:130 Rare",
+   "en": "Unleashed 21/95 Poliwrath hp:130 Rare",
+   "tcgdex": "hgss2-21 Poliwrath hp:130 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:020/080",
+   "jp": "Reviving Legends 020/080 Lanturn (ランターン) hp:110 SuperRare Holo",
+   "en": "Unleashed 86/95 Lanturn hp:110 Rare Holo Prime",
+   "tcgdex": "hgss2-86 Lanturn hp:110 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:044/080",
+   "jp": "Reviving Legends 044/080 Tyranitar (バンギラス) hp:160 SuperRare Holo",
+   "en": "Unleashed 88/95 Tyranitar hp:160 Rare Holo Prime",
+   "tcgdex": "hgss2-88 Tyranitar hp:160 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:014/080",
+   "jp": "Reviving Legends 014/080 Kingdra (キングドラ) hp:130 Uncommon",
+   "en": "Unleashed 17/95 Kingdra hp:130 Rare",
+   "tcgdex": "hgss2-17 Kingdra hp:130 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:013/080",
+   "jp": "Reviving Legends 013/080 Seadra (シードラ) hp:80 Common",
+   "en": "Unleashed 40/95 Seadra hp:80 Uncommon",
+   "tcgdex": "hgss2-40 Seadra hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:047/080",
+   "jp": "Reviving Legends 047/080 Steelix (ハガネール) hp:140 SuperRare Holo",
+   "en": "Unleashed 87/95 Steelix hp:140 Rare Holo Prime",
+   "tcgdex": "hgss2-87 Steelix hp:140 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:015/080",
+   "jp": "Reviving Legends 015/080 Kingdra (キングドラ) hp:130 SuperRare Holo",
+   "en": "Unleashed 85/95 Kingdra hp:130 Rare Holo Prime",
+   "tcgdex": "hgss2-85 Kingdra hp:130 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:033/080",
+   "jp": "Reviving Legends 033/080 Larvitar (ヨーギラス) hp:50 Common",
+   "en": "Unleashed 50/95 Larvitar hp:50 Common",
+   "tcgdex": "hgss2-50 Larvitar hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:034/080",
+   "jp": "Reviving Legends 034/080 Pupitar (サナギラス) hp:70 Uncommon",
+   "en": "Unleashed 38/95 Pupitar hp:70 Uncommon",
+   "tcgdex": "hgss2-38 Pupitar hp:70 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:018/080",
+   "jp": "Reviving Legends 018/080 Chinchou (チョンチー) hp:60 Common",
+   "en": "Unleashed 48/95 Chinchou hp:60 Common",
+   "tcgdex": "hgss2-48 Chinchou hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:030/080",
+   "jp": "Reviving Legends 030/080 Onix (イワーク) hp:90 Common",
+   "en": "Unleashed 56/95 Onix hp:90 Common",
+   "tcgdex": "hgss2-56 Onix hp:90 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss2",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:019/080",
+   "jp": "Reviving Legends 019/080 Lanturn (ランターン) hp:90 Rare",
+   "en": "Unleashed 18/95 Lanturn hp:90 Rare",
+   "tcgdex": "hgss2-18 Lanturn hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:074/080",
+   "jp": "Reviving Legends 074/080 Flower Shop Lady (フラワーショップのお姉さん) hp:null Uncommon",
+   "en": "Undaunted 74/90 Flower Shop Lady hp:null Uncommon",
+   "tcgdex": "hgss3-74 Flower Shop Lady hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:002/080",
+   "jp": "Reviving Legends 002/080 Gloom (クサイハナ) hp:80 Uncommon",
+   "en": "Undaunted 27/90 Gloom hp:80 Uncommon",
+   "tcgdex": "hgss3-27 Gloom hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:027/080",
+   "jp": "Reviving Legends 027/080 Unown (アンノーン) hp:50 Uncommon",
+   "en": "Undaunted 40/90 Unown hp:50 Uncommon",
+   "tcgdex": "hgss3-40 Unown hp:50 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:046/080",
+   "jp": "Reviving Legends 046/080 Forretress (フォレトス) hp:90 Rare Holo",
+   "en": "Undaunted 3/90 Forretress hp:90 Rare Holo",
+   "tcgdex": "hgss3-3 Forretress hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:003/080",
+   "jp": "Reviving Legends 003/080 Vileplume (ラフレシア) hp:120 Rare",
+   "en": "Undaunted 24/90 Vileplume hp:120 Rare",
+   "tcgdex": "hgss3-24 Vileplume hp:120 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:039/080",
+   "jp": "Reviving Legends 039/080 Honchkrow (ドンカラス) hp:90 Rare",
+   "en": "Undaunted 16/90 Honchkrow hp:90 Rare",
+   "tcgdex": "hgss3-16 Honchkrow hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:051/080",
+   "jp": "Reviving Legends 051/080 Beldum (ダンバル) hp:50 Common",
+   "en": "Undaunted 43/90 Beldum hp:50 Common",
+   "tcgdex": "hgss3-43 Beldum hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:054/080",
+   "jp": "Reviving Legends 054/080 Rattata (コラッタ) hp:40 Common",
+   "en": "Undaunted 64/90 Rattata hp:40 Common",
+   "tcgdex": "hgss3-64 Rattata hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:035/080",
+   "jp": "Reviving Legends 035/080 Makuhita (マクノシタ) hp:70 Common",
+   "en": "Undaunted 55/90 Makuhita hp:70 Common",
+   "tcgdex": "hgss3-55 Makuhita hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:017/080",
+   "jp": "Reviving Legends 017/080 Jolteon (サンダース) hp:80 Uncommon",
+   "en": "Undaunted 28/90 Jolteon hp:80 Uncommon",
+   "tcgdex": "hgss3-28 Jolteon hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:045/080",
+   "jp": "Reviving Legends 045/080 Sableye (ヤミラミ) hp:60 Common",
+   "en": "Undaunted 35/90 Sableye hp:60 Uncommon",
+   "tcgdex": "hgss3-35 Sableye hp:60 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:081/080",
+   "jp": "Reviving Legends 081/080 Alph Lithograph (アルフの石版) hp:null null",
+   "en": "Undaunted THREE Alph Lithograph hp:null Rare Secret",
+   "tcgdex": "hgss3-THREE Alph Lithograph hp:0 Ultra Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:040/080",
+   "jp": "Reviving Legends 040/080 Sneasel (ニューラ) hp:60 Common",
+   "en": "Undaunted 68/90 Sneasel hp:60 Common",
+   "tcgdex": "hgss3-68 Sneasel hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:008/080",
+   "jp": "Reviving Legends 008/080 Vespiquen (ビークイン) hp:100 Rare",
+   "en": "Undaunted 23/90 Vespiquen hp:100 Rare",
+   "tcgdex": "hgss3-23 Vespiquen hp:100 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:021/080",
+   "jp": "Reviving Legends 021/080 Rotom (ロトム) hp:60 Rare",
+   "en": "Undaunted 20/90 Rotom hp:60 Rare",
+   "tcgdex": "hgss3-20 Rotom hp:60 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:026/080",
+   "jp": "Reviving Legends 026/080 Mismagius (ムウマージ) hp:80 Rare",
+   "en": "Undaunted 19/90 Mismagius hp:80 Rare",
+   "tcgdex": "hgss3-19 Mismagius hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:079/080",
+   "jp": "Reviving Legends 079/080 Darkness Energy (特殊悪エネルギー) hp:null Uncommon",
+   "en": "Undaunted 79/90 Darkness Energy hp:null Uncommon",
+   "tcgdex": "hgss3-79 Darkness Energy hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:062/080",
+   "jp": "Reviving Legends 062/080 Smeargle (ドーブル) hp:70 Rare Holo",
+   "en": "Undaunted 8/90 Smeargle hp:70 Rare Holo",
+   "tcgdex": "hgss3-8 Smeargle hp:70 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:055/080",
+   "jp": "Reviving Legends 055/080 Raticate (ラッタ) hp:80 Common",
+   "en": "Undaunted 34/90 Raticate hp:80 Uncommon",
+   "tcgdex": "hgss3-34 Raticate hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:005/080",
+   "jp": "Reviving Legends 005/080 Scyther (ストライク) hp:60 Common",
+   "en": "Undaunted 36/90 Scyther hp:60 Uncommon",
+   "tcgdex": "hgss3-36 Scyther hp:60 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:041/080",
+   "jp": "Reviving Legends 041/080 Weavile (マニューラ) hp:80 Rare",
+   "en": "Undaunted 25/90 Weavile hp:80 Rare",
+   "tcgdex": "hgss3-25 Weavile hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:059/080",
+   "jp": "Reviving Legends 059/080 Togepi (トゲピー) hp:40 Common",
+   "en": "Undaunted 70/90 Togepi hp:40 Common",
+   "tcgdex": "hgss3-70 Togepi hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:038/080",
+   "jp": "Reviving Legends 038/080 Murkrow (ヤミカラス) hp:70 Common",
+   "en": "Undaunted 59/90 Murkrow hp:70 Common",
+   "tcgdex": "hgss3-59 Murkrow hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:004/080",
+   "jp": "Reviving Legends 004/080 Bellossom (キレイハナ) hp:110 Rare Holo",
+   "en": "Undaunted 1/90 Bellossom hp:110 Rare Holo",
+   "tcgdex": "hgss3-1 Bellossom hp:110 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:007/080",
+   "jp": "Reviving Legends 007/080 Combee (ミツハニー) hp:30 Common",
+   "en": "Undaunted 44/90 Combee hp:30 Common",
+   "tcgdex": "hgss3-44 Combee hp:30 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:037/080",
+   "jp": "Reviving Legends 037/080 Umbreon (ブラッキー) hp:90 Rare Holo",
+   "en": "Undaunted 10/90 Umbreon hp:90 Rare Holo",
+   "tcgdex": "hgss3-10 Umbreon hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:032/080",
+   "jp": "Reviving Legends 032/080 Gliscor (グライオン) hp:90 Rare Holo",
+   "en": "Undaunted 4/90 Gliscor hp:90 Rare Holo",
+   "tcgdex": "hgss3-4 Gliscor hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:076/080",
+   "jp": "Reviving Legends 076/080 Team Rocket's Trickery (ロケット団の手口) hp:null Uncommon",
+   "en": "Undaunted 78/90 Team Rocket's Trickery hp:null Uncommon",
+   "tcgdex": "hgss3-78 Team Rocket's Trickery hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:023/080",
+   "jp": "Reviving Legends 023/080 Muk (ベトベトン) hp:100 Uncommon",
+   "en": "Undaunted 31/90 Muk hp:100 Uncommon",
+   "tcgdex": "hgss3-31 Muk hp:100 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:075/080",
+   "jp": "Reviving Legends 075/080 Sage's Training (ぼうずの修行) hp:null Uncommon",
+   "en": "Undaunted 77/90 Sage's Training hp:null Uncommon",
+   "tcgdex": "hgss3-77 Sage's Training hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:024/080",
+   "jp": "Reviving Legends 024/080 Espeon (エーフィ) hp:90 Rare Holo",
+   "en": "Undaunted 2/90 Espeon hp:90 Rare Holo",
+   "tcgdex": "hgss3-2 Espeon hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:028/080",
+   "jp": "Reviving Legends 028/080 Drifloon (フワンテ) hp:50 Common",
+   "en": "Undaunted 46/90 Drifloon hp:50 Common",
+   "tcgdex": "hgss3-46 Drifloon hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:011/080",
+   "jp": "Reviving Legends 011/080 Magcargo (マグカルゴ) hp:100 Rare Holo",
+   "en": "Undaunted 6/90 Magcargo hp:100 Rare Holo",
+   "tcgdex": "hgss3-6 Magcargo hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:061/080",
+   "jp": "Reviving Legends 061/080 Togekiss (トゲキッス) hp:120 Rare Holo",
+   "en": "Undaunted 9/90 Togekiss hp:120 Rare Holo",
+   "tcgdex": "hgss3-9 Togekiss hp:120 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:029/080",
+   "jp": "Reviving Legends 029/080 Drifblim (フワライド) hp:90 Rare",
+   "en": "Undaunted 12/90 Drifblim hp:90 Rare",
+   "tcgdex": "hgss3-12 Drifblim hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:010/080",
+   "jp": "Reviving Legends 010/080 Slugma (マグマッグ) hp:60 Common",
+   "en": "Undaunted 67/90 Slugma hp:60 Common",
+   "tcgdex": "hgss3-67 Slugma hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:053/080",
+   "jp": "Reviving Legends 053/080 Metagross (メタグロス) hp:130 Rare",
+   "en": "Undaunted 18/90 Metagross hp:130 Rare",
+   "tcgdex": "hgss3-18 Metagross hp:130 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:009/080",
+   "jp": "Reviving Legends 009/080 Flareon (ブースター) hp:90 Uncommon",
+   "en": "Undaunted 26/90 Flareon hp:90 Uncommon",
+   "tcgdex": "hgss3-26 Flareon hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:060/080",
+   "jp": "Reviving Legends 060/080 Togetic (トゲチック) hp:80 Uncommon",
+   "en": "Undaunted 39/90 Togetic hp:80 Uncommon",
+   "tcgdex": "hgss3-39 Togetic hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:031/080",
+   "jp": "Reviving Legends 031/080 Gligar (グライガー) hp:70 Common",
+   "en": "Undaunted 49/90 Gligar hp:70 Common",
+   "tcgdex": "hgss3-49 Gligar hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:073/080",
+   "jp": "Reviving Legends 073/080 Legend Box (レジェンドボックス) hp:null Uncommon",
+   "en": "Undaunted 75/90 Legend Box hp:null Uncommon",
+   "tcgdex": "hgss3-75 Legend Box hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:056/080",
+   "jp": "Reviving Legends 056/080 Doduo (ドードー) hp:50 Common",
+   "en": "Undaunted 45/90 Doduo hp:50 Common",
+   "tcgdex": "hgss3-45 Doduo hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:022/080",
+   "jp": "Reviving Legends 022/080 Grimer (ベトベター) hp:60 Common",
+   "en": "Undaunted 50/90 Grimer hp:60 Common",
+   "tcgdex": "hgss3-50 Grimer hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:049/080",
+   "jp": "Reviving Legends 049/080 Skarmory (エアームド) hp:80 Rare",
+   "en": "Undaunted 21/90 Skarmory hp:80 Rare",
+   "tcgdex": "hgss3-21 Skarmory hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:043/080",
+   "jp": "Reviving Legends 043/080 Houndoom (ヘルガー) hp:90 Rare Holo",
+   "en": "Undaunted 5/90 Houndoom hp:90 Rare Holo",
+   "tcgdex": "hgss3-5 Houndoom hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:077/080",
+   "jp": "Reviving Legends 077/080 Ruins of Alph (アルフの遺跡) hp:null Uncommon",
+   "en": "Undaunted 76/90 Ruins of Alph hp:null Uncommon",
+   "tcgdex": "hgss3-76 Ruins of Alph hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:016/080",
+   "jp": "Reviving Legends 016/080 Vaporeon (シャワーズ) hp:90 Uncommon",
+   "en": "Undaunted 41/90 Vaporeon hp:90 Uncommon",
+   "tcgdex": "hgss3-41 Vaporeon hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:080/080",
+   "jp": "Reviving Legends 080/080 Metal Energy (特殊鋼エネルギー) hp:null Uncommon",
+   "en": "Undaunted 80/90 Metal Energy hp:null Uncommon",
+   "tcgdex": "hgss3-80 Metal Energy hp:undefined Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:042/080",
+   "jp": "Reviving Legends 042/080 Houndour (デルビル) hp:50 Common",
+   "en": "Undaunted 54/90 Houndour hp:50 Common",
+   "tcgdex": "hgss3-54 Houndour hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:052/080",
+   "jp": "Reviving Legends 052/080 Metang (メタング) hp:80 Uncommon",
+   "en": "Undaunted 30/90 Metang hp:80 Uncommon",
+   "tcgdex": "hgss3-30 Metang hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:070/080",
+   "jp": "Reviving Legends 070/080 Defender (ディフェンダー) hp:null Uncommon",
+   "en": "Undaunted 72/90 Defender hp:null Uncommon",
+   "tcgdex": "hgss3-72 Defender hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:048/080",
+   "jp": "Reviving Legends 048/080 Scizor (ハッサム) hp:90 Rare Holo",
+   "en": "Undaunted 7/90 Scizor hp:90 Rare Holo",
+   "tcgdex": "hgss3-7 Scizor hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:078/080",
+   "jp": "Reviving Legends 078/080 Burned Tower (焼けた塔) hp:null Uncommon",
+   "en": "Undaunted 71/90 Burned Tower hp:null Uncommon",
+   "tcgdex": "hgss3-71 Burned Tower hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:036/080",
+   "jp": "Reviving Legends 036/080 Hariyama (ハリテヤマ) hp:100 Rare",
+   "en": "Undaunted 14/90 Hariyama hp:100 Rare",
+   "tcgdex": "hgss3-14 Hariyama hp:100 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:057/080",
+   "jp": "Reviving Legends 057/080 Dodrio (ドードリオ) hp:80 Rare",
+   "en": "Undaunted 11/90 Dodrio hp:80 Rare",
+   "tcgdex": "hgss3-11 Dodrio hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L2->hgss3",
+   "sourceKey": "ja:L2:REVIVING_LEGENDS:069/080",
+   "jp": "Reviving Legends 069/080 Energy Exchanger (エネルギー交換装置) hp:null Uncommon",
+   "en": "Undaunted 73/90 Energy Exchanger hp:null Uncommon",
+   "tcgdex": "hgss3-73 Energy Exchanger hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:022/080",
+   "jp": "Clash at the Summit 022/080 Wailmer (ホエルコ) hp:90 Common",
+   "en": "Triumphant 52/102 Wailmer hp:90 Uncommon",
+   "tcgdex": "hgss4-52 Wailmer hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:063/080",
+   "jp": "Clash at the Summit 063/080 Kangaskhan (ガルーラ) hp:80 Common",
+   "en": "Triumphant 36/102 Kangaskhan hp:80 Uncommon",
+   "tcgdex": "hgss4-36 Kangaskhan hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:066/080",
+   "jp": "Clash at the Summit 066/080 Porygon2 (ポリゴン２) hp:80 Common",
+   "en": "Triumphant 49/102 Porygon2 hp:80 Uncommon",
+   "tcgdex": "hgss4-49 Porygon2 hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:049/080",
+   "jp": "Clash at the Summit 049/080 Solrock (ソルロック) hp:70 Rare Holo",
+   "en": "Triumphant 9/102 Solrock hp:70 Rare Holo",
+   "tcgdex": "hgss4-9 Solrock hp:70 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:064/080",
+   "jp": "Clash at the Summit 064/080 Ditto (メタモン) hp:40 Rare",
+   "en": "Triumphant 17/102 Ditto hp:40 Rare",
+   "tcgdex": "hgss4-17 Ditto hp:40 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:078/080",
+   "jp": "Clash at the Summit 078/080 Twins (ふたごちゃん) hp:null Uncommon",
+   "en": "Triumphant 89/102 Twins hp:null Uncommon",
+   "tcgdex": "hgss4-89 Twins hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:044/080",
+   "jp": "Clash at the Summit 044/080 Machamp (カイリキー) hp:130 Uncommon",
+   "en": "Triumphant 26/102 Machamp hp:130 Rare",
+   "tcgdex": "hgss4-26 Machamp hp:130 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:051/080",
+   "jp": "Clash at the Summit 051/080 Sharpedo (サメハダー) hp:90 Rare",
+   "en": "Triumphant 30/102 Sharpedo hp:90 Rare",
+   "tcgdex": "hgss4-30 Sharpedo hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:050/080",
+   "jp": "Clash at the Summit 050/080 Carvanha (キバニア) hp:50 Common",
+   "en": "Triumphant 59/102 Carvanha hp:50 Common",
+   "tcgdex": "hgss4-59 Carvanha hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:016/080",
+   "jp": "Clash at the Summit 016/080 Golduck (ゴルダック) hp:90 Rare",
+   "en": "Triumphant 22/102 Golduck hp:90 Rare",
+   "tcgdex": "hgss4-22 Golduck hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:029/080",
+   "jp": "Clash at the Summit 029/080 Electabuzz (エレブー) hp:70 Uncommon",
+   "en": "Triumphant 33/102 Electabuzz hp:70 Uncommon",
+   "tcgdex": "hgss4-33 Electabuzz hp:70 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:043/080",
+   "jp": "Clash at the Summit 043/080 Machoke (ゴーリキー) hp:90 Common",
+   "en": "Triumphant 40/102 Machoke hp:90 Uncommon",
+   "tcgdex": "hgss4-40 Machoke hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:026/080",
+   "jp": "Clash at the Summit 026/080 Electrode (マルマイン) hp:80 Uncommon",
+   "en": "Triumphant 34/102 Electrode hp:80 Uncommon",
+   "tcgdex": "hgss4-34 Electrode hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:048/080",
+   "jp": "Clash at the Summit 048/080 Lunatone (ルナトーン) hp:60 Rare",
+   "en": "Triumphant 25/102 Lunatone hp:60 Rare",
+   "tcgdex": "hgss4-25 Lunatone hp:60 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:025/080",
+   "jp": "Clash at the Summit 025/080 Voltorb (ビリリダマ) hp:40 Common",
+   "en": "Triumphant 83/102 Voltorb hp:40 Common",
+   "tcgdex": "hgss4-83 Voltorb hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:056/080",
+   "jp": "Clash at the Summit 056/080 Bronzor (ドーミラー) hp:60 Common",
+   "en": "Triumphant 58/102 Bronzor hp:60 Common",
+   "tcgdex": "hgss4-58 Bronzor hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:030/080",
+   "jp": "Clash at the Summit 030/080 Electivire (エレキブル) hp:100 Rare Holo",
+   "en": "Triumphant 20/102 Electivire hp:100 Rare",
+   "tcgdex": "hgss4-20 Electivire hp:100 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:007/080",
+   "jp": "Clash at the Summit 007/080 Celebi (セレビィ) hp:60 SuperRare Holo",
+   "en": "Triumphant 92/102 Celebi hp:60 Rare Holo Prime",
+   "tcgdex": "hgss4-92 Celebi hp:60 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:003/080",
+   "jp": "Clash at the Summit 003/080 Victreebel (ウツボット) hp:110 Rare Holo",
+   "en": "Triumphant 12/102 Victreebel hp:110 Rare Holo",
+   "tcgdex": "hgss4-12 Victreebel hp:110 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:008/080",
+   "jp": "Clash at the Summit 008/080 Kricketot (コロボーシ) hp:50 Common",
+   "en": "Triumphant 65/102 Kricketot hp:50 Common",
+   "tcgdex": "hgss4-65 Kricketot hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:032/080",
+   "jp": "Clash at the Summit 032/080 Nidorina (ニドリーナ) hp:80 Uncommon",
+   "en": "Triumphant 45/102 Nidorina hp:80 Uncommon",
+   "tcgdex": "hgss4-45 Nidorina hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:028/080",
+   "jp": "Clash at the Summit 028/080 Elekid (エレキッド) hp:30 Rare",
+   "en": "Triumphant 21/102 Elekid hp:30 Rare",
+   "tcgdex": "hgss4-21 Elekid hp:30 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:020/080",
+   "jp": "Clash at the Summit 020/080 Piloswine (イノムー) hp:100 Uncommon",
+   "en": "Triumphant 48/102 Piloswine hp:100 Uncommon",
+   "tcgdex": "hgss4-48 Piloswine hp:100 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:037/080",
+   "jp": "Clash at the Summit 037/080 Celebi (セレビィ) hp:70 Rare Holo",
+   "en": "Triumphant 3/102 Celebi hp:70 Rare Holo",
+   "tcgdex": "hgss4-3 Celebi hp:70 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:039/080",
+   "jp": "Clash at the Summit 039/080 Grumpig (ブーピッグ) hp:90 Rare",
+   "en": "Triumphant 23/102 Grumpig hp:90 Rare",
+   "tcgdex": "hgss4-23 Grumpig hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:081/080",
+   "jp": "Clash at the Summit 081/080 Alph Lithograph (アルフの石版) hp:null null",
+   "en": "Triumphant FOUR Alph Lithograph hp:null Rare Secret",
+   "tcgdex": "hgss4-FOUR Alph Lithograph hp:0 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:040/080",
+   "jp": "Clash at the Summit 040/080 Skorupi (スコルピ) hp:60 Common",
+   "en": "Triumphant 76/102 Skorupi hp:60 Common",
+   "tcgdex": "hgss4-76 Skorupi hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:005/080",
+   "jp": "Clash at the Summit 005/080 Yanmega (メガヤンマ) hp:90 Uncommon",
+   "en": "Triumphant 54/102 Yanmega hp:90 Uncommon",
+   "tcgdex": "hgss4-54 Yanmega hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:068/080",
+   "jp": "Clash at the Summit 068/080 Aipom (エイパム) hp:60 Common",
+   "en": "Triumphant 55/102 Aipom hp:60 Common",
+   "tcgdex": "hgss4-55 Aipom hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:019/080",
+   "jp": "Clash at the Summit 019/080 Swinub (ウリムー) hp:60 Common",
+   "en": "Triumphant 79/102 Swinub hp:60 Common",
+   "tcgdex": "hgss4-79 Swinub hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:010/080",
+   "jp": "Clash at the Summit 010/080 Ponyta (ポニータ) hp:60 Common",
+   "en": "Triumphant 72/102 Ponyta hp:60 Common",
+   "tcgdex": "hgss4-72 Ponyta hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:038/080",
+   "jp": "Clash at the Summit 038/080 Spoink (バネブー) hp:50 Common",
+   "en": "Triumphant 77/102 Spoink hp:50 Common",
+   "tcgdex": "hgss4-77 Spoink hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:054/080",
+   "jp": "Clash at the Summit 054/080 Lairon (コドラ) hp:80 Uncommon",
+   "en": "Triumphant 37/102 Lairon hp:80 Uncommon",
+   "tcgdex": "hgss4-37 Lairon hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:033/080",
+   "jp": "Clash at the Summit 033/080 Nidoqueen (ニドクイン) hp:130 Rare",
+   "en": "Triumphant 28/102 Nidoqueen hp:130 Rare",
+   "tcgdex": "hgss4-28 Nidoqueen hp:130 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:062/080",
+   "jp": "Clash at the Summit 062/080 Lickilicky (ベロベルト) hp:100 Uncommon",
+   "en": "Triumphant 38/102 Lickilicky hp:100 Uncommon",
+   "tcgdex": "hgss4-38 Lickilicky hp:100 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:017/080",
+   "jp": "Clash at the Summit 017/080 Tentacool (メノクラゲ) hp:60 Common",
+   "en": "Triumphant 80/102 Tentacool hp:60 Common",
+   "tcgdex": "hgss4-80 Tentacool hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:079/080",
+   "jp": "Clash at the Summit 079/080 Indigo Plateau (セキエイこうげん) hp:null Uncommon",
+   "en": "Triumphant 86/102 Indigo Plateau hp:null Uncommon",
+   "tcgdex": "hgss4-86 Indigo Plateau hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:077/080",
+   "jp": "Clash at the Summit 077/080 Black Belt (からておう) hp:null Uncommon",
+   "en": "Triumphant 85/102 Black Belt hp:null Uncommon",
+   "tcgdex": "hgss4-85 Black Belt hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:069/080",
+   "jp": "Clash at the Summit 069/080 Ambipom (エテボース) hp:80 Rare",
+   "en": "Triumphant 13/102 Ambipom hp:80 Rare",
+   "tcgdex": "hgss4-13 Ambipom hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:042/080",
+   "jp": "Clash at the Summit 042/080 Machop (ワンリキー) hp:60 Common",
+   "en": "Triumphant 67/102 Machop hp:60 Common",
+   "tcgdex": "hgss4-67 Machop hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:013/080",
+   "jp": "Clash at the Summit 013/080 Magmar (ブーバー) hp:70 Uncommon",
+   "en": "Triumphant 42/102 Magmar hp:70 Uncommon",
+   "tcgdex": "hgss4-42 Magmar hp:70 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:076/080",
+   "jp": "Clash at the Summit 076/080 Junk Arm (ジャンクアーム) hp:null Uncommon",
+   "en": "Triumphant 87/102 Junk Arm hp:null Uncommon",
+   "tcgdex": "hgss4-87 Junk Arm hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:015/080",
+   "jp": "Clash at the Summit 015/080 Psyduck (コダック) hp:60 Common",
+   "en": "Triumphant 74/102 Psyduck hp:60 Common",
+   "tcgdex": "hgss4-74 Psyduck hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:031/080",
+   "jp": "Clash at the Summit 031/080 Nidoran♀ (ニドラン♀) hp:50 Common",
+   "en": "Triumphant 69/102 Nidoran♀ hp:50 Common",
+   "tcgdex": "hgss4-69 Nidoran ♀ hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:011/080",
+   "jp": "Clash at the Summit 011/080 Rapidash (ギャロップ) hp:90 Rare Holo",
+   "en": "Triumphant 8/102 Rapidash hp:90 Rare Holo",
+   "tcgdex": "hgss4-8 Rapidash hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:006/080",
+   "jp": "Clash at the Summit 006/080 Yanmega (メガヤンマ) hp:110 SuperRare Holo",
+   "en": "Triumphant 98/102 Yanmega hp:110 Rare Holo Prime",
+   "tcgdex": "hgss4-98 Yanmega hp:110 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:021/080",
+   "jp": "Clash at the Summit 021/080 Mamoswine (マンムー) hp:140 Rare Holo",
+   "en": "Triumphant 5/102 Mamoswine hp:140 Rare Holo",
+   "tcgdex": "hgss4-5 Mamoswine hp:140 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:067/080",
+   "jp": "Clash at the Summit 067/080 Porygon-Z (ポリゴンZ) hp:110 Rare Holo",
+   "en": "Triumphant 7/102 Porygon-Z hp:110 Rare Holo",
+   "tcgdex": "hgss4-7 Porygon-Z hp:110 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:057/080",
+   "jp": "Clash at the Summit 057/080 Bronzong (ドータクン) hp:90 Rare",
+   "en": "Triumphant 15/102 Bronzong hp:90 Rare",
+   "tcgdex": "hgss4-15 Bronzong hp:90 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:004/080",
+   "jp": "Clash at the Summit 004/080 Yanma (ヤンヤンマ) hp:50 Common",
+   "en": "Triumphant 84/102 Yanma hp:50 Common",
+   "tcgdex": "hgss4-84 Yanma hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:041/080",
+   "jp": "Clash at the Summit 041/080 Nidoking (ニドキング) hp:140 Rare Holo",
+   "en": "Triumphant 6/102 Nidoking hp:140 Rare Holo",
+   "tcgdex": "hgss4-6 Nidoking hp:140 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:047/080",
+   "jp": "Clash at the Summit 047/080 Marowak (ガラガラ) hp:90 Uncommon",
+   "en": "Triumphant 44/102 Marowak hp:90 Uncommon",
+   "tcgdex": "hgss4-44 Marowak hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:055/080",
+   "jp": "Clash at the Summit 055/080 Aggron (ボスゴドラ) hp:140 Rare Holo",
+   "en": "Triumphant 1/102 Aggron hp:140 Rare Holo",
+   "tcgdex": "hgss4-1 Aggron hp:140 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:034/080",
+   "jp": "Clash at the Summit 034/080 Nidoran♂ (ニドラン♂) hp:50 Common",
+   "en": "Triumphant 70/102 Nidoran♂ hp:50 Common",
+   "tcgdex": "hgss4-70 Nidoran ♂ hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:052/080",
+   "jp": "Clash at the Summit 052/080 Drapion (ドラピオン) hp:100 Rare Holo",
+   "en": "Triumphant 4/102 Drapion hp:100 Rare Holo",
+   "tcgdex": "hgss4-4 Drapion hp:100 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:046/080",
+   "jp": "Clash at the Summit 046/080 Cubone (カラカラ) hp:40 Common",
+   "en": "Triumphant 60/102 Cubone hp:40 Common",
+   "tcgdex": "hgss4-60 Cubone hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:080/080",
+   "jp": "Clash at the Summit 080/080 Rescue Energy (レスキューエネルギー) hp:null Uncommon",
+   "en": "Triumphant 90/102 Rescue Energy hp:null Uncommon",
+   "tcgdex": "hgss4-90 Rescue Energy hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:002/080",
+   "jp": "Clash at the Summit 002/080 Weepinbell (ウツドン) hp:80 Uncommon",
+   "en": "Triumphant 53/102 Weepinbell hp:80 Uncommon",
+   "tcgdex": "hgss4-53 Weepinbell hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:009/080",
+   "jp": "Clash at the Summit 009/080 Kricketune (コロトック) hp:80 Rare",
+   "en": "Triumphant 24/102 Kricketune hp:80 Rare",
+   "tcgdex": "hgss4-24 Kricketune hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:035/080",
+   "jp": "Clash at the Summit 035/080 Nidorino (ニドリーノ) hp:80 Uncommon",
+   "en": "Triumphant 46/102 Nidorino hp:80 Uncommon",
+   "tcgdex": "hgss4-46 Nidorino hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:036/080",
+   "jp": "Clash at the Summit 036/080 Unown (アンノーン) hp:50 Uncommon",
+   "en": "Triumphant 51/102 Unown hp:50 Uncommon",
+   "tcgdex": "hgss4-51 Unown hp:50 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:023/080",
+   "jp": "Clash at the Summit 023/080 Wailord (ホエルオー) hp:180 Rare",
+   "en": "Triumphant 31/102 Wailord hp:180 Rare",
+   "tcgdex": "hgss4-31 Wailord hp:180 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:060/080",
+   "jp": "Clash at the Summit 060/080 Pidgeot (ピジョット) hp:120 Uncommon",
+   "en": "Triumphant 29/102 Pidgeot hp:120 Rare",
+   "tcgdex": "hgss4-29 Pidgeot hp:120 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:061/080",
+   "jp": "Clash at the Summit 061/080 Lickitung (ベロリンガ) hp:90 Common",
+   "en": "Triumphant 66/102 Lickitung hp:90 Common",
+   "tcgdex": "hgss4-66 Lickitung hp:90 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:053/080",
+   "jp": "Clash at the Summit 053/080 Aron (ココドラ) hp:60 Common",
+   "en": "Triumphant 56/102 Aron hp:60 Common",
+   "tcgdex": "hgss4-56 Aron hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:018/080",
+   "jp": "Clash at the Summit 018/080 Tentacruel (ドククラゲ) hp:90 Uncommon",
+   "en": "Triumphant 50/102 Tentacruel hp:90 Uncommon",
+   "tcgdex": "hgss4-50 Tentacruel hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:024/080",
+   "jp": "Clash at the Summit 024/080 Luvdisc (ラブカス) hp:60 Uncommon",
+   "en": "Triumphant 39/102 Luvdisc hp:60 Uncommon",
+   "tcgdex": "hgss4-39 Luvdisc hp:60 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:045/080",
+   "jp": "Clash at the Summit 045/080 Machamp (カイリキー) hp:150 SuperRare Holo",
+   "en": "Triumphant 95/102 Machamp hp:150 Rare Holo Prime",
+   "tcgdex": "hgss4-95 Machamp hp:150 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:027/080",
+   "jp": "Clash at the Summit 027/080 Electrode (マルマイン) hp:90 SuperRare Holo",
+   "en": "Triumphant 93/102 Electrode hp:90 Rare Holo Prime",
+   "tcgdex": "hgss4-93 Electrode hp:90 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:014/080",
+   "jp": "Clash at the Summit 014/080 Magmortar (ブーバーン) hp:100 Rare",
+   "en": "Triumphant 27/102 Magmortar hp:100 Rare",
+   "tcgdex": "hgss4-27 Magmortar hp:100 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "L3->hgss4",
+   "sourceKey": "ja:L3:CLASH_AT_THE_SUMMIT:065/080",
+   "jp": "Clash at the Summit 065/080 Porygon (ポリゴン) hp:50 Common",
+   "en": "Triumphant 73/102 Porygon hp:50 Common",
+   "tcgdex": "hgss4-73 Porygon hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:004/040",
+   "jp": "Lost Link 004/040 Tangrowth (モジャンボ) hp:110 Uncommon",
+   "en": "Call of Legends 34/95 Tangrowth hp:110 Rare",
+   "tcgdex": "col1-34 Tangrowth hp:110 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:008/040",
+   "jp": "Lost Link 008/040 Relicanth (ジーランス) hp:80 Common",
+   "en": "Call of Legends 69/95 Relicanth hp:80 Common",
+   "tcgdex": "col1-69 Relicanth hp:80 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:025/040",
+   "jp": "Lost Link 025/040 Riolu (リオル) hp:50 Uncommon",
+   "en": "Call of Legends 50/95 Riolu hp:50 Uncommon",
+   "tcgdex": "col1-50 Riolu hp:50 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:034/040",
+   "jp": "Lost Link 034/040 Zangoose (ザングース) hp:80 Rare",
+   "en": "Call of Legends 39/95 Zangoose hp:80 Rare",
+   "tcgdex": "col1-39 Zangoose hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:016/040",
+   "jp": "Lost Link 016/040 Mime Jr. (マネネ) hp:30 Uncommon",
+   "en": "Call of Legends 47/95 Mime Jr. hp:30 Uncommon",
+   "tcgdex": "col1-47 Mime Jr. hp:30 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:037/040",
+   "jp": "Lost Link 037/040 Research Record (研究の記録) hp:null Uncommon",
+   "en": "Call of Legends 84/95 Research Record hp:null Uncommon",
+   "tcgdex": "col1-84 Research Record hp:undefined Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:012/040",
+   "jp": "Lost Link 012/040 Pachirisu (パチリス) hp:60 Rare Holo",
+   "en": "Call of Legends 18/95 Pachirisu hp:60 Rare Holo",
+   "tcgdex": "col1-18 Pachirisu hp:60 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:026/040",
+   "jp": "Lost Link 026/040 Lucario (ルカリオ) hp:90 Rare Holo",
+   "en": "Call of Legends 14/95 Lucario hp:90 Rare Holo",
+   "tcgdex": "col1-14 Lucario hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:028/040",
+   "jp": "Lost Link 028/040 Snorlax (カビゴン) hp:100 Rare Holo",
+   "en": "Call of Legends 33/95 Snorlax hp:100 Rare",
+   "tcgdex": "col1-33 Snorlax hp:100 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:038/040",
+   "jp": "Lost Link 038/040 Lost Remover (ロストリムーバー) hp:null Uncommon",
+   "en": "Call of Legends 80/95 Lost Remover hp:null Uncommon",
+   "tcgdex": "col1-80 Lost Remover hp:undefined Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:040/040",
+   "jp": "Lost Link 040/040 Lost World (ロストワールド) hp:null Uncommon",
+   "en": "Call of Legends 81/95 Lost World hp:null Uncommon",
+   "tcgdex": "col1-81 Lost World hp:undefined Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:017/040",
+   "jp": "Lost Link 017/040 Mr. Mime (バリヤード) hp:70 Rare",
+   "en": "Call of Legends 29/95 Mr. Mime hp:70 Rare",
+   "tcgdex": "col1-29 Mr. Mime hp:70 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->col1",
+   "sourceKey": "ja:LL:LOST_LINK:019/040",
+   "jp": "Lost Link 019/040 Seviper (ハブネーク) hp:90 Uncommon",
+   "en": "Call of Legends 51/95 Seviper hp:90 Uncommon",
+   "tcgdex": "col1-51 Seviper hp:90 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:023/040",
+   "jp": "Lost Link 023/040 Diglett (ディグダ) hp:40 Common",
+   "en": "Triumphant 61/102 Diglett hp:40 Common",
+   "tcgdex": "hgss4-61 Diglett hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:015/040",
+   "jp": "Lost Link 015/040 Gengar (ゲンガー) hp:130 SuperRare Holo",
+   "en": "Triumphant 94/102 Gengar hp:130 Rare Holo Prime",
+   "tcgdex": "hgss4-94 Gengar hp:130 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:039/040",
+   "jp": "Lost Link 039/040 Seeker (探究者) hp:null Uncommon",
+   "en": "Triumphant 88/102 Seeker hp:null Uncommon",
+   "tcgdex": "hgss4-88 Seeker hp:0 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:018/040",
+   "jp": "Lost Link 018/040 Mew (ミュウ) hp:60 SuperRare Holo",
+   "en": "Triumphant 97/102 Mew hp:60 Rare Holo Prime",
+   "tcgdex": "hgss4-97 Mew hp:60 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:014/040",
+   "jp": "Lost Link 014/040 Haunter (ゴースト) hp:70 Uncommon",
+   "en": "Triumphant 35/102 Haunter hp:70 Uncommon",
+   "tcgdex": "hgss4-35 Haunter hp:70 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:021/040",
+   "jp": "Lost Link 021/040 Banette (ジュペッタ) hp:80 Rare",
+   "en": "Triumphant 14/102 Banette hp:80 Rare",
+   "tcgdex": "hgss4-14 Banette hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:031/040",
+   "jp": "Lost Link 031/040 Dragonite (カイリュー) hp:140 Rare",
+   "en": "Triumphant 18/102 Dragonite hp:140 Rare",
+   "tcgdex": "hgss4-18 Dragonite hp:140 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:006/040",
+   "jp": "Lost Link 006/040 Illumise (イルミーゼ) hp:70 Common",
+   "en": "Triumphant 64/102 Illumise hp:70 Common",
+   "tcgdex": "hgss4-64 Illumise hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:022/040",
+   "jp": "Lost Link 022/040 Spiritomb (ミカルゲ) hp:60 Rare Holo",
+   "en": "Triumphant 10/102 Spiritomb hp:60 Rare Holo",
+   "tcgdex": "hgss4-10 Spiritomb hp:60 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:033/040",
+   "jp": "Lost Link 033/040 Altaria (チルタリス) hp:90 Rare Holo",
+   "en": "Triumphant 2/102 Altaria hp:90 Rare Holo",
+   "tcgdex": "hgss4-2 Altaria hp:90 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:011/040",
+   "jp": "Lost Link 011/040 Magnezone (ジバコイル) hp:140 SuperRare Holo",
+   "en": "Triumphant 96/102 Magnezone hp:140 Rare Holo Prime",
+   "tcgdex": "hgss4-96 Magnezone hp:140 Rare PRIME",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:013/040",
+   "jp": "Lost Link 013/040 Gastly (ゴース) hp:50 Common",
+   "en": "Triumphant 63/102 Gastly hp:50 Common",
+   "tcgdex": "hgss4-63 Gastly hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:010/040",
+   "jp": "Lost Link 010/040 Magneton (レアコイル) hp:80 Uncommon",
+   "en": "Triumphant 43/102 Magneton hp:80 Uncommon",
+   "tcgdex": "hgss4-43 Magneton hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:005/040",
+   "jp": "Lost Link 005/040 Volbeat (バルビート) hp:70 Common",
+   "en": "Triumphant 82/102 Volbeat hp:70 Common",
+   "tcgdex": "hgss4-82 Volbeat hp:70 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:032/040",
+   "jp": "Lost Link 032/040 Swablu (チルット) hp:40 Common",
+   "en": "Triumphant 78/102 Swablu hp:40 Common",
+   "tcgdex": "hgss4-78 Swablu hp:40 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:029/040",
+   "jp": "Lost Link 029/040 Dratini (ミニリュウ) hp:50 Common",
+   "en": "Triumphant 62/102 Dratini hp:50 Common",
+   "tcgdex": "hgss4-62 Dratini hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:030/040",
+   "jp": "Lost Link 030/040 Dragonair (ハクリュー) hp:80 Common",
+   "en": "Triumphant 32/102 Dragonair hp:80 Uncommon",
+   "tcgdex": "hgss4-32 Dragonair hp:80 Uncommon",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:020/040",
+   "jp": "Lost Link 020/040 Shuppet (カゲボウズ) hp:60 Common",
+   "en": "Triumphant 75/102 Shuppet hp:60 Common",
+   "tcgdex": "hgss4-75 Shuppet hp:60 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:007/040",
+   "jp": "Lost Link 007/040 Carnivine (マスキッパ) hp:80 Rare",
+   "en": "Triumphant 16/102 Carnivine hp:80 Rare",
+   "tcgdex": "hgss4-16 Carnivine hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:009/040",
+   "jp": "Lost Link 009/040 Magnemite (コイル) hp:50 Common",
+   "en": "Triumphant 68/102 Magnemite hp:50 Common",
+   "tcgdex": "hgss4-68 Magnemite hp:50 Common",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:024/040",
+   "jp": "Lost Link 024/040 Dugtrio (ダグトリオ) hp:80 Rare",
+   "en": "Triumphant 19/102 Dugtrio hp:80 Rare",
+   "tcgdex": "hgss4-19 Dugtrio hp:80 Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:002/040",
+   "jp": "Lost Link 002/040 Venomoth (モルフォン) hp:80 Rare Holo",
+   "en": "Triumphant 11/102 Venomoth hp:80 Rare Holo",
+   "tcgdex": "hgss4-11 Venomoth hp:80 Holo Rare",
+   "checks": []
+  },
+  {
+   "relationship": "LL->hgss4",
+   "sourceKey": "ja:LL:LOST_LINK:027/040",
+   "jp": "Lost Link 027/040 Absol (アブソル) hp:80 SuperRare Holo",
+   "en": "Triumphant 91/102 Absol hp:80 Rare Holo Prime",
+   "tcgdex": "hgss4-91 Absol hp:80 Rare PRIME",
+   "checks": []
+  }
+ ]
+}

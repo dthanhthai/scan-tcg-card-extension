@@ -1,0 +1,6501 @@
+{
+  "schemaVersion": 1,
+  "reviewPolicy": "hybrid",
+  "selectionPolicy": "after-audit",
+  "approvalStatus": "pending-user-review",
+  "proposals": [
+    {
+      "relationship": "ROCKRUFF-DECK->sm2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:ROCKRUFF-DECK:ROCKRUFF_FULL_POWER_DECK:002/013",
+        "language": "ja",
+        "setCode": "ROCKRUFF-DECK",
+        "tcgdexSetId": null,
+        "setName": "Rockruff Full Power Deck",
+        "cardNumber": "002/013",
+        "localId": "002",
+        "rarity": null,
+        "cardName": "Turtonator",
+        "japaneseName": "バクガメス",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM2",
+        "tcgdexSetId": "sm2",
+        "setName": "Guardians Rising",
+        "cardNumber": "17/145",
+        "localId": "17",
+        "rarity": "Rare",
+        "cardName": "Turtonator",
+        "japaneseName": "バクガメス",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Turtonator (Guardians Rising 17)",
+            "pageId": 219760,
+            "revisionId": 4046902,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "ROCKRUFF-DECK->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:ROCKRUFF-DECK:ROCKRUFF_FULL_POWER_DECK:008/013",
+        "language": "ja",
+        "setCode": "ROCKRUFF-DECK",
+        "tcgdexSetId": null,
+        "setName": "Rockruff Full Power Deck",
+        "cardNumber": "008/013",
+        "localId": "008",
+        "rarity": null,
+        "cardName": "Rockruff",
+        "japaneseName": "イワンコ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM06",
+        "localId": "SM06",
+        "rarity": null,
+        "cardName": "Rockruff",
+        "japaneseName": "イワンコ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Rockruff (SM Promo 6)",
+            "pageId": 216473,
+            "revisionId": 3349709,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-FAMILY->sm11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-FAMILY:SUN_MOON_FAMILY_POKEMON_CARD_GAME:006/051",
+        "language": "ja",
+        "setCode": "SM-FAMILY",
+        "tcgdexSetId": null,
+        "setName": "Sun & Moon Family Pokémon Card Game",
+        "cardNumber": "006/051",
+        "localId": "006",
+        "rarity": null,
+        "cardName": "Dhelmise",
+        "japaneseName": "ダダリン",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "20/236",
+        "localId": "20",
+        "rarity": "Uncommon",
+        "cardName": "Dhelmise",
+        "japaneseName": "ダダリン",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Dhelmise (Unified Minds 20)",
+            "pageId": 236327,
+            "revisionId": 4235791,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-FAMILY->sm115",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-FAMILY:SUN_MOON_FAMILY_POKEMON_CARD_GAME:001/051",
+        "language": "ja",
+        "setCode": "SM-FAMILY",
+        "tcgdexSetId": null,
+        "setName": "Sun & Moon Family Pokémon Card Game",
+        "cardNumber": "001/051",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM115",
+        "tcgdexSetId": "sm115",
+        "setName": "Hidden Fates",
+        "cardNumber": "1/68",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Caterpie (Hidden Fates 1)",
+            "pageId": 236299,
+            "revisionId": 3353903,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-FAMILY->sm12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-FAMILY:SUN_MOON_FAMILY_POKEMON_CARD_GAME:022/051",
+        "language": "ja",
+        "setCode": "SM-FAMILY",
+        "tcgdexSetId": null,
+        "setName": "Sun & Moon Family Pokémon Card Game",
+        "cardNumber": "022/051",
+        "localId": "022",
+        "rarity": null,
+        "cardName": "Togedemaru",
+        "japaneseName": "トゲデマル",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "74/236",
+        "localId": "74",
+        "rarity": "Common",
+        "cardName": "Togedemaru",
+        "japaneseName": "トゲデマル",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Togedemaru (Cosmic Eclipse 74)",
+            "pageId": 236348,
+            "revisionId": 3353914,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:017/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "017/SM-P",
+        "localId": "017",
+        "rarity": null,
+        "cardName": "Decidueye",
+        "japaneseName": "ジュナイパー",
+        "cardKind": "pokemon",
+        "hp": 140
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM1",
+        "tcgdexSetId": "sm1",
+        "setName": "Sun & Moon",
+        "cardNumber": "11/149",
+        "localId": "11",
+        "rarity": "Rare",
+        "cardName": "Decidueye",
+        "japaneseName": "ジュナイパー",
+        "cardKind": "pokemon",
+        "hp": 140,
+        "evidence": [
+          {
+            "pageTitle": "Decidueye (Sun & Moon 11)",
+            "pageId": 219326,
+            "revisionId": 2939959,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 1,
+      "selectionReasons": [
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:244/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "244/SM-P",
+        "localId": "244",
+        "rarity": null,
+        "cardName": "Samson Oak",
+        "japaneseName": "ナリヤ・オーキド",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM10",
+        "tcgdexSetId": "sm10",
+        "setName": "Unbroken Bonds",
+        "cardNumber": "185/214",
+        "localId": "185",
+        "rarity": "Uncommon",
+        "cardName": "Samson Oak",
+        "japaneseName": "ナリヤ・オーキド",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Samson Oak (Unbroken Bonds 185)",
+            "pageId": 230285,
+            "revisionId": 3946183,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:291/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "291/SM-P",
+        "localId": "291",
+        "rarity": null,
+        "cardName": "Pikachu",
+        "japaneseName": "ピカチュウ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "55/236",
+        "localId": "55",
+        "rarity": "Common",
+        "cardName": "Pikachu",
+        "japaneseName": "ピカチュウ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Pikachu (Unified Minds 55)",
+            "pageId": 234004,
+            "revisionId": 4166945,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm115",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:253/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "253/SM-P",
+        "localId": "253",
+        "rarity": null,
+        "cardName": "Slowpoke",
+        "japaneseName": "ヤドン",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM115",
+        "tcgdexSetId": "sm115",
+        "setName": "Hidden Fates",
+        "cardNumber": "12/68",
+        "localId": "12",
+        "rarity": "Common",
+        "cardName": "Slowpoke",
+        "japaneseName": "ヤドン",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Slowpoke (Lost Thunder 54)",
+            "pageId": 231728,
+            "revisionId": 3952439,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:300/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "300/SM-P",
+        "localId": "300",
+        "rarity": null,
+        "cardName": "Carvanha",
+        "japaneseName": "キバニア",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "132/236",
+        "localId": "132",
+        "rarity": "Common",
+        "cardName": "Carvanha",
+        "japaneseName": "キバニア",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Carvanha (Cosmic Eclipse 132)",
+            "pageId": 234008,
+            "revisionId": 3221715,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 1,
+      "selectionReasons": [
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:020/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "020/SM-P",
+        "localId": "020",
+        "rarity": null,
+        "cardName": "Hau",
+        "japaneseName": "ハウ",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM2",
+        "tcgdexSetId": "sm2",
+        "setName": "Guardians Rising",
+        "cardNumber": "144/145",
+        "localId": "144",
+        "rarity": "Rare Ultra",
+        "cardName": "Hau",
+        "japaneseName": "ハウ",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Hau (Sun & Moon 120)",
+            "pageId": 219480,
+            "revisionId": 4593961,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:011/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "011/SM-P",
+        "localId": "011",
+        "rarity": null,
+        "cardName": "Togedemaru",
+        "japaneseName": "トゲデマル",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM3",
+        "tcgdexSetId": "sm3",
+        "setName": "Burning Shadows",
+        "cardNumber": "47/147",
+        "localId": "47",
+        "rarity": "Common",
+        "cardName": "Togedemaru",
+        "japaneseName": "トゲデマル",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Togedemaru (Burning Shadows 47)",
+            "pageId": 219900,
+            "revisionId": 3576345,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 1,
+      "selectionReasons": [
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:053/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "053/SM-P",
+        "localId": "053",
+        "rarity": null,
+        "cardName": "Olivia",
+        "japaneseName": "ライチ",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM4",
+        "tcgdexSetId": "sm4",
+        "setName": "Crimson Invasion",
+        "cardNumber": "111/111",
+        "localId": "111",
+        "rarity": "Rare Ultra",
+        "cardName": "Olivia",
+        "japaneseName": "ライチ",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Olivia (Burning Shadows 119)",
+            "pageId": 221651,
+            "revisionId": 4594206,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:066/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "066/SM-P",
+        "localId": "066",
+        "rarity": null,
+        "cardName": "Lunala",
+        "japaneseName": "ルナアーラ",
+        "cardKind": "pokemon",
+        "hp": 160
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM7",
+        "tcgdexSetId": "sm7",
+        "setName": "Celestial Storm",
+        "cardNumber": "70/168",
+        "localId": "70",
+        "rarity": "Rare Holo",
+        "cardName": "Lunala",
+        "japaneseName": "ルナアーラ",
+        "cardKind": "pokemon",
+        "hp": 160,
+        "evidence": [
+          {
+            "pageTitle": "Lunala (Celestial Storm 70)",
+            "pageId": 222054,
+            "revisionId": 3235768,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm7.5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:050/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "050/SM-P",
+        "localId": "050",
+        "rarity": null,
+        "cardName": "Litten",
+        "japaneseName": "ニャビー",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "12/70",
+        "localId": "12",
+        "rarity": "Common",
+        "cardName": "Litten",
+        "japaneseName": "ニャビー",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Litten (Dragon Majesty 12)",
+            "pageId": 221235,
+            "revisionId": 3951670,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:051/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "051/SM-P",
+        "localId": "051",
+        "rarity": null,
+        "cardName": "Popplio",
+        "japaneseName": "アシマリ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "64/214",
+        "localId": "64",
+        "rarity": "Common",
+        "cardName": "Popplio",
+        "japaneseName": "アシマリ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Popplio (Lost Thunder 64)",
+            "pageId": 221236,
+            "revisionId": 3951703,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->sm9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:226/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "226/SM-P",
+        "localId": "226",
+        "rarity": null,
+        "cardName": "Zangoose",
+        "japaneseName": "ザングース",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM9",
+        "tcgdexSetId": "sm9",
+        "setName": "Team Up",
+        "cardNumber": "132/181",
+        "localId": "132",
+        "rarity": "Rare Holo",
+        "cardName": "Zangoose",
+        "japaneseName": "ザングース",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Zangoose (Team Up 132)",
+            "pageId": 230946,
+            "revisionId": 3585977,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-P->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-P:SM_P_PROMOTIONAL_CARDS:001/SM-P",
+        "language": "ja",
+        "setCode": "SM-P",
+        "tcgdexSetId": null,
+        "setName": "SM-P Promotional cards",
+        "cardNumber": "001/SM-P",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Snorlax-GX",
+        "japaneseName": "カビゴンGX",
+        "cardKind": "pokemon",
+        "hp": 190
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM05",
+        "localId": "SM05",
+        "rarity": null,
+        "cardName": "Snorlax-GX",
+        "japaneseName": "カビゴンGX",
+        "cardKind": "pokemon",
+        "hp": 190,
+        "evidence": [
+          {
+            "pageTitle": "Snorlax-GX (SM Promo 5)",
+            "pageId": 215603,
+            "revisionId": 4482319,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM-TRAINER-DECKS->sm115",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM-TRAINER-DECKS:TRAINER_BATTLE_DECKS:004/031",
+        "language": "ja",
+        "setCode": "SM-TRAINER-DECKS",
+        "tcgdexSetId": null,
+        "setName": "Trainer Battle Decks",
+        "cardNumber": "004/031",
+        "localId": "004",
+        "rarity": null,
+        "cardName": "Starmie-GX",
+        "japaneseName": "スターミーGX",
+        "cardKind": "pokemon",
+        "hp": 190
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM115",
+        "tcgdexSetId": "sm115",
+        "setName": "Hidden Fates",
+        "cardNumber": "14/68",
+        "localId": "14",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Starmie-GX",
+        "japaneseName": "スターミーGX",
+        "cardKind": "pokemon",
+        "hp": 190,
+        "evidence": [
+          {
+            "pageTitle": "Starmie-GX (Hidden Fates 14)",
+            "pageId": 234755,
+            "revisionId": 4575380,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM1->SM1M",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM1:SUN_MOON:100/149",
+        "language": "en",
+        "setCode": "SM1",
+        "tcgdexSetId": "sm1",
+        "setName": "Sun & Moon",
+        "cardNumber": "100/149",
+        "localId": "100",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Tauros-GX",
+        "japaneseName": "ケンタロスGX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM1M",
+        "tcgdexSetId": "SM1M",
+        "setName": "Collection Moon",
+        "cardNumber": "047/060",
+        "localId": "047",
+        "rarity": "RR",
+        "cardName": "Tauros-GX",
+        "japaneseName": "ケンタロスGX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Tauros-GX (Sun & Moon 100)",
+            "pageId": 219439,
+            "revisionId": 4575175,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM1->SM1S",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM1:SUN_MOON:1/149",
+        "language": "en",
+        "setCode": "SM1",
+        "tcgdexSetId": "sm1",
+        "setName": "Sun & Moon",
+        "cardNumber": "1/149",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM1S",
+        "tcgdexSetId": "SM1S",
+        "setName": "Collection Sun",
+        "cardNumber": "001/060",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Caterpie (Sun & Moon 1)",
+            "pageId": 219181,
+            "revisionId": 4594944,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM1+->sm2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM1+:ENHANCED_EXPANSION_PACK_SUN_MOON:021/051",
+        "language": "ja",
+        "setCode": "SM1+",
+        "tcgdexSetId": "SM1p",
+        "setName": "Enhanced Expansion Pack Sun & Moon",
+        "cardNumber": "021/051",
+        "localId": "021",
+        "rarity": "RR",
+        "cardName": "Vikavolt-GX",
+        "japaneseName": "クワガノンGX",
+        "cardKind": "pokemon",
+        "hp": 240
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM2",
+        "tcgdexSetId": "sm2",
+        "setName": "Guardians Rising",
+        "cardNumber": "45/145",
+        "localId": "45",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Vikavolt-GX",
+        "japaneseName": "クワガノンGX",
+        "cardKind": "pokemon",
+        "hp": 240,
+        "evidence": [
+          {
+            "pageTitle": "Vikavolt-GX (Guardians Rising 45)",
+            "pageId": 220678,
+            "revisionId": 4188325,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM1+->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM1+:ENHANCED_EXPANSION_PACK_SUN_MOON:006/051",
+        "language": "ja",
+        "setCode": "SM1+",
+        "tcgdexSetId": "SM1p",
+        "setName": "Enhanced Expansion Pack Sun & Moon",
+        "cardNumber": "006/051",
+        "localId": "006",
+        "rarity": null,
+        "cardName": "Lurantis",
+        "japaneseName": "ラランテス",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM25",
+        "localId": "SM25",
+        "rarity": null,
+        "cardName": "Lurantis",
+        "japaneseName": "ラランテス",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Lurantis (SM Promo 25)",
+            "pageId": 220660,
+            "revisionId": 4339240,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10->sm10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10:DOUBLE_BLAZE:001/095",
+        "language": "ja",
+        "setCode": "SM10",
+        "tcgdexSetId": "SM10",
+        "setName": "Double Blaze",
+        "cardNumber": "001/095",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM10",
+        "tcgdexSetId": "sm10",
+        "setName": "Unbroken Bonds",
+        "cardNumber": "5/214",
+        "localId": "5",
+        "rarity": "Common",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Oddish (Unbroken Bonds 5)",
+            "pageId": 235869,
+            "revisionId": 3589769,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10->SM10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM10:UNBROKEN_BONDS:10/214",
+        "language": "en",
+        "setCode": "SM10",
+        "tcgdexSetId": "sm10",
+        "setName": "Unbroken Bonds",
+        "cardNumber": "10/214",
+        "localId": "10",
+        "rarity": "Common",
+        "cardName": "Venonat",
+        "japaneseName": "コンパン",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10",
+        "tcgdexSetId": "SM10",
+        "setName": "Double Blaze",
+        "cardNumber": "005/095",
+        "localId": "005",
+        "rarity": "C",
+        "cardName": "Venonat",
+        "japaneseName": "コンパン",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Venonat (Unbroken Bonds 10)",
+            "pageId": 235873,
+            "revisionId": 3589774,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10->sm115",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10:DOUBLE_BLAZE:105/095",
+        "language": "ja",
+        "setCode": "SM10",
+        "tcgdexSetId": "SM10",
+        "setName": "Double Blaze",
+        "cardNumber": "105/095",
+        "localId": "105",
+        "rarity": "SR",
+        "cardName": "Giovanni's Exile",
+        "japaneseName": "サカキの追放",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM115",
+        "tcgdexSetId": "sm115",
+        "setName": "Hidden Fates",
+        "cardNumber": "67/68",
+        "localId": "67",
+        "rarity": "Rare Ultra",
+        "cardName": "Giovanni's Exile",
+        "japaneseName": "サカキの追放",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Giovanni's Exile (Unbroken Bonds 174)",
+            "pageId": 235853,
+            "revisionId": 3662858,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10->SM9a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM10:UNBROKEN_BONDS:107/214",
+        "language": "en",
+        "setCode": "SM10",
+        "tcgdexSetId": "sm10",
+        "setName": "Unbroken Bonds",
+        "cardNumber": "107/214",
+        "localId": "107",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Greninja & Zoroark-GX",
+        "japaneseName": "ゲッコウガ＆ゾロアークGX",
+        "cardKind": "pokemon",
+        "hp": 250
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM9A",
+        "tcgdexSetId": "SM9a",
+        "setName": "Night Unison",
+        "cardNumber": "025/055",
+        "localId": "025",
+        "rarity": "RR",
+        "cardName": "Greninja & Zoroark-GX",
+        "japaneseName": "ゲッコウガ＆ゾロアークGX",
+        "cardKind": "pokemon",
+        "hp": 250,
+        "evidence": [
+          {
+            "pageTitle": "Greninja & Zoroark-GX (Unbroken Bonds 107)",
+            "pageId": 234454,
+            "revisionId": 4575083,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10->SM9b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM10:UNBROKEN_BONDS:1/214",
+        "language": "en",
+        "setCode": "SM10",
+        "tcgdexSetId": "sm10",
+        "setName": "Unbroken Bonds",
+        "cardNumber": "1/214",
+        "localId": "1",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Pheromosa & Buzzwole-GX",
+        "japaneseName": "フェローチェ＆マッシブーンGX",
+        "cardKind": "pokemon",
+        "hp": 260
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM9B",
+        "tcgdexSetId": "SM9b",
+        "setName": "Full Metal Wall",
+        "cardNumber": "001/054",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Pheromosa & Buzzwole-GX",
+        "japaneseName": "フェローチェ＆マッシブーンGX",
+        "cardKind": "pokemon",
+        "hp": 260,
+        "evidence": [
+          {
+            "pageTitle": "Pheromosa & Buzzwole-GX (Unbroken Bonds 1)",
+            "pageId": 234905,
+            "revisionId": 4575085,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10->sma",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10:DOUBLE_BLAZE:115/095",
+        "language": "ja",
+        "setCode": "SM10",
+        "tcgdexSetId": "SM10",
+        "setName": "Double Blaze",
+        "cardNumber": "115/095",
+        "localId": "115",
+        "rarity": "UR",
+        "cardName": "Shrine of Punishment",
+        "japaneseName": "戒めの祠",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV90/SV94",
+        "localId": "SV90",
+        "rarity": "Rare Secret",
+        "cardName": "Shrine of Punishment",
+        "japaneseName": "戒めの祠",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Shrine of Punishment (Celestial Storm 143)",
+            "pageId": 230079,
+            "revisionId": 3371185,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10:DOUBLE_BLAZE:097/095",
+        "language": "ja",
+        "setCode": "SM10",
+        "tcgdexSetId": "SM10",
+        "setName": "Double Blaze",
+        "cardNumber": "097/095",
+        "localId": "097",
+        "rarity": "SR",
+        "cardName": "Reshiram & Charizard-GX",
+        "japaneseName": "レシラム＆リザードンGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM201",
+        "localId": "SM201",
+        "rarity": null,
+        "cardName": "Reshiram & Charizard-GX",
+        "japaneseName": "レシラム＆リザードンGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Reshiram & Charizard-GX (Unbroken Bonds 20)",
+            "pageId": 235767,
+            "revisionId": 4575060,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10A->sm11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10A:GG_END:001/054",
+        "language": "ja",
+        "setCode": "SM10A",
+        "tcgdexSetId": "SM10a",
+        "setName": "GG End",
+        "cardNumber": "001/054",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Karrablast",
+        "japaneseName": "カブルモ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "12/236",
+        "localId": "12",
+        "rarity": "Common",
+        "cardName": "Karrablast",
+        "japaneseName": "カブルモ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Karrablast (Unified Minds 12)",
+            "pageId": 236734,
+            "revisionId": 4631173,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10A->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10A:GG_END:060/054",
+        "language": "ja",
+        "setCode": "SM10A",
+        "tcgdexSetId": "SM10a",
+        "setName": "GG End",
+        "cardNumber": "060/054",
+        "localId": "060",
+        "rarity": "SR",
+        "cardName": "Garchomp & Giratina-GX",
+        "japaneseName": "ガブリアス&ギラティナGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM193",
+        "localId": "SM193",
+        "rarity": null,
+        "cardName": "Garchomp & Giratina-GX",
+        "japaneseName": "ガブリアス&ギラティナGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Garchomp & Giratina-GX (Unified Minds 146)",
+            "pageId": 236558,
+            "revisionId": 4575063,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10B->sm11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10B:SKY_LEGEND:001/054",
+        "language": "ja",
+        "setCode": "SM10B",
+        "tcgdexSetId": "SM10b",
+        "setName": "Sky Legend",
+        "cardNumber": "001/054",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Rowlet & Alolan Exeggutor-GX",
+        "japaneseName": "モクロー&アローラナッシーGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "1/236",
+        "localId": "1",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Rowlet & Alolan Exeggutor-GX",
+        "japaneseName": "モクロー&アローラナッシーGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Rowlet & Alolan Exeggutor-GX (Unified Minds 1)",
+            "pageId": 236991,
+            "revisionId": 4575053,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10B->sm115",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10B:SKY_LEGEND:025/054",
+        "language": "ja",
+        "setCode": "SM10B",
+        "tcgdexSetId": "SM10b",
+        "setName": "Sky Legend",
+        "cardNumber": "025/054",
+        "localId": "025",
+        "rarity": "C",
+        "cardName": "Ekans",
+        "japaneseName": "アーボ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM115",
+        "tcgdexSetId": "sm115",
+        "setName": "Hidden Fates",
+        "cardNumber": "26/68",
+        "localId": "26",
+        "rarity": "Common",
+        "cardName": "Ekans",
+        "japaneseName": "アーボ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Ekans (Hidden Fates 26)",
+            "pageId": 237069,
+            "revisionId": 3237706,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM10B->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM10B:SKY_LEGEND:060/054",
+        "language": "ja",
+        "setCode": "SM10B",
+        "tcgdexSetId": "SM10b",
+        "setName": "Sky Legend",
+        "cardNumber": "060/054",
+        "localId": "060",
+        "rarity": "SR",
+        "cardName": "Moltres & Zapdos & Articuno-GX",
+        "japaneseName": "ファイヤー&サンダー&フリーザーGX",
+        "cardKind": "pokemon",
+        "hp": 300
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM210",
+        "localId": "SM210",
+        "rarity": null,
+        "cardName": "Moltres & Zapdos & Articuno-GX",
+        "japaneseName": "ファイヤー&サンダー&フリーザーGX",
+        "cardKind": "pokemon",
+        "hp": 300,
+        "evidence": [
+          {
+            "pageTitle": "Moltres & Zapdos & Articuno-GX (Hidden Fates 44)",
+            "pageId": 236958,
+            "revisionId": 4575057,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM11->SM10a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM11:UNIFIED_MINDS:105/236",
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "105/236",
+        "localId": "105",
+        "rarity": "Common",
+        "cardName": "Cubone",
+        "japaneseName": "カラカラ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10A",
+        "tcgdexSetId": "SM10a",
+        "setName": "GG End",
+        "cardNumber": "019/054",
+        "localId": "019",
+        "rarity": "C",
+        "cardName": "Cubone",
+        "japaneseName": "カラカラ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Cubone (Unified Minds 105)",
+            "pageId": 236748,
+            "revisionId": 3222959,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM11->SM10b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM11:UNIFIED_MINDS:1/236",
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "1/236",
+        "localId": "1",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Rowlet & Alolan Exeggutor-GX",
+        "japaneseName": "モクロー&アローラナッシーGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10B",
+        "tcgdexSetId": "SM10b",
+        "setName": "Sky Legend",
+        "cardNumber": "001/054",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Rowlet & Alolan Exeggutor-GX",
+        "japaneseName": "モクロー&アローラナッシーGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Rowlet & Alolan Exeggutor-GX (Unified Minds 1)",
+            "pageId": 236991,
+            "revisionId": 4575053,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM11->sm11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM11:MIRACLE_TWIN:001/094",
+        "language": "ja",
+        "setCode": "SM11",
+        "tcgdexSetId": "SM11",
+        "setName": "Miracle Twin",
+        "cardNumber": "001/094",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Yanma",
+        "japaneseName": "ヤンヤンマ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "2/236",
+        "localId": "2",
+        "rarity": "Common",
+        "cardName": "Yanma",
+        "japaneseName": "ヤンヤンマ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Yanma (Unified Minds 2)",
+            "pageId": 237991,
+            "revisionId": 4379214,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM11->SM11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM11:UNIFIED_MINDS:101/236",
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "101/236",
+        "localId": "101",
+        "rarity": "Rare",
+        "cardName": "Necrozma",
+        "japaneseName": "ネクロズマ",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM11",
+        "tcgdexSetId": "SM11",
+        "setName": "Miracle Twin",
+        "cardNumber": "042/094",
+        "localId": "042",
+        "rarity": "R",
+        "cardName": "Necrozma",
+        "japaneseName": "ネクロズマ",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Necrozma (Unified Minds 101)",
+            "pageId": 237760,
+            "revisionId": 3499699,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM11->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM11:MIRACLE_TWIN:098/094",
+        "language": "ja",
+        "setCode": "SM11",
+        "tcgdexSetId": "SM11",
+        "setName": "Miracle Twin",
+        "cardNumber": "098/094",
+        "localId": "098",
+        "rarity": "SR",
+        "cardName": "Mewtwo & Mew-GX",
+        "japaneseName": "ミュウツー&ミュウGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM191",
+        "localId": "SM191",
+        "rarity": null,
+        "cardName": "Mewtwo & Mew-GX",
+        "japaneseName": "ミュウツー&ミュウGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Mewtwo & Mew-GX (Unified Minds 71)",
+            "pageId": 237652,
+            "revisionId": 4575072,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM115->SM10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM115:HIDDEN_FATES:67/68",
+        "language": "en",
+        "setCode": "SM115",
+        "tcgdexSetId": "sm115",
+        "setName": "Hidden Fates",
+        "cardNumber": "67/68",
+        "localId": "67",
+        "rarity": "Rare Ultra",
+        "cardName": "Giovanni's Exile",
+        "japaneseName": "サカキの追放",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10",
+        "tcgdexSetId": "SM10",
+        "setName": "Double Blaze",
+        "cardNumber": "105/095",
+        "localId": "105",
+        "rarity": "SR",
+        "cardName": "Giovanni's Exile",
+        "japaneseName": "サカキの追放",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Giovanni's Exile (Unbroken Bonds 174)",
+            "pageId": 235853,
+            "revisionId": 3662858,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM115->SM10b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM115:HIDDEN_FATES:26/68",
+        "language": "en",
+        "setCode": "SM115",
+        "tcgdexSetId": "sm115",
+        "setName": "Hidden Fates",
+        "cardNumber": "26/68",
+        "localId": "26",
+        "rarity": "Common",
+        "cardName": "Ekans",
+        "japaneseName": "アーボ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10B",
+        "tcgdexSetId": "SM10b",
+        "setName": "Sky Legend",
+        "cardNumber": "025/054",
+        "localId": "025",
+        "rarity": "C",
+        "cardName": "Ekans",
+        "japaneseName": "アーボ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Ekans (Hidden Fates 26)",
+            "pageId": 237069,
+            "revisionId": 3237706,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM11A->sm12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM11A:REMIX_BOUT:001/064",
+        "language": "ja",
+        "setCode": "SM11A",
+        "tcgdexSetId": "SM11a",
+        "setName": "Remix Bout",
+        "cardNumber": "001/064",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Venusaur & Snivy-GX",
+        "japaneseName": "フシギバナ＆ツタージャGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "1/236",
+        "localId": "1",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Venusaur & Snivy-GX",
+        "japaneseName": "フシギバナ＆ツタージャGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Venusaur & Snivy-GX (Cosmic Eclipse 1)",
+            "pageId": 239077,
+            "revisionId": 4575062,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM11A->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM11A:REMIX_BOUT:066/064",
+        "language": "ja",
+        "setCode": "SM11A",
+        "tcgdexSetId": "SM11a",
+        "setName": "Remix Bout",
+        "cardNumber": "066/064",
+        "localId": "066",
+        "rarity": "SR",
+        "cardName": "Venusaur & Snivy-GX",
+        "japaneseName": "フシギバナ＆ツタージャGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM229",
+        "localId": "SM229",
+        "rarity": null,
+        "cardName": "Venusaur & Snivy-GX",
+        "japaneseName": "フシギバナ＆ツタージャGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Venusaur & Snivy-GX (Cosmic Eclipse 1)",
+            "pageId": 239077,
+            "revisionId": 4575062,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM11B->sm12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM11B:DREAM_LEAGUE:001/049",
+        "language": "ja",
+        "setCode": "SM11B",
+        "tcgdexSetId": "SM11b",
+        "setName": "Dream League",
+        "cardNumber": "001/049",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "2/236",
+        "localId": "2",
+        "rarity": "Common",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Oddish (Cosmic Eclipse 2)",
+            "pageId": 239978,
+            "revisionId": 3095687,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM12->SM11a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM12:COSMIC_ECLIPSE:1/236",
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "1/236",
+        "localId": "1",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Venusaur & Snivy-GX",
+        "japaneseName": "フシギバナ＆ツタージャGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM11A",
+        "tcgdexSetId": "SM11a",
+        "setName": "Remix Bout",
+        "cardNumber": "001/064",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Venusaur & Snivy-GX",
+        "japaneseName": "フシギバナ＆ツタージャGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Venusaur & Snivy-GX (Cosmic Eclipse 1)",
+            "pageId": 239077,
+            "revisionId": 4575062,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM12->SM11b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM12:COSMIC_ECLIPSE:105/236",
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "105/236",
+        "localId": "105",
+        "rarity": "Common",
+        "cardName": "Onix",
+        "japaneseName": "イワーク",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM11B",
+        "tcgdexSetId": "SM11b",
+        "setName": "Dream League",
+        "cardNumber": "029/049",
+        "localId": "029",
+        "rarity": "C",
+        "cardName": "Onix",
+        "japaneseName": "イワーク",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Onix (Cosmic Eclipse 105)",
+            "pageId": 240007,
+            "revisionId": 4499946,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM12->sm12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM12:ALTER_GENESIS:001/095",
+        "language": "ja",
+        "setCode": "SM12",
+        "tcgdexSetId": "SM12",
+        "setName": "Alter Genesis",
+        "cardNumber": "001/095",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Sunkern",
+        "japaneseName": "ヒマナッツ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "7/236",
+        "localId": "7",
+        "rarity": "Common",
+        "cardName": "Sunkern",
+        "japaneseName": "ヒマナッツ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Sunkern (Cosmic Eclipse 7)",
+            "pageId": 240668,
+            "revisionId": 3096811,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM12->SM12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM12:COSMIC_ECLIPSE:10/236",
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "10/236",
+        "localId": "10",
+        "rarity": "Uncommon",
+        "cardName": "Lileep",
+        "japaneseName": "リリーラ",
+        "cardKind": "pokemon",
+        "hp": 90
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM12",
+        "tcgdexSetId": "SM12",
+        "setName": "Alter Genesis",
+        "cardNumber": "003/095",
+        "localId": "003",
+        "rarity": "C",
+        "cardName": "Lileep",
+        "japaneseName": "リリーラ",
+        "cardKind": "pokemon",
+        "hp": 90,
+        "evidence": [
+          {
+            "pageTitle": "Lileep (Cosmic Eclipse 10)",
+            "pageId": 240669,
+            "revisionId": 3759881,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM12->SM12a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM12:COSMIC_ECLIPSE:143/236",
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "143/236",
+        "localId": "143",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Togepi & Cleffa & Igglybuff-GX",
+        "japaneseName": "トゲピー&ピィ&ププリンGX",
+        "cardKind": "pokemon",
+        "hp": 240
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM12A",
+        "tcgdexSetId": "SM12a",
+        "setName": "Tag All Stars",
+        "cardNumber": "094/173",
+        "localId": "094",
+        "rarity": "RR",
+        "cardName": "Togepi & Cleffa & Igglybuff-GX",
+        "japaneseName": "トゲピー&ピィ&ププリンGX",
+        "cardKind": "pokemon",
+        "hp": 240,
+        "evidence": [
+          {
+            "pageTitle": "Togepi & Cleffa & Igglybuff-GX (Cosmic Eclipse 143)",
+            "pageId": 240358,
+            "revisionId": 4575076,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM12A->sm12",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM12A:TAG_ALL_STARS:039/173",
+        "language": "ja",
+        "setCode": "SM12A",
+        "tcgdexSetId": "SM12a",
+        "setName": "Tag All Stars",
+        "cardNumber": "039/173",
+        "localId": "039",
+        "rarity": "RR",
+        "cardName": "Wishiwashi-GX",
+        "japaneseName": "ヨワシGX",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM12",
+        "tcgdexSetId": "sm12",
+        "setName": "Cosmic Eclipse",
+        "cardNumber": "63/236",
+        "localId": "63",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Wishiwashi-GX",
+        "japaneseName": "ヨワシGX",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Wishiwashi-GX (Cosmic Eclipse 63)",
+            "pageId": 241124,
+            "revisionId": 4575351,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM12A->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM12A:TAG_ALL_STARS:043/173",
+        "language": "ja",
+        "setCode": "SM12A",
+        "tcgdexSetId": "SM12a",
+        "setName": "Tag All Stars",
+        "cardNumber": "043/173",
+        "localId": "043",
+        "rarity": null,
+        "cardName": "Zapdos",
+        "japaneseName": "サンダー",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM159",
+        "localId": "SM159",
+        "rarity": null,
+        "cardName": "Zapdos",
+        "japaneseName": "サンダー",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Zapdos (Team Up 40)",
+            "pageId": 232519,
+            "revisionId": 3585900,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM1D->sm1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM1D:SUN_MOON_STARTER_SET:002/059",
+        "language": "ja",
+        "setCode": "SM1D",
+        "tcgdexSetId": null,
+        "setName": "Sun & Moon Starter Set",
+        "cardNumber": "002/059",
+        "localId": "002",
+        "rarity": null,
+        "cardName": "Rowlet",
+        "japaneseName": "モクロー",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM1",
+        "tcgdexSetId": "sm1",
+        "setName": "Sun & Moon",
+        "cardNumber": "9/149",
+        "localId": "9",
+        "rarity": "Common",
+        "cardName": "Rowlet",
+        "japaneseName": "モクロー",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Rowlet (Sun & Moon 9)",
+            "pageId": 216938,
+            "revisionId": 4277960,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM1M->sm1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM1M:COLLECTION_MOON:001/060",
+        "language": "ja",
+        "setCode": "SM1M",
+        "tcgdexSetId": "SM1M",
+        "setName": "Collection Moon",
+        "cardNumber": "001/060",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Pinsir",
+        "japaneseName": "カイロス",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM1",
+        "tcgdexSetId": "sm1",
+        "setName": "Sun & Moon",
+        "cardNumber": "6/149",
+        "localId": "6",
+        "rarity": "Uncommon",
+        "cardName": "Pinsir",
+        "japaneseName": "カイロス",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Pinsir (Sun & Moon 6)",
+            "pageId": 216989,
+            "revisionId": 4373443,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM1S->sm1",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM1S:COLLECTION_SUN:001/060",
+        "language": "ja",
+        "setCode": "SM1S",
+        "tcgdexSetId": "SM1S",
+        "setName": "Collection Sun",
+        "cardNumber": "001/060",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM1",
+        "tcgdexSetId": "sm1",
+        "setName": "Sun & Moon",
+        "cardNumber": "1/149",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Caterpie (Sun & Moon 1)",
+            "pageId": 219181,
+            "revisionId": 4594944,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM2->SM1p",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM2:GUARDIANS_RISING:115/145",
+        "language": "en",
+        "setCode": "SM2",
+        "tcgdexSetId": "sm2",
+        "setName": "Guardians Rising",
+        "cardNumber": "115/145",
+        "localId": "115",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Drampa-GX",
+        "japaneseName": "ジジーロンGX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM1+",
+        "tcgdexSetId": "SM1p",
+        "setName": "Enhanced Expansion Pack Sun & Moon",
+        "cardNumber": "042/051",
+        "localId": "042",
+        "rarity": "RR",
+        "cardName": "Drampa-GX",
+        "japaneseName": "ジジーロンGX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Drampa-GX (Guardians Rising 115)",
+            "pageId": 220753,
+            "revisionId": 4575124,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM2->SM2K",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM2:GUARDIANS_RISING:1/145",
+        "language": "en",
+        "setCode": "SM2",
+        "tcgdexSetId": "sm2",
+        "setName": "Guardians Rising",
+        "cardNumber": "1/145",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM2K",
+        "tcgdexSetId": "SM2K",
+        "setName": "Islands Await You",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Bellsprout (Guardians Rising 1)",
+            "pageId": 221672,
+            "revisionId": 3559227,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM2->SM2L",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM2:GUARDIANS_RISING:105/145",
+        "language": "en",
+        "setCode": "SM2",
+        "tcgdexSetId": "sm2",
+        "setName": "Guardians Rising",
+        "cardNumber": "105/145",
+        "localId": "105",
+        "rarity": "Common",
+        "cardName": "Castform",
+        "japaneseName": "ポワルン",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM2L",
+        "tcgdexSetId": "SM2L",
+        "setName": "Alolan Moonlight",
+        "cardNumber": "041/050",
+        "localId": "041",
+        "rarity": "C",
+        "cardName": "Castform",
+        "japaneseName": "ポワルン",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Castform (Guardians Rising 105)",
+            "pageId": 221761,
+            "revisionId": 3221746,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM2K->sm2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM2K:ISLANDS_AWAIT_YOU:001/050",
+        "language": "ja",
+        "setCode": "SM2K",
+        "tcgdexSetId": "SM2K",
+        "setName": "Islands Await You",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM2",
+        "tcgdexSetId": "sm2",
+        "setName": "Guardians Rising",
+        "cardNumber": "1/145",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Bellsprout (Guardians Rising 1)",
+            "pageId": 221672,
+            "revisionId": 3559227,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM2L->sm2",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM2L:ALOLAN_MOONLIGHT:001/050",
+        "language": "ja",
+        "setCode": "SM2L",
+        "tcgdexSetId": "SM2L",
+        "setName": "Alolan Moonlight",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Phantump",
+        "japaneseName": "ボクレー",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM2",
+        "tcgdexSetId": "sm2",
+        "setName": "Guardians Rising",
+        "cardNumber": "6/145",
+        "localId": "6",
+        "rarity": "Common",
+        "cardName": "Phantump",
+        "japaneseName": "ボクレー",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Phantump (Guardians Rising 6)",
+            "pageId": 221579,
+            "revisionId": 3559240,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM2P->sm3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM2P:FACING_A_NEW_TRIAL:010/049",
+        "language": "ja",
+        "setCode": "SM2P",
+        "tcgdexSetId": "SM2p",
+        "setName": "Facing a New Trial",
+        "cardNumber": "010/049",
+        "localId": "010",
+        "rarity": "RR",
+        "cardName": "Salazzle-GX",
+        "japaneseName": "エンニュートGX",
+        "cardKind": "pokemon",
+        "hp": 200
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM3",
+        "tcgdexSetId": "sm3",
+        "setName": "Burning Shadows",
+        "cardNumber": "25/147",
+        "localId": "25",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Salazzle-GX",
+        "japaneseName": "エンニュートGX",
+        "cardKind": "pokemon",
+        "hp": 200,
+        "evidence": [
+          {
+            "pageTitle": "Salazzle-GX (Burning Shadows 25)",
+            "pageId": 222582,
+            "revisionId": 4575102,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM2P->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM2P:FACING_A_NEW_TRIAL:006/049",
+        "language": "ja",
+        "setCode": "SM2P",
+        "tcgdexSetId": "SM2p",
+        "setName": "Facing a New Trial",
+        "cardNumber": "006/049",
+        "localId": "006",
+        "rarity": null,
+        "cardName": "Tapu Bulu",
+        "japaneseName": "カプ・ブルル",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM61",
+        "localId": "SM61",
+        "rarity": null,
+        "cardName": "Tapu Bulu",
+        "japaneseName": "カプ・ブルル",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Tapu Bulu (SM Promo 61)",
+            "pageId": 221652,
+            "revisionId": 3346677,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM3->SM2p",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM3:BURNING_SHADOWS:130/147",
+        "language": "en",
+        "setCode": "SM3",
+        "tcgdexSetId": "sm3",
+        "setName": "Burning Shadows",
+        "cardNumber": "130/147",
+        "localId": "130",
+        "rarity": "Rare Ultra",
+        "cardName": "Tapu Bulu-GX",
+        "japaneseName": "カプ・ブルルGX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM2P",
+        "tcgdexSetId": "SM2p",
+        "setName": "Facing a New Trial",
+        "cardNumber": "050/049",
+        "localId": "050",
+        "rarity": "SR",
+        "cardName": "Tapu Bulu-GX",
+        "japaneseName": "カプ・ブルルGX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Tapu Bulu-GX (SM Promo 32)",
+            "pageId": 221039,
+            "revisionId": 4575160,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM3->SM3H",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM3:BURNING_SHADOWS:101/147",
+        "language": "en",
+        "setCode": "SM3",
+        "tcgdexSetId": "sm3",
+        "setName": "Burning Shadows",
+        "cardNumber": "101/147",
+        "localId": "101",
+        "rarity": "Common",
+        "cardName": "Meowth",
+        "japaneseName": "ニャース",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM3H",
+        "tcgdexSetId": "SM3H",
+        "setName": "To Have Seen the Battle Rainbow",
+        "cardNumber": "041/051",
+        "localId": "041",
+        "rarity": "C",
+        "cardName": "Meowth",
+        "japaneseName": "ニャース",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Meowth (Burning Shadows 101)",
+            "pageId": 223295,
+            "revisionId": 3576414,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM3->SM3N",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM3:BURNING_SHADOWS:1/147",
+        "language": "en",
+        "setCode": "SM3",
+        "tcgdexSetId": "sm3",
+        "setName": "Burning Shadows",
+        "cardNumber": "1/147",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM3N",
+        "tcgdexSetId": "SM3N",
+        "setName": "Darkness that Consumes Light",
+        "cardNumber": "001/051",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Caterpie (Burning Shadows 1)",
+            "pageId": 223934,
+            "revisionId": 4296361,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM3+->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM3+:SHINING_LEGENDS:004/072",
+        "language": "ja",
+        "setCode": "SM3+",
+        "tcgdexSetId": "SM3p",
+        "setName": "Shining Legends",
+        "cardNumber": "004/072",
+        "localId": "004",
+        "rarity": "Shining",
+        "cardName": "Shining Celebi",
+        "japaneseName": "ひかるセレビィ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM79",
+        "localId": "SM79",
+        "rarity": null,
+        "cardName": "Shining Celebi",
+        "japaneseName": "ひかるセレビィ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Shining Celebi (SM Promo 79)",
+            "pageId": 224329,
+            "revisionId": 3726862,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM3H->sm3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM3H:TO_HAVE_SEEN_THE_BATTLE_RAINBOW:001/051",
+        "language": "ja",
+        "setCode": "SM3H",
+        "tcgdexSetId": "SM3H",
+        "setName": "To Have Seen the Battle Rainbow",
+        "cardNumber": "001/051",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM3",
+        "tcgdexSetId": "sm3",
+        "setName": "Burning Shadows",
+        "cardNumber": "4/147",
+        "localId": "4",
+        "rarity": "Common",
+        "cardName": "Oddish",
+        "japaneseName": "ナゾノクサ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Oddish (Burning Shadows 4)",
+            "pageId": 223860,
+            "revisionId": 3576306,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM3H->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM3H:TO_HAVE_SEEN_THE_BATTLE_RAINBOW:052/051",
+        "language": "ja",
+        "setCode": "SM3H",
+        "tcgdexSetId": "SM3H",
+        "setName": "To Have Seen the Battle Rainbow",
+        "cardNumber": "052/051",
+        "localId": "052",
+        "rarity": "SR",
+        "cardName": "Charizard-GX",
+        "japaneseName": "リザードンGX",
+        "cardKind": "pokemon",
+        "hp": 250
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM60",
+        "localId": "SM60",
+        "rarity": null,
+        "cardName": "Charizard-GX",
+        "japaneseName": "リザードンGX",
+        "cardKind": "pokemon",
+        "hp": 250,
+        "evidence": [
+          {
+            "pageTitle": "Charizard-GX (Burning Shadows 20)",
+            "pageId": 223417,
+            "revisionId": 4575156,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM3N->sm3",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM3N:DARKNESS_THAT_CONSUMES_LIGHT:001/051",
+        "language": "ja",
+        "setCode": "SM3N",
+        "tcgdexSetId": "SM3N",
+        "setName": "Darkness that Consumes Light",
+        "cardNumber": "001/051",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM3",
+        "tcgdexSetId": "sm3",
+        "setName": "Burning Shadows",
+        "cardNumber": "1/147",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Caterpie",
+        "japaneseName": "キャタピー",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Caterpie (Burning Shadows 1)",
+            "pageId": 223934,
+            "revisionId": 4296361,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM4->SM4A",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM4:CRIMSON_INVASION:1/111",
+        "language": "en",
+        "setCode": "SM4",
+        "tcgdexSetId": "sm4",
+        "setName": "Crimson Invasion",
+        "cardNumber": "1/111",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM4A",
+        "tcgdexSetId": "SM4A",
+        "setName": "Ultradimensional Beasts",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Weedle (Crimson Invasion 1)",
+            "pageId": 225564,
+            "revisionId": 3576526,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM4->SM4S",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM4:CRIMSON_INVASION:10/111",
+        "language": "en",
+        "setCode": "SM4",
+        "tcgdexSetId": "sm4",
+        "setName": "Crimson Invasion",
+        "cardNumber": "10/111",
+        "localId": "10",
+        "rarity": "Common",
+        "cardName": "Skiddo",
+        "japaneseName": "メェークル",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM4S",
+        "tcgdexSetId": "SM4S",
+        "setName": "Awakened Heroes",
+        "cardNumber": "004/050",
+        "localId": "004",
+        "rarity": "C",
+        "cardName": "Skiddo",
+        "japaneseName": "メェークル",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Skiddo (Crimson Invasion 10)",
+            "pageId": 225551,
+            "revisionId": 3576536,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM4+->sm5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM4+:GX_BATTLE_BOOST:086/114",
+        "language": "ja",
+        "setCode": "SM4+",
+        "tcgdexSetId": "SM4p",
+        "setName": "GX Battle Boost",
+        "cardNumber": "086/114",
+        "localId": "086",
+        "rarity": "RR",
+        "cardName": "Silvally-GX",
+        "japaneseName": "シルヴァディGX",
+        "cardKind": "pokemon",
+        "hp": 210
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM5",
+        "tcgdexSetId": "sm5",
+        "setName": "Ultra Prism",
+        "cardNumber": "116/156",
+        "localId": "116",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Silvally-GX",
+        "japaneseName": "シルヴァディGX",
+        "cardKind": "pokemon",
+        "hp": 210,
+        "evidence": [
+          {
+            "pageTitle": "Silvally-GX (Crimson Invasion 90)",
+            "pageId": 225199,
+            "revisionId": 4575120,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM4+->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM4+:GX_BATTLE_BOOST:012/114",
+        "language": "ja",
+        "setCode": "SM4+",
+        "tcgdexSetId": "SM4p",
+        "setName": "GX Battle Boost",
+        "cardNumber": "012/114",
+        "localId": "012",
+        "rarity": "RR",
+        "cardName": "Pheromosa-GX",
+        "japaneseName": "フェローチェGX",
+        "cardKind": "pokemon",
+        "hp": 170
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM66",
+        "localId": "SM66",
+        "rarity": null,
+        "cardName": "Pheromosa-GX",
+        "japaneseName": "フェローチェGX",
+        "cardKind": "pokemon",
+        "hp": 170,
+        "evidence": [
+          {
+            "pageTitle": "Pheromosa-GX (SM Promo 66)",
+            "pageId": 225909,
+            "revisionId": 4188509,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM4A->sm4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM4A:ULTRADIMENSIONAL_BEASTS:001/050",
+        "language": "ja",
+        "setCode": "SM4A",
+        "tcgdexSetId": "SM4A",
+        "setName": "Ultradimensional Beasts",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM4",
+        "tcgdexSetId": "sm4",
+        "setName": "Crimson Invasion",
+        "cardNumber": "1/111",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Weedle",
+        "japaneseName": "ビードル",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Weedle (Crimson Invasion 1)",
+            "pageId": 225564,
+            "revisionId": 3576526,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM4S->sm4",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM4S:AWAKENED_HEROES:001/050",
+        "language": "ja",
+        "setCode": "SM4S",
+        "tcgdexSetId": "SM4S",
+        "setName": "Awakened Heroes",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Cacnea",
+        "japaneseName": "サボネア",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM4",
+        "tcgdexSetId": "sm4",
+        "setName": "Crimson Invasion",
+        "cardNumber": "5/111",
+        "localId": "5",
+        "rarity": "Common",
+        "cardName": "Cacnea",
+        "japaneseName": "サボネア",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Cacnea (Crimson Invasion 5)",
+            "pageId": 225594,
+            "revisionId": 3576532,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM5->SM4p",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM5:ULTRA_PRISM:116/156",
+        "language": "en",
+        "setCode": "SM5",
+        "tcgdexSetId": "sm5",
+        "setName": "Ultra Prism",
+        "cardNumber": "116/156",
+        "localId": "116",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Silvally-GX",
+        "japaneseName": "シルヴァディGX",
+        "cardKind": "pokemon",
+        "hp": 210
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM4+",
+        "tcgdexSetId": "SM4p",
+        "setName": "GX Battle Boost",
+        "cardNumber": "086/114",
+        "localId": "086",
+        "rarity": "RR",
+        "cardName": "Silvally-GX",
+        "japaneseName": "シルヴァディGX",
+        "cardKind": "pokemon",
+        "hp": 210,
+        "evidence": [
+          {
+            "pageTitle": "Silvally-GX (Crimson Invasion 90)",
+            "pageId": 225199,
+            "revisionId": 4575120,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM5->SM5M",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM5:ULTRA_PRISM:101/156",
+        "language": "en",
+        "setCode": "SM5",
+        "tcgdexSetId": "sm5",
+        "setName": "Ultra Prism",
+        "cardNumber": "101/156",
+        "localId": "101",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Palkia-GX",
+        "japaneseName": "パルキアGX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM5M",
+        "tcgdexSetId": "SM5M",
+        "setName": "Ultra Moon",
+        "cardNumber": "045/066",
+        "localId": "045",
+        "rarity": "RR",
+        "cardName": "Palkia-GX",
+        "japaneseName": "パルキアGX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Palkia-GX (Ultra Prism 101)",
+            "pageId": 226790,
+            "revisionId": 4575109,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM5->SM5S",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM5:ULTRA_PRISM:10/156",
+        "language": "en",
+        "setCode": "SM5",
+        "tcgdexSetId": "sm5",
+        "setName": "Ultra Prism",
+        "cardNumber": "10/156",
+        "localId": "10",
+        "rarity": "Common",
+        "cardName": "Cherubi",
+        "japaneseName": "チェリンボ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM5S",
+        "tcgdexSetId": "SM5S",
+        "setName": "Ultra Sun",
+        "cardNumber": "009/066",
+        "localId": "009",
+        "rarity": "C",
+        "cardName": "Cherubi",
+        "japaneseName": "チェリンボ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Cherubi (Ultra Prism 10)",
+            "pageId": 226824,
+            "revisionId": 4296362,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM5+->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM5+:ULTRA_FORCE:021/050",
+        "language": "ja",
+        "setCode": "SM5+",
+        "tcgdexSetId": "SM5p",
+        "setName": "Ultra Force",
+        "cardNumber": "021/050",
+        "localId": "021",
+        "rarity": null,
+        "cardName": "Dawn Wings Necrozma",
+        "japaneseName": "ネクロズマあかつきのつばさ",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM106",
+        "localId": "SM106",
+        "rarity": null,
+        "cardName": "Dawn Wings Necrozma",
+        "japaneseName": "ネクロズマあかつきのつばさ",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Dawn Wings Necrozma (SM Promo 106)",
+            "pageId": 226948,
+            "revisionId": 4595539,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM5M->sm5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM5M:ULTRA_MOON:001/066",
+        "language": "ja",
+        "setCode": "SM5M",
+        "tcgdexSetId": "SM5M",
+        "setName": "Ultra Moon",
+        "cardNumber": "001/066",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Alolan Sandshrew",
+        "japaneseName": "アローラサンド",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM5",
+        "tcgdexSetId": "sm5",
+        "setName": "Ultra Prism",
+        "cardNumber": "28/156",
+        "localId": "28",
+        "rarity": "Common",
+        "cardName": "Alolan Sandshrew",
+        "japaneseName": "アローラサンド",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Alolan Sandshrew (Ultra Prism 28)",
+            "pageId": 226860,
+            "revisionId": 4424377,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM5S->sm5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM5S:ULTRA_SUN:001/066",
+        "language": "ja",
+        "setCode": "SM5S",
+        "tcgdexSetId": "SM5S",
+        "setName": "Ultra Sun",
+        "cardNumber": "001/066",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Yanma",
+        "japaneseName": "ヤンヤンマ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM5",
+        "tcgdexSetId": "sm5",
+        "setName": "Ultra Prism",
+        "cardNumber": "2/156",
+        "localId": "2",
+        "rarity": "Common",
+        "cardName": "Yanma",
+        "japaneseName": "ヤンヤンマ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Yanma (Ultra Prism 2)",
+            "pageId": 226817,
+            "revisionId": 3877118,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM6->sma",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM6:FORBIDDEN_LIGHT:100/094",
+        "language": "ja",
+        "setCode": "SM6",
+        "tcgdexSetId": "SM6",
+        "setName": "Forbidden Light",
+        "cardNumber": "100/094",
+        "localId": "100",
+        "rarity": "SR",
+        "cardName": "Lady",
+        "japaneseName": "おじょうさま",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV86/SV94",
+        "localId": "SV86",
+        "rarity": "Rare Ultra",
+        "cardName": "Lady",
+        "japaneseName": "おじょうさま",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Lady (Forbidden Light 109)",
+            "pageId": 228004,
+            "revisionId": 4429167,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM6A->sm7.5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM6A:DRAGON_STORM:001/053",
+        "language": "ja",
+        "setCode": "SM6A",
+        "tcgdexSetId": "SM6a",
+        "setName": "Dragon Storm",
+        "cardNumber": "001/053",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Charmander",
+        "japaneseName": "ヒトカゲ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "1/70",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Charmander",
+        "japaneseName": "ヒトカゲ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Charmander (Dragon Majesty 1)",
+            "pageId": 228666,
+            "revisionId": 3438018,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM6A->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM6A:DRAGON_STORM:057/053",
+        "language": "ja",
+        "setCode": "SM6A",
+        "tcgdexSetId": "SM6a",
+        "setName": "Dragon Storm",
+        "cardNumber": "057/053",
+        "localId": "057",
+        "rarity": "SR",
+        "cardName": "White Kyurem-GX",
+        "japaneseName": "ホワイトキュレムGX",
+        "cardKind": "pokemon",
+        "hp": 190
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM141",
+        "localId": "SM141",
+        "rarity": null,
+        "cardName": "White Kyurem-GX",
+        "japaneseName": "ホワイトキュレムGX",
+        "cardKind": "pokemon",
+        "hp": 190,
+        "evidence": [
+          {
+            "pageTitle": "White Kyurem-GX (Dragon Majesty 48)",
+            "pageId": 228316,
+            "revisionId": 4575113,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM6B->sm7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM6B:CHAMPION_ROAD:001/066",
+        "language": "ja",
+        "setCode": "SM6B",
+        "tcgdexSetId": "SM6b",
+        "setName": "Champion Road",
+        "cardNumber": "001/066",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM7",
+        "tcgdexSetId": "sm7",
+        "setName": "Celestial Storm",
+        "cardNumber": "1/168",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Bellsprout (Celestial Storm 1)",
+            "pageId": 229157,
+            "revisionId": 4215651,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM6B->sm7.5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM6B:CHAMPION_ROAD:011/066",
+        "language": "ja",
+        "setCode": "SM6B",
+        "tcgdexSetId": "SM6b",
+        "setName": "Champion Road",
+        "cardNumber": "011/066",
+        "localId": "011",
+        "rarity": "C",
+        "cardName": "Torchic",
+        "japaneseName": "アチャモ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "4/70",
+        "localId": "4",
+        "rarity": "Common",
+        "cardName": "Torchic",
+        "japaneseName": "アチャモ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Torchic (Dragon Majesty 4)",
+            "pageId": 229167,
+            "revisionId": 3540742,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM6B->sm8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM6B:CHAMPION_ROAD:048/066",
+        "language": "ja",
+        "setCode": "SM6B",
+        "tcgdexSetId": "SM6b",
+        "setName": "Champion Road",
+        "cardNumber": "048/066",
+        "localId": "048",
+        "rarity": "U",
+        "cardName": "Ho-Oh",
+        "japaneseName": "ホウオウ",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "160/214",
+        "localId": "160",
+        "rarity": "Rare",
+        "cardName": "Ho-Oh",
+        "japaneseName": "ホウオウ",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Ho-Oh (Lost Thunder 160)",
+            "pageId": 229227,
+            "revisionId": 3147954,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM6B->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM6B:CHAMPION_ROAD:072/066",
+        "language": "ja",
+        "setCode": "SM6B",
+        "tcgdexSetId": "SM6b",
+        "setName": "Champion Road",
+        "cardNumber": "072/066",
+        "localId": "072",
+        "rarity": "SR",
+        "cardName": "Salamence-GX",
+        "japaneseName": "ボーマンダGX",
+        "cardKind": "pokemon",
+        "hp": 250
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM139",
+        "localId": "SM139",
+        "rarity": null,
+        "cardName": "Salamence-GX",
+        "japaneseName": "ボーマンダGX",
+        "cardKind": "pokemon",
+        "hp": 250,
+        "evidence": [
+          {
+            "pageTitle": "Salamence-GX (Dragon Majesty 44)",
+            "pageId": 228899,
+            "revisionId": 4575098,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7->SM6b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM7:CELESTIAL_STORM:1/168",
+        "language": "en",
+        "setCode": "SM7",
+        "tcgdexSetId": "sm7",
+        "setName": "Celestial Storm",
+        "cardNumber": "1/168",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM6B",
+        "tcgdexSetId": "SM6b",
+        "setName": "Champion Road",
+        "cardNumber": "001/066",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Bellsprout",
+        "japaneseName": "マダツボミ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Bellsprout (Celestial Storm 1)",
+            "pageId": 229157,
+            "revisionId": 4215651,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7->sm7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM7:SKY_SPLITTING_CHARISMA:001/096",
+        "language": "ja",
+        "setCode": "SM7",
+        "tcgdexSetId": "SM7",
+        "setName": "Sky-Splitting Charisma",
+        "cardNumber": "001/096",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Treecko",
+        "japaneseName": "キモリ",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM7",
+        "tcgdexSetId": "sm7",
+        "setName": "Celestial Storm",
+        "cardNumber": "7/168",
+        "localId": "7",
+        "rarity": "Common",
+        "cardName": "Treecko",
+        "japaneseName": "キモリ",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Treecko (Celestial Storm 7)",
+            "pageId": 229915,
+            "revisionId": 3235217,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7->SM7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM7:CELESTIAL_STORM:10/168",
+        "language": "en",
+        "setCode": "SM7",
+        "tcgdexSetId": "sm7",
+        "setName": "Celestial Storm",
+        "cardNumber": "10/168",
+        "localId": "10",
+        "rarity": "Rare",
+        "cardName": "Sceptile",
+        "japaneseName": "ジュカイン",
+        "cardKind": "pokemon",
+        "hp": 140
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM7",
+        "tcgdexSetId": "SM7",
+        "setName": "Sky-Splitting Charisma",
+        "cardNumber": "004/096",
+        "localId": "004",
+        "rarity": "R",
+        "cardName": "Sceptile",
+        "japaneseName": "ジュカイン",
+        "cardKind": "pokemon",
+        "hp": 140,
+        "evidence": [
+          {
+            "pageTitle": "Sceptile (Celestial Storm 10)",
+            "pageId": 229918,
+            "revisionId": 3235220,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7->sm7.5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM7:SKY_SPLITTING_CHARISMA:061/096",
+        "language": "ja",
+        "setCode": "SM7",
+        "tcgdexSetId": "SM7",
+        "setName": "Sky-Splitting Charisma",
+        "cardNumber": "061/096",
+        "localId": "061",
+        "rarity": "RR",
+        "cardName": "Altaria-GX",
+        "japaneseName": "チルタリスGX",
+        "cardKind": "pokemon",
+        "hp": 200
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "41/70",
+        "localId": "41",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Altaria-GX",
+        "japaneseName": "チルタリスGX",
+        "cardKind": "pokemon",
+        "hp": 200,
+        "evidence": [
+          {
+            "pageTitle": "Altaria-GX (Dragon Majesty 41)",
+            "pageId": 230000,
+            "revisionId": 4575164,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7.5->SM6a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM7.5:DRAGON_MAJESTY:1/70",
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "1/70",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Charmander",
+        "japaneseName": "ヒトカゲ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM6A",
+        "tcgdexSetId": "SM6a",
+        "setName": "Dragon Storm",
+        "cardNumber": "001/053",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Charmander",
+        "japaneseName": "ヒトカゲ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Charmander (Dragon Majesty 1)",
+            "pageId": 228666,
+            "revisionId": 3438018,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7.5->SM6b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM7.5:DRAGON_MAJESTY:22/70",
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "22/70",
+        "localId": "22",
+        "rarity": "Common",
+        "cardName": "Totodile",
+        "japaneseName": "ワニノコ",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM6B",
+        "tcgdexSetId": "SM6b",
+        "setName": "Champion Road",
+        "cardNumber": "015/066",
+        "localId": "015",
+        "rarity": "C",
+        "cardName": "Totodile",
+        "japaneseName": "ワニノコ",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Totodile (Dragon Majesty 22)",
+            "pageId": 229178,
+            "revisionId": 3099310,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7.5->SM7",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM7.5:DRAGON_MAJESTY:41/70",
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "41/70",
+        "localId": "41",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Altaria-GX",
+        "japaneseName": "チルタリスGX",
+        "cardKind": "pokemon",
+        "hp": 200
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM7",
+        "tcgdexSetId": "SM7",
+        "setName": "Sky-Splitting Charisma",
+        "cardNumber": "061/096",
+        "localId": "061",
+        "rarity": "RR",
+        "cardName": "Altaria-GX",
+        "japaneseName": "チルタリスGX",
+        "cardKind": "pokemon",
+        "hp": 200,
+        "evidence": [
+          {
+            "pageTitle": "Altaria-GX (Dragon Majesty 41)",
+            "pageId": 230000,
+            "revisionId": 4575164,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7.5->SM8b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM7.5:DRAGON_MAJESTY:78/70",
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "78/70",
+        "localId": "78",
+        "rarity": "Rare Secret",
+        "cardName": "Ultra Necrozma-GX",
+        "japaneseName": "ウルトラネクロズマGX",
+        "cardKind": "pokemon",
+        "hp": 190
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM8B",
+        "tcgdexSetId": "SM8b",
+        "setName": "GX Ultra Shiny",
+        "cardNumber": "250/150",
+        "localId": "250",
+        "rarity": "UR",
+        "cardName": "Ultra Necrozma-GX",
+        "japaneseName": "ウルトラネクロズマGX",
+        "cardKind": "pokemon",
+        "hp": 190,
+        "evidence": [
+          {
+            "pageTitle": "Ultra Necrozma-GX (Forbidden Light 95)",
+            "pageId": 227767,
+            "revisionId": 4575093,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7A->sm8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM7A:THUNDERCLAP_SPARK:001/060",
+        "language": "ja",
+        "setCode": "SM7A",
+        "tcgdexSetId": "SM7a",
+        "setName": "Thunderclap Spark",
+        "cardNumber": "001/060",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Pinsir",
+        "japaneseName": "カイロス",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "4/214",
+        "localId": "4",
+        "rarity": "Uncommon",
+        "cardName": "Pinsir",
+        "japaneseName": "カイロス",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Pinsir (Lost Thunder 4)",
+            "pageId": 230692,
+            "revisionId": 4235629,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM7B->sm8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM7B:FAIRY_RISE:001/050",
+        "language": "ja",
+        "setCode": "SM7B",
+        "tcgdexSetId": "SM7b",
+        "setName": "Fairy Rise",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "1/214",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Lost Thunder 1)",
+            "pageId": 231140,
+            "revisionId": 3202265,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8->SM6b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM8:LOST_THUNDER:160/214",
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "160/214",
+        "localId": "160",
+        "rarity": "Rare",
+        "cardName": "Ho-Oh",
+        "japaneseName": "ホウオウ",
+        "cardKind": "pokemon",
+        "hp": 130
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM6B",
+        "tcgdexSetId": "SM6b",
+        "setName": "Champion Road",
+        "cardNumber": "048/066",
+        "localId": "048",
+        "rarity": "U",
+        "cardName": "Ho-Oh",
+        "japaneseName": "ホウオウ",
+        "cardKind": "pokemon",
+        "hp": 130,
+        "evidence": [
+          {
+            "pageTitle": "Ho-Oh (Lost Thunder 160)",
+            "pageId": 229227,
+            "revisionId": 3147954,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8->SM7a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM8:LOST_THUNDER:109/214",
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "109/214",
+        "localId": "109",
+        "rarity": "Common",
+        "cardName": "Onix",
+        "japaneseName": "イワーク",
+        "cardKind": "pokemon",
+        "hp": 120
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM7A",
+        "tcgdexSetId": "SM7a",
+        "setName": "Thunderclap Spark",
+        "cardNumber": "034/060",
+        "localId": "034",
+        "rarity": "C",
+        "cardName": "Onix",
+        "japaneseName": "イワーク",
+        "cardKind": "pokemon",
+        "hp": 120,
+        "evidence": [
+          {
+            "pageTitle": "Onix (Lost Thunder 109)",
+            "pageId": 230501,
+            "revisionId": 3826783,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8->SM7b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM8:LOST_THUNDER:1/214",
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "1/214",
+        "localId": "1",
+        "rarity": "Common",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM7B",
+        "tcgdexSetId": "SM7b",
+        "setName": "Fairy Rise",
+        "cardNumber": "001/050",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Tangela",
+        "japaneseName": "モンジャラ",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Tangela (Lost Thunder 1)",
+            "pageId": 231140,
+            "revisionId": 3202265,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8->sm8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM8:SUPER_BURST_IMPACT:001/095",
+        "language": "ja",
+        "setCode": "SM8",
+        "tcgdexSetId": "SM8",
+        "setName": "Super-Burst Impact",
+        "cardNumber": "001/095",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Scyther",
+        "japaneseName": "ストライク",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "3/214",
+        "localId": "3",
+        "rarity": "Common",
+        "cardName": "Scyther",
+        "japaneseName": "ストライク",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Scyther (Lost Thunder 3)",
+            "pageId": 231649,
+            "revisionId": 2936166,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8->SM8",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM8:LOST_THUNDER:10/214",
+        "language": "en",
+        "setCode": "SM8",
+        "tcgdexSetId": "sm8",
+        "setName": "Lost Thunder",
+        "cardNumber": "10/214",
+        "localId": "10",
+        "rarity": "Uncommon",
+        "cardName": "Ariados",
+        "japaneseName": "アリアドス",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM8",
+        "tcgdexSetId": "SM8",
+        "setName": "Super-Burst Impact",
+        "cardNumber": "007/095",
+        "localId": "007",
+        "rarity": "C",
+        "cardName": "Ariados",
+        "japaneseName": "アリアドス",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Ariados (Lost Thunder 10)",
+            "pageId": 231654,
+            "revisionId": 3504833,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8A->sm9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM8A:DARK_ORDER:001/052",
+        "language": "ja",
+        "setCode": "SM8A",
+        "tcgdexSetId": "SM8a",
+        "setName": "Dark Order",
+        "cardNumber": "001/052",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Litten",
+        "japaneseName": "ニャビー",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM9",
+        "tcgdexSetId": "sm9",
+        "setName": "Team Up",
+        "cardNumber": "20/181",
+        "localId": "20",
+        "rarity": "Common",
+        "cardName": "Litten",
+        "japaneseName": "ニャビー",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Litten (Team Up 20)",
+            "pageId": 232517,
+            "revisionId": 3585313,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8B->sm7.5",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM8B:GX_ULTRA_SHINY:250/150",
+        "language": "ja",
+        "setCode": "SM8B",
+        "tcgdexSetId": "SM8b",
+        "setName": "GX Ultra Shiny",
+        "cardNumber": "250/150",
+        "localId": "250",
+        "rarity": "UR",
+        "cardName": "Ultra Necrozma-GX",
+        "japaneseName": "ウルトラネクロズマGX",
+        "cardKind": "pokemon",
+        "hp": 190
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM7.5",
+        "tcgdexSetId": "sm7.5",
+        "setName": "Dragon Majesty",
+        "cardNumber": "78/70",
+        "localId": "78",
+        "rarity": "Rare Secret",
+        "cardName": "Ultra Necrozma-GX",
+        "japaneseName": "ウルトラネクロズマGX",
+        "cardKind": "pokemon",
+        "hp": 190,
+        "evidence": [
+          {
+            "pageTitle": "Ultra Necrozma-GX (Forbidden Light 95)",
+            "pageId": 227767,
+            "revisionId": 4575093,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8B->sm9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM8B:GX_ULTRA_SHINY:006/150",
+        "language": "ja",
+        "setCode": "SM8B",
+        "tcgdexSetId": "SM8b",
+        "setName": "GX Ultra Shiny",
+        "cardNumber": "006/150",
+        "localId": "006",
+        "rarity": "PR",
+        "cardName": "Shaymin ♢",
+        "japaneseName": "シェイミ♢",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM9",
+        "tcgdexSetId": "sm9",
+        "setName": "Team Up",
+        "cardNumber": "10/181",
+        "localId": "10",
+        "rarity": "Rare Prism",
+        "cardName": "Shaymin ♢",
+        "japaneseName": "シェイミ♢",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Shaymin ♢ (Team Up 10)",
+            "pageId": 232965,
+            "revisionId": 4219291,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8B->sma",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM8B:GX_ULTRA_SHINY:161/150",
+        "language": "ja",
+        "setCode": "SM8B",
+        "tcgdexSetId": "SM8b",
+        "setName": "GX Ultra Shiny",
+        "cardNumber": "161/150",
+        "localId": "161",
+        "rarity": "S",
+        "cardName": "Scyther",
+        "japaneseName": "ストライク",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV1/SV94",
+        "localId": "SV1",
+        "rarity": "Rare Shiny",
+        "cardName": "Scyther",
+        "japaneseName": "ストライク",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Scyther (Celestial Storm 4)",
+            "pageId": 229160,
+            "revisionId": 3956258,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM8B->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM8B:GX_ULTRA_SHINY:008/150",
+        "language": "ja",
+        "setCode": "SM8B",
+        "tcgdexSetId": "SM8b",
+        "setName": "GX Ultra Shiny",
+        "cardNumber": "008/150",
+        "localId": "008",
+        "rarity": "RR",
+        "cardName": "Golisopod-GX",
+        "japaneseName": "グソクムシャGX",
+        "cardKind": "pokemon",
+        "hp": 210
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM62",
+        "localId": "SM62",
+        "rarity": null,
+        "cardName": "Golisopod-GX",
+        "japaneseName": "グソクムシャGX",
+        "cardKind": "pokemon",
+        "hp": 210,
+        "evidence": [
+          {
+            "pageTitle": "Golisopod-GX (Burning Shadows 17)",
+            "pageId": 223418,
+            "revisionId": 4575116,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9->SM8a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM9:TEAM_UP:100/181",
+        "language": "en",
+        "setCode": "SM9",
+        "tcgdexSetId": "sm9",
+        "setName": "Team Up",
+        "cardNumber": "100/181",
+        "localId": "100",
+        "rarity": "Common",
+        "cardName": "Bronzor",
+        "japaneseName": "ドーミラー",
+        "cardKind": "pokemon",
+        "hp": 50
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM8A",
+        "tcgdexSetId": "SM8a",
+        "setName": "Dark Order",
+        "cardNumber": "035/052",
+        "localId": "035",
+        "rarity": "C",
+        "cardName": "Bronzor",
+        "japaneseName": "ドーミラー",
+        "cardKind": "pokemon",
+        "hp": 50,
+        "evidence": [
+          {
+            "pageTitle": "Bronzor (Team Up 100)",
+            "pageId": 232585,
+            "revisionId": 3745032,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9->SM8b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM9:TEAM_UP:10/181",
+        "language": "en",
+        "setCode": "SM9",
+        "tcgdexSetId": "sm9",
+        "setName": "Team Up",
+        "cardNumber": "10/181",
+        "localId": "10",
+        "rarity": "Rare Prism",
+        "cardName": "Shaymin ♢",
+        "japaneseName": "シェイミ♢",
+        "cardKind": "pokemon",
+        "hp": 80
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM8B",
+        "tcgdexSetId": "SM8b",
+        "setName": "GX Ultra Shiny",
+        "cardNumber": "006/150",
+        "localId": "006",
+        "rarity": "PR",
+        "cardName": "Shaymin ♢",
+        "japaneseName": "シェイミ♢",
+        "cardKind": "pokemon",
+        "hp": 80,
+        "evidence": [
+          {
+            "pageTitle": "Shaymin ♢ (Team Up 10)",
+            "pageId": 232965,
+            "revisionId": 4219291,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9->sm9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM9:TAG_BOLT:001/095",
+        "language": "ja",
+        "setCode": "SM9",
+        "tcgdexSetId": "SM9",
+        "setName": "Tag Bolt",
+        "cardNumber": "001/095",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Celebi & Venusaur-GX",
+        "japaneseName": "セレビィ＆フシギバナGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM9",
+        "tcgdexSetId": "sm9",
+        "setName": "Team Up",
+        "cardNumber": "1/181",
+        "localId": "1",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Celebi & Venusaur-GX",
+        "japaneseName": "セレビィ＆フシギバナGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Celebi & Venusaur-GX (Team Up 1)",
+            "pageId": 233888,
+            "revisionId": 4575050,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9->SM9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SM9:TEAM_UP:1/181",
+        "language": "en",
+        "setCode": "SM9",
+        "tcgdexSetId": "sm9",
+        "setName": "Team Up",
+        "cardNumber": "1/181",
+        "localId": "1",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Celebi & Venusaur-GX",
+        "japaneseName": "セレビィ＆フシギバナGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM9",
+        "tcgdexSetId": "SM9",
+        "setName": "Tag Bolt",
+        "cardNumber": "001/095",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Celebi & Venusaur-GX",
+        "japaneseName": "セレビィ＆フシギバナGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Celebi & Venusaur-GX (Team Up 1)",
+            "pageId": 233888,
+            "revisionId": 4575050,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9->sma",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM9:TAG_BOLT:118/095",
+        "language": "ja",
+        "setCode": "SM9",
+        "tcgdexSetId": "SM9",
+        "setName": "Tag Bolt",
+        "cardNumber": "118/095",
+        "localId": "118",
+        "rarity": "UR",
+        "cardName": "Brooklet Hill",
+        "japaneseName": "せせらぎの丘",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV88/SV94",
+        "localId": "SV88",
+        "rarity": "Rare Secret",
+        "cardName": "Brooklet Hill",
+        "japaneseName": "せせらぎの丘",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Brooklet Hill (Guardians Rising 120)",
+            "pageId": 221789,
+            "revisionId": 4576235,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM9:TAG_BOLT:019/095",
+        "language": "ja",
+        "setCode": "SM9",
+        "tcgdexSetId": "SM9",
+        "setName": "Tag Bolt",
+        "cardNumber": "019/095",
+        "localId": "019",
+        "rarity": "RR",
+        "cardName": "Magikarp & Wailord-GX",
+        "japaneseName": "コイキング＆ホエルオーGX",
+        "cardKind": "pokemon",
+        "hp": 300
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM166",
+        "localId": "SM166",
+        "rarity": null,
+        "cardName": "Magikarp & Wailord-GX",
+        "japaneseName": "コイキング＆ホエルオーGX",
+        "cardKind": "pokemon",
+        "hp": 300,
+        "evidence": [
+          {
+            "pageTitle": "Magikarp & Wailord-GX (SM Promo 166)",
+            "pageId": 233891,
+            "revisionId": 4575071,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9A->sm10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM9A:NIGHT_UNISON:001/055",
+        "language": "ja",
+        "setCode": "SM9A",
+        "tcgdexSetId": "SM9a",
+        "setName": "Night Unison",
+        "cardNumber": "001/055",
+        "localId": "001",
+        "rarity": "C",
+        "cardName": "Venonat",
+        "japaneseName": "コンパン",
+        "cardKind": "pokemon",
+        "hp": 60
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM10",
+        "tcgdexSetId": "sm10",
+        "setName": "Unbroken Bonds",
+        "cardNumber": "9/214",
+        "localId": "9",
+        "rarity": "Common",
+        "cardName": "Venonat",
+        "japaneseName": "コンパン",
+        "cardKind": "pokemon",
+        "hp": 60,
+        "evidence": [
+          {
+            "pageTitle": "Venonat (Unbroken Bonds 9)",
+            "pageId": 234655,
+            "revisionId": 4215776,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9A->sma",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM9A:NIGHT_UNISON:070/055",
+        "language": "ja",
+        "setCode": "SM9A",
+        "tcgdexSetId": "SM9a",
+        "setName": "Night Unison",
+        "cardNumber": "070/055",
+        "localId": "070",
+        "rarity": "UR",
+        "cardName": "Aether Paradise Conservation Area",
+        "japaneseName": "エーテルパラダイス保護区",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV87/SV94",
+        "localId": "SV87",
+        "rarity": "Rare Secret",
+        "cardName": "Aether Paradise Conservation Area",
+        "japaneseName": "エーテルパラダイス保護区",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Aether Paradise Conservation Area (Guardians Rising 116)",
+            "pageId": 220954,
+            "revisionId": 4576217,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9B->sm10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM9B:FULL_METAL_WALL:001/054",
+        "language": "ja",
+        "setCode": "SM9B",
+        "tcgdexSetId": "SM9b",
+        "setName": "Full Metal Wall",
+        "cardNumber": "001/054",
+        "localId": "001",
+        "rarity": "RR",
+        "cardName": "Pheromosa & Buzzwole-GX",
+        "japaneseName": "フェローチェ＆マッシブーンGX",
+        "cardKind": "pokemon",
+        "hp": 260
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM10",
+        "tcgdexSetId": "sm10",
+        "setName": "Unbroken Bonds",
+        "cardNumber": "1/214",
+        "localId": "1",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Pheromosa & Buzzwole-GX",
+        "japaneseName": "フェローチェ＆マッシブーンGX",
+        "cardKind": "pokemon",
+        "hp": 260,
+        "evidence": [
+          {
+            "pageTitle": "Pheromosa & Buzzwole-GX (Unbroken Bonds 1)",
+            "pageId": 234905,
+            "revisionId": 4575085,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9B->sma",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM9B:FULL_METAL_WALL:069/066",
+        "language": "ja",
+        "setCode": "SM9B",
+        "tcgdexSetId": "SM9b",
+        "setName": "Full Metal Wall",
+        "cardNumber": "069/066",
+        "localId": "069",
+        "rarity": "UR",
+        "cardName": "Mt. Coronet",
+        "japaneseName": "テンガン山",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV89/SV94",
+        "localId": "SV89",
+        "rarity": "Rare Secret",
+        "cardName": "Mt. Coronet",
+        "japaneseName": "テンガン山",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Mt. Coronet (Ultra Prism 130)",
+            "pageId": 226730,
+            "revisionId": 4594732,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SM9B->smp",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:SM9B:FULL_METAL_WALL:057/054",
+        "language": "ja",
+        "setCode": "SM9B",
+        "tcgdexSetId": "SM9b",
+        "setName": "Full Metal Wall",
+        "cardNumber": "057/054",
+        "localId": "057",
+        "rarity": "SR",
+        "cardName": "Blastoise-GX",
+        "japaneseName": "カメックスGX",
+        "cardKind": "pokemon",
+        "hp": 240
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM189",
+        "localId": "SM189",
+        "rarity": null,
+        "cardName": "Blastoise-GX",
+        "japaneseName": "カメックスGX",
+        "cardKind": "pokemon",
+        "hp": 240,
+        "evidence": [
+          {
+            "pageTitle": "Blastoise-GX (Unbroken Bonds 35)",
+            "pageId": 235171,
+            "revisionId": 4575158,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMA->SM10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMA:HIDDEN_FATES:SV90/SV94",
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV90/SV94",
+        "localId": "SV90",
+        "rarity": "Rare Secret",
+        "cardName": "Shrine of Punishment",
+        "japaneseName": "戒めの祠",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10",
+        "tcgdexSetId": "SM10",
+        "setName": "Double Blaze",
+        "cardNumber": "115/095",
+        "localId": "115",
+        "rarity": "UR",
+        "cardName": "Shrine of Punishment",
+        "japaneseName": "戒めの祠",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Shrine of Punishment (Celestial Storm 143)",
+            "pageId": 230079,
+            "revisionId": 3371185,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMA->SM6",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMA:HIDDEN_FATES:SV86/SV94",
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV86/SV94",
+        "localId": "SV86",
+        "rarity": "Rare Ultra",
+        "cardName": "Lady",
+        "japaneseName": "おじょうさま",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM6",
+        "tcgdexSetId": "SM6",
+        "setName": "Forbidden Light",
+        "cardNumber": "100/094",
+        "localId": "100",
+        "rarity": "SR",
+        "cardName": "Lady",
+        "japaneseName": "おじょうさま",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Lady (Forbidden Light 109)",
+            "pageId": 228004,
+            "revisionId": 4429167,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMA->SM8b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 10,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMA:HIDDEN_FATES:SV1/SV94",
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV1/SV94",
+        "localId": "SV1",
+        "rarity": "Rare Shiny",
+        "cardName": "Scyther",
+        "japaneseName": "ストライク",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM8B",
+        "tcgdexSetId": "SM8b",
+        "setName": "GX Ultra Shiny",
+        "cardNumber": "161/150",
+        "localId": "161",
+        "rarity": "S",
+        "cardName": "Scyther",
+        "japaneseName": "ストライク",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Scyther (Celestial Storm 4)",
+            "pageId": 229160,
+            "revisionId": 3956258,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMA->SM9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMA:HIDDEN_FATES:SV88/SV94",
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV88/SV94",
+        "localId": "SV88",
+        "rarity": "Rare Secret",
+        "cardName": "Brooklet Hill",
+        "japaneseName": "せせらぎの丘",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM9",
+        "tcgdexSetId": "SM9",
+        "setName": "Tag Bolt",
+        "cardNumber": "118/095",
+        "localId": "118",
+        "rarity": "UR",
+        "cardName": "Brooklet Hill",
+        "japaneseName": "せせらぎの丘",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Brooklet Hill (Guardians Rising 120)",
+            "pageId": 221789,
+            "revisionId": 4576235,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMA->SM9a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMA:HIDDEN_FATES:SV87/SV94",
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV87/SV94",
+        "localId": "SV87",
+        "rarity": "Rare Secret",
+        "cardName": "Aether Paradise Conservation Area",
+        "japaneseName": "エーテルパラダイス保護区",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM9A",
+        "tcgdexSetId": "SM9a",
+        "setName": "Night Unison",
+        "cardNumber": "070/055",
+        "localId": "070",
+        "rarity": "UR",
+        "cardName": "Aether Paradise Conservation Area",
+        "japaneseName": "エーテルパラダイス保護区",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Aether Paradise Conservation Area (Guardians Rising 116)",
+            "pageId": 220954,
+            "revisionId": 4576217,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMA->SM9b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 3,
+      "selectionReasons": [
+        "both-rarities-present",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMA:HIDDEN_FATES:SV89/SV94",
+        "language": "en",
+        "setCode": "SMA",
+        "tcgdexSetId": "sma",
+        "setName": "Hidden Fates",
+        "cardNumber": "SV89/SV94",
+        "localId": "SV89",
+        "rarity": "Rare Secret",
+        "cardName": "Mt. Coronet",
+        "japaneseName": "テンガン山",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM9B",
+        "tcgdexSetId": "SM9b",
+        "setName": "Full Metal Wall",
+        "cardNumber": "069/066",
+        "localId": "069",
+        "rarity": "UR",
+        "cardName": "Mt. Coronet",
+        "japaneseName": "テンガン山",
+        "cardKind": "trainer",
+        "hp": null,
+        "evidence": [
+          {
+            "pageTitle": "Mt. Coronet (Ultra Prism 130)",
+            "pageId": 226730,
+            "revisionId": 4594732,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM10",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM201",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM201",
+        "localId": "SM201",
+        "rarity": null,
+        "cardName": "Reshiram & Charizard-GX",
+        "japaneseName": "レシラム＆リザードンGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10",
+        "tcgdexSetId": "SM10",
+        "setName": "Double Blaze",
+        "cardNumber": "097/095",
+        "localId": "097",
+        "rarity": "SR",
+        "cardName": "Reshiram & Charizard-GX",
+        "japaneseName": "レシラム＆リザードンGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Reshiram & Charizard-GX (Unbroken Bonds 20)",
+            "pageId": 235767,
+            "revisionId": 4575060,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM10a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM193",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM193",
+        "localId": "SM193",
+        "rarity": null,
+        "cardName": "Garchomp & Giratina-GX",
+        "japaneseName": "ガブリアス&ギラティナGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10A",
+        "tcgdexSetId": "SM10a",
+        "setName": "GG End",
+        "cardNumber": "060/054",
+        "localId": "060",
+        "rarity": "SR",
+        "cardName": "Garchomp & Giratina-GX",
+        "japaneseName": "ガブリアス&ギラティナGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Garchomp & Giratina-GX (Unified Minds 146)",
+            "pageId": 236558,
+            "revisionId": 4575063,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM10b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM210",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM210",
+        "localId": "SM210",
+        "rarity": null,
+        "cardName": "Moltres & Zapdos & Articuno-GX",
+        "japaneseName": "ファイヤー&サンダー&フリーザーGX",
+        "cardKind": "pokemon",
+        "hp": 300
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM10B",
+        "tcgdexSetId": "SM10b",
+        "setName": "Sky Legend",
+        "cardNumber": "060/054",
+        "localId": "060",
+        "rarity": "SR",
+        "cardName": "Moltres & Zapdos & Articuno-GX",
+        "japaneseName": "ファイヤー&サンダー&フリーザーGX",
+        "cardKind": "pokemon",
+        "hp": 300,
+        "evidence": [
+          {
+            "pageTitle": "Moltres & Zapdos & Articuno-GX (Hidden Fates 44)",
+            "pageId": 236958,
+            "revisionId": 4575057,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM191",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM191",
+        "localId": "SM191",
+        "rarity": null,
+        "cardName": "Mewtwo & Mew-GX",
+        "japaneseName": "ミュウツー&ミュウGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM11",
+        "tcgdexSetId": "SM11",
+        "setName": "Miracle Twin",
+        "cardNumber": "098/094",
+        "localId": "098",
+        "rarity": "SR",
+        "cardName": "Mewtwo & Mew-GX",
+        "japaneseName": "ミュウツー&ミュウGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Mewtwo & Mew-GX (Unified Minds 71)",
+            "pageId": 237652,
+            "revisionId": 4575072,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM11a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM229",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM229",
+        "localId": "SM229",
+        "rarity": null,
+        "cardName": "Venusaur & Snivy-GX",
+        "japaneseName": "フシギバナ＆ツタージャGX",
+        "cardKind": "pokemon",
+        "hp": 270
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM11A",
+        "tcgdexSetId": "SM11a",
+        "setName": "Remix Bout",
+        "cardNumber": "066/064",
+        "localId": "066",
+        "rarity": "SR",
+        "cardName": "Venusaur & Snivy-GX",
+        "japaneseName": "フシギバナ＆ツタージャGX",
+        "cardKind": "pokemon",
+        "hp": 270,
+        "evidence": [
+          {
+            "pageTitle": "Venusaur & Snivy-GX (Cosmic Eclipse 1)",
+            "pageId": 239077,
+            "revisionId": 4575062,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM12a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM150",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM150",
+        "localId": "SM150",
+        "rarity": null,
+        "cardName": "Raikou",
+        "japaneseName": "ライコウ",
+        "cardKind": "pokemon",
+        "hp": 120
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM12A",
+        "tcgdexSetId": "SM12a",
+        "setName": "Tag All Stars",
+        "cardNumber": "044/173",
+        "localId": "044",
+        "rarity": null,
+        "cardName": "Raikou",
+        "japaneseName": "ライコウ",
+        "cardKind": "pokemon",
+        "hp": 120,
+        "evidence": [
+          {
+            "pageTitle": "Raikou (Lost Thunder 79)",
+            "pageId": 231759,
+            "revisionId": 4555743,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM1p",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM25",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM25",
+        "localId": "SM25",
+        "rarity": null,
+        "cardName": "Lurantis",
+        "japaneseName": "ラランテス",
+        "cardKind": "pokemon",
+        "hp": 100
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM1+",
+        "tcgdexSetId": "SM1p",
+        "setName": "Enhanced Expansion Pack Sun & Moon",
+        "cardNumber": "006/051",
+        "localId": "006",
+        "rarity": null,
+        "cardName": "Lurantis",
+        "japaneseName": "ラランテス",
+        "cardKind": "pokemon",
+        "hp": 100,
+        "evidence": [
+          {
+            "pageTitle": "Lurantis (SM Promo 25)",
+            "pageId": 220660,
+            "revisionId": 4339240,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM2p",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM45",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM45",
+        "localId": "SM45",
+        "rarity": null,
+        "cardName": "Tapu Lele",
+        "japaneseName": "カプ・テテフ",
+        "cardKind": "pokemon",
+        "hp": 110
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM2P",
+        "tcgdexSetId": "SM2p",
+        "setName": "Facing a New Trial",
+        "cardNumber": "026/049",
+        "localId": "026",
+        "rarity": null,
+        "cardName": "Tapu Lele",
+        "japaneseName": "カプ・テテフ",
+        "cardKind": "pokemon",
+        "hp": 110,
+        "evidence": [
+          {
+            "pageTitle": "Tapu Lele (SM Promo 45)",
+            "pageId": 222081,
+            "revisionId": 2939951,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM3H",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM60",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM60",
+        "localId": "SM60",
+        "rarity": null,
+        "cardName": "Charizard-GX",
+        "japaneseName": "リザードンGX",
+        "cardKind": "pokemon",
+        "hp": 250
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM3H",
+        "tcgdexSetId": "SM3H",
+        "setName": "To Have Seen the Battle Rainbow",
+        "cardNumber": "052/051",
+        "localId": "052",
+        "rarity": "SR",
+        "cardName": "Charizard-GX",
+        "japaneseName": "リザードンGX",
+        "cardKind": "pokemon",
+        "hp": 250,
+        "evidence": [
+          {
+            "pageTitle": "Charizard-GX (Burning Shadows 20)",
+            "pageId": 223417,
+            "revisionId": 4575156,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM3p",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM79",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM79",
+        "localId": "SM79",
+        "rarity": null,
+        "cardName": "Shining Celebi",
+        "japaneseName": "ひかるセレビィ",
+        "cardKind": "pokemon",
+        "hp": 70
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM3+",
+        "tcgdexSetId": "SM3p",
+        "setName": "Shining Legends",
+        "cardNumber": "004/072",
+        "localId": "004",
+        "rarity": "Shining",
+        "cardName": "Shining Celebi",
+        "japaneseName": "ひかるセレビィ",
+        "cardKind": "pokemon",
+        "hp": 70,
+        "evidence": [
+          {
+            "pageTitle": "Shining Celebi (SM Promo 79)",
+            "pageId": 224329,
+            "revisionId": 3726862,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM4p",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM16",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM16",
+        "localId": "SM16",
+        "rarity": null,
+        "cardName": "Solgaleo-GX",
+        "japaneseName": "ソルガレオGX",
+        "cardKind": "pokemon",
+        "hp": 250
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM4+",
+        "tcgdexSetId": "SM4p",
+        "setName": "GX Battle Boost",
+        "cardNumber": "070/114",
+        "localId": "070",
+        "rarity": "RR",
+        "cardName": "Solgaleo-GX",
+        "japaneseName": "ソルガレオGX",
+        "cardKind": "pokemon",
+        "hp": 250,
+        "evidence": [
+          {
+            "pageTitle": "Solgaleo-GX (Sun & Moon 89)",
+            "pageId": 217317,
+            "revisionId": 4627811,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM5p",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM100",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM100",
+        "localId": "SM100",
+        "rarity": null,
+        "cardName": "Lucario-GX",
+        "japaneseName": "ルカリオGX",
+        "cardKind": "pokemon",
+        "hp": 210
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM5+",
+        "tcgdexSetId": "SM5p",
+        "setName": "Ultra Force",
+        "cardNumber": "030/050",
+        "localId": "030",
+        "rarity": "RR",
+        "cardName": "Lucario-GX",
+        "japaneseName": "ルカリオGX",
+        "cardKind": "pokemon",
+        "hp": 210,
+        "evidence": [
+          {
+            "pageTitle": "Lucario-GX (SM Promo 100)",
+            "pageId": 227259,
+            "revisionId": 4575159,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM6a",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM141",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM141",
+        "localId": "SM141",
+        "rarity": null,
+        "cardName": "White Kyurem-GX",
+        "japaneseName": "ホワイトキュレムGX",
+        "cardKind": "pokemon",
+        "hp": 190
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM6A",
+        "tcgdexSetId": "SM6a",
+        "setName": "Dragon Storm",
+        "cardNumber": "057/053",
+        "localId": "057",
+        "rarity": "SR",
+        "cardName": "White Kyurem-GX",
+        "japaneseName": "ホワイトキュレムGX",
+        "cardKind": "pokemon",
+        "hp": 190,
+        "evidence": [
+          {
+            "pageTitle": "White Kyurem-GX (Dragon Majesty 48)",
+            "pageId": 228316,
+            "revisionId": 4575113,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM6b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM139",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM139",
+        "localId": "SM139",
+        "rarity": null,
+        "cardName": "Salamence-GX",
+        "japaneseName": "ボーマンダGX",
+        "cardKind": "pokemon",
+        "hp": 250
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM6B",
+        "tcgdexSetId": "SM6b",
+        "setName": "Champion Road",
+        "cardNumber": "072/066",
+        "localId": "072",
+        "rarity": "SR",
+        "cardName": "Salamence-GX",
+        "japaneseName": "ボーマンダGX",
+        "cardKind": "pokemon",
+        "hp": 250,
+        "evidence": [
+          {
+            "pageTitle": "Salamence-GX (Dragon Majesty 44)",
+            "pageId": 228899,
+            "revisionId": 4575098,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM8b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM101",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM101",
+        "localId": "SM101",
+        "rarity": null,
+        "cardName": "Dawn Wings Necrozma-GX",
+        "japaneseName": "ネクロズマあかつきのつばさGX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM8B",
+        "tcgdexSetId": "SM8b",
+        "setName": "GX Ultra Shiny",
+        "cardNumber": "049/150",
+        "localId": "049",
+        "rarity": "RR",
+        "cardName": "Dawn Wings Necrozma-GX",
+        "japaneseName": "ネクロズマあかつきのつばさGX",
+        "cardKind": "pokemon",
+        "hp": 180,
+        "evidence": [
+          {
+            "pageTitle": "Dawn Wings Necrozma-GX (Ultra Prism 63)",
+            "pageId": 226711,
+            "revisionId": 4575086,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM9",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM166",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM166",
+        "localId": "SM166",
+        "rarity": null,
+        "cardName": "Magikarp & Wailord-GX",
+        "japaneseName": "コイキング＆ホエルオーGX",
+        "cardKind": "pokemon",
+        "hp": 300
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM9",
+        "tcgdexSetId": "SM9",
+        "setName": "Tag Bolt",
+        "cardNumber": "019/095",
+        "localId": "019",
+        "rarity": "RR",
+        "cardName": "Magikarp & Wailord-GX",
+        "japaneseName": "コイキング＆ホエルオーGX",
+        "cardKind": "pokemon",
+        "hp": 300,
+        "evidence": [
+          {
+            "pageTitle": "Magikarp & Wailord-GX (SM Promo 166)",
+            "pageId": 233891,
+            "revisionId": 4575071,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "SMP->SM9b",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "en:SMP:SM_BLACK_STAR_PROMOS:SM189",
+        "language": "en",
+        "setCode": "SMP",
+        "tcgdexSetId": "smp",
+        "setName": "SM Black Star Promos",
+        "cardNumber": "SM189",
+        "localId": "SM189",
+        "rarity": null,
+        "cardName": "Blastoise-GX",
+        "japaneseName": "カメックスGX",
+        "cardKind": "pokemon",
+        "hp": 240
+      },
+      "target": {
+        "language": "ja",
+        "setCode": "SM9B",
+        "tcgdexSetId": "SM9b",
+        "setName": "Full Metal Wall",
+        "cardNumber": "057/054",
+        "localId": "057",
+        "rarity": "SR",
+        "cardName": "Blastoise-GX",
+        "japaneseName": "カメックスGX",
+        "cardKind": "pokemon",
+        "hp": 240,
+        "evidence": [
+          {
+            "pageTitle": "Blastoise-GX (Unbroken Bonds 35)",
+            "pageId": 235171,
+            "revisionId": 4575158,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    },
+    {
+      "relationship": "TAGTEAM-STARTERS->sm11",
+      "reviewStatus": "pending-user-review",
+      "selectionScore": 8,
+      "selectionReasons": [
+        "pokemon-card",
+        "matching-hp-available",
+        "single-target-source"
+      ],
+      "source": {
+        "sourceKey": "ja:TAGTEAM-STARTERS:TAG_TEAM_GX_STARTER_SETS:001/031",
+        "language": "ja",
+        "setCode": "TAGTEAM-STARTERS",
+        "tcgdexSetId": null,
+        "setName": "TAG TEAM GX Starter Sets",
+        "cardNumber": "001/031",
+        "localId": "001",
+        "rarity": null,
+        "cardName": "Espeon & Deoxys-GX",
+        "japaneseName": "エーフィ＆デオキシスGX",
+        "cardKind": "pokemon",
+        "hp": 260
+      },
+      "target": {
+        "language": "en",
+        "setCode": "SM11",
+        "tcgdexSetId": "sm11",
+        "setName": "Unified Minds",
+        "cardNumber": "72/236",
+        "localId": "72",
+        "rarity": "Ultra-Rare Rare",
+        "cardName": "Espeon & Deoxys-GX",
+        "japaneseName": "エーフィ＆デオキシスGX",
+        "cardKind": "pokemon",
+        "hp": 260,
+        "evidence": [
+          {
+            "pageTitle": "Espeon & Deoxys-GX (Unified Minds 72)",
+            "pageId": 237805,
+            "revisionId": 4575070,
+            "derivation": "paired-expansion-template"
+          }
+        ]
+      }
+    }
+  ]
+}

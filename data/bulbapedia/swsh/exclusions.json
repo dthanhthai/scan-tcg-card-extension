@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "note": "Source keys dropped from the published index. Each entry records why.",
+  "sourceKeys": [
+    {
+      "sourceKey": "en:SWSH8:FUSION_STRIKE:282/264",
+      "reason": "Bulbapedia pairs Fusion Strike 282/264 Training Court with Fusion Arts 127/100, but TCGdex S8-127 is Basic Grass Energy (\u57fa\u672c\u8349\u30a8\u30cd\u30eb\u30ae\u30fc) and Training Court is S8-126. The target number is off by one, so the record is dropped. Found by the 2026-09-19 sample review after the validator stopped collapsing Japanese names."
+    },
+    {
+      "sourceKey": "en:SWSH8:FUSION_STRIKE:281/264",
+      "reason": "Same off-by-one cluster: Bulbapedia pairs Fusion Strike 281/264 Power Tablet with Fusion Arts 126/100, but TCGdex S8-126 is Training Court (\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u30b3\u30fc\u30c8). A full validation of the SWSH8->S8 relationship (124 records) flagged only this row."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+M era gold-pair checklist
+
+ 1. M-P Promotional cards (M-P) -> Perfect Order (ME03)  (2 card)
+      M-P 002/M-P Lapras ex hp210  <->  ME03 022/088 Lapras ex hp210
+ 2. M-P Promotional cards (M-P) -> Chaos Rising (ME04)  (3 card)
+      M-P 068/M-P Mega Gallade ex hp350  <->  ME04 048/086 Mega Gallade ex hp350
+ 3. M-P Promotional cards (M-P) -> Pitch Black (ME05)  (3 card)
+      M-P 096/M-P Mega Delphox ex hp350  <->  ME05 008/084 Mega Delphox ex hp350
+ 4. M-P Promotional cards (M-P) -> MEP Black Star Promos (MEP)  (48 card)
+      M-P 164/M-P Mega Zeraora ex hp270  <->  MEP 089 Mega Zeraora ex hp270
+ 5. M-P Promotional cards (M-P) -> SVP Black Star Promos (SVP)  (1 card)
+      M-P 043/M-P Team Rocket's Mewtwo ex hp280  <->  SVP 216 Team Rocket's Mewtwo ex hp280
+ 6. Mega Brave (M1L) -> Mega Evolution (ME01)  (182 card)
+      M1L 092/063 Mega Lucario ex hp340  <->  ME01 188/132 Mega Lucario ex hp340
+ 7. Mega Brave (M1L) -> MEP Black Star Promos (MEP)  (2 card)
+      M1L 068/063 Riolu hp80  <->  MEP 010 Riolu hp80
+ 8. Mega Symphonia (M1S) -> Mega Evolution (ME01)  (182 card)
+      M1S 092/063 Mega Gardevoir ex hp360  <->  ME01 187/132 Mega Gardevoir ex hp360
+ 9. Mega Symphonia (M1S) -> MEP Black Star Promos (MEP)  (2 card)
+      M1S 071/063 Alakazam hp140  <->  MEP 009 Alakazam hp140
+10. MEGA Dream ex (M2A) -> Ascended Heroes (ME02.5)  (364 card)
+      M2A 250/193 Mega Dragonite ex hp370  <->  ME02.5 295/217 Mega Dragonite ex hp370
+11. MEGA Dream ex (M2A) -> MEP Black Star Promos (MEP)  (12 card)
+      M2A 228/193 Mega Lucario ex hp340  <->  MEP 033 Mega Lucario ex hp340
+12. MEGA Dream ex (M2A) -> SVP Black Star Promos (SVP)  (14 card)
+      M2A 136/193 Hop's Snorlax hp150  <->  SVP 184 Hop's Snorlax hp150
+13. Inferno X (M2) -> Phantasmal Flames (ME02)  (220 card)
+      M2 116/080 Mega Charizard X ex hp360  <->  ME02 130/094 Mega Charizard X ex hp360
+14. Inferno X (M2) -> MEP Black Star Promos (MEP)  (12 card)
+      M2 111/080 Oricorio ex hp190  <->  MEP 024 Oricorio ex hp190
+15. Nihil Zero (M3) -> Perfect Order (ME03)  (230 card)
+      M3 117/080 Mega Zygarde ex hp310  <->  ME03 124/088 Mega Zygarde ex hp310
+16. Nihil Zero (M3) -> MEP Black Star Promos (MEP)  (2 card)
+      M3 089/080 Tyrunt hp100  <->  MEP 070 Tyrunt hp100
+17. Ninja Spinner (M4) -> Chaos Rising (ME04)  (238 card)
+      M4 120/083 Mega Greninja ex hp350  <->  ME04 122/086 Mega Greninja ex hp350
+18. Ninja Spinner (M4) -> MEP Black Star Promos (MEP)  (2 card)
+      M4 085/083 Fennekin hp70  <->  MEP 080 Fennekin hp70
+19. Abyss Eye (M5) -> Pitch Black (ME05)  (234 card)
+      M5 118/081 Mega Darkrai ex hp280  <->  ME05 120/084 Mega Darkrai ex hp280
+20. Abyss Eye (M5) -> MEP Black Star Promos (MEP)  (2 card)
+      M5 090/081 Zarude hp130  <->  MEP 088 Zarude hp130
+21. Storm Emeralda (M6) -> MEP Black Star Promos (MEP)  (2 card)
+      M6 080/076 Kyogre hp150  <->  MEP 117 Kyogre hp150

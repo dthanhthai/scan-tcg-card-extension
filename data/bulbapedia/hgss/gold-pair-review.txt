@@ -1,0 +1,79 @@
+==================== HGSS (13 relationships)
+1. L-P->col1  (17 cards)
+   JP: L-P 005/L-P  L-P Promotional cards  - Chikorita / チコリータ  hp 50
+   EN: CL 53/95  Call of Legends (col1)  - Chikorita  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/col1/col1/53/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Chikorita_(Call_of_Legends_53)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Chikorita%20L-P%20Promotional%20cards%20005%2FL-P
+2. L-P->hgss1  (1 cards)
+   JP: L-P 004/L-P  L-P Promotional cards  - Gyarados / ギャラドス  hp 130
+   EN: HS 123/123  HeartGold & SoulSilver (hgss1)  - Gyarados  hp 130
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss1/hgss1/123/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Gyarados_(HeartGold_%26_SoulSilver_123)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Gyarados%20L-P%20Promotional%20cards%20004%2FL-P
+3. L-P->hgss3  (6 cards)
+   JP: L-P 028/L-P  L-P Promotional cards  - Slowpoke / ヤドン  hp 60
+   EN: UD 66/90  Undaunted (hgss3)  - Slowpoke  hp 60
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss3/hgss3/66/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Slowpoke_(Undaunted_66)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Slowpoke%20L-P%20Promotional%20cards%20028%2FL-P
+4. L-P->hgssp  (15 cards)
+   JP: L-P 019/L-P  L-P Promotional cards  - Pikachu / ピカチュウ  hp 70
+   EN: HSP HGSS03  HGSS Black Star Promos (hgssp)  - Pikachu  hp 70
+   art EN (exact printing): https://assets.tcgdex.net/en/hgssp/hgssp/HGSS03/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Pikachu_(HGSS_Promo_3)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Pikachu%20L-P%20Promotional%20cards%20019%2FL-P
+5. L1A->hgss1  (56 cards)
+   JP: L1A 004/070  HeartGold Collection  - Spinarak / イトマル  hp 50
+   EN: HS 83/123  HeartGold & SoulSilver (hgss1)  - Spinarak  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss1/hgss1/83/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Spinarak_(HeartGold_%26_SoulSilver_83)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Spinarak%20HeartGold%20Collection%20004%2F070
+6. L1A->hgss2  (11 cards)
+   JP: L1A 001/070  HeartGold Collection  - Weedle / ビードル  hp 40
+   EN: UL 69/95  Unleashed (hgss2)  - Weedle  hp 40
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss2/hgss2/69/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Weedle_(Unleashed_69)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Weedle%20HeartGold%20Collection%20001%2F070
+7. L1B->hgss1  (53 cards)
+   JP: L1B 001/070  SoulSilver Collection  - Caterpie / キャタピー  hp 30
+   EN: HS 57/123  HeartGold & SoulSilver (hgss1)  - Caterpie  hp 30
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss1/hgss1/57/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Caterpie_(HeartGold_%26_SoulSilver_57)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Caterpie%20SoulSilver%20Collection%20001%2F070
+8. L1B->hgss2  (16 cards)
+   JP: L1B 018/070  SoulSilver Collection  - Poliwag / ニョロモ  hp 50
+   EN: UL 58/95  Unleashed (hgss2)  - Poliwag  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss2/hgss2/58/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Poliwag_(Unleashed_58)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Poliwag%20SoulSilver%20Collection%20018%2F070
+9. L2->hgss2  (12 cards)
+   JP: L2 012/080  Reviving Legends  - Horsea / タッツ  hp 50
+   EN: UL 49/95  Unleashed (hgss2)  - Horsea  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss2/hgss2/49/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Horsea_(Unleashed_49)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Horsea%20Reviving%20Legends%20012%2F080
+10. L2->hgss3  (57 cards)
+   JP: L2 001/080  Reviving Legends  - Oddish / ナゾノクサ  hp 40
+   EN: UD 60/90  Undaunted (hgss3)  - Oddish  hp 40
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss3/hgss3/60/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Oddish_(Undaunted_60)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Oddish%20Reviving%20Legends%20001%2F080
+11. L3->hgss4  (72 cards)
+   JP: L3 001/080  Clash at the Summit  - Bellsprout / マダツボミ  hp 40
+   EN: TM 57/102  Triumphant (hgss4)  - Bellsprout  hp 40
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss4/hgss4/57/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Bellsprout_(Triumphant_57)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Bellsprout%20Clash%20at%20the%20Summit%20001%2F080
+12. LL->col1  (14 cards)
+   JP: LL 003/040  Lost Link  - Tangela / モンジャラ  hp 70
+   EN: CL 72/95  Call of Legends (col1)  - Tangela  hp 70
+   art EN (exact printing): https://assets.tcgdex.net/en/col1/col1/72/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Tangela_(Call_of_Legends_72)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Tangela%20Lost%20Link%20003%2F040
+13. LL->hgss4  (24 cards)
+   JP: LL 001/040  Lost Link  - Venonat / コンパン  hp 50
+   EN: TM 81/102  Triumphant (hgss4)  - Venonat  hp 50
+   art EN (exact printing): https://assets.tcgdex.net/en/hgss4/hgss4/81/high.webp
+   card page: https://bulbapedia.bulbagarden.net/wiki/Venonat_(Triumphant_81)
+   JP search: https://bulbapedia.bulbagarden.net/w/index.php?search=Venonat%20Lost%20Link%20001%2F040

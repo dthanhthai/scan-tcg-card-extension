@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "sources": [
+    {
+      "fileName": "dark-explorers-set.json",
+      "kind": "set",
+      "pageTitle": "Dark Explorers (TCG)",
+      "pageId": 147670,
+      "revisionId": 4193142,
+      "revisionTimestamp": "2024-11-26T05:07:42Z"
+    },
+    {
+      "fileName": "darkrai-ex.json",
+      "kind": "card",
+      "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+      "pageId": 150074,
+      "revisionId": 4574445,
+      "revisionTimestamp": "2026-06-18T07:28:16Z"
+    },
+    {
+      "fileName": "ex-battle-boost-redirect.json",
+      "kind": "redirect",
+      "pageTitle": "EX Battle Boost (TCG)",
+      "pageId": 182088,
+      "revisionId": 1956187,
+      "revisionTimestamp": "2013-08-20T16:10:45Z"
+    },
+    {
+      "fileName": "professor-juniper.json",
+      "kind": "card",
+      "pageTitle": "Professor Juniper (Black & White 101)",
+      "pageId": 120958,
+      "revisionId": 4517817,
+      "revisionTimestamp": "2026-03-27T19:17:43Z"
+    }
+  ],
+  "sourceApi": "https://bulbapedia.bulbagarden.net/w/api.php",
+  "targetSetCatalog": {
+    "languages": [
+      "en",
+      "ja"
+    ],
+    "sourceUrls": [
+      "https://api.tcgdex.net/v2/en/sets",
+      "https://api.tcgdex.net/v2/ja/sets"
+    ],
+    "setCount": 220
+  }
+}

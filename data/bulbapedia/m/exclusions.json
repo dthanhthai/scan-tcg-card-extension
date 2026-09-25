@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "note": "Source keys dropped from the published index. Each entry records why.",
+  "sourceKeys": [
+    {
+      "sourceKey": "en:ME03:PERFECT_ORDER:117/088",
+      "reason": "Bulbapedia lists jpcardno 103/080 (Nihil Zero) for Perfect Order 117 Wondrous Patch, but TCGdex M3-103 is Poké Pad (ポケパッド); Wondrous Patch is M3-104. Found by the 2026-09-22 full validation pass."
+    }
+  ]
+}

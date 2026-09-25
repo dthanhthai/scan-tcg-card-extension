@@ -1,0 +1,87 @@
+SWSH gold-pair checklist
+
+S-P|smp                 2  S-P Promotional cards <-> SM Black Star Promos   vd: JP S-P 141/S-P Mismagius hp90  <->  EN SMP SM245 Mismagius hp90
+S-P|swsh1               1  S-P Promotional cards <-> Sword & Shield   vd: JP S-P 022/S-P Cinderace hp170  <->  EN SWSH1 036/202 Cinderace hp170
+S-P|swsh10              2  S-P Promotional cards <-> Astral Radiance   vd: JP S-P 235/S-P Galarian Mr. Rime V hp210  <->  EN SWSH10 049/189 Galarian Mr. Rime V hp210
+S-P|swsh11              1  S-P Promotional cards <-> Lost Origin   vd: JP S-P 263/S-P Riley  <->  EN SWSH11 166/196 Riley
+S-P|swsh12              2  S-P Promotional cards <-> Silver Tempest   vd: JP S-P 282/S-P Ursaluna V hp230  <->  EN SWSH12 102/195 Ursaluna V hp230
+S-P|swsh12.5           30  S-P Promotional cards <-> Crown Zenith   vd: JP S-P 116/S-P Krokorok hp90  <->  EN SWSH12.5 079/159 Krokorok hp90
+S-P|swsh2               4  S-P Promotional cards <-> Rebel Clash   vd: JP S-P 020/S-P Eiscue V hp210  <->  EN SWSH2 055/192 Eiscue V hp210
+S-P|swsh3               2  S-P Promotional cards <-> Darkness Ablaze   vd: JP S-P 047/S-P Pincurchin hp80  <->  EN SWSH3 064/189 Pincurchin hp80
+S-P|swsh3.5             4  S-P Promotional cards <-> Champion's Path   vd: JP S-P 042/S-P Rolycoly hp70  <->  EN SWSH3.5 031/073 Rolycoly hp70
+S-P|swsh4               2  S-P Promotional cards <-> Vivid Voltage   vd: JP S-P 069/S-P Pokémon Center Lady  <->  EN SWSH4 185/185 Pokémon Center Lady
+S-P|swsh4.5            13  S-P Promotional cards <-> Shining Fates   vd: JP S-P 039/S-P Luxio hp90  <->  EN SWSH4.5 032/072 Luxio hp90
+S-P|swsh5               1  S-P Promotional cards <-> Battle Styles   vd: JP S-P 118/S-P Sordward & Shielbert  <->  EN SWSH5 135/163 Sordward & Shielbert
+S-P|swsh6               2  S-P Promotional cards <-> Chilling Reign   vd: JP S-P 157/S-P Honey  <->  EN SWSH6 192/198 Honey
+S-P|swsh8              10  S-P Promotional cards <-> Fusion Strike   vd: JP S-P 162/S-P Dodrio V hp200  <->  EN SWSH8 201/264 Dodrio V hp200
+S-P|swsh9               2  S-P Promotional cards <-> Brilliant Stars   vd: JP S-P 219/S-P Dracovish V hp220  <->  EN SWSH9 114/172 Dracovish V hp220
+S-P|swshp             106  S-P Promotional cards <-> SWSH Black Star Promos   vd: JP S-P 001/S-P Pikachu hp70  <->  EN SWSHP SWSH020 Pikachu hp70
+S10A|swsh11           152  Dark Phantasma <-> Lost Origin   vd: JP S10A 001/071 Paras hp70  <->  EN SWSH11 004/196 Paras hp70
+S10A|swsh11tg          16  Dark Phantasma <-> Lost Origin   vd: JP S10A 072/071 Parasect hp120  <->  EN LOR:TG TG01/TG30 Parasect hp120
+S10A|swsh12            24  Dark Phantasma <-> Silver Tempest   vd: JP S10A 011/071 Phione hp70  <->  EN SWSH12 045/195 Phione hp70
+S10A|swshp              6  Dark Phantasma <-> SWSH Black Star Promos   vd: JP S10A 040/071 Gallade V hp220  <->  EN SWSHP SWSH258 Gallade V hp220
+S10B|swshp              5  Pokémon GO <-> SWSH Black Star Promos   vd: JP S10B 055/071 Radiant Eevee hp90  <->  EN SWSHP SWSH230 Radiant Eevee hp90
+S10D|swsh10            70  Time Gazer <-> Astral Radiance   vd: JP S10D 001/067 Yanma hp60  <->  EN SWSH10 006/189 Yanma hp60
+S10D|swsh11            16  Time Gazer <-> Lost Origin   vd: JP S10D 011/067 Poliwag hp60  <->  EN SWSH11 030/196 Poliwag hp60
+S10D|swshp              2  Time Gazer <-> SWSH Black Star Promos   vd: JP S10D 025/067 Jirachi V hp180  <->  EN SWSHP SWSH299 Jirachi V hp180
+S10P|swsh10           132  Space Juggler <-> Astral Radiance   vd: JP S10P 001/067 Beedrill V hp210  <->  EN SWSH10 001/189 Beedrill V hp210
+S10P|swsh11            34  Space Juggler <-> Lost Origin   vd: JP S10P 008/067 Blipbug hp50  <->  EN SWSH11 018/196 Blipbug hp50
+S10P|swshp              6  Space Juggler <-> SWSH Black Star Promos   vd: JP S10P 073/067 Kleavor V hp210  <->  EN SWSHP SWSH248 Kleavor V hp210
+S11A|swsh12           116  Incandescent Arcana <-> Silver Tempest   vd: JP S11A 005/068 Serperior V hp210  <->  EN SWSH12 007/195 Serperior V hp210
+S11A|swsh12.5          48  Incandescent Arcana <-> Crown Zenith   vd: JP S11A 001/068 Scyther hp80  <->  EN SWSH12.5 006/159 Scyther hp80
+S11A|swsh12tg          16  Incandescent Arcana <-> Silver Tempest   vd: JP S11A 069/068 Braixen hp90  <->  EN SIT:TG TG01/TG30 Braixen hp90
+S11|swsh11            164  Lost Abyss <-> Lost Origin   vd: JP S11 005/100 Seedot hp50  <->  EN SWSH11 011/196 Seedot hp50
+S11|swsh12             90  Lost Abyss <-> Silver Tempest   vd: JP S11 001/100 Venonat hp60  <->  EN SWSH12 001/195 Venonat hp60
+S12A|swsh12.5          60  VSTAR Universe <-> Crown Zenith   vd: JP S12A 012/172 Leafeon VSTAR hp260  <->  EN SWSH12.5 014/159 Leafeon VSTAR hp260
+S12A|swsh12.5gg       140  VSTAR Universe <-> Crown Zenith   vd: JP S12A 173/172 Hisuian Voltorb hp50  <->  EN CRZ:GG GG01/GG70 Hisuian Voltorb hp50
+S12A|swshp             50  VSTAR Universe <-> SWSH Black Star Promos   vd: JP S12A 049/172 Galarian Articuno hp120  <->  EN SWSHP SWSH123 Galarian Articuno hp120
+S12|swsh12            190  Paradigm Trigger <-> Silver Tempest   vd: JP S12 006/098 Spinarak hp60  <->  EN SWSH12 003/195 Spinarak hp60
+S12|swsh12.5           60  Paradigm Trigger <-> Crown Zenith   vd: JP S12 001/098 Oddish hp50  <->  EN SWSH12.5 001/159 Oddish hp50
+S1A|swsh2              86  VMAX Rising <-> Rebel Clash   vd: JP S1A 001/070 Caterpie hp50  <->  EN SWSH2 001/192 Caterpie hp50
+S1H|swsh1              75  Shield <-> Sword & Shield   vd: JP S1H 001/060 Blipbug hp50  <->  EN SWSH1 016/202 Blipbug hp50
+S1W|swsh1              75  Sword <-> Sword & Shield   vd: JP S1W 001/060 Roselia hp70  <->  EN SWSH1 002/202 Roselia hp70
+S2|swsh2              115  Rebellion Crash <-> Rebel Clash   vd: JP S2 001/096 Scyther hp80  <->  EN SWSH2 004/192 Scyther hp80
+S3A|swsh3.5             2  Legendary Heartbeat <-> Champion's Path   vd: JP S3A 031/076 Alcremie V hp170  <->  EN SWSH3.5 022/073 Alcremie V hp170
+S3A|swsh4              85  Legendary Heartbeat <-> Vivid Voltage   vd: JP S3A 001/076 Weedle hp40  <->  EN SWSH4 001/185 Weedle hp40
+S3A|swsh4.5             2  Legendary Heartbeat <-> Shining Fates   vd: JP S3A 079/076 Alcremie V hp170  <->  EN SWSH4.5 064/072 Alcremie V hp170
+S4A|swsh2               2  Shiny Star V <-> Rebel Clash   vd: JP S4A 136/190 Zacian hp120  <->  EN SWSH2 139/192 Zacian hp120
+S4A|swsh3               2  Shiny Star V <-> Darkness Ablaze   vd: JP S4A 038/190 Galarian Darmanitan hp140  <->  EN SWSH3 044/189 Galarian Darmanitan hp140
+S4A|swsh3.5             2  Shiny Star V <-> Champion's Path   vd: JP S4A 016/190 Eldegoss V hp180  <->  EN SWSH3.5 005/073 Eldegoss V hp180
+S4A|swsh4.5            28  Shiny Star V <-> Shining Fates   vd: JP S4A 001/190 Rowlet hp50  <->  EN SWSH4.5 006/072 Rowlet hp50
+S4A|swsh4.5sv         122  Shiny Star V <-> Shining Fates   vd: JP S4A 200/190 Rowlet hp50  <->  EN SHF:SV SV001/SV122 Rowlet hp50
+S4A|swshp              29  Shiny Star V <-> SWSH Black Star Promos   vd: JP S4A 003/190 Decidueye hp140  <->  EN SWSHP SWSH035 Decidueye hp140
+S4|swsh3.5              3  Amazing Volt Tackle <-> Champion's Path   vd: JP S4 053/100 Machop hp70  <->  EN SWSH3.5 024/073 Machop hp70
+S4|swsh4              116  Amazing Volt Tackle <-> Vivid Voltage   vd: JP S4 001/100 Seedot hp60  <->  EN SWSH4 010/185 Seedot hp60
+S4|swshp                2  Amazing Volt Tackle <-> SWSH Black Star Promos   vd: JP S4 041/100 Alakazam V hp190  <->  EN SWSHP SWSH083 Alakazam V hp190
+S5I|swsh5             182  Single Strike Master <-> Battle Styles   vd: JP S5I 001/070 Cacnea hp70  <->  EN SWSH5 004/163 Cacnea hp70
+S5R|swsh5              91  Rapid Strike Master <-> Battle Styles   vd: JP S5R 001/070 Bellsprout hp50  <->  EN SWSH5 001/163 Bellsprout hp50
+S6A|swsh7              63  Eevee Heroes <-> Evolving Skies   vd: JP S6A 001/069 Pinsir hp120  <->  EN SWSH7 001/203 Pinsir hp120
+S6A|swsh8              31  Eevee Heroes <-> Fusion Strike   vd: JP S6A 004/069 Sewaddle hp50  <->  EN SWSH8 009/264 Sewaddle hp50
+S6A|swshp               6  Eevee Heroes <-> SWSH Black Star Promos   vd: JP S6A 011/069 Flareon V hp210  <->  EN SWSHP SWSH149 Flareon V hp210
+S6H|swsh6             162  Silver Lance <-> Chilling Reign   vd: JP S6H 001/070 Snover hp80  <->  EN SWSH6 009/198 Snover hp80
+S6H|swsh7              24  Silver Lance <-> Evolving Skies   vd: JP S6H 003/070 Dwebble hp60  <->  EN SWSH7 011/203 Dwebble hp60
+S6H|swshp               2  Silver Lance <-> SWSH Black Star Promos   vd: JP S6H 029/070 Galarian Rapidash V hp210  <->  EN SWSHP SWSH111 Galarian Rapidash V hp210
+S6K|swsh6             152  Jet-Black Spirit <-> Chilling Reign   vd: JP S6K 001/070 Ledyba hp60  <->  EN SWSH6 004/198 Ledyba hp60
+S6K|swsh7              36  Jet-Black Spirit <-> Evolving Skies   vd: JP S6K 005/070 Seedot hp50  <->  EN SWSH7 005/203 Seedot hp50
+S7D|swsh7             122  Skyscraping Perfection <-> Evolving Skies   vd: JP S7D 001/067 Suicune V hp210  <->  EN SWSH7 031/203 Suicune V hp210
+S7D|swsh8              50  Skyscraping Perfection <-> Fusion Strike   vd: JP S7D 005/067 Panpour hp60  <->  EN SWSH8 068/264 Panpour hp60
+S7R|swsh7              52  Blue Sky Stream <-> Evolving Skies   vd: JP S7R 001/067 Hoppip hp40  <->  EN SWSH7 002/203 Hoppip hp40
+S7R|swsh8              33  Blue Sky Stream <-> Fusion Strike   vd: JP S7R 005/067 Pansage hp60  <->  EN SWSH8 007/264 Pansage hp60
+S7R|swshp               1  Blue Sky Stream <-> SWSH Black Star Promos   vd: JP S7R 042/067 Dragonite V hp230  <->  EN SWSHP SWSH154 Dragonite V hp230
+S8A|cel25              25  25th Anniversary Collection <-> Celebrations   vd: JP S8A 001/028 Pikachu hp60  <->  EN CEL25 005/025 Pikachu hp60
+S8A|swshp               1  25th Anniversary Collection <-> SWSH Black Star Promos   vd: JP S8A 020/028 Pikachu V hp190  <->  EN SWSHP SWSH143 Pikachu V hp190
+S8B|swsh10tg           48  VMAX Climax <-> Astral Radiance   vd: JP S8B 185/184 Abomasnow hp140  <->  EN ASR:TG TG01/TG30 Abomasnow hp140
+S8B|swsh11tg           40  VMAX Climax <-> Lost Origin   vd: JP S8B 187/184 Charizard hp170  <->  EN LOR:TG TG03/TG30 Charizard hp170
+S8B|swsh12.5            4  VMAX Climax <-> Crown Zenith   vd: JP S8B 120/184 Rayquaza VMAX hp320  <->  EN SWSH12.5 101/159 Rayquaza VMAX hp320
+S8B|swsh12tg           44  VMAX Climax <-> Silver Tempest   vd: JP S8B 194/184 Flaaffy hp90  <->  EN SIT:TG TG03/TG30 Flaaffy hp90
+S8B|swsh9              30  VMAX Climax <-> Brilliant Stars   vd: JP S8B 005/184 Cherubi hp40  <->  EN SWSH9 012/172 Cherubi hp40
+S8B|swsh9tg            60  VMAX Climax <-> Brilliant Stars   vd: JP S8B 188/184 Flareon hp110  <->  EN BRS:TG TG01/TG30 Flareon hp110
+S8B|swshp              18  VMAX Climax <-> SWSH Black Star Promos   vd: JP S8B 017/184 Charizard hp170  <->  EN SWSHP SWSH066 Charizard hp170
+S8|swsh8              252  Fusion Arts <-> Fusion Strike   vd: JP S8 001/100 Caterpie hp50  <->  EN SWSH8 001/264 Caterpie hp50
+S8|swshp                2  Fusion Arts <-> SWSH Black Star Promos   vd: JP S8 066/100 Hoopa V hp220  <->  EN SWSHP SWSH176 Hoopa V hp220
+S9A|swsh10            138  Battle Region <-> Astral Radiance   vd: JP S9A 004/067 Scyther hp80  <->  EN SWSH10 005/189 Scyther hp80
+S9A|swsh10tg           12  Battle Region <-> Astral Radiance   vd: JP S9A 070/067 Wyrdeer hp140  <->  EN ASR:TG TG06/TG30 Wyrdeer hp140
+S9A|swsh11             30  Battle Region <-> Lost Origin   vd: JP S9A 001/067 Oddish hp50  <->  EN SWSH11 001/196 Oddish hp50
+S9A|swsh11tg            4  Battle Region <-> Lost Origin   vd: JP S9A 068/067 Roserade hp120  <->  EN LOR:TG TG02/TG30 Roserade hp120
+S9A|swshp               2  Battle Region <-> SWSH Black Star Promos   vd: JP S9A 010/067 Virizion V hp200  <->  EN SWSHP SWSH295 Virizion V hp200
+S9|swsh9              252  Star Birth <-> Brilliant Stars   vd: JP S9 001/100 Exeggcute hp50  <->  EN SWSH9 001/172 Exeggcute hp50

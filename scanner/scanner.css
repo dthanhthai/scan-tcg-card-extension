@@ -1,0 +1,306 @@
+/* Scanner-page-specific layout. Shared button/result/status styles live in
+   assets/shared.css (loaded before this file in scanner.html). */
+
+.app-header {
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 18px;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 20px 24px;
+}
+
+.capture-section {
+  margin-bottom: 16px;
+}
+
+.capture-stage {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.preview-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.drop-zone {
+  padding: 24px;
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 13px;
+}
+
+.drop-zone-hint {
+  font-size: 11px;
+  margin-top: 6px;
+}
+
+.capture-stage.drag-over {
+  border-color: var(--accent);
+}
+
+/* Highlights roughly where the card code sits, matching
+   utils/constants.js#CARD_CODE_CROP (the same values
+   utils/image-processor.js#preprocessCardImage crops for OCR). Its exact
+   left/bottom/width/height are set inline by scanner.js#updateCropGuide(),
+   which accounts for the letterboxing that "object-fit: contain" adds when
+   the image/video's aspect ratio differs from this container's — the
+   values below are only a fallback shown before that JS runs. Purely a
+   visual guide; only shown while the camera or an uploaded image is
+   displayed. */
+.crop-guide {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 35%;
+  height: 6%;
+  border: 2px dashed var(--accent);
+  pointer-events: none;
+  display: none;
+}
+
+.capture-stage.show-guide .crop-guide {
+  display: block;
+}
+
+.capture-controls {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.ocr-section {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px;
+  margin-bottom: 16px;
+}
+
+.ocr-section h2 {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.ocr-preview {
+  margin-bottom: 12px;
+}
+
+#ocrCropCanvas {
+  max-width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: #fff;
+}
+
+.ocr-raw-text {
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--text-dim);
+  overflow-wrap: anywhere;
+}
+
+.ocr-raw-text code {
+  color: var(--text);
+  background: var(--bg);
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+  max-width: 100%;
+  /* Break only when a token really does not fit: the summary is a "key: value"
+     list, and break-all would split it mid-word. */
+  overflow-wrap: anywhere;
+}
+
+.ocr-fields {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+/* Narrow windows: two columns squeeze the inputs (and their copy buttons) too
+   much, so stack the fields into one column. */
+@media (max-width: 520px) {
+  .app-header {
+    padding: 14px 16px;
+  }
+
+  main {
+    padding: 16px;
+  }
+
+  .ocr-fields {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ocr-fields label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.ocr-fields input,
+.ocr-fields select {
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  font-size: 13px;
+}
+
+.ocr-fields input:focus,
+.ocr-fields select:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* Language and Promo share one row: the compact Language select keeps the normal
+   label-above layout, and the Promo checkbox sits at the right end of the row. */
+.ocr-inline-row {
+  display: flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+}
+
+/* The select fills the space left of the Promo checkbox, so the row has no
+   large empty gap in the middle. */
+.ocr-inline-row label.language-field {
+  flex: 1;
+  min-width: 0;
+}
+
+.ocr-inline-row select {
+  width: 100%;
+}
+
+.ocr-fields label.promo-toggle {
+  flex-direction: row;
+  align-items: center;
+  gap: 6px;
+  padding-bottom: 8px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.ocr-fields input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  border-radius: 3px;
+  accent-color: var(--accent);
+}
+
+.input-with-copy {
+  display: flex;
+  gap: 4px;
+}
+
+.input-with-copy input {
+  flex: 1;
+  min-width: 0;
+}
+
+.copy-btn {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text-dim);
+  cursor: pointer;
+  font-size: 14px;
+  padding: 4px 8px;
+  flex-shrink: 0;
+}
+
+.copy-btn:hover {
+  color: var(--text);
+  border-color: var(--accent);
+}
+
+.copy-btn.copied {
+  color: var(--success);
+  border-color: var(--success);
+}
+
+.snapshot-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+  background: #000;
+  cursor: crosshair;
+  user-select: none;
+  display: block;
+  border: 5px solid red;
+  box-sizing: border-box;
+}
+
+.snapshot-overlay canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.snapshot-canvas {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.snapshot-overlay img {
+  pointer-events: none;
+  z-index: 0;
+}
+
+.snapshot-selection {
+  position: absolute;
+  border: 2px solid var(--accent);
+  background: rgba(224, 51, 77, 0.1);
+  pointer-events: none;
+  display: none;
+  box-sizing: border-box;
+}
+
+.snapshot-hint {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-elevated);
+  color: var(--text);
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 13px;
+  border: 1px solid var(--border);
+  z-index: 10000;
+}

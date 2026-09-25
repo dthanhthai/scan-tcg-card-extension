@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 2,
+  "records": {
+    "ja:BW1:BLACK_COLLECTION:053/053": {
+      "status": "structured",
+      "source": {
+        "language": "ja",
+        "setCode": "BW1",
+        "tcgdexSetId": null,
+        "setName": "Black Collection",
+        "cardNumber": "053/053",
+        "localId": "053",
+        "rarity": "U",
+        "cardName": "Professor Juniper",
+        "japaneseName": "アララギ博士",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "targets": [
+        {
+          "language": "en",
+          "setCode": "BLW",
+          "tcgdexSetId": "bw1",
+          "setName": "Black & White",
+          "cardNumber": "101/114",
+          "localId": "101",
+          "rarity": "Uncommon",
+          "cardName": "Professor Juniper",
+          "japaneseName": "アララギ博士",
+          "cardKind": "trainer",
+          "hp": null,
+          "evidence": [
+            {
+              "pageTitle": "Professor Juniper (Black & White 101)",
+              "pageId": 120958,
+              "revisionId": 4517817,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "ja:BW4:DARK_RUSH:044/069": {
+      "status": "structured",
+      "source": {
+        "language": "ja",
+        "setCode": "BW4",
+        "tcgdexSetId": null,
+        "setName": "Dark Rush",
+        "cardNumber": "044/069",
+        "localId": "044",
+        "rarity": "R",
+        "cardName": "Darkrai-EX",
+        "japaneseName": "ダークライEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "targets": [
+        {
+          "language": "en",
+          "setCode": "DEX",
+          "tcgdexSetId": "bw5",
+          "setName": "Dark Explorers",
+          "cardNumber": "63/108",
+          "localId": "63",
+          "rarity": "Rare Holo ex",
+          "cardName": "Darkrai-EX",
+          "japaneseName": "ダークライEX",
+          "cardKind": "pokemon",
+          "hp": 180,
+          "evidence": [
+            {
+              "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+              "pageId": 150074,
+              "revisionId": 4574445,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "ja:BW4:DARK_RUSH:072/069": {
+      "status": "structured",
+      "source": {
+        "language": "ja",
+        "setCode": "BW4",
+        "tcgdexSetId": null,
+        "setName": "Dark Rush",
+        "cardNumber": "072/069",
+        "localId": "072",
+        "rarity": "SR",
+        "cardName": "Darkrai-EX",
+        "japaneseName": "ダークライEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "targets": [
+        {
+          "language": "en",
+          "setCode": "DEX",
+          "tcgdexSetId": "bw5",
+          "setName": "Dark Explorers",
+          "cardNumber": "107/108",
+          "localId": "107",
+          "rarity": "Rare Ultra",
+          "cardName": "Darkrai-EX",
+          "japaneseName": "ダークライEX",
+          "cardKind": "pokemon",
+          "hp": 180,
+          "evidence": [
+            {
+              "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+              "pageId": 150074,
+              "revisionId": 4574445,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "ja:BW8:THUNDER_KNUCKLE:055/051": {
+      "status": "structured",
+      "source": {
+        "language": "ja",
+        "setCode": "BW8",
+        "tcgdexSetId": null,
+        "setName": "Thunder Knuckle",
+        "cardNumber": "055/051",
+        "localId": "055",
+        "rarity": "SR",
+        "cardName": "Professor Juniper",
+        "japaneseName": "アララギ博士",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "targets": [
+        {
+          "language": "en",
+          "setCode": "PLF",
+          "tcgdexSetId": "bw9",
+          "setName": "Plasma Freeze",
+          "cardNumber": "116/116",
+          "localId": "116",
+          "rarity": "Rare Ultra",
+          "cardName": "Professor Juniper",
+          "japaneseName": "アララギ博士",
+          "cardKind": "trainer",
+          "hp": null,
+          "evidence": [
+            {
+              "pageTitle": "Professor Juniper (Black & White 101)",
+              "pageId": 120958,
+              "revisionId": 4517817,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "ja:EB:EX_BATTLE_BOOST:072/093": {
+      "status": "structured",
+      "source": {
+        "language": "ja",
+        "setCode": "EB",
+        "tcgdexSetId": null,
+        "setName": "EX Battle Boost",
+        "cardNumber": "072/093",
+        "localId": "072",
+        "rarity": null,
+        "cardName": "Darkrai-EX",
+        "japaneseName": "ダークライEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "targets": [
+        {
+          "language": "en",
+          "setCode": "LTR",
+          "tcgdexSetId": "bw11",
+          "setName": "Legendary Treasures",
+          "cardNumber": "88/113",
+          "localId": "88",
+          "rarity": "Rare Holo ex",
+          "cardName": "Darkrai-EX",
+          "japaneseName": "ダークライEX",
+          "cardKind": "pokemon",
+          "hp": 180,
+          "evidence": [
+            {
+              "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+              "pageId": 150074,
+              "revisionId": 4574445,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "enToJa": {
+    "en:BLW:BLACK_WHITE:101/114": {
+      "status": "structured",
+      "source": {
+        "language": "en",
+        "setCode": "BLW",
+        "tcgdexSetId": "bw1",
+        "setName": "Black & White",
+        "cardNumber": "101/114",
+        "localId": "101",
+        "rarity": "Uncommon",
+        "cardName": "Professor Juniper",
+        "japaneseName": "アララギ博士",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "targets": [
+        {
+          "language": "ja",
+          "setCode": "BW1",
+          "tcgdexSetId": null,
+          "setName": "Black Collection",
+          "cardNumber": "053/053",
+          "localId": "053",
+          "rarity": "U",
+          "cardName": "Professor Juniper",
+          "japaneseName": "アララギ博士",
+          "cardKind": "trainer",
+          "hp": null,
+          "evidence": [
+            {
+              "pageTitle": "Professor Juniper (Black & White 101)",
+              "pageId": 120958,
+              "revisionId": 4517817,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "en:BWP:BW_BLACK_STAR_PROMOS:BW46": {
+      "status": "structured",
+      "source": {
+        "language": "en",
+        "setCode": "BWP",
+        "tcgdexSetId": "bwp",
+        "setName": "BW Black Star Promos",
+        "cardNumber": "BW46",
+        "localId": "BW46",
+        "rarity": null,
+        "cardName": "Darkrai-EX",
+        "japaneseName": "ダークライEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "targets": [
+        {
+          "language": "ja",
+          "setCode": "BW-P",
+          "tcgdexSetId": null,
+          "setName": "BW-P Promotional cards",
+          "cardNumber": null,
+          "localId": null,
+          "rarity": null,
+          "cardName": "Darkrai-EX",
+          "japaneseName": "ダークライEX",
+          "cardKind": "pokemon",
+          "hp": 180,
+          "evidence": [
+            {
+              "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+              "pageId": 150074,
+              "revisionId": 4574445,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "en:DEX:DARK_EXPLORERS:107/108": {
+      "status": "structured",
+      "source": {
+        "language": "en",
+        "setCode": "DEX",
+        "tcgdexSetId": "bw5",
+        "setName": "Dark Explorers",
+        "cardNumber": "107/108",
+        "localId": "107",
+        "rarity": "Rare Ultra",
+        "cardName": "Darkrai-EX",
+        "japaneseName": "ダークライEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "targets": [
+        {
+          "language": "ja",
+          "setCode": "BW4",
+          "tcgdexSetId": null,
+          "setName": "Dark Rush",
+          "cardNumber": "072/069",
+          "localId": "072",
+          "rarity": "SR",
+          "cardName": "Darkrai-EX",
+          "japaneseName": "ダークライEX",
+          "cardKind": "pokemon",
+          "hp": 180,
+          "evidence": [
+            {
+              "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+              "pageId": 150074,
+              "revisionId": 4574445,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "en:DEX:DARK_EXPLORERS:63/108": {
+      "status": "structured",
+      "source": {
+        "language": "en",
+        "setCode": "DEX",
+        "tcgdexSetId": "bw5",
+        "setName": "Dark Explorers",
+        "cardNumber": "63/108",
+        "localId": "63",
+        "rarity": "Rare Holo ex",
+        "cardName": "Darkrai-EX",
+        "japaneseName": "ダークライEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "targets": [
+        {
+          "language": "ja",
+          "setCode": "BW4",
+          "tcgdexSetId": null,
+          "setName": "Dark Rush",
+          "cardNumber": "044/069",
+          "localId": "044",
+          "rarity": "R",
+          "cardName": "Darkrai-EX",
+          "japaneseName": "ダークライEX",
+          "cardKind": "pokemon",
+          "hp": 180,
+          "evidence": [
+            {
+              "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+              "pageId": 150074,
+              "revisionId": 4574445,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "en:LTR:LEGENDARY_TREASURES:88/113": {
+      "status": "structured",
+      "source": {
+        "language": "en",
+        "setCode": "LTR",
+        "tcgdexSetId": "bw11",
+        "setName": "Legendary Treasures",
+        "cardNumber": "88/113",
+        "localId": "88",
+        "rarity": "Rare Holo ex",
+        "cardName": "Darkrai-EX",
+        "japaneseName": "ダークライEX",
+        "cardKind": "pokemon",
+        "hp": 180
+      },
+      "targets": [
+        {
+          "language": "ja",
+          "setCode": "EB",
+          "tcgdexSetId": null,
+          "setName": "EX Battle Boost",
+          "cardNumber": "072/093",
+          "localId": "072",
+          "rarity": null,
+          "cardName": "Darkrai-EX",
+          "japaneseName": "ダークライEX",
+          "cardKind": "pokemon",
+          "hp": 180,
+          "evidence": [
+            {
+              "pageTitle": "Darkrai-EX (Dark Explorers 63)",
+              "pageId": 150074,
+              "revisionId": 4574445,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    },
+    "en:PLF:PLASMA_FREEZE:116/116": {
+      "status": "structured",
+      "source": {
+        "language": "en",
+        "setCode": "PLF",
+        "tcgdexSetId": "bw9",
+        "setName": "Plasma Freeze",
+        "cardNumber": "116/116",
+        "localId": "116",
+        "rarity": "Rare Ultra",
+        "cardName": "Professor Juniper",
+        "japaneseName": "アララギ博士",
+        "cardKind": "trainer",
+        "hp": null
+      },
+      "targets": [
+        {
+          "language": "ja",
+          "setCode": "BW8",
+          "tcgdexSetId": null,
+          "setName": "Thunder Knuckle",
+          "cardNumber": "055/051",
+          "localId": "055",
+          "rarity": "SR",
+          "cardName": "Professor Juniper",
+          "japaneseName": "アララギ博士",
+          "cardKind": "trainer",
+          "hp": null,
+          "evidence": [
+            {
+              "pageTitle": "Professor Juniper (Black & White 101)",
+              "pageId": 120958,
+              "revisionId": 4517817,
+              "derivation": "paired-expansion-template"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

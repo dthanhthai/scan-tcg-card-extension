@@ -1,0 +1,26 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 206710,
+        "ns": 0,
+        "title": "M Houndoom-EX (BREAKthrough 22)",
+        "revisions": [
+          {
+            "revid": 4573747,
+            "parentid": 3700507,
+            "timestamp": "2026-06-17T19:34:04Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{PokémoncardInfobox\n|cardname=Houndoom\n|jname=MヘルガーEX\n|jtrans=MHellgarEX\n|image=MHoundoomEXBREAKthrough22.jpg\n|caption=Regular print<br>Illus. [[5ban Graphics]]\n|reprints=2\n|reprint1=MHoundoomEXBREAKthrough154.jpg\n|recaption1={{TCG|Full Art card|Full Art}} print<br>Illus. [[5ban Graphics]]\n|species=Houndoom\n|evostage=MegaEX\n|evoicon=229\n|evospecies=Houndoom\n|evoname=Houndoom-EX\n|type=Fire\n|hp=210\n|weakness=Water\n|retreatcost=1\n|class=MegaEX\n|}}\n{{PokémoncardInfobox/Expansion|type=Fire|class=MegaEX|expansion={{TCG|BREAKthrough}}|rarity={{rar|Rare Holo ex}}|cardno=22/162|jpexpansion={{TCG|Red Flash}}|jprarity={{rar|RR}}|jpcardno=010/059}}\n{{PokémoncardInfobox/Expansion|type=Fire|class=MegaEX|expansion={{TCG|BREAKthrough}}|rarity={{rar|Rare Ultra}}|cardno=154/162|jpexpansion={{TCG|Red Flash}}|jprarity={{rar|SR}}|jpcardno=061/059}}\n{{PokémoncardInfobox/Footer|type=Fire|class=MegaEX|species=Houndoom}}\n\n'''{{Mega}}Houndoom{{EX}}''' (Japanese: '''MヘルガーEX''' ''MHellgarEX'') is a {{ct|Fire}} Mega {{TCG|M Pokémon-EX}} card. It is part of the {{TCG|BREAKthrough}} expansion.\n\n==Card text==\n{{Cardtext/Header|type=Fire}}\n{{Cardtext/MegaEX\n|type=Fire\n|ndex=229M\n}}\n{{Cardtext/Attack\n|type=Fire\n|cost={{e|Fire}}{{e|Fire}}\n|name=Inferno Fang\n|jname=インフェルノファング\n|jtrans=Inferno Fang\n|damage=80+\n|effect=You may discard all {{e|Fire}} Energy attached to this Pokémon. If you do, this attack does 80 more damage. \n|}}\n{{Cardtext/EX\n|type=Fire\n|ndex=229M\n}}\n{{Cardtext/Footer}}\n\n==Release information==\nThis card was included as both a Regular card and a {{TCG|Full Art card}} in the {{TCG|BREAKthrough}} expansion, first released in the Japanese {{TCG|Red Flash}} expansion. Both prints feature artwork by [[5ban Graphics]].\n\n===Gallery===\n{{TCGGallery\n|type=Fire\n|class=MegaEX\n|image1=MHoundoomEXBREAKthrough22.jpg\n|caption1=Regular print<br>Illus. [[5ban Graphics]]\n|image2=MHoundoomEXBREAKthrough154.jpg\n|caption2={{TCG|Full Art card|Full Art}} print<br>Illus. [[5ban Graphics]]\n}}\n\n==Trivia==\n===Origin===\n\n{{Project TCG notice}}\n\n[[Category:BREAKthrough cards]]\n[[Category:Red Flash cards]]\n[[Category:Illus. by 5ban Graphics]]\n[[Category:Holographic cards]]\n[[Category:Secret cards]]\n[[Category:Full Art cards]]\n\n[[de:M-Hundemon-EX (TURBOstart 22)]]\n[[es:M Houndoom-EX (TURBOimpulso TCG)]]\n[[fr:M-Démolosse-EX (XY Impulsion TURBO 154)]]\n[[it:M Houndoom-EX (Turboblitz 22)]]\n[[ja:MヘルガーEX (XY8)]]\n[[zh:M黑鲁加EX（XY8）]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

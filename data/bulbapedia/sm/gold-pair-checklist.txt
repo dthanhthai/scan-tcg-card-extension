@@ -1,0 +1,112 @@
+SM gold-pair checklist — promo / cross-set pairs to verify
+(main-set pairs already approved by the user)
+
+ 1. SM-P Promotional cards  <->  Sun & Moon   (3 cards)
+      SM-P 017/SM-P Decidueye hp140  <->  SM1 11/149 Decidueye hp140
+      SM-P 018/SM-P Incineroar hp160  <->  SM1 26/149 Incineroar hp160
+ 2. SM-P Promotional cards  <->  Unbroken Bonds   (2 cards)
+      SM-P 244/SM-P Samson Oak  <->  SM10 185/214 Samson Oak
+      SM-P 258/SM-P Energy Spinner  <->  SM10 170/214 Energy Spinner
+ 3. SM-P Promotional cards  <->  Unified Minds   (7 cards)
+      SM-P 291/SM-P Pikachu hp60  <->  SM11 55/236 Pikachu hp60
+      SM-P 302/SM-P Dragonair hp90  <->  SM11 149/236 Dragonair hp90
+ 4. SM-P Promotional cards  <->  Hidden Fates   (8 cards)
+      SM-P 253/SM-P Slowpoke hp70  <->  SM115 12/68 Slowpoke hp70
+      SM-P 254/SM-P Cubone hp60  <->  SM115 37/68 Cubone hp60
+ 5. SM-P Promotional cards  <->  Cosmic Eclipse   (4 cards)
+      SM-P 300/SM-P Carvanha hp50  <->  SM12 132/236 Carvanha hp50
+      SM-P 358/SM-P Igglybuff hp60  <->  SM12 168/236 Igglybuff hp60
+ 6. SM-P Promotional cards  <->  Guardians Rising   (1 cards)
+      SM-P 020/SM-P Hau  <->  SM2 144/145 Hau
+ 7. SM-P Promotional cards  <->  Burning Shadows   (4 cards)
+      SM-P 011/SM-P Togedemaru hp80  <->  SM3 47/147 Togedemaru hp80
+      SM-P 022/SM-P Turtonator hp130  <->  SM3 26/147 Turtonator hp130
+ 8. SM-P Promotional cards  <->  Crimson Invasion   (1 cards)
+      SM-P 053/SM-P Olivia  <->  SM4 111/111 Olivia
+ 9. SM-P Promotional cards  <->  Celestial Storm   (9 cards)
+      SM-P 066/SM-P Lunala hp160  <->  SM7 70/168 Lunala hp160
+      SM-P 067/SM-P Solgaleo hp160  <->  SM7 99/168 Solgaleo hp160
+10. SM-P Promotional cards  <->  Dragon Majesty   (3 cards)
+      SM-P 050/SM-P Litten hp60  <->  SM7.5 12/70 Litten hp60
+      SM-P 118/SM-P Hydreigon hp160  <->  SM7.5 33/70 Hydreigon hp160
+11. SM-P Promotional cards  <->  Lost Thunder   (5 cards)
+      SM-P 051/SM-P Popplio hp60  <->  SM8 64/214 Popplio hp60
+      SM-P 078/SM-P Mareanie hp60  <->  SM8 105/214 Mareanie hp60
+12. SM-P Promotional cards  <->  Team Up   (5 cards)
+      SM-P 226/SM-P Zangoose hp100  <->  SM9 132/181 Zangoose hp100
+      SM-P 231/SM-P Mr. Mime-GX hp150  <->  SM9 67/181 Mr. Mime-GX hp150
+13. SM-P Promotional cards  <->  SM Black Star Promos   (112 cards)
+      SM-P 001/SM-P Snorlax-GX hp190  <->  SMP SM05 Snorlax-GX hp190
+      SM-P 002/SM-P Togedemaru hp70  <->  SMP SM09 Togedemaru hp70
+14. GG End  <->  SM Black Star Promos   (2 cards)
+      SM10A 060/054 Garchomp & Giratina-GX hp270  <->  SMP SM193 Garchomp & Giratina-GX hp270
+      SM10A 060/054 Garchomp & Giratina-GX hp270  <->  SMP SM193 Garchomp & Giratina-GX hp270
+15. Sky Legend  <->  Hidden Fates   (18 cards)
+      SM10B 025/054 Ekans hp60  <->  SM115 26/68 Ekans hp60
+      SM10B 026/054 Arbok hp120  <->  SM115 27/68 Arbok hp120
+16. Sky Legend  <->  SM Black Star Promos   (2 cards)
+      SM10B 060/054 Moltres & Zapdos & Articuno-GX hp300  <->  SMP SM210 Moltres & Zapdos & Articuno-GX hp300
+      SM10B 060/054 Moltres & Zapdos & Articuno-GX hp300  <->  SMP SM210 Moltres & Zapdos & Articuno-GX hp300
+17. Double Blaze  <->  Hidden Fates   (2 cards)
+      SM10 105/095 Giovanni's Exile  <->  SM115 67/68 Giovanni's Exile
+      SM10 105/095 Giovanni's Exile  <->  SM115 67/68 Giovanni's Exile
+18. Double Blaze  <->  Hidden Fates   (2 cards)
+      SM10 115/095 Shrine of Punishment  <->  SMA SV90/SV94 Shrine of Punishment
+      SM10 115/095 Shrine of Punishment  <->  SMA SV90/SV94 Shrine of Punishment
+19. Double Blaze  <->  SM Black Star Promos   (2 cards)
+      SM10 097/095 Reshiram & Charizard-GX hp270  <->  SMP SM201 Reshiram & Charizard-GX hp270
+      SM10 097/095 Reshiram & Charizard-GX hp270  <->  SMP SM201 Reshiram & Charizard-GX hp270
+20. Remix Bout  <->  SM Black Star Promos   (4 cards)
+      SM11A 066/064 Venusaur & Snivy-GX hp270  <->  SMP SM229 Venusaur & Snivy-GX hp270
+      SM11A 068/064 Charizard & Braixen-GX hp270  <->  SMP SM230 Charizard & Braixen-GX hp270
+21. Miracle Twin  <->  SM Black Star Promos   (2 cards)
+      SM11 098/094 Mewtwo & Mew-GX hp270  <->  SMP SM191 Mewtwo & Mew-GX hp270
+      SM11 098/094 Mewtwo & Mew-GX hp270  <->  SMP SM191 Mewtwo & Mew-GX hp270
+22. Tag All Stars  <->  SM Black Star Promos   (26 cards)
+      SM12A 044/173 Raikou hp120  <->  SMP SM150 Raikou hp120
+      SM12A 057/173 Giratina hp130  <->  SMP SM151 Giratina hp130
+23. Facing a New Trial  <->  SM Black Star Promos   (4 cards)
+      SM2P 026/049 Tapu Lele hp110  <->  SMP SM45 Tapu Lele hp110
+      SM2P 006/049 Tapu Bulu hp130  <->  SMP SM61 Tapu Bulu hp130
+24. Shining Legends  <->  SM Black Star Promos   (8 cards)
+      SM3+ 004/072 Shining Celebi hp70  <->  SMP SM79 Shining Celebi hp70
+      SM3+ 058/072 Shining Lugia hp130  <->  SMP SM82 Shining Lugia hp130
+25. To Have Seen the Battle Rainbow  <->  SM Black Star Promos   (4 cards)
+      SM3H 052/051 Charizard-GX hp250  <->  SMP SM60 Charizard-GX hp250
+      SM3H 059/051 Ho-Oh-GX hp190  <->  SMP SM80 Ho-Oh-GX hp190
+26. GX Battle Boost  <->  SM Black Star Promos   (12 cards)
+      SM4+ 070/114 Solgaleo-GX hp250  <->  SMP SM16 Solgaleo-GX hp250
+      SM4+ 049/114 Lunala-GX hp250  <->  SMP SM17 Lunala-GX hp250
+27. Ultra Force  <->  SM Black Star Promos   (6 cards)
+      SM5+ 030/050 Lucario-GX hp210  <->  SMP SM100 Lucario-GX hp210
+      SM5+ 021/050 Dawn Wings Necrozma hp130  <->  SMP SM106 Dawn Wings Necrozma hp130
+28. Dragon Storm  <->  SM Black Star Promos   (6 cards)
+      SM6A 057/053 White Kyurem-GX hp190  <->  SMP SM141 White Kyurem-GX hp190
+      SM6A 061/053 Kingdra-GX hp230  <->  SMP SM155 Kingdra-GX hp230
+29. Champion Road  <->  SM Black Star Promos   (2 cards)
+      SM6B 072/066 Salamence-GX hp250  <->  SMP SM139 Salamence-GX hp250
+      SM6B 072/066 Salamence-GX hp250  <->  SMP SM139 Salamence-GX hp250
+30. Forbidden Light  <->  Hidden Fates   (2 cards)
+      SM6 100/094 Lady  <->  SMA SV86/SV94 Lady
+      SM6 100/094 Lady  <->  SMA SV86/SV94 Lady
+31. GX Ultra Shiny  <->  Hidden Fates   (178 cards)
+      SM8B 161/150 Scyther hp70  <->  SMA SV1/SV94 Scyther hp70
+      SM8B 170/150 Quagsire hp120  <->  SMA SV10/SV94 Quagsire hp120
+32. GX Ultra Shiny  <->  SM Black Star Promos   (24 cards)
+      SM8B 049/150 Dawn Wings Necrozma-GX hp180  <->  SMP SM101 Dawn Wings Necrozma-GX hp180
+      SM8B 086/150 Dusk Mane Necrozma-GX hp190  <->  SMP SM102 Dusk Mane Necrozma-GX hp190
+33. Night Unison  <->  Hidden Fates   (2 cards)
+      SM9A 070/055 Aether Paradise Conservation Area  <->  SMA SV87/SV94 Aether Paradise Conservation Area
+      SM9A 070/055 Aether Paradise Conservation Area  <->  SMA SV87/SV94 Aether Paradise Conservation Area
+34. Full Metal Wall  <->  Hidden Fates   (2 cards)
+      SM9B 069/066 Mt. Coronet  <->  SMA SV89/SV94 Mt. Coronet
+      SM9B 069/066 Mt. Coronet  <->  SMA SV89/SV94 Mt. Coronet
+35. Full Metal Wall  <->  SM Black Star Promos   (4 cards)
+      SM9B 057/054 Blastoise-GX hp240  <->  SMP SM189 Blastoise-GX hp240
+      SM9B 059/054 Lucario & Melmetal-GX hp260  <->  SMP SM192 Lucario & Melmetal-GX hp260
+36. Tag Bolt  <->  Hidden Fates   (2 cards)
+      SM9 118/095 Brooklet Hill  <->  SMA SV88/SV94 Brooklet Hill
+      SM9 118/095 Brooklet Hill  <->  SMA SV88/SV94 Brooklet Hill
+37. Tag Bolt  <->  SM Black Star Promos   (6 cards)
+      SM9 019/095 Magikarp & Wailord-GX hp300  <->  SMP SM166 Magikarp & Wailord-GX hp300
+      SM9 097/095 Celebi & Venusaur-GX hp270  <->  SMP SM167 Celebi & Venusaur-GX hp270

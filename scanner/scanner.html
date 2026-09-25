@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pokemon TCG Card Scanner</title>
+  <link rel="stylesheet" href="../assets/shared.css" />
+  <link rel="stylesheet" href="scanner.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>Pokemon TCG Card Scanner</h1>
+  </header>
+
+  <main>
+    <section class="capture-section">
+      <div id="captureStage" class="capture-stage">
+        <img id="previewImage" class="preview-image hidden" alt="Captured card" />
+        <div id="dropZone" class="drop-zone">
+          <p>� Drop / paste / choose a card image</p>
+          <p class="drop-zone-hint">The bottom-left corner (set code, number, rarity) needs to be visible and in focus.</p>
+        </div>
+        <div class="crop-guide" id="cropGuide"></div>
+      </div>
+
+      <div class="capture-controls">
+        <button id="uploadBtn" class="secondary-btn">📁 Upload Image</button>
+        <input id="fileInput" type="file" accept="image/*" class="hidden" />
+        <button id="retryBtn" class="secondary-btn hidden">🔄 Retry</button>
+      </div>
+    </section>
+
+    <section id="statusArea" class="status-area hidden" role="status"></section>
+
+    <section id="ocrSection" class="ocr-section hidden">
+      <h2>Detected Card Code</h2>
+      <div class="ocr-preview hidden" id="ocrPreview">
+        <canvas id="ocrCropCanvas"></canvas>
+        <div class="ocr-raw-text"><span id="ocrRawLabel">Raw OCR text:</span> <code id="ocrRawText"></code></div>
+      </div>
+      <div class="ocr-fields">
+        <label>Card Name
+          <div class="input-with-copy">
+            <input id="cardNameInput" type="text" placeholder="e.g. Pikachu" />
+            <button class="copy-btn" data-copy="cardNameInput" title="Copy" aria-label="Copy card name">📋</button>
+          </div>
+        </label>
+        <label>Set Code
+          <div class="input-with-copy">
+            <input id="setCodeInput" type="text" placeholder="e.g. M2a" />
+            <button class="copy-btn" data-copy="setCodeInput" title="Copy" aria-label="Copy set code">📋</button>
+          </div>
+        </label>
+        <label>Set Name
+          <div class="input-with-copy">
+            <input id="setNameInput" type="text" placeholder="e.g. Mega Evolution" />
+            <button class="copy-btn" data-copy="setNameInput" title="Copy" aria-label="Copy set name">📋</button>
+          </div>
+        </label>
+        <label>Card Number
+          <div class="input-with-copy">
+            <input id="cardNumberInput" type="text" placeholder="e.g. 017/193" />
+            <button class="copy-btn" data-copy="cardNumberInput" title="Copy" aria-label="Copy card number">📋</button>
+          </div>
+        </label>
+        <label>Rarity
+          <div class="input-with-copy">
+            <input id="rarityInput" type="text" placeholder="e.g. RR" />
+            <button class="copy-btn" data-copy="rarityInput" title="Copy" aria-label="Copy rarity">📋</button>
+          </div>
+        </label>
+        <div class="ocr-inline-row">
+          <label class="language-field">Language
+            <select id="languageInput">
+              <option value="en">English (EN)</option>
+              <option value="ja">Japanese (JP)</option>
+            </select>
+          </label>
+          <label class="promo-toggle">
+            <input id="promoInput" type="checkbox" />
+            <span>Promo</span>
+          </label>
+        </div>
+      </div>
+      <button id="lookupBtn" class="primary-btn">🔍 Look Up Card</button>
+    </section>
+
+    <section id="resultArea" class="result-area hidden"></section>
+  </main>
+
+  <div id="snapshotOverlay" class="snapshot-overlay hidden">
+    <canvas id="snapshotCanvas" class="snapshot-canvas"></canvas>
+    <img id="snapshotImg" class="hidden" alt="Screenshot" />
+    <div id="snapshotSelection" class="snapshot-selection"></div>
+    <div class="snapshot-hint">Drag to select the card region. Press Esc to cancel.</div>
+  </div>
+
+  <script src="../utils/constants.js"></script>
+  <script src="../utils/storage.js"></script>
+  <script src="../lib/tcgplayer-linker.js"></script>
+  <script src="../lib/bulbapedia-index.js"></script>
+  <script src="../lib/bulbapedia-resolver.js"></script>
+  <script src="../utils/card-lookup.js"></script>
+  <script src="../utils/image-processor.js"></script>
+  <script src="../utils/card-code-parser.js"></script>
+  <script src="../lib/ocr-engine.js"></script>
+  <script src="scanner.js"></script>
+</body>
+</html>

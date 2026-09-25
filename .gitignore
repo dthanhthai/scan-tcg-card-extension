@@ -1,0 +1,18 @@
+node_modules/
+.cache/bulbapedia/
+
+# macOS filesystem artifacts
+.DS_Store
+._*
+
+# Build outputs (npm run build:chrome / build:safari)
+build/
+
+# Safari Xcode build artifacts
+safari/PokemonTcgScanner/Shared (Extension)/Resources/
+safari/**/xcuserdata/
+safari/**/*.xcuserstate
+
+# Devin CLI personal overrides (permissions, local MCP servers)
+.devin/config.local.json
+.devin/mcp_config.local.json
