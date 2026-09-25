@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Third-party components and data bundled with this project keep their own
-licenses; the MIT license above covers the extension source code only.
-See the "Credits and Licenses" section of README.md for details. In particular,
-the Bulbapedia-derived counterpart index under data/bulbapedia/ is licensed
-CC BY-NC-SA 2.5, which forbids commercial use.
