@@ -204,6 +204,9 @@ To distribute: copy `.app` to friend's Mac, they run `xattr -cr /path/to/Pokemon
 
 ### Releases
 
+The repository is **https://github.com/dthanhthai/scan-tcg-card-extension** — `origin` points there, and
+releases are published at its `/releases` page.
+
 ```bash
 npm run release:package   # build + zip the release artifacts into build/release/
 ```
@@ -213,6 +216,10 @@ npm run release:package   # build + zip the release artifacts into build/release
 zipped with `ditto` so the bundle layout survives. Build the Safari app first, or the script skips the app
 zip. Attach both files to a GitHub Release; they never enter git history, so the repo stays at source size
 and the committed tree can never drift from the source.
+
+Before tagging, bump `version` in both `manifest.json` and `package.json`, and rebuild Safari — the release
+script takes the artifact names from `manifest.json`, but the `.app` is a prebuilt bundle, so skipping the
+rebuild ships an app whose extension still reports the old version.
 
 ### Unit Tests
 

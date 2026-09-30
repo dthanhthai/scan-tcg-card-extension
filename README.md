@@ -19,6 +19,9 @@ For complete technical documentation, see [`docs/APP_DOCUMENTATION.md`](docs/APP
 - Compares prices from four marketplaces.
 - Converts JPY and USD prices to VND.
 - Displays one primary result and up to four alternatives for each marketplace.
+- Charts the price history of every marketplace that reports one (PriceCharting, TCGPlayer, Collectr) over
+  3, 6, or 12 months, for the scanned card and for its cross-language counterpart. Clicking a name in the
+  legend hides that line, and both the period and the hidden lines are remembered between scans.
 - Opens a larger image when a thumbnail is clicked and opens the product detail page when a result is clicked.
 - Stores up to 10 recent scans; each history entry opens its product page or re-runs the lookup.
 - Displays lookup progress for each data source.
@@ -32,9 +35,9 @@ For complete technical documentation, see [`docs/APP_DOCUMENTATION.md`](docs/APP
 | Gemini Vision | Card name, set, number, rarity, language, promo status, and counterpart hints |
 | TCGdex | Metadata, images, sets, rarity, dexId, HP, and fallback pricing |
 | CardRush | Japanese card listings and JPY prices |
-| PriceCharting | Ungraded, graded, and recent-sale prices in USD |
-| Collectr | Product listings and USD prices |
-| TCGPlayer | Listings, Market Price, Most Recent Sale, and printing prices in USD |
+| PriceCharting | Ungraded, graded, and recent-sale prices in USD, plus monthly price history |
+| Collectr | Product listings and USD prices, plus daily price history |
+| TCGPlayer | Listings, Market Price, Most Recent Sale, and printing prices in USD, plus weekly price history |
 | open.er-api.com | JPY, USD, and VND exchange rates |
 
 ## Installation
@@ -350,6 +353,11 @@ The marketplaces render content with JavaScript or use Cloudflare, so the extens
 - **Collectr:** waits for its Next.js SPA to render product cards.
 - **TCGPlayer:** waits for its React SPA and detail price points to render.
 
+The price history chart reads from somewhere other than the prices above. PriceCharting embeds its series
+in an inline script on the detail page. TCGPlayer and Collectr expose an internal API that refuses requests
+from anywhere but their own pages, so it is called from the page's own context. Collectr reports daily
+points, TCGPlayer weekly, and PriceCharting monthly, which is why the lines differ in smoothness.
+
 If Cloudflare requires manual verification, the extension may show a window so the user can complete the checkbox.
 
 ### Safari build
@@ -368,6 +376,7 @@ The script syncs the root extension source into `safari/.../Resources/`, builds 
 - PriceCharting, Collectr, and TCGPlayer prices are in USD.
 - Exchange rates come from `open.er-api.com` and are cached for six hours.
 - The UI displays the original price and a VND conversion when exchange rates are available.
+- The price history chart is drawn in USD for every source, whatever currency the marketplace page displays.
 
 ## Settings and Storage
 

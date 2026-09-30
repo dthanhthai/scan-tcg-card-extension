@@ -67,6 +67,7 @@ The current scanner UI does not provide a direct camera flow. Its supported inpu
 
 - Displays TCGdex metadata and images when available.
 - Displays prices from four marketplaces.
+- Charts the price history of PriceCharting, TCGPlayer, and Collectr over 3, 6, or 12 months, for the scanned card and for its cross-language counterpart. Clicking a name in the legend hides that line; the period and the hidden lines are remembered between scans.
 - Converts JPY and USD values to VND, and displays other relevant conversions.
 - Shows separate progress for TCGdex, CardRush, PriceCharting, Collectr, and TCGPlayer.
 - Opens an image overlay when a thumbnail is clicked.
@@ -136,6 +137,8 @@ from the extension. TCGdex and the marketplaces are only consulted after the ind
 | `content-scripts/*-extractor.js` | DOM extraction inside marketplace page contexts |
 | `lib/exchange-rates.js` | Exchange-rate fetching and caching |
 | `utils/storage.js` | History, settings, set cache, and exchange-rate cache |
+| `utils/price-chart.js` | Price history chart: section markup, canvas renderer, period selector, legend toggles, and the remembered preferences |
+| `lib/listing-picker.js` | Shared listing selection (printed number, then card name), used by both the service worker and the scanner so they pick the same printing |
 | `assets/shared.css` | Shared result, marketplace, cross-language, and overlay styles |
 
 ## 4. Gemini Vision
@@ -620,12 +623,27 @@ The primary counterpart source is a card-level index generated from Bulbapedia d
 https://tcgplayer-cdn.tcgplayer.com/product/{productId}_in_1000x1000.jpg
 ```
 
-- The first search listing is enriched from its detail page with:
+- The listing the lookup will pick — chosen with `lib/listing-picker.js` by printed number, then card name — is enriched from its detail page with:
   - Market Price.
   - Most Recent Sale.
   - Listing Price.
   - Alternative-printing prices.
   - Detail image when available.
+
+Enriching the first search result instead left the picked printing (an alternate art, say) showing a search-card price under **Listing Price** while the detail data was read and discarded.
+
+### 11.5. Price History Series
+
+The chart reads from somewhere other than the listings above:
+
+- **PriceCharting** embeds its series in an inline `<script>` on the detail page (`VGPC.chart_data`), so the injected extractor reads the script text from the DOM. It runs in the isolated world, where page globals such as `window.VGPC` are not visible.
+- **TCGPlayer** (`infinite-api.tcgplayer.com/price/history/{id}?range=annual`) and **Collectr** (`api-v2.getcollectr.com/catalog/products/{id}?details=true`) expose an internal API that refuses requests from anywhere but their own pages, so it is called from the page's own context with `world: 'MAIN'`.
+- Every listing gets its series attached, because the lookup picks a listing long after the scraper has returned.
+- Collectr reports daily points, TCGPlayer weekly, and PriceCharting monthly, which is why the lines differ in smoothness.
+- PriceCharting writes a `0` for months with no sales; those points are dropped rather than drawn, or the axis would stretch to zero and squash the other lines.
+- Collectr renders prices in the account's chosen currency, so only `$` prices are read from its search cards. A card without one falls back to the last point of its series, which is in USD.
+
+Design decisions, the failure modes, and the live-verification results are in [`PRICE_HISTORY_IMPLEMENTATION_NOTES.md`](PRICE_HISTORY_IMPLEMENTATION_NOTES.md).
 
 ## 12. Primary Results and Top Five
 
@@ -713,6 +731,7 @@ view and keeps the section header, badge, and printing info visible.
 - Exchange rates are cached for six hours.
 - The UI displays the original price and relevant USD or VND conversions.
 - If the exchange-rate request fails, source prices can still display, but conversions may be unavailable.
+- The price history chart is drawn in USD for every source, whatever currency the marketplace page displays.
 
 ## 14. Image Behavior
 
@@ -820,6 +839,8 @@ Marketplace extractors are injected with `chrome.scripting.executeScript({ func 
 10. An injected extractor function must not call an external helper unless that helper is injected with it.
 11. Test query-format changes in scan, manual, and cross-language flows.
 12. Run `npm test` (and `./safari/build-safari.sh` when runtime files changed) after touching lookup, index, or rendering logic.
+13. Pick marketplace listings with `lib/listing-picker.js` in both the service worker and the scanner. Two copies of that rule let the worker open one printing's detail page while the scanner shows another's price.
+14. Log diagnostics for injected extractors from the service worker, not from inside the injected function: logs written in the marketplace page go to that tab's console, which is not where a scan is debugged from.
 
 ## 19. Recommended Test Matrix
 
