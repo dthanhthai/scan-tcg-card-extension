@@ -13,7 +13,8 @@ This extension runs on **both Chrome and Safari** from a single shared codebase.
 
 | Step | Chrome | Safari |
 |---|---|---|
-| Reload | `chrome://extensions` → reload | `./safari/build-safari.sh` → open new `.app` |
+| Rebuild | `npm run build:chrome` | `./safari/build-safari.sh` |
+| Reload | `chrome://extensions` → reload | open new `.app` → Safari → Settings → Extensions |
 | Test | Scan card, check console | Scan card, check console (right-click → Inspect Element) |
 | Hotkey | `Ctrl+Shift+S` / `Cmd+Shift+S` | `Cmd+Shift+S` (may not work on older Safari — use popup Snapshot button) |
 
@@ -168,7 +169,7 @@ CardRush pages may render in Japanese or English. The extractor in `content-scri
 
 ## Build / Test
 
-During development the Chrome extension loads directly from source files via `chrome://extensions` (Developer mode): reload the extension and re-scan. For a clean package, `npm run build:chrome` writes `build/chrome/` (only the runtime entries: `manifest.json`, `assets`, `background`, `content-scripts`, `data`, `lib`, `popup`, `scanner`, `settings`, `utils`, `vendor`; the development-only JSON/txt under `data/bulbapedia` are skipped) — load that folder with **Load unpacked**. `build/` is gitignored.
+**Always rebuild before reloading.** The Chrome extension is loaded from `build/chrome/` via `chrome://extensions` (Developer mode), not from the source tree: `npm run build:chrome` is mandatory after every source change, because a plain reload only reloads the stale copy already in `build/chrome/` (the console then keeps reporting the old file's line numbers, which makes it look as if the change was never applied). The build writes `build/chrome/` (only the runtime entries: `manifest.json`, `assets`, `background`, `content-scripts`, `data`, `lib`, `popup`, `scanner`, `settings`, `utils`, `vendor`; the development-only JSON/txt under `data/bulbapedia` are skipped) — load that folder with **Load unpacked**. `build/` is gitignored.
 
 `design/` holds source artwork that the extension never loads at runtime (for example the wide
 `logo-wide.png` that the square `assets/icons/logo_square.png` was cropped from). It is kept in the repo so
@@ -478,7 +479,12 @@ Test files and what they cover:
 | `tests/direct-lookup-validation.test.js` | validateCrossVersionMatch (dexId/HP strict check), pickListingByLocalId (C3 CardRush/Collectr listing pick), shouldSkipJpTcgdexLookup + lookupCardAndPrice skipTcgdex (C6), hasJapaneseScript + lookupCardAndPrice EN query name (C5), resolveJpVersionImage + pickCrossVersionResultImage (C1 JP section image, CardRush first then other marketplaces), resolveCrossVersionProvenance + renderCrossVersionBadge (C2/C4 badge), renderProgressSteps |
 | `tests/cardrush-extractor.test.js` | extractCardrushListings JP + EN formats, deduplication, lenient fallback |
 | `tests/tab-helper.test.js` | pickCaptureWindow (hotkey snapshot must not capture a hidden scraper window) |
-| `tests/pricecharting-scraper.test.js` | extractPricechartingQueryLocalId, orderPricechartingListingsByNumber (exact printing first) |
+| `tests/pricecharting-scraper.test.js` | extractPricechartingQueryLocalId, rankPricechartingListings (exact printing first), normalizePricechartingChartData |
+| `tests/pricecharting-chart-data.test.js` | extractPricechartingDetailSales reading `VGPC.chart_data` out of the inline script, both return paths (jsdom) |
+| `tests/tcgplayer-scraper.test.js` | normalizeTcgplayerPriceHistory (printing choice, dollar strings → cents, ascending) |
+| `tests/collectr-scraper.test.js` | normalizeCollectrPriceHistory (ungraded grade id, per-day dedupe, printing choice) |
+| `tests/price-chart.test.js` | Chart helpers: buildPriceChartSeries, filterPointsByPeriod, computeYBounds, month labels, interpolatePriceAt |
+| `tests/price-chart-mount.test.js` | renderPriceHistorySection markup (period buttons, legend toggles, ⓘ hint) and mountPriceHistoryChart wiring (jsdom) |
 | `tests/bulbapedia-parser.test.js` | Offline parsing of revision-pinned set, Pokémon, Trainer, promo/reprint, and redirect fixtures |
 | `tests/bulbapedia-generator.test.js` | Normalization, TCGdex target validation, provenance, conflicts, deterministic output, and generated artifact invariants |
 
