@@ -134,9 +134,9 @@ significant rework.
 ## E. Platform Expansion
 
 ### E1. PWA (link-only, no scrape)
-Detailed plan already exists in `docs/PORT_MOBILE.md`. Reuses Gemini + TCGdex +
-query logic; opens marketplace links instead of scraping. $0 hosting via GitHub
-Pages. Usable on phones at card shows.
+Detailed plan in `docs/PWA_PLAN.md`. Reuses Gemini + TCGdex + query logic; opens
+marketplace links instead of scraping. $0 hosting via GitHub Pages. Usable on
+phones at card shows.
 
 - Effort: Medium
 - Impact: Very high
