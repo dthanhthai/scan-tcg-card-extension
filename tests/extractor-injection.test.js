@@ -13,9 +13,9 @@ import { loadScript } from './load-scripts.js';
 // new extractor is injected.
 const INJECTED_EXTRACTORS = {
   'content-scripts/cardrush-extractor.js': ['extractCardrushListings'],
-  'content-scripts/collectr-extractor.js': ['extractCollectrListings'],
+  'content-scripts/collectr-extractor.js': ['extractCollectrListings', 'extractCollectrPriceHistories'],
   'content-scripts/pricecharting-extractor.js': ['extractPricechartingListings', 'extractPricechartingDetailSales'],
-  'content-scripts/tcgplayer-extractor.js': ['extractTcgplayerListings', 'extractTcgplayerDetailPrices'],
+  'content-scripts/tcgplayer-extractor.js': ['extractTcgplayerListings', 'extractTcgplayerDetailPrices', 'extractTcgplayerPriceHistories'],
 };
 
 function topLevelFunctionNames(source) {

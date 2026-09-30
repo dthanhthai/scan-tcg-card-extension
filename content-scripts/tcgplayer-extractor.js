@@ -183,3 +183,47 @@ function extractTcgplayerDetailPrices() {
 
   return { marketPrice, mostRecentSale, listingPrice, alternativePrices, imageUrl };
 }
+
+/**
+ * Standalone entry point used by lib/tcgplayer-scraper.js on the TCGPlayer search
+ * page. Returns the price history of every product card the page is showing.
+ *
+ * MUST be injected with { world: 'MAIN' }: the data comes from TCGPlayer's
+ * internal API (infinite-api.tcgplayer.com), which answers 403 to anything that is
+ * not a browser request from the tcgplayer.com origin — it needs the page's
+ * cookies and it needs to be issued from that origin for CORS to allow it. An
+ * isolated-world fetch cannot satisfy either.
+ *
+ * Runs on the search page rather than a detail page on purpose: the lookup picks a
+ * listing by card number out of everything the search returned, so the history has
+ * to cover every card. Attaching it only to the listing whose detail page happened
+ * to be opened left the chart with no TCGPlayer line whenever a later printing won
+ * the pick (observed: Glaceon V 175/203, whose alternate art is not the first
+ * result).
+ *
+ * Product ids come from the links already on the page, so this takes no arguments.
+ * Returns [{ productId, ok, status?, body? }].
+ */
+async function extractTcgplayerPriceHistories() {
+  // Must cover every listing extractTcgplayerListings can return (10).
+  const MAX_PRODUCTS = 10;
+  const productIds = [];
+  for (const link of document.querySelectorAll('a[href*="/product/"]')) {
+    const match = (link.getAttribute('href') || '').match(/\/product\/(\d+)/);
+    if (!match || productIds.includes(match[1])) continue;
+    productIds.push(match[1]);
+    if (productIds.length >= MAX_PRODUCTS) break;
+  }
+  return Promise.all(productIds.map(async (productId) => {
+    // "annual" is the longest range the API offers (the page's 1Y button);
+    // shorter periods are filtered locally when the chart is drawn.
+    const url = `https://infinite-api.tcgplayer.com/price/history/${productId}?range=annual`;
+    try {
+      const response = await fetch(url, { credentials: 'include' });
+      if (!response.ok) return { productId, ok: false, status: response.status };
+      return { productId, ok: true, status: response.status, body: await response.json() };
+    } catch (err) {
+      return { productId, ok: false, error: String((err && err.message) || err) };
+    }
+  }));
+}

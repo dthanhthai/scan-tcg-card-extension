@@ -16,6 +16,7 @@ loadExtensionScripts(
   'lib/bulbapedia-index.js',
   'lib/bulbapedia-resolver.js',
   'lib/tcgplayer-linker.js',
+  'lib/listing-picker.js',
   'utils/card-lookup.js',
 );
 

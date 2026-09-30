@@ -8,6 +8,9 @@ export default defineConfig({
     include: ['tests/**/*.test.js'],
     environmentMatchGlobs: [
       ['tests/cardrush-extractor.test.js', 'jsdom'],
+      ['tests/collectr-extractor.test.js', 'jsdom'],
+      ['tests/pricecharting-chart-data.test.js', 'jsdom'],
+      ['tests/price-chart-mount.test.js', 'jsdom'],
     ],
   },
 });

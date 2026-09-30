@@ -13,6 +13,8 @@ importScripts(
   '../lib/gemini-vision.js',
   '../lib/exchange-rates.js',
   '../lib/tab-helper.js',
+  '../lib/bulbapedia-resolver.js',
+  '../lib/listing-picker.js',
   '../content-scripts/cardrush-extractor.js',
   '../lib/cardrush-scraper.js',
   '../content-scripts/pricecharting-extractor.js',
@@ -91,7 +93,7 @@ async function handleMessage(message) {
       return fetchCollectrPrice(payload.query);
 
     case MESSAGE_TYPES.FETCH_TCGPLAYER:
-      return fetchTcgplayerPrice(payload.query);
+      return fetchTcgplayerPrice(payload.query, payload.localId, payload.cardName);
 
     case MESSAGE_TYPES.FIND_JP_VERSION:
       return findJpVersion(payload.cardNameJp, payload.enDexId, payload.enLocalId, payload.enSetCode, payload.crossSetCode, payload.crossSetName, payload.enHp, payload.enRarity);

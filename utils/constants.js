@@ -10,6 +10,11 @@ const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/
 const PRICECHARTING_SEARCH_URL = 'https://www.pricecharting.com/search-products';
 const COLLECTR_SEARCH_URL = 'https://app.getcollectr.com';
 
+// A product can be sold under several printings and the price chart draws only
+// one line per marketplace, so the first of these the product actually has wins.
+// Shared by the TCGPlayer and Collectr normalizers, which must agree.
+const PRICE_CHART_PREFERRED_PRINTINGS = ['Normal', 'Holofoil', 'Reverse Holofoil'];
+
 // Maps TCGdex's human-readable rarity string to the short code CardRush uses
 // inside the "【XX】" part of a product name.
 const TCGDEX_TO_CARDRUSH_RARITY = {
@@ -62,6 +67,7 @@ const STORAGE_KEYS = {
   SET_LIST_CACHE: 'setListCache',
   EXCHANGE_RATES_CACHE: 'exchangeRatesCache',
   SNAPSHOT_DATA: 'snapshotData',
+  PRICE_CHART_PREFS: 'priceChartPrefs',
 };
 
 const MAX_SCAN_HISTORY = 10;

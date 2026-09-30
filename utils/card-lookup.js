@@ -293,7 +293,9 @@ async function lookupCardAndPrice(setCode, localId, cardNumberFull, rarityCodeIn
         .catch((err) => { console.error('[collectr] error:', err); progress('collectr', 'error'); return { success: false }; }),
       chrome.runtime.sendMessage({
         type: MESSAGE_TYPES.FETCH_TCGPLAYER,
-        payload: { query: enMarketQuery },
+        // The target goes along so the worker can enrich the printing this lookup
+        // will pick, not just the first search result.
+        payload: { query: enMarketQuery, localId: extractLocalIdFromNumber(enMarketTarget.number), cardName: enMarketTarget.name },
       }).then((res) => { progress('tcgplayer', 'done'); return res; })
         .catch((err) => { console.error('[tcgplayer] error:', err); progress('tcgplayer', 'error'); return { success: false }; }),
     ];
@@ -448,6 +450,8 @@ async function lookupCardAndPrice(setCode, localId, cardNumberFull, rarityCodeIn
       cardrushSearchUrl,
       cardrushCfChallenge,
       pricechartingListing,
+      pricechartingChartData: pricechartingListing && pricechartingListing.chartData
+        ? pricechartingListing.chartData : null,
       pricechartingAllListings: pricechartingRes.success ? pricechartingRes.data.listings.slice(0, 5) : [],
       pricechartingSearchUrl,
       pricechartingCfChallenge,
@@ -457,6 +461,8 @@ async function lookupCardAndPrice(setCode, localId, cardNumberFull, rarityCodeIn
       collectrSearchUrl,
       tcgplayerUrl,
       tcgplayerPrice,
+      tcgplayerChartData: tcgplayerScrapedListing && tcgplayerScrapedListing.chartData
+        ? tcgplayerScrapedListing.chartData : null,
       tcgplayerAllListings: tcgplayerRes.success ? tcgplayerRes.data.listings.slice(0, 5) : [],
       tcgplayerSearchUrl,
       resolvedCardName: englishCardName || null,
@@ -625,6 +631,8 @@ async function lookupCardAndPrice(setCode, localId, cardNumberFull, rarityCodeIn
     cardrushSearchUrl,
     cardrushCfChallenge,
     pricechartingListing,
+    pricechartingChartData: pricechartingListing && pricechartingListing.chartData
+      ? pricechartingListing.chartData : null,
     pricechartingAllListings: pricechartingRes.success ? pricechartingRes.data.listings.slice(0, 5) : [],
     pricechartingSearchUrl,
     pricechartingCfChallenge,
@@ -634,6 +642,8 @@ async function lookupCardAndPrice(setCode, localId, cardNumberFull, rarityCodeIn
     collectrSearchUrl,
     tcgplayerUrl,
     tcgplayerPrice,
+    tcgplayerChartData: tcgplayerScrapedListing && tcgplayerScrapedListing.chartData
+      ? tcgplayerScrapedListing.chartData : null,
     tcgplayerAllListings: tcgplayerRes.success ? tcgplayerRes.data.listings.slice(0, 5) : [],
     tcgplayerSearchUrl,
     jpVersion,
@@ -658,53 +668,6 @@ function extractTcgplayerPrice(card) {
 
   if (!variant || typeof variant.marketPrice !== 'number') return null;
   return { marketPrice: variant.marketPrice, lowPrice: variant.lowPrice, highPrice: variant.highPrice };
-}
-
-// Picks the listing that belongs to the printed card number, then the card
-// name, and only then the first listing. CardRush and Collectr listings carry a
-// parsed cardNumber ("212/187"), which is the only reliable number field: their
-// product name holds just the card name, so the old product-name/URL text match
-// never hit and every scan fell back to the first listing. Text patterns are
-// kept as a fallback for listings without a parsed number.
-//
-// The name is the next best signal when no number matches. CardRush's search is
-// fuzzy — a query for one printing returns every printing in the set (observed:
-// "S8b 110" returned 23 different numbers with 204/184 first) — so a card that
-// is sold out would otherwise show a different card's price.
-function pickListingByLocalId(listings, localId, cardName) {
-  if (!listings || listings.length === 0) return null;
-  if (listings.length === 1) return listings[0];
-  // Sources disagree on zero padding ("074" vs "74"), so numeric ids also
-  // compare as numbers and the text patterns are tried in both forms.
-  const numericLocalId = localId !== null && localId !== undefined && localId !== '' ? Number(localId) : NaN;
-  const isNumeric = Number.isFinite(numericLocalId);
-  const variants = isNumeric ? [String(localId), String(numericLocalId)] : [String(localId)];
-  const matchesLocalId = (listing) => {
-    const listingLocalId = listing.cardNumber ? listing.cardNumber.split('/')[0] : null;
-    if (listingLocalId === localId) return true;
-    if (listingLocalId && isNumeric && Number(listingLocalId) === numericLocalId) return true;
-    const text = `${listing.productName || ''} ${listing.productUrl || ''}`;
-    return variants.some((variant) => text.includes(`#${variant}`) || text.includes(` ${variant} `) || text.includes(`-${variant}`) || text.includes(`/${variant}`) || text.includes(`${variant}/`));
-  };
-  const wantedName = typeof normalizeBulbapediaCardName === 'function' ? normalizeBulbapediaCardName(cardName) : null;
-  const matchesCardName = (listing) => {
-    if (!wantedName) return false;
-    const listingName = normalizeBulbapediaCardName(listing.productName);
-    if (!listingName) return false;
-    return listingName === wantedName || (wantedName.length >= 4 && listingName.includes(wantedName));
-  };
-  const ranked = listings.map((listing, index) => ({
-    listing,
-    index,
-    matchesNumber: Boolean(localId) && matchesLocalId(listing),
-    matchesName: matchesCardName(listing),
-  }));
-  const best = ranked
-    .filter((entry) => entry.matchesNumber || entry.matchesName)
-    .sort((a, b) => (Number(b.matchesNumber) - Number(a.matchesNumber))
-      || (Number(b.matchesName) - Number(a.matchesName))
-      || (a.index - b.index))[0];
-  return best ? best.listing : listings[0];
 }
 
 // The number the English marketplaces search on. An English counterpart — the
@@ -795,6 +758,33 @@ function scrollIntoViewIfPossible(element, block = 'start') {
  * @param {HTMLElement} container
  * @param {object} result - the object returned by lookupCardAndPrice()
  */
+/**
+ * Builds the chart series for a lookup result. Shared by the main result and the
+ * cross-version results so all of them show the same sources.
+ *
+ * It also logs what the chart actually received, after the marketplace responses
+ * crossed the message boundary and a listing was picked: the scrapers log what they
+ * sent, this is the other end.
+ *
+ * @param {object} result - a result from lookupCardAndPrice()
+ * @param {string} label - which block asked, for the log
+ * @returns {{key: string, label: string, color: string, points: number[][]}[]}
+ */
+function buildResultChartSeries(result, label) {
+  const series = buildPriceChartSeries(
+    result.pricechartingChartData,
+    result.tcgplayerChartData,
+    result.collectrListing ? result.collectrListing.chartData : null,
+  );
+  console.log(`[chart] ${label} series:`, series.map((entry) => {
+    const day = (ms) => new Date(ms).toISOString().slice(0, 10);
+    const first = entry.points[0];
+    const last = entry.points[entry.points.length - 1];
+    return `${entry.key} ${entry.points.length}pts ${day(first[0])}..${day(last[0])} $${(first[1] / 100).toFixed(2)}..$${(last[1] / 100).toFixed(2)}`;
+  }).join(' | ') || 'none');
+  return series;
+}
+
 async function renderCardResult(container, result) {
   const { card, rarityCode, cardNumber, language, setCode } = result;
   const imageUrl = card && card.image ? `${card.image}/high.webp` : '';
@@ -808,6 +798,8 @@ async function renderCardResult(container, result) {
   console.log('[card-lookup] rates used for conversion:', rates);
 
   const sourcesHtml = renderAllPriceSources(result, rates);
+  const chartSeries = buildResultChartSeries(result, 'main');
+  const priceHistoryHtml = renderPriceHistorySection(chartSeries, cardName);
   const crossVersionProvenance = resolveCrossVersionProvenance(result);
   const crossVersionBadge = renderCrossVersionBadge(crossVersionProvenance);
 
@@ -876,6 +868,7 @@ async function renderCardResult(container, result) {
           <div class="result-meta">${setId} - ${cardNumber} [${rarityCode || '-'}]${setName ? ` &middot; ${setName}` : ''}</div>
         </div>
       </div>
+      ${priceHistoryHtml}
       <div class="price-sources">${sourcesHtml}</div>
     </div>
   `;
@@ -891,6 +884,9 @@ async function renderCardResult(container, result) {
   }
 
   container.classList.remove('hidden');
+
+  // Mounted after the area is visible: the canvas takes its size from its CSS box.
+  await mountPriceHistoryChart(container, chartSeries);
 
   // The result renders below the capture/OCR sections, so bring it into view.
   scrollIntoViewIfPossible(container);
@@ -970,8 +966,13 @@ async function renderCardResult(container, result) {
       const ratesRes = await sendMessageSafely({ type: MESSAGE_TYPES.FETCH_EXCHANGE_RATES });
       const rates = ratesRes.success ? ratesRes.data : null;
       const crossSourcesHtml = renderAllPriceSources(crossResult, rates);
+      const crossChartSeries = buildResultChartSeries(crossResult, 'cross-version');
+      const crossCardName = crossResult.card ? crossResult.card.name : cardName;
       resultEl.classList.remove('hidden');
-      resultEl.innerHTML = `<div class="price-sources">${crossSourcesHtml}</div>`;
+      // Same order as the main result: the chart sits between the card and the
+      // marketplaces.
+      resultEl.innerHTML = `${renderPriceHistorySection(crossChartSeries, crossCardName)}<div class="price-sources">${crossSourcesHtml}</div>`;
+      await mountPriceHistoryChart(resultEl, crossChartSeries);
       scrollIntoViewIfPossible(resultEl, 'nearest');
       // Attach thumbnail click handlers in cross-version result
       resultEl.querySelectorAll('.card-thumb-small, .alt-thumb').forEach((t) => {

@@ -5,7 +5,7 @@ import { resetChromeStorage, setMessageHandler } from './chrome-mock.js';
 // Load constants.js + storage.js + tcgplayer-linker.js + bulbapedia-resolver.js + card-lookup.js
 // into global scope. The resolver provides normalizeBulbapediaCardName, which the
 // listing selection reuses to compare card names.
-loadExtensionScripts('utils/storage.js', 'lib/tcgplayer-linker.js', 'lib/bulbapedia-resolver.js', 'utils/card-lookup.js');
+loadExtensionScripts('utils/storage.js', 'lib/tcgplayer-linker.js', 'lib/bulbapedia-resolver.js', 'lib/listing-picker.js', 'utils/card-lookup.js');
 
 describe('validateCrossVersionMatch', () => {
   describe('dexId matching', () => {

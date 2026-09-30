@@ -191,7 +191,9 @@ function resetCaptureStage() {
 }
 
 async function processCapturedCanvas(fullCanvas) {
-  showStatus('<span class="loading-spinner" aria-hidden="true"></span> Gemini loading...');
+  // Same hourglass character and running style as the lookup progress steps
+  // (PROGRESS_ICONS.running in utils/card-lookup.js).
+  showStatus('<span class="loading-hourglass" aria-hidden="true">&#8987;</span>Gemini loading...');
 
   const qualityLevel = await getImageQualitySetting();
   const maxSize = IMAGE_QUALITY_MAX_SIZE[qualityLevel] || 1024;

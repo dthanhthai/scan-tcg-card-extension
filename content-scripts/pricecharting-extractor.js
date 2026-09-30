@@ -215,6 +215,51 @@ async function extractPricechartingDetailSales() {
   const tab = document.querySelector(`#tab-bar .tab.${PANEL_CLASS}`);
   if (tab) tab.click();
 
+  // PriceCharting embeds its chart series in an inline <script> as
+  // "VGPC.chart_data = { <series>: [[timestamp_ms, price_cents], ...] }".
+  // This injected function runs in the ISOLATED world, where the page's own
+  // globals (window.VGPC) are NOT visible, so the script text has to be read
+  // from the shared DOM. Returns the raw object — the series keys differ by
+  // category (games use loose/cib/new, cards use other keys) — and
+  // lib/pricecharting-scraper.js normalizes it. Null when absent/unparseable.
+  function readChartData() {
+    for (const script of document.querySelectorAll('script:not([src])')) {
+      const text = script.textContent || '';
+      const marker = text.indexOf('VGPC.chart_data');
+      if (marker === -1) continue;
+      const start = text.indexOf('{', marker);
+      if (start === -1) continue;
+      let depth = 0;
+      let end = -1;
+      let inString = false;
+      let escaped = false;
+      for (let i = start; i < text.length; i++) {
+        const ch = text[i];
+        if (inString) {
+          if (escaped) escaped = false;
+          else if (ch === '\\') escaped = true;
+          else if (ch === '"') inString = false;
+          continue;
+        }
+        if (ch === '"') inString = true;
+        else if (ch === '{') depth++;
+        else if (ch === '}') {
+          depth--;
+          if (depth === 0) { end = i + 1; break; }
+        }
+      }
+      if (end === -1) continue;
+      try {
+        return JSON.parse(text.slice(start, end));
+      } catch (err) {
+        return null;
+      }
+    }
+    return null;
+  }
+
+  const chartData = readChartData();
+
   // Parse standard grade prices from the detail page header cells.
   function parseCellPrice(selector) {
     const cell = document.querySelector(selector);
@@ -244,7 +289,7 @@ async function extractPricechartingDetailSales() {
   }
 
   if (!panel || !saleTable) {
-    return { recentSalePrice: null, recentSaleDate: null, grade9Price, grade10Price };
+    return { recentSalePrice: null, recentSaleDate: null, grade9Price, grade10Price, chartData };
   }
 
   let recentSalePrice = null;
@@ -295,5 +340,5 @@ async function extractPricechartingDetailSales() {
     }
   }
   console.log('[pricecharting] detail image:', { imageUrl });
-  return { recentSalePrice, recentSaleDate, grade9Price, grade10Price, imageUrl };
+  return { recentSalePrice, recentSaleDate, grade9Price, grade10Price, imageUrl, chartData };
 }

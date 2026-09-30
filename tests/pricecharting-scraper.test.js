@@ -100,3 +100,48 @@ describe('normalizePricechartingText', () => {
     expect(normalizePricechartingText(null)).toBe('');
   });
 });
+
+describe('normalizePricechartingChartData', () => {
+  it('keeps valid [timestamp, cents] series and passes the keys through', () => {
+    // Cards key the Ungraded series differently from games ("used" vs "loose"),
+    // so the key must survive untouched.
+    const raw = {
+      loose: [[1700000000000, 1234], [1702678400000, 1500]],
+      used: [[1700000000000, 999]],
+    };
+    expect(normalizePricechartingChartData(raw)).toEqual(raw);
+  });
+
+  it('drops series that are not arrays or that hold no valid pair', () => {
+    const raw = {
+      loose: [[1700000000000, 1234]],
+      cib: 'n/a',
+      new: [],
+      graded: [[1700000000000, null], [1702678400000], ['x', 5]],
+    };
+    expect(normalizePricechartingChartData(raw)).toEqual({ loose: [[1700000000000, 1234]] });
+  });
+
+  it('drops zero prices, which PriceCharting uses for months with no sales', () => {
+    // Its own chart starts on a zero; keeping it pulls the line to the floor and
+    // squashes the other sources into the top of the axis.
+    const raw = {
+      used: [[1700000000000, 0], [1702678400000, 23100], [1705356800000, 0], [1707948800000, 24500]],
+    };
+    expect(normalizePricechartingChartData(raw)).toEqual({
+      used: [[1702678400000, 23100], [1707948800000, 24500]],
+    });
+  });
+
+  it('returns null when every point is a zero', () => {
+    expect(normalizePricechartingChartData({ used: [[1700000000000, 0]] })).toBeNull();
+  });
+
+  it('returns null when there is nothing usable', () => {
+    expect(normalizePricechartingChartData(null)).toBeNull();
+    expect(normalizePricechartingChartData(undefined)).toBeNull();
+    expect(normalizePricechartingChartData('VGPC')).toBeNull();
+    expect(normalizePricechartingChartData({})).toBeNull();
+    expect(normalizePricechartingChartData({ loose: [], cib: 'x' })).toBeNull();
+  });
+});
